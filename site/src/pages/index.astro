@@ -90,26 +90,17 @@ import Layout from '../layouts/Layout.astro';
     
     async function loadData() {
         try {
-            // Load all chapter JSON files
-            const chapters = [];
             const basePath = '/sssr';
-            for (let i = 1; i <= 404; i++) {
-                try {
-                    const response = await fetch(`${basePath}/data/chapter-${String(i).padStart(3, '0')}.json`);
-                    if (response.ok) {
-                        const data = await response.json();
-                        chapters.push(data);
-                    }
-                } catch (e) {
-                    console.warn(`Failed to load chapter ${i}:`, e);
-                }
+            const response = await fetch(`${basePath}/data/all-chapters.json`);
+            if (!response.ok) {
+                throw new Error(`HTTP error! status: ${response.status}`);
             }
-            
-            chapterData = chapters;
+            chapterData = await response.json();
             updateStats();
             renderBranchTimeline();
         } catch (error) {
             console.error('Error loading data:', error);
+            document.getElementById('branch-timeline').innerHTML = '<p class="loading">Error loading data. Please try again later.</p>';
         }
     }
     
