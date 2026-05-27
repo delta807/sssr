@@ -1,0 +1,598 @@
+{
+  "batch": 8,
+  "chapters": [
+    {
+      "chapter": 106,
+      "characters": [
+        "Death King (Kim Gongja)",
+        "Lady of the Silver Lily (Raviel Ivansia)",
+        "Heretic Questioner (as Lady of Golden Silk)",
+        "Crown Prince",
+        "Bae Hu-ryeong"
+      ],
+      "events": [
+        "Gongja officially chooses to stay with Lady of Silver Lily",
+        "Lady of Silver Lily reveals she has tried 14 times (140 days) to set the prince straight",
+        "She explains the regression problem: whoever dies first regresses first, causing memory loss for the other",
+        "Gongja proposes they die together to synchronize their regressions",
+        "Lady of Silver Lily agrees to fake-date Gongja to spite the prince",
+        "Gongja calls her by name: Raviel Ivansia",
+        "Immersion rate reaches 50%"
+      ],
+      "locations": [
+        "Lady of Silver Lily's garden (night)",
+        "Ivansia carriage"
+      ],
+      "skills": [],
+      "deaths": [],
+      "loops": [],
+      "cause_effect": [
+        "Parallel regression lines cannot meet unless they die simultaneously",
+        "The fake relationship is agreed upon for mutual benefit and spite",
+        "Gongja's confession of being a regressor creates a bond between them",
+        "The prince's abandonment of Raviel makes her willing to try a different path"
+      ],
+      "notes": "Raviel calls Gongja by his real name for the first time. The chapter establishes the central problem of the arc: how to synchronize two different regression timelines."
+    },
+    {
+      "chapter": 107,
+      "characters": [
+        "Death King (Kim Gongja)",
+        "Lady of the Silver Lily (Raviel Ivansia)",
+        "Bae Hu-ryeong",
+        "Shiny (Holy Sword)"
+      ],
+      "events": [
+        "Gongja checks his status: 6 skills including Infernal Heavens Demonic Art (A+)",
+        "He sees his character window: Favorability 90, loves [Justice Prevails, Friendship, Love]",
+        "He sets Maginot Line at 99% immersion - Bae Hu-ryeong must stop him if he approaches",
+        "Lady of Silver Lily is sick in bed - always been infirm, worse after heart was stabbed",
+        "Gongja makes her honey tea and gives her rest",
+        "He kills blood demons every night to let her rest",
+        "On the 10th day, the world ends with blood and demon invasion",
+        "Gongja proposes they die together with aura explosions"
+      ],
+      "locations": [
+        "Lady of Silver Lily's quarters",
+        "Sormwyn Academy lake",
+        "Boat on the lake"
+      ],
+      "skills": [
+        "Infernal Heavens Demonic Art",
+        "Returner's Clockwork Watch",
+        "Character Window"
+      ],
+      "deaths": [
+        "Death King and Lady of Silver Lily (simultaneous suicide by aura explosion)",
+        "Academy students (killed by blood demons)",
+        "Apostles from other worlds invade"
+      ],
+      "loops": [
+        "Both regress - but Lady of Silver Lily goes back 9 days before Gongja"
+      ],
+      "cause_effect": [
+        "Gongja's strategy: simultaneous death should synchronize their timelines",
+        "The Lady of Silver Lily's 10-day cycle and Gongja's 24-hour cycle create a timing mismatch",
+        "Rest and care reduce her burden and build their relationship",
+        "The demons grow stronger each night until the world ends on day 10"
+      ],
+      "notes": "The 10th day is the world's end. Other Constellations' apostles appear: The Ox that Harvests Ruins, The Warhorse of the Eternal Plains, The Evangelist of Everlasting Happiness."
+    },
+    {
+      "chapter": 108,
+      "characters": [
+        "Death King (Kim Gongja)",
+        "Lady of the Silver Lily (Raviel Ivansia)",
+        "Bae Hu-ryeong",
+        "Heretic Questioner (as Lady of Golden Silk)"
+      ],
+      "events": [
+        "Gongja wakes up 9 days after Raviel - she has been waiting",
+        "They successfully synchronized their first joint regression",
+        "Raviel punishes Gongja for making her wait by making him serve tea",
+        "They hug and kiss - immersion rises to 71%",
+        "Gongja proposes they repeat this 9 more times to get closer to Day One",
+        "They die and regress together multiple times, each time getting closer",
+        "They finally reach Day One - the ballroom where they first met",
+        "They kiss publicly in the ballroom, shocking everyone"
+      ],
+      "locations": [
+        "Shade of white tree (evening)",
+        "Lady of Silver Lily's quarters",
+        "Sormwyn Academy ballroom (Day One)"
+      ],
+      "skills": [
+        "Infernal Heavens Demonic Art - 9th form: Sword of Suicide",
+        "Returner's Clockwork Watch"
+      ],
+      "deaths": [
+        "Death King and Lady of Silver Lily (multiple simultaneous deaths)",
+        "Various demon victims during the 10-day cycles"
+      ],
+      "loops": [
+        "Multiple synchronized regressions: 9 days, 8 days, 7 days... down to Day One",
+        "Final regression to Day One in the ballroom"
+      ],
+      "cause_effect": [
+        "Each synchronized death brings them closer to the starting point",
+        "The time gap between their regressions narrows with practice",
+        "Physical intimacy accelerates the synchronization process",
+        "Reaching Day One allows them to change the foundation of their relationship"
+      ],
+      "notes": "The chapter uses a montage format for the multiple loops. Gongja jokes about their names: Gongja (Confucius) and Gong-nyeo (noble lady) are a match. Heretic Questioner's immersion decreases as they approach Day One."
+    },
+    {
+      "chapter": 109,
+      "characters": [
+        "Death King (Kim Gongja)",
+        "Lady of the Silver Lily (Raviel Ivansia)",
+        "Heretic Questioner",
+        "Crown Prince",
+        "Bae Hu-ryeong",
+        "Shiny (Holy Sword)"
+      ],
+      "events": [
+        "Gongja and Raviel kiss in the ballroom in front of everyone",
+        "Raviel submits withdrawal request from academy and breaks engagement with prince",
+        "Crown prince is shocked and unable to respond",
+        "Heretic Questioner tries to stop them but is dismissed",
+        "Gongja and Raviel leave the academy in a carriage",
+        "Raviel threatens to kill Gongja if he betrays her",
+        "She demands he never kill himself without permission",
+        "They confess their love and become official lovers",
+        "Gongja reveals Hundred Ghosts Reincarnation skill and promises not to use it on her"
+      ],
+      "locations": [
+        "Sormwyn Academy ballroom",
+        "Carriage leaving academy"
+      ],
+      "skills": [
+        "Hundred Ghosts Reincarnation (revealed to Raviel)",
+        "Infernal Heavens Demonic Art"
+      ],
+      "deaths": [],
+      "loops": [],
+      "cause_effect": [
+        "Publicly breaking the engagement forces the prince's hand",
+        "Raviel's threats show her fear of abandonment and love",
+        "The promises they make create binding rules for their relationship",
+        "Gongja's revelation of his skill shows complete trust"
+      ],
+      "notes": "Raviel is called 'Husband' (婦君 - female ruler) and Gongja is called 'Wife' (夫人). This is a reversal of traditional roles. The chapter establishes their relationship rules."
+    },
+    {
+      "chapter": 110,
+      "characters": [
+        "Death King (Kim Gongja)",
+        "Lady of the Silver Lily (Raviel Ivansia)",
+        "Heretic Questioner"
+      ],
+      "events": [
+        "Gongja suggests a 10-day vacation before the world ends",
+        "Raviel suggests 15 days instead",
+        "They hire six theater groups simultaneously to create chaos",
+        "They clean out gambling houses and scatter gold in streets",
+        "They bribe guards to empty streets and cause mischief",
+        "Raviel smiles genuinely for the first time on the 3rd day",
+        "Gongja's immersion rises to 81%",
+        "Gongja reveals his plan: push immersion to 99% and exploit a loophole"
+      ],
+      "locations": [
+        "Capital city theater",
+        "Noble casino",
+        "City streets",
+        "Palace",
+        "Upscale inn",
+        "City square fountain"
+      ],
+      "skills": [],
+      "deaths": [],
+      "loops": [
+        "They regress each day to repeat their vacation",
+        "15 days of vacation through daily regressions"
+      ],
+      "cause_effect": [
+        "The vacation allows them to vent stress from their past lives",
+        "Raviel's genuine smile shows she is healing from her trauma",
+        "Gongja's plan requires complete trust from Raviel",
+        "The 99% immersion strategy is kept secret from everyone including Bae Hu-ryeong"
+      ],
+      "notes": "The chapter is lighthearted and shows their compatibility. Raviel enjoys causing chaos. They act like 'vicious bitches' together. The final day they sit quietly at a fountain."
+    },
+    {
+      "chapter": 111,
+      "characters": [
+        "Death King (Kim Gongja)",
+        "Lady of the Silver Lily (Raviel Ivansia)",
+        "Bae Hu-ryeong",
+        "Shiny (Holy Sword)"
+      ],
+      "events": [
+        "Gongja explains the 99% immersion plan to Raviel",
+        "He realizes that skills remain even at high immersion - Heretic Questioner kept his transformation",
+        "Plan: Become 99% immersed as the butler, then regress from butler's perspective",
+        "This would take him back to before Raviel stabbed the mirror",
+        "Raviel agrees despite knowing she won't remember him",
+        "Gongja asks her to kill him at 99% immersion",
+        "She kisses him and immersion rises to 83%",
+        "The final run begins"
+      ],
+      "locations": [
+        "Lady of Silver Lily's quarters",
+        "Sormwyn Academy (Day One)"
+      ],
+      "skills": [
+        "Returner's Clockwork Watch (loophole exploitation)"
+      ],
+      "deaths": [],
+      "loops": [
+        "Final planned regression from butler's perspective"
+      ],
+      "cause_effect": [
+        "At 99% immersion, the 'owner' of the body is the butler, not Gongja",
+        "The skill belongs to the body, so the butler would inherit the regression",
+        "Regressing from butler's perspective means going back before the 10-day loop began",
+        "Raviel agrees to trust Gongja despite not understanding the full plan"
+      ],
+      "notes": "The strategy exploits the Tower's system error regarding skill ownership at high immersion. Raviel says: 'I've become your first bitch of a lover, and you'll be my last.'"
+    },
+    {
+      "chapter": 112,
+      "characters": [
+        "Death King (Kim Gongja)",
+        "Lady of the Silver Lily (Raviel Ivansia)",
+        "Tower Master",
+        "Six Pillars of Manseng"
+      ],
+      "events": [
+        "Gongja's immersion rises: 85%, 87%, 88%, 89%, 90%",
+        "His memories begin disappearing - orphanage, Bae Hu-ryeong, Shiny",
+        "At 90%: Memories flood in, his existence weakens",
+        "At 95%: He forgets his own identity",
+        "At 99%: He becomes the butler completely",
+        "Raviel kills him with a rapier through the heart",
+        "She kisses him as he dies",
+        "Tower system error: 'Owner of skill different from user of skill'",
+        "Gongja is summoned before the Six Pillars of Manseng",
+        "Tower Master convenes meeting to judge the error"
+      ],
+      "locations": [
+        "Lady of Silver Lily's quarters (with mirror)",
+        "Void/Tower judgment space"
+      ],
+      "skills": [
+        "Returner's Clockwork Watch (error state)",
+        "Tower judgment protocol"
+      ],
+      "deaths": [
+        "Death King (killed by Lady of Silver Lily at 99% immersion)"
+      ],
+      "loops": [
+        "Failed judgment: System cannot determine which timeline to regress to"
+      ],
+      "cause_effect": [
+        "High immersion causes memory overwrite by character",
+        "Raviel's killing of Gongja is part of the plan",
+        "The Tower encounters an unprecedented error",
+        "The Six Pillars are the administrators who must decide the outcome"
+      ],
+      "notes": "The chapter is emotionally intense as Gongja loses himself. Raviel's tears show her pain. The Tower refers to him as 'temporary apostle of Hamustra.' The Six Pillars: The Wand of Ages, The Lady Who Walks In The Mirage, The Moon Contemplating Blindness, The One Who Wrote The Beginning, The God Who Dances In The Void, and the Tower Master."
+    },
+    {
+      "chapter": 113,
+      "characters": [
+        "Death King (Kim Gongja)",
+        "Lady of the Silver Lily (Raviel Ivansia)",
+        "Tower Master",
+        "Six Pillars of Manseng"
+      ],
+      "events": [
+        "Tower Master asks Gongja to explain his actions",
+        "Gongja argues that the error is the Tower's fault, not his",
+        "He demands compensation and reward for discovering the error",
+        "He praises the Tower for being kind and wishing luck to climbers",
+        "The Tower Master is amused by his audacity",
+        "The Lady Who Walks In The Mirage and others show goodwill",
+        "Tower Master agrees to his request",
+        "Gongja asks for two things: regression from butler's perspective, and retention of Raviel's memories",
+        "Tower grants both requests"
+      ],
+      "locations": [
+        "Tower judgment space (void)"
+      ],
+      "skills": [
+        "Tower authority (judgment and compensation)"
+      ],
+      "deaths": [],
+      "loops": [],
+      "cause_effect": [
+        "Gongja's argument: The Tower is at fault for the system error",
+        "His flattery of the Tower's kindness softens their stance",
+        "The reward system exists for those who find loopholes",
+        "Retaining Raviel's memories ensures their relationship survives the reset"
+      ],
+      "notes": "The Tower Master refers to themselves as 'lowly self' and speaks politely. The Tower is revealed to be a haven for the lonely and a well-wisher for climbers. Gongja's silver tongue successfully negotiates with god-like beings."
+    },
+    {
+      "chapter": 114,
+      "characters": [
+        "Lady of the Silver Lily (Raviel Ivansia)",
+        "Crown Prince"
+      ],
+      "events": [
+        "Extra chapter showing Raviel's perspective",
+        "Raviel ties up crown prince for 'remedial lessons'",
+        "Lesson 1: Only a scumbag cheats on his fiancee",
+        "She blackmails him with compromising photos",
+        "Gives photos to Lady of Golden Silk to create scandal",
+        "She waits for Gongja's regression for 6 days",
+        "Plays with 'Gongja 3' (current timeline version) while waiting",
+        "The real trauma: killing Gongja and waiting for his return",
+        "She wills herself to make the moment of his death her trauma"
+      ],
+      "locations": [
+        "Crown Prince's room",
+        "Lady of Golden Silk's dormitory",
+        "Lady of Silver Lily's quarters"
+      ],
+      "skills": [],
+      "deaths": [
+        "Gongja (from Raviel's perspective, killing him)",
+        "Ganja plant (overwatered by Raviel, nearly becomes her trauma)"
+      ],
+      "loops": [
+        "Raviel's 14th session of 10-day loops"
+      ],
+      "cause_effect": [
+        "Raviel takes proactive steps to change the timeline",
+        "Blackmailing the prince weakens his position",
+        "She deliberately embeds the killing as her trauma so Gongja will see her memories",
+        "The trauma becomes a message to the future Gongja"
+      ],
+      "notes": "This is an extra chapter (109.1) showing Raviel's side. Her love for Gongja drives her to extreme measures. The 'Ganja plant' death is a humorous moment showing her stress."
+    },
+    {
+      "chapter": 115,
+      "characters": [
+        "Death King (Kim Gongja)",
+        "Lady of the Silver Lily (Raviel Ivansia)"
+      ],
+      "events": [
+        "Raviel's perspective: killing Gongja to make it her trauma",
+        "She forces herself to feel the pain of losing him",
+        "She deliberately deepens the wound by imagining worst-case scenarios",
+        "Trauma reenactment complete - penalty is Hungry Ghost Road",
+        "Gongja's perspective: crying without knowing why",
+        "He finds himself walking to Raviel's mansion",
+        "Raviel waits for him - 'Today is the second'",
+        "She shows him a golden card: [A Regressor's Love]",
+        "The card synchronizes their timelines permanently",
+        "They reunite and confess their love"
+      ],
+      "locations": [
+        "Lady of Silver Lily's quarters",
+        "Raviel's mansion hallway (with mirror)"
+      ],
+      "skills": [
+        "[A Regressor's Love] - EX Rank skill that synchronizes regression timelines",
+        "Trauma reenactment (penalty: Hungry Ghost Road)"
+      ],
+      "deaths": [
+        "Death King (from trauma reenactment, multiple times in the vision)"
+      ],
+      "loops": [
+        "Gongja regresses to 24 hours ago from butler's perspective",
+        "Raviel retains memories through the [A Regressor's Love] skill"
+      ],
+      "cause_effect": [
+        "Raviel's trauma becomes a message that survives the timeline reset",
+        "The EX skill [A Regressor's Love] is the reward from the Tower",
+        "Synchronized regression allows them to share the same timeline",
+        "Gongja's tears are his subconscious remembering her"
+      ],
+      "notes": "The [A Regressor's Love] card: 'For a regressor, love is like poison. No matter how much you struggle, you can't share your time with the one you love. Thus, a certain regressor begged, \"Please retain my lover's memories.\" That wish reached the Tower and came true.'"
+    },
+    {
+      "chapter": 116,
+      "characters": [
+        "Death King (Kim Gongja)",
+        "Lady of the Silver Lily (Raviel Ivansia)",
+        "Bae Hu-ryeong",
+        "Shiny (Holy Sword)"
+      ],
+      "events": [
+        "Gongja and Raviel reunite and kiss",
+        "Gongja proposes marriage",
+        "Raviel accepts and reveals her full name and titles",
+        "They plan to break engagement with prince and marry in one month",
+        "Raviel becomes Duchess of Ivansia by confining her father",
+        "She arranges for Gongja to be adopted by grand chamberlain",
+        "Gongja becomes Duke Consort of Ivansia",
+        "They establish relationship rules and promises"
+      ],
+      "locations": [
+        "Lady of Silver Lily's quarters",
+        "Carriage",
+        "Ivansia ducal residence"
+      ],
+      "skills": [],
+      "deaths": [],
+      "loops": [],
+      "cause_effect": [
+        "Marriage requires political maneuvering due to Raviel's status",
+        "Becoming duchess gives Raviel power to marry whomever she chooses",
+        "Gongja's adoption elevates his status to match hers",
+        "Their love becomes official and recognized by the empire"
+      ],
+      "notes": "Raviel calls Gongja 'Wife' (夫人) and Gongja calls her 'Husband' (婦君 - female ruler). Raviel says if citizens don't recognize Gongja, she will kill them."
+    },
+    {
+      "chapter": 117,
+      "characters": [
+        "Death King (Kim Gongja)",
+        "Lady of the Silver Lily (Raviel Ivansia)",
+        "Heretic Questioner",
+        "Crown Prince",
+        "Lady of the Golden Silk (Sylvia Evanail)"
+      ],
+      "events": [
+        "Gongja tells Lady of Golden Silk he is marrying Raviel",
+        "She thinks it's a joke and stamps permission document",
+        "Raviel arrives with wedding invitation",
+        "Lady of Golden Silk is shocked - the Heretic Questioner is 90% immersed",
+        "Gongja and Raviel leave together affectionately",
+        "Raviel reveals she detained her father and became duchess",
+        "She arranges Gongja's adoption papers",
+        "Servants break jug and prostrate before Gongja",
+        "Gongja forgives them by making them wear the broken piece as necklace"
+      ],
+      "locations": [
+        "Lady of Golden Silk's room",
+        "Ivansia ducal residence",
+        "Academy hallway"
+      ],
+      "skills": [],
+      "deaths": [],
+      "loops": [],
+      "cause_effect": [
+        "The Lady of Golden Silk's disbelief shows the social gap between baron and duke",
+        "Raviel's political maneuvering is swift and ruthless",
+        "Gongja's handling of the servant incident shows wisdom",
+        "The broken jug necklace becomes a symbol of self-reflection"
+      ],
+      "notes": "The Heretic Questioner is still immersed as Lady of Golden Silk but shows moments of clarity. Raviel's power is absolute - even academy teachers bow to Gongja as consort."
+    },
+    {
+      "chapter": 118,
+      "characters": [
+        "Death King (Kim Gongja)",
+        "Lady of the Silver Lily (Raviel Ivansia)",
+        "Heretic Questioner",
+        "Bae Hu-ryeong",
+        "Shiny (Holy Sword)"
+      ],
+      "events": [
+        "Heretic Questioner explains Constellation laws and sanctuaries",
+        "Demonstrates Barbit's sanctuary (romantic comedy effects)",
+        "Identifies three attacking Constellations: Mutia, Mahos, and unknown",
+        "Guardian Goddess is revealed as Hwiya (Protection and Immortality)",
+        "Raviel and Heretic Questioner plan wedding security",
+        "Gongja trains to improve his fighting ability",
+        "Ten days pass quickly",
+        "Wedding day arrives - guests assemble"
+      ],
+      "locations": [
+        "Ivansia ducal residence",
+        "Wedding planning room"
+      ],
+      "skills": [
+        "Ten Thousand Temple (Heretic Questioner)",
+        "Sacred Technique: Psyche (creates sanctuaries)",
+        "Sacred Technique: Divine Transmission (teleportation)",
+        "Hundred Ghosts Reincarnation"
+      ],
+      "deaths": [],
+      "loops": [],
+      "cause_effect": [
+        "Understanding Constellation laws is key to defeating apostles",
+        "Physical attacks work on physical bodies regardless of world",
+        "Each apostle has different strengths: 1v1, army, mental",
+        "The wedding is set as the battleground"
+      ],
+      "notes": "Heretic Questioner explains that Earth (physics-based) is actually weak compared to other worlds. The wedding will be held on the day the world originally ended."
+    },
+    {
+      "chapter": 119,
+      "characters": [
+        "Death King (Kim Gongja)",
+        "Lady of the Silver Lily (Raviel Ivansia)",
+        "Heretic Questioner (as Lady of Golden Silk)",
+        "Crown Prince",
+        "Apostle of Ox that Harvests Ruins (Lady of Golden Silk's noumenon)",
+        "Apostle of Warhorse of the Eternal Plains (general on pegasus)",
+        "Apostle of Evangelist of Everlasting Happiness (singing children)"
+      ],
+      "events": [
+        "Wedding hall attacked by three apostles",
+        "Golden Silk apostle has invulnerable body (99.9% damage reduction)",
+        "Warhorse apostle summons 10,000 ghost soldiers",
+        "Happiness apostle forces people into happy memories (psychological attack)",
+        "Raviel organizes defense with special operatives and knights",
+        "Heretic Questioner analyzes apostle abilities",
+        "Grand Chamberlain (adoptive father) is killed by Golden Silk apostle",
+        "Gongja asks Raviel's permission to die - she grants it",
+        "They die together by hammer strike, maintaining hand-hold for synchronized regression"
+      ],
+      "locations": [
+        "Wedding hall (outdoor venue)"
+      ],
+      "skills": [
+        "Compassion Sword (inflicts pain without wounds)",
+        "Sacred Technique: Divine Transmission",
+        "Infernal Heavens Demonic Art",
+        "Hundred Ghosts Reincarnation"
+      ],
+      "deaths": [
+        "Grand Chamberlain (adoptive father, head crushed)",
+        "Multiple wedding guests (killed by ghosts and hammer)",
+        "Death King (crushed by hammer)",
+        "Lady of Silver Lily (crushed by hammer)",
+        "Many warriors and special operatives"
+      ],
+      "loops": [
+        "Synchronized death and regression back 24 hours"
+      ],
+      "cause_effect": [
+        "The apostles' combined abilities create an impossible situation",
+        "The invulnerable body cannot be damaged by normal means",
+        "The army of ghosts overwhelms their forces",
+        "The psychological attack incapacitates most defenders",
+        "Synchronized death allows them to retry with foreknowledge"
+      ],
+      "notes": "The wedding dress code: Raviel wears black (family head) and Gongja wears white (consort). The Golden Silk apostle is the 'noumenon' - the Lady of Golden Silk's soul given entirely to the Constellation."
+    },
+    {
+      "chapter": 120,
+      "characters": [
+        "Death King (Kim Gongja)",
+        "Lady of the Silver Lily (Raviel Ivansia)",
+        "Heretic Questioner",
+        "Lady of the Golden Silk (Sylvia Evanail)"
+      ],
+      "events": [
+        "Gongja and Raviel wake up holding hands 24 hours before wedding",
+        "They plan new strategy with foreknowledge of apostle positions",
+        "Heretic Questioner explains happiness apostle's danger",
+        "Gongja requests to wear black instead of white",
+        "They rearrange wedding seating: fighters in front, nobles in back",
+        "Heretic Questioner uses Sacred Technique: Divine Transmission to teleport",
+        "Gongja attacks Golden Silk apostle from behind in the sky",
+        "He uses Compassion Sword to inflict pain despite invulnerable body",
+        "Golden Silk apostle screams and falls",
+        "Gongja summons Preta and Hundred Ghosts to counter the ghost army"
+      ],
+      "locations": [
+        "Wedding hall (day before and wedding day)",
+        "Sky above wedding hall"
+      ],
+      "skills": [
+        "Compassion Sword (pain without wounds)",
+        "Sacred Technique: Divine Transmission (teleportation)",
+        "Hundred Ghosts Reincarnation (summons Preta and cult members)",
+        "Infernal Heavens Demonic Art"
+      ],
+      "deaths": [],
+      "loops": [
+        "Second attempt at wedding battle with foreknowledge"
+      ],
+      "cause_effect": [
+        "Foreknowledge allows them to position fighters optimally",
+        "Teleportation negates the element of surprise from apostles",
+        "Compassion Sword bypasses physical immunity by causing pain directly",
+        "Hundred Ghosts Reincarnation provides army to counter ghost soldiers",
+        "The black cape signifies Gongja's role as family head for the battle"
+      ],
+      "notes": "The chapter ends with the battle beginning. Gongja uses his full skillset: Compassion Sword, teleportation with Heretic Questioner, and Hundred Ghosts. The wedding becomes a 'Black Wedding' - a battle for the world's survival."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "batch": "missing-1",
+  "chapters": [
+    {
+      "chapter": 165,
+      "characters": ["Kim Gongja/Death King", "Heretic Questioner", "Black Dragon Master", "Venomous Snake", "Bae Hu-ryeong", "Raviel"],
+      "events": ["Heretic Questioner reveals opposing quest to defend the empire", "Heretic Questioner argues slavery accelerates civilization and asks party to surrender", "Group fails to reach consensus after two-hour meeting", "Death King observes goblin slaves living in terrible conditions in salt mines", "Death King considers time regression to change Heretic Questioner's path", "Bae Hu-ryeong advises against regression and tells Death King to trust the goblins", "Goblins secretly gather in underground mine passages and create a secret assembly"],
+      "locations": ["Underground city", "Salt mines", "Colosseum"],
+      "skills": [],
+      "deaths": [],
+      "loops": ["Death King considers using time regression but decides against it after Bae Hu-ryeong's advice"],
+      "cause_effect": ["Heretic Questioner's intervention -> civilization advanced to ancient era in 200 years but through slavery and religion", "Snail oppression of goblins -> goblins create secret underground assembly to organize rebellion"],
+      "notes": "The goblins are secretly organizing rebellion against their snail oppressors. Heretic Questioner believes his authoritarian methods are justified by faster historical progress. Death King nearly regresses but Bae Hu-ryeong convinces him to let the goblins fight their own battle."
+    },
+    {
+      "chapter": 194,
+      "characters": ["Kim Gongja/Death King", "Ssonia", "Black Dragon Master", "Crusader", "Raviel"],
+      "events": ["Dog Sound Theater Company's fire plays sell out repeatedly", "Death King trains hobgoblin actors using martial arts choreography mixed with primitive goblin movements", "Heretic erosion rate drops from 44% to 28%", "Death King plans to retire and return Ssonia's body after completing his mission", "Black Dragon Master completes her quest and visits Death King disguised as a vampire", "Black Dragon Master recognizes Death King despite his elf body", "Black Dragon Master watches Burning Grave practice and is amazed", "Black Dragon Master teleports Crusader in mermaid form inside a bathtub to the theater"],
+      "locations": ["Dog Sound Theater Company", "Goblin city"],
+      "skills": ["Infernal Heavens Demonic Art", "Aura manipulation", "Fire Play", "Teleportation"],
+      "deaths": [],
+      "loops": [],
+      "cause_effect": ["Death King's choreography training -> heretic erosion rate drops significantly", "Black Dragon Master completing quest -> visits Death King instead of leaving stage", "Black Dragon Master recognizing Death King's work -> brings Crusader for musical expertise"],
+      "notes": "Death King is possessing an elf named Kekerkker and has become a famous actor/choreographer. Black Dragon Master is disguised as an old vampire. Crusader appears as a mermaid in a bathtub."
+    },
+    {
+      "chapter": 195,
+      "characters": ["Kim Gongja/Death King", "Black Dragon Master", "Crusader", "Ssonia", "Sword Saint", "Raviel"],
+      "events": ["Crusader and Black Dragon Master argue about Crusader's past as jazz musician", "Death King learns Crusader was a Venezuelan refugee and music school graduate who performed jazz concerts", "Black Dragon Master reveals Crusader's nickname was Night Sky", "Crusader watches Fire Play practice and is amazed", "Crusader explains Death King created composite art with aura (Aura Art)", "Crusader demonstrates aura-based music creation", "Black Dragon Master proposes promoting Aura Art nationally and creating an art guild", "Black Dragon Master and Crusader excessively praise Death King", "Black Dragon Master makes Death King the guild leader of the new art guild"],
+      "locations": ["Dog Sound Theater Company", "Bathtub in theater"],
+      "skills": ["Lie Detector", "Aura music", "Fire Play", "Aura Art"],
+      "deaths": [],
+      "loops": [],
+      "cause_effect": ["Death King mixing martial arts with fire plays -> creation of Aura Art (composite art where actors create their own music with aura)", "Black Dragon Master's competitive nature about Tower's reputation -> wants to create art guild to make Tower cultural exporters", "Excessive flattery from Black Dragon Master and Crusader -> Death King accepts guild leader position despite hesitation"],
+      "notes": "The Crusader reveals her hidden musical background as a jazz performer. Black Dragon Master manipulates Death King into becoming the figurehead leader of a new art guild through relentless praise. Ssonia remarks on how easy Death King is to manipulate."
+    }
+  ]
+}

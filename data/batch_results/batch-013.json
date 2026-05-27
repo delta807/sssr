@@ -1,0 +1,145 @@
+[
+  {
+    "chapter": 181,
+    "characters": ["Kim Gongja/Death King", "Uburka (212th Chairman)", "Murk (49th ranked warrior)", "Oni commander", "Snail King", "Representatives of seven races"],
+    "events": ["Uburka accepts defeat and calls Death King 'Daddy'", "Death King advises on peace negotiations - think from others' perspectives", "Night of full moon meeting with all seven races", "Uburka forces Fire River Council to vow to protect other races from extinction", "Beats up 33 warriors who oppose, including ranked 6th", "Offers oni commander personal help with rebellions in exchange for cooperation", "Peace treaty signed by all seven races"],
+    "locations": ["Rimepolis", "Meeting tent", "Goblin camp"],
+    "skills": ["Giant Mode", "Aura giant form"],
+    "deaths": [],
+    "loops": [],
+    "cause_effect": ["Death King's advice to consider other races' perspectives leads to workable peace", "Uburka's overwhelming strength forces compliance from his own race", "Promising protection to all races removes their incentive to fight goblins"],
+    "notes": "Uburka's 'jjambap' comment - warriors who ate a lot of military meals. The oni commander gets his nose broken, horn bent, teeth knocked out, and buried upside down. Peace achieved through 'honorable duels.'"
+  },
+  {
+    "chapter": 182,
+    "characters": ["Kim Gongja/Death King (observing)", "Uburka", "Snail King", "Snail soldiers"],
+    "events": ["Flashback: 600 years of history after Great Escape", "Mermaids evolve to withstand seawater, invent sea salt technology", "Snails reject new ideology, call it devil worship", "Six wars of supremacy break out, snail empire collapses", "Rimepolis becomes last snail city - 'Holy Land'", "Uburka offers three options for destroying city", "944 snails challenge Uburka, all defeated by aura giant", "Uburka destroys Rimepolis completely over half a day", "Quest clears - goblin race gains Hegemon prestige", "9000 race points reward"],
+    "locations": ["Rimepolis", "Sea/tidal flats (flashback)", "Battlefield"],
+    "skills": ["Aura giant form", "Sea salt production (mermaid technology)"],
+    "deaths": ["Many soldiers in wars over 600 years"],
+    "loops": [],
+    "cause_effect": ["Snails' inability to adapt mythology to new reality (sea salt) leads to ideological conflict", "Mermaid technological innovation dooms snail salt monopoly", "Uburka's strength makes him arbiter of peace"],
+    "notes": "The snail empire could have adapted by modifying mythology - 'Goddess split in half, half buried in ground, half sank in sea.' Their refusal to reform led to downfall. Death King receives 9800 total points."
+  },
+  {
+    "chapter": 183,
+    "characters": ["Kim Gongja/Death King", "Uburka", "Bae Hu-ryeong"],
+    "events": ["Death King teaches Uburka Formation Method (group martial arts)", "Teaches Infernal Heavens Demonic Art through dream torture", "Starvation, freezing, burning, drowning, sickness deaths experienced in dreams", "Explains basic formation method with stones - breaking enemy's rhythm cognition", "Higher level: making aura resemble fire - 'when fantasy imposes itself on the world, it becomes real'", "Shares 5 scenes: burning mansion, Preta, peony in winter, moon/mirror, rooftop tears", "Uburka vows to spread stories as fire paintings and plays", "Death King clears 33rd floor"],
+    "locations": ["Dreamscape (Uburka's dream)", "33rd floor waiting room"],
+    "skills": ["Formation Method", "Infernal Heavens Demonic Art (teaching)", "Aura fire simulation"],
+    "deaths": [],
+    "loops": [],
+    "cause_effect": ["Dream teaching allows experiencing multiple 'deaths' without dying", "Formation method combines individual aura into group power", "Shared emotional imagery allows coordinated aura usage"],
+    "notes": "The nine forms of Infernal Heavens: Starvation, Dehydration, Drowning, Freezing, Poison, Sickness, Blunt Force, Burning. Uburka endures 10 days of hell training in dreams."
+  },
+  {
+    "chapter": 184,
+    "characters": ["Kim Gongja/Death King", "Count", "The Lady Who Walks Through the Mirage"],
+    "events": ["Death King and Count meet in waiting room", "Lady reveals Count was ELIMINATED on 33rd floor", "Elf elders decided to surrender and become goblin vassals voluntarily", "Elves only care about money, see no profit in fighting", "Count's points distributed: only 2 points each to remaining hunters", "Second Race Evolution costs 30,000 points - too expensive", "300 years pass until next stage"],
+    "locations": ["33rd floor waiting room"],
+    "skills": [],
+    "deaths": [],
+    "loops": [],
+    "cause_effect": ["Count taught elves to value money above all, which led them to surrender for profit", "Elves became economic parasites rather than warriors", "Count's elimination means Death King loses an ally"],
+    "notes": "The Count used up her points as she got them - only 13 points left to distribute. Elves planned to give goblins 1% profit while claiming 10% on double ledgers. The Count and Death King argue about parenting philosophy."
+  },
+  {
+    "chapter": 185,
+    "characters": ["Kim Gongja/Death King", "Bae Hu-ryeong", "Ssonia (elf actor)"],
+    "events": ["34th floor - hunters separated into their own racial cities", "Goblin city has become theater metropolis", "Plays of Death King's life commercialized: 'Raviel and Kekerkker', 'Chronicles of Heavenly Demon'", "Elves run ticket booths and theater businesses", "Quest given: 'The Warring Theaters Period: The Crisis of Classics'", "New generation tired of classic myths, recreations threaten original stories", "16 denominations disputing doctrine", "New trait: 'Demonic Cult'", "Death King considers letting kids have fun, then sees Flame Emperor portrayed as good guy", "Decides to fix the myths"],
+    "locations": ["34th floor - Goblin city (Guru)", "Theater district", "Three-way intersection"],
+    "skills": [],
+    "deaths": [],
+    "loops": [],
+    "cause_effect": ["Commercialization of myths led to reinterpretations that distort original meanings", "If original myths disappear, goblins lose aura training method", "Death King's stories became so popular they were commodified by elves"],
+    "notes": "Plays include: 'Raviel and Kekerkker', 'Demon King Estelle', 'Chronicles of Heavenly Demon', 'Esdel from Saintess to Witch'. The 'Raviel and Kekerkker' play is a scam - mostly about Silvia and Raviel, Death King dies."
+  },
+  {
+    "chapter": 186,
+    "characters": ["Kim Gongja/Death King (possessing Ssonia)", "Ssonia (elf actor)", "Theater owner (hobgoblin)", "Arika (one-eyed actor)", "Yumar (one-armed actor)", "Sakum (one-eared actor)"],
+    "events": ["Death King sees elf actor Ssonia rejected for being weak/elf", "Decides to create a top star actor to restore true myths", "Ssonia's family only cares about money, kicked him out with debt scrolls", "Death King enters Ssonia's dream", "Tests Ssonia by asking about Flame Emperor - Ssonia says he was a bastard", "Purchases 'Person Possession' for 2000 points", "Possesses Ssonia's body", "Theater owner tests him with Raviel confession scene", "Performs perfectly, gets hired"],
+    "locations": ["Goblin city streets", "Ssonia's home", "Ssonia's dream", "Mud and Dust theater"],
+    "skills": ["Person Possession (purchased)", "Aura flame projection"],
+    "deaths": [],
+    "loops": [],
+    "cause_effect": ["Ssonia's genuine belief that Flame Emperor was bad proves his artistic integrity", "Person possession allows Death King to act directly through elf body", "Theater owner's 'Kekerkker confession' test happens to be Death King's actual feelings"],
+    "notes": "Ssonia's family tracks every expense from birth in ledgers. The theater 'Mud and Dust' is 130 years old but filthy. The owner mistakes Death King's genuine love for Raviel as perfect acting."
+  },
+  {
+    "chapter": 187,
+    "characters": ["Kim Gongja/Death King (as Ssonia)", "Arika", "Yumar", "Sakum", "Theater owner"],
+    "events": ["Theater is filthy - spiders, centipedes, stagnant water", "Three hobgoblin actors introduced: one-eyed Arika, one-armed Yumar, one-eared Sakum", "Death King criticizes their acting as too stiff, following guides instead of feeling", "Puts out torches with dirt and aura", "Demonstrates emotions through pushups - normal speed vs unstable speed", "Shows narcissistic Flame Emperor by doing slow pushups to admire muscles", "Actors ask 'Who are you?'"],
+    "locations": ["Mud and Dust theater", "Dressing room", "Stage"],
+    "skills": ["Aura pushup demonstration", "Emotion-through-movement technique"],
+    "deaths": [],
+    "loops": [],
+    "cause_effect": ["Actors have been mimicking emotions rather than feeling them", "Physical movement with genuine emotion creates better aura than scripted gestures", "Death King's unconventional teaching shocks the actors"],
+    "notes": "The three actors each lost something: eye, arm, ear. Death King demonstrates 'refined anger' vs 'furious rage' through pushup speed. The narcissism demonstration uses chairs as props that Flame Emperor would ignore."
+  },
+  {
+    "chapter": 188,
+    "characters": ["Kim Gongja/Death King (as Ssonia)", "Arika", "Yumar", "Sakum", "Theater owner"],
+    "events": ["Death King takes complete control of theater", "Forces actors to clean - 'bark like dogs' discipline", "Renames theater 'Dog Sound Theater Company'", "Uses cleaning as acting practice (absurdity, warrior duty)", "Creates VIP seats priced 12x normal", "Promotes on street with aura music (Chopstick March)", "Promises first silent Fire Play - no lines, refund guarantee", "VIP tickets sell out rapidly"],
+    "locations": ["Dog Sound Theater", "City streets", "Three-way intersection"],
+    "skills": ["Aura music creation", "Marketing/promotion", "Theater management"],
+    "deaths": [],
+    "loops": [],
+    "cause_effect": ["Brutal discipline and cleaning improves theater environment and actor mindset", "Aura music demonstration draws crowd attention", "Scarcity marketing (VIP seats, limited shows) drives demand"],
+    "notes": "'Dog Sound' (개소리) means bullsh*t in Korean. Death King learned professional smile from Black Dragon Master. VIP seats target warriors who want to learn aura techniques."
+  },
+  {
+    "chapter": 189,
+    "characters": ["Kim Gongja/Death King (as Ssonia)", "Arika", "Yumar", "Sakum", "Theater owner", "Ssonia (mental body)"],
+    "events": ["Death King explains Fire Plays originally had no lines - only aura", "Teaches actors to recall specific memories, not just words", "'Aura is triggered by memories, not will'", "Actors share traumatic stories:", "- Arika: didn't recognize his own mother, scowled at her", "- Yumar: former drug lord, childhood friends betrayed him, took his arm", "- Sakum: attendant whose ear was cut off for overhearing master's affair", "'Let's dance, Seniors. We have a week.'", "Performance day arrives, theater packed"],
+    "locations": ["Dog Sound Theater", "Stage"],
+    "skills": ["Memory-based aura triggering", "Silent acting technique"],
+    "deaths": [],
+    "loops": [],
+    "cause_effect": ["Traumatic memories provide strongest aura fuel", "Personal experiences allow authentic emotional expression", "Silent performance will force audience to focus on aura rather than words"],
+    "notes": "Yumar's 'Juice of Heaven' and 'Powder of Scholars' drug brands. The drug organization grew to 500 members before council destroyed it. Arika's mother called him 'Mr. Arika' - formal distance."
+  },
+  {
+    "chapter": 190,
+    "characters": ["Kim Gongja/Death King (as Ssonia/Flame Emperor)", "Arika", "Yumar", "Sakum", "Security force", "Audience"],
+    "events": ["Performance begins - actors create music with footsteps using aura", "Death King enters as Flame Emperor, crawling like beast", "Uses ancient goblin language: Swi-Rak-Gur", "Blocks actors' voices with aura - silent play", "Hunts actors like prey, aura flames engulf theater", "Audience terrified - some faint, some run out", "Security force storms in thinking it's real murder/arson", "Actors explain it was just acting", "Performance interrupted"],
+    "locations": ["Dog Sound Theater", "Stage", "Audience seating"],
+    "skills": ["Aura voice blocking", "Swi-Rak-Gur ancient language", "Flame Emperor character acting", "Theater-wide aura manipulation"],
+    "deaths": [],
+    "loops": [],
+    "cause_effect": ["Performance is so realistic audience believes it's real violence", "Security interruption actually creates massive publicity", "Death King's aura control can simulate fire, block sound, create music simultaneously"],
+    "notes": "The Flame Emperor's monologue: 'Only I am a person.' Five people reported murder simultaneously. Ranked 21st council member Morkan is in audience. Actors from rival theaters [Flame] and [Fire Demon] also attending."
+  },
+  {
+    "chapter": 191,
+    "characters": ["Kim Gongja/Death King (as Ssonia)", "Arika", "Yumar", "Sakum", "Security force leader", "Audience"],
+    "events": ["Security force embarrassed by mistake", "Actors furious about interruption at climax", "Death King turns situation into marketing opportunity", "Invites security force to next show for free - 'small apology fee'", "Uses puppy eyes technique learned from Raviel", "Audience demands next performance tickets", "Announces secret special performance next Saturday for today's attendees only", "Makes audience shout 'Flame Emperor you son of a bitch' to get tattoos", "Heretic erosion rate drops to 86%", "[Returning to Ancient Times] gaining popularity"],
+    "locations": ["Security force main office", "Dog Sound Theater", "City streets"],
+    "skills": ["Crisis management", "Marketing manipulation", "Puppy eyes technique"],
+    "deaths": [],
+    "loops": [],
+    "cause_effect": ["Security force incident becomes free publicity - 'so real it was reported'", "Inviting security force ensures future performances won't be interrupted", "Making audience insult Flame Emperor reinforces correct narrative"],
+    "notes": "Security force motto: 'Blocking beforehand is more beneficial than judging afterward.' Death King's tattoo pattern is a dog - promotes theater while mocking Flame Emperor."
+  },
+  {
+    "chapter": 192,
+    "characters": ["Kim Gongja/Death King (as Ssonia)", "Ssonia (mental body)", "Black Dragon Master (as old vampire)", "Crusader (as mermaid)"],
+    "events": ["Dog Sound Theater becomes legendary - multiple sold-out shows", "Heretic erosion rate drops from 86% to 28%", "Death King trains 24-member dance troupe with martial arts choreography", "Considers retiring from Ssonia's body", "Black Dragon Master appears as old vampire - completed her quest", "Watches practice, calls it amazing", "Next day brings Crusader (as mermaid in bathtub) via teleportation", "Crusader is furious about being seen as mermaid"],
+    "locations": ["Dog Sound Theater", "Stage", "Seating area"],
+    "skills": ["Martial arts choreography", "Group aura synchronization", "Teleportation (Black Dragon Master)"],
+    "deaths": [],
+    "loops": [],
+    "cause_effect": ["Restoring original myths through theater strengthens goblin cultural identity", "Black Dragon Master's interest suggests aura art has broader applications", "Crusader's musical background will enhance the art form"],
+    "notes": "Plays in repertoire: 'Burning Grave' (Tower 10th floor background), 'Demon King Estelle'. Black Dragon Master's vampire form is old man with black suit, gold cane, silver ring. Crusader's mermaid form has gills and flatfish-like tail."
+  },
+  {
+    "chapter": 193,
+    "characters": ["Kim Gongja/Death King", "Black Dragon Master (vampire)", "Crusader (mermaid)"],
+    "events": ["Crusader explains Death King created 'composite art' with aura", "Music, dance, acting all produced by actors themselves via aura", "This is revolutionary - no need for external musicians", "Black Dragon Master wants to promote nationally, make Death King art guild leader", "Crusader reveals she was jazz musician 'Night Sky' before Tower", "Black Dragon Master writes/publishes anonymously", "They flatter Death King excessively until he accepts guild leader position", "Black Dragon Master gives him seal, says money will appear in account"],
+    "locations": ["Dog Sound Theater"],
+    "skills": ["Aura Art (composite art form)", "Musical aura creation (Crusader demonstrates)"],
+    "deaths": [],
+    "loops": [],
+    "cause_effect": ["Crusader's musical expertise validates Death King's innovation as genuine art revolution", "Black Dragon Master's outside-world resentment drives desire for cultural export", "Excessive flattery is manipulation tactic to get Death King to accept leadership role"],
+    "notes": "Crusader's real past: Venezuelan refugee, music school graduate, earned money from jazz concerts. Black Dragon Master's anonymous writing is her secret. The 'Night Sky' nickname. Death King becomes unwitting founder of 'Aura Art' movement."
+  }
+]

@@ -1,0 +1,423 @@
+---
+chapter: 92
+title: 88. [Dead Ends are the Norm. (1) ]
+word_count: 3219
+character_count: 18469
+source_url: https://novelfire.net/book/sss-class-suicide-hunter/chapter-92
+parsed_at: 2026-05-27T17:44:00.108684
+characters: []
+events: []
+locations: []
+skills: []
+deaths: []
+loops: []
+cause_effect: []
+---
+
+Translator: thursdays Editor: Sasha PR: LightBrin
+
+1.
+
+"I'm moving the headquarters of the Chen Mu-mum to the 22nd floor," said the Venomous Snake.
+
+It was a few days after our group conquered the [Chronicles of the Heavenly Demon].
+
+"What?"
+
+"I decided to move. We'll move the whole dojo. Just as you inherited the will of the Demonic Cult, I became the disciple of the Murim Lord, you know? And Chen Mu-mun is my guild. Therefore, it's only right that they follow me to the Murim alliance."
+
+The Venomous Snake calmly read the novel.
+
+Like I saw last time, the Venomous Snake was a fan of reading. Although his hobbies were very lopsided, there were a lot of books here that satisfied his weird tastes.
+
+The Venomous Snake, wearing glasses (no frames, just for style, market value of 9800 won), turned the page of a book with a magic cover (a hero-grade item that can be put on any book and change the title and cover design at will, market value of 2000 gold).
+
+"My teacher is also half-disabled, but he still has his arms and legs. The Alchemist somehow made it possible for him to move around. Therefore, I intend to place him as the Taesang Hobeop."
+
+"The Murim Lord as the Taesang Hobeop…"
+
+"Yeah. He's heartbroken because the Heavenly Demon died. When I see that, I get all depressed," the Venomous Snake said bluntly.
+
+The Hobeop was the bastion of a clan. Literally, it means someone who watches over traditions. Among them, the Taesang Hobeop was the highest. The Venomous Snake was actually trying to set up the Murim Lord as the most important elder.
+
+"In that case, it's better that he's distracted. Such as by being busy teaching the younger students. It'll also help our guild members become stronger."
+
+I was a little surprised. Wasn't that really thoughtful?
+
+The Venomous Snake's hand stopped turning the pages of the book as if he felt my gaze.
+
+"…Oi, Death King. Why are you looking at me like that?"
+
+"I'm not. I was just admiring that the heads of the top 5 guilds are definitely something else."
+
+I had wondered how this ridiculous otaku was so popular with his subordinates, but there was a reason. It was because he took care of his people.
+
+"I-is that so?"
+
+The Venomous Snake blushed and scratched his nose.
+
+"Ahem. Hmm hmm. D-don't get me wrong! I just did something that should be done. The world gets too melancholy if you praise someone for doing what is reasonable. Hoo, the world shouldn't become sad just because of me."
+
+"What a bad feeling…"
+
+"Huh?"
+
+"I didn't say anything."
+
+Anyway, I felt troubled when I heard the Venomous Snake speak.
+
+Taking good care of your people. It was a problem I had been thinking about even before I entered the Chronicles of the Heavenly Demon.
+
+I also reached the 3rd place ranking as a Hunter. But was it enough just to have a high ranking and know some martial arts? Popularity. Virtue. Wasn't this the time when I should develop such a mindset?
+
+Let's see.
+
+A person who I can say is one of 'my people' here…
+
+-Ah, I want another sword match. I really want another damn match. The overwhelming and diabolic sword fight. I'm so hungry for a match with my life on the line. Zombie, let's go to a martial arts novel for the next apocalypse. This time, let's go to a Murim world where instead of the Demonic Cult, the Evil Sect dominates!
+
+Let's go to an Evil Sect masteeeerrr!!
+
+Um.
+
+No.
+
+This man isn't really…
+
+"Gongja! With special consideration, the main office has made nail cutters tailored for your fingers and toes! If you feel my handiwork as I snip, snip your nails, you'll never want to clean your fingernails and toenails yourself again! Just three minutes! No, just two minutes! Please leave your hands and feet to me for 120 seconds!"
+
+Not this perverted Constellation, either.
+
+I reject him even more.
+
+[Shiny sings today as well. The brilliant feats of the Warrior-nim. The figure of the manly warrior who spoke so eloquently at the fortress of the Aegim Empire The struggle of the warrior who was as beautiful as he was desperate in the Murim world. Oh, Shiny is so happy to see the hero's esteemed face even today. Long live the warrior! Hooray!
+
+Hooray!]
+
+"……"
+
+Huh?
+
+Was it possible that…… nobody around me was normal?
+
+Not at all?
+
+Was this for real?
+
+Strange. I was normal. I was a model student who tried to live normally. But why was I surrounded by only crazy ghosts, kooky Constellations, and ditzy swords?
+
+Thinking about it, all three of them weren't even 'human'. This was nuts. Was this my destiny? If this was my destiny, wasn't it a bit like a dog? Was God perhaps a dog? This Siberian Husky-like… [1]
+
+"Aha, Death King! What are you thinking about?"
+
+"Heretic Questioner. I was thinking that it would be nice if you go to the 13th floor and negotiate with the priests of Aegim. It would be nice if newbie Hunters could take quests there."
+
+"Oh! I was thinking the same thing. Death King and I are on the same wavelength, thinking about how we can help everyone! I'll be back!"
+
+After chasing out the blond corgi-bear like man, I became less and less confident in my companions.
+
+"There. D-Death King-nim."
+
+A savior appeared before my despairing eyes.
+
+"I succeeded in mass-producing the zombie virus treatment. The medicinal components should also be commonly available. I-if people get vaccinations in advance, they won't have any problems going around the 22nd floor."
+
+This is the person!
+
+"Boss."
+
+"Y-yes. Death King-nim…"
+
+"Do you have any plans to move?"
+
+As I spoke about the plan I had right after the confrontation between the Alchemist and the Medicine King, the Alchemist blinked.
+
+"What?"
+
+"Your store is too small right now. Since you cleared this stage, the value of your name increased even more, so you'll have to expand it. You'll have a lot of orders. Would you be able to handle the demand with your store right now?"
+
+"Ah. That. I was also thinking about expanding the store. The price of real estate on the first floor is… You know how it is. I have to get a big loan… The Count showed me some kind of contract, saying that she would pay for it all."
+
+"No, you should never sign that."
+
+Who does he think he is? He was a cat that put his paws on someone else's fish.
+
+"The real estate. If it's something like that, I'll give it all to you."
+
+I shouted loudly.
+
+"In addition, I'll pay for the moving costs and interior costs. I'll take care of everything, so please just bring yourself without worrying."
+
+The Alchemist opened her mouth.
+
+"Eh. Uh. R-really…?"
+
+"Yes. Did you know that the 20th floor is my property? I'll arrange a nice spot for you. You just have to show up."
+
+The Alchemist opened and closed her mouth again. She didn't seem to believe my proposition.
+
+But I was saying it sincerely.
+
+'What good is land if I don't make use of it?'
+
+It was not a waste to invest in a colleague who would become the master of the Alchemy Castle in the future.
+
+I smiled.
+
+"In exchange, please make the medicine or potions I ask for with a slightly higher priority. Does that sound good?"
+
+"O-of course! I'm already doing that for you… Uh. Wh-what should I do? I'm receiving too many things from Death King-nim…"
+
+The corner of the Alchemist's mouth trembled. She was saying this and that, but a good thing was a good thing. The Alchemist was embarrassed, but she couldn't hide her joy.
+
+Her tightly clasped hands seemed to shout, 'Score! Let's go!' on the inside.
+
+My mind was also pleased.
+
+'Yeah. It feels rewarding to take care of people.'
+
+At that moment.
+
+"Ahem. Hmm! A-he-hem. Ahem, khmph!"
+
+"……"
+
+"Uh huh. Kiddo. Did you forget something?"
+
+The Medicine King was standing there. I couldn't detect him at all until he was right behind me. Did this old man learn an interesting technique in the Murim world without me knowing…? It was quite the skill.
+
+"I wish I had some more land in my old age as well…"
+
+He glanced at me.
+
+"Oh, my store is so old these days that it smells stale. It often gets damp, too. It's so bad for my back! Because it is on the third floor, my knees squeak as I go up and down the stairs every day…"
+
+Another glance.
+
+"It would be great if a nice young man gave me a roughly 100,000-pyong place with good air…" [2]
+
+"I'm sorry. Excuse my rude friend."
+
+The Sword Saint approached and grabbed the back of the Medicine King. Like that, he dragged him away.
+
+While being dragged, the Medicine King raised his voice and screamed.
+
+"Jeez! In what country does a friend interfere instead of help with someone's business deals? Did they teach you that in Northern Europe?! Marcus, you bastard! You're from a prestigious chaebol family, but your business ethics are like a beggar's!"
+
+"My friend. I know you're upset about being old, but you don't have to be indecent, too… You already make a lot of money."
+
+"It's a deficit, a deficit! The orders have stalled lately! Alchemist! You there, Alchemist kid! Last match I had given it away. In fact, I don't have the power to stand in the way of Sean McCallister's Victory Road.
+
+Just say something like this! Can't you just do that for me?!"
+
+The Hunters in the Great Library looked at the Medicine King. The Alchemist had seen the Medicine King through new eyes after doing the joint research and working on the surgery together, enough to call him her elder, but now, she regarded him again like he was a water flea… saying, 'Woah.'
+
+The Venomous Snake, who had been quietly reading novels, grumbled.
+
+"Ah, frick. Why do the heroines always die in all the novels I read? Is this the trend these days?"
+
+Like I thought, this group had no normal people.
+
+2.
+
+Opening a new pharmacy for the Alchemist on the 20th floor proceeded without difficulty. The cost of construction materials were adequately covered by the gold received from the lottery. There was no problem with manpower, either.
+
+"Look here, Death King. I told you, I can reduce the cost of the construction materials. And that's not all. I can recruit more than enough people to build it. Just sign this contract along with the Alchemist……"
+
+"Ah, I said it's fine!"
+
+After ditching the Count, who kept lingering like a cat on a laptop, I looked back at Preta.
+
+"Is everything going well?"
+
+"Yes, milord. The construction progress is going smoothly."
+
+Preta, wearing a yellow helmet, a green armband, and a pink whistle in her mouth led the construction. The labor force to be used for the construction was replaced by skeletons that were called forth using the Hundred Ghosts Reincarnation.
+
+"This fucking…! Sh*t! Hey! You bastard, beggar's foot bandage! What kinda grudge do you have against me?! Why am I stuck between some bones and have to move stones!
+
+Talk to me, fuckers!"
+
+There was one gap where there was a young man with a ponytail and an extraordinarily strong mouth, but the construction continued to progress without a problem as the vast majority of the construction workers were skeletons who moved in perfect order.
+
+In the middle of the smooth construction, the Alchemist, and the Chen Mu-mun master, and I signed an agreement.
+
+"There. I guess that's about done."
+
+The contents of the agreement were as follows.
+
+"There are still many Jiangshi on the 22nd floor. Which means there are many mobs. And there are a lot of ruined channels everywhere. There are also many dungeons."
+
+"Yeah. So, our Chen Mu-mun will have our base right there……"
+
+"That's…… Hunters who want to go to the 22nd floor, visit the 20th floor before…… vaccinated at my new pharmacy…… Is that it?"
+
+"That's right. In the process, I get a commission…… That's common sense."
+
+I, the owner of the 20th floor; the Alchemist, building a new nest on the 20th floor; and Chen Mu-Mun, who would move its headquarters to the 22nd floor, all benefited.
+
+'Nice. I didn't think that the day would come when I would get commission from real estate.'
+
+I felt very happy.
+
+However, when the pharmacy actually opened, it turned out that there was a problem with the plan. Specifically, too many people gathered on the 20th floor.
+
+"Medicine God-nim!"
+
+"Alchemist King-nim!"
+
+"Medicine Emperor-nim!"
+
+"Dear God of Alchemy! Please sell me some medicine!"
+
+You can go to and from the 20th floor without a title. Therefore, not only were Hunters trying to get vaccinations to go to the 22nd floor, but even more Hunters flooded the 20th floor.
+
+The procedure to produce the zombie vaccine was rather complicated. Generic drugs were being manufactured and sold in the midst of that, so the flow of human traffic was twisted. At first, the Alchemist tried to deal with it on her own before screaming.
+
+"Death King-nim, this can't go on!"
+
+Eventually, I had no choice but to call the last member of the 22nd floor attack team. The Venomous Snake put his arm around the Medicine King's shoulder and said,
+
+"Medicine King. Your business is no fun these days, right? I'll give you a good spot at the 22nd floor's Chen Mu-mun headquarters. Would you like to come and act as an exclusive doctor?"
+
+"Oho, Chen Mu-mun master! Who do you think this Sean McCallister is?"
+
+Though he yelled so loudly, the Medicine King's business was going through a rough patch. The merit of the Medicine King's pharmacy was that it handled high-end medicine. However, as soon as the super-competent Alchemist appeared, the high-end strategy had become awkward.
+
+Everyone knew it, including the Medicine King. Eventually, when he was asked several times, the Medicine King groaned.
+
+"All right. For the time being, I'll give out vaccines on the 22nd floor and take care of emergencies for a fee."
+
+"Yes, please. ……I was in need of a doctor who could take care of Master exclusively."
+
+"Hmph. Well, that man is easier to talk to than Marcus. All right. I was also somewhat lonely."
+
+In the meantime, the attacks continued.
+
+There were many Hunters besides us who were eager to take on the next stage.
+
++
+
+21st floor: The Great Library of All Things
+
+22nd floor: Chronicles of the Heavenly Demon (Genre: Martial Arts, Fusion)
+
+23rd floor: Saga of the Iron Knights in Space (Genre: SF)
+
+24th Floor: Dawn Mountain Cabin Journal (Genre: Mystery, History)
+
++
+
+"Excellent. Truly, really excellent."
+
+The Witch smiled contentedly.
+
+Before she knew it, she was commanding the Hunters, carefully deciding what Apocalypse to target and how many and who to attack.
+
+"Death King. Your cool conquering of the [Chronicles of the Heavenly Demon] had a great impact. The other Hunters' wills are burning, saying that they can't lose to you. These are people who don't listen well to what I say! Ah, it would have been great if things were like this in the past, too."
+
+The Witch looked at me with affectionate eyes. Kind of like how one would look at a golden goose? She seemed like she was going to say that it was all thanks to me that this tower was built.
+
+"If we continue this momentum, we'll be able to break through the 30th floor before next month."
+
+Unfortunately, the Witch's prophecy was wrong.
+
+Two weeks after the Chronicles of the Heavenly Demon were cleared.
+
+[Today, the attack on the 25th floor stage has failed.]
+
+Hundreds of Hunters, including the Witch, stared blankly into the air.
+
+[Announcing to everyone again.]
+
+[Today, the attack on the 25th floor stage has failed.]
+
+"What, what……"
+
+The Witch was bewildered. Shock permeated her black eyes.
+
+"I planned and sent out the best team…… Failure……?"
+
+A hologram floated in the air of the Grand Library. The attack's situation was broadcasted through the screen. On the holographic screen, countless demons giggled and slaughtered humans.
+
+There were familiar faces among the people being massacred.
+
+The 4th ranked Hunter. Count.
+
+The 9th ranked Hunter. Crusader.
+
+One was a Hunter who handled the gold in Babylon, and the other was a Hunter who handled the people. The people in charge of economy and public order. As the Witch muttered in surprise, it was the strongest hand that we had.
+
+But it was a failure.
+
++
+
+[The Tale of Sormwyn Academy]
+
+Genre: Romance, Fantasy
+
+Difficulty Level: D-Class
+
+Player Limit: 2-5 people
+
+※The Serialization is currently suspended.
+
+Introduction: Sormwyn is a magic school with a long history. It is an ordinary academy where friendship, competition, love, and jealousy come and go. This Apocalypse could have stayed as an ordinary school. However, there was a world-class artifact sealed in the basement of the academy!
+
+Reason for Discontinuation: The villainess's fiance (the crown prince) was stolen by a girl who had reincarnated for the second time. The villainess turned around and unsealed the artifact, liberating the Great Devil and destroying the world.
+
++
+
+The Apocalypse's difficulty was only D-class.
+
+The world was chosen because 'magic had been developed and it was rich in Mithril-like ores.'
+
+"Aww. What a shame."
+
+The Librarian looked down at the devastated Hunters.
+
+"But spilled water is spilled water! Maybe you can put back what was spilled, but I can't overlook an attack that has already failed. Gentlemen. Please understand my position."
+
+The Librarian smiled with his eyes.
+
+In other words, if one had the ability to put back spilled water, he would make an exception.
+
+It was obvious whom the Librarian was referring to.
+
+"……"
+
+I headed to the bathroom in the library. I had stopped by here once before entering the Chronicles of the Heavenly Demon. A man with a stiff face was reflected in the mirror above the sink.
+
+"Damn it. I've never read a romance novel before."
+
+-Well, you haven't read martial arts novels before either, but you resolved things well. There probably won't be a problem?
+
+"That's true, but…"
+
+I grabbed my dagger with a sigh.
+
+"I can't let the Count and Crusader die. And I don't think things will be cleared by sending someone else. As expected, I have to challenge this myself."
+
+Someone may ask why I don't give up and take on another Apocalypse. Things weren't that simple.
+
+There was a reason I couldn't skip that Apocalypse.
+
+[Shiny cheers at the warrior's decision.]
+
+That was because the fragments of the Holy Sword were hidden there.
+
+"……Okay."
+
+I touched the handle of the dagger and made up my mind.
+
+"Let's go back one more time!"
+
+With that, I returned to the day before the attack team was decided.
+
+It was that moment when my next stage was chosen to be [Romance].
+
+~~~
+
+[1] The word for "dog" in Korean is kind of like a soft "fucking"; it's used for emphasis and is usually bad. It's not really a swear word, though.
+
+[2] Pyong is a unit of measuring area. 100,000 pyong is 3,558,317.5 sq ft or 330,578.51 sq m.

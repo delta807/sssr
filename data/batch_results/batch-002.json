@@ -1,0 +1,167 @@
+[
+  {
+    "chapter": 16,
+    "characters": ["Kim Gong-ja", "Bae Hu-ryeong", "Flame Emperor", "Sword Saint", "Marcus", "Yoo Soo-ha"],
+    "events": ["Kim Gong-ja reaches level up to E Class", "Kim Gong-ja develops Aura", "Shape of Aura discussed - either fire or blood", "Kim Gong-ja challenges 10th floor boss", "Bae Hu-ryeong explains Aura shapes based on trauma", "Reveals Flame Emperor Yoo Soo-ha's Aura was Fire"],
+    "locations": ["5th floor hunting ground", "6th floor entrance", "10th floor boss room - Hellfire Residence", "Babylon tower 1st floor city"],
+    "skills": ["Goblin High Society (F)", "Aura manipulation", "Night and Day Fire Caution (A) - revealed in next chapter", "Hellfire Trap (S-)", "Labyrinth Plan (A-)", "Doll Controller (B)", "Target Attack (B-)", "Trap Installation (C)"],
+    "deaths": ["Kim Gong-ja burns to death by Hellfire Maiden's flames", "King Goblin killed by Kim Gong-ja after 6 deaths"],
+    "loops": ["Kim Gong-ja reveals he used 6 Coins (6 deaths) to defeat King Goblin", "Bets Bae Hu-ryeong he can clear 10th floor boss in 2 Coins", "Kim Gong-ja's first death to Hellfire Maiden triggers skill copy and regression"],
+    "cause_effect": ["Killing monsters and dying allows Kim Gong-ja to copy skills", "Kim Gong-ja's trauma determines his Aura shape", "Flame Emperor's fire immunity allowed him to easily clear 10th floor", "Kim Gong-ja realizes Hellfire Maiden has both fire creation AND fire immunity skills"],
+    "notes": "First appearance of trauma penalty system. Kim Gong-ja levels up from F to E Class. First mention of Sword Saint Marcus' Aura shape being Moonlight."
+  },
+  {
+    "chapter": 17,
+    "characters": ["Kim Gong-ja", "Bae Hu-ryeong", "Black Dragon Guild leader (Rank 2)", "Witch (Black Dragon Guild Master)", "Flame Emperor (Yoo Soo-ha)"],
+    "events": ["Kim Gong-ja dies in Hellfire Maiden's flames to copy skills", "Bae Hu-ryeong reveals boss monster skills before Kim Gong-ja chooses", "Kim Gong-ja copies Night and Day Fire Caution (A) instead of Hellfire Trap (S-)", "Kim Gong-ja wins bet against Bae Hu-ryeong", "First trauma penalty triggered - 'Weak. Hell Road.'"],
+    "locations": ["10th floor boss room - Hellfire Residence", "Nether World", "24 hours before (regression destination)"],
+    "skills": ["I Want to be Like You (S+)", "Returner's Clockwork Watch (EX)", "Sword Constellation (A+)", "Goblin High Society (F)", "Night and Day Fire Caution (A) - copied from Hellfire Maiden"],
+    "deaths": ["Kim Gong-ja burns to death from hellfire (1st death for 10th floor)"],
+    "loops": ["Kim Gong-ja dies and returns 24 hours before", "Used 1 Coin out of 2 bet with Bae Hu-ryeong"],
+    "cause_effect": ["Because Kim Gong-ja was killed by Hellfire Maiden, he can copy her skills", "Because he copied Night and Day Fire Caution, he gains fire immunity", "Because he gained fire immunity, he can now survive the hellfire and find the real doll", "First trauma penalty appears because Kim Gong-ja reached E Class"],
+    "notes": "Clever strategy: Kim Gong-ja deduces that since fake dolls also don't burn, the boss must have both fire creation and fire immunity skills. First appearance of penalty system 'trauma of enemy being reenacted'."
+  },
+  {
+    "chapter": 18,
+    "characters": ["Kim Gong-ja", "Bae Hu-ryeong", "Hellfire Maiden (real doll/origin story)", "Noble/torturer", "Orphan children"],
+    "events": ["Kim Gong-ja experiences Hellfire Maiden's trauma penalty", "Backstory reveals Hellfire Maiden was an orphan girl tortured by a noble", "Noble gathered orphans under guise of orphanage but tortured and brainwashed them", "Children died in a fire accidentally started by a servant", "Kim Gong-ja realizes boss monsters were humans from other worlds", "Kim Gong-ja returns to 10th floor and clears it by comforting the dolls"],
+    "locations": ["Trauma vision - noble's mansion/orphanage", "10th floor Hellfire Residence", "Nether World during skill selection"],
+    "skills": ["Night and Day Fire Caution (A) - fire immunity"],
+    "deaths": ["Hundreds/thousands of orphan children died in the fire (trauma vision)", "Hellfire Maiden dies when Kim Gong-ja finds the real doll and comforts her"],
+    "loops": ["Kim Gong-ja returns 24 hours before after dying and viewing trauma", "Uses fire immunity skill to survive hellfire in next attempt"],
+    "cause_effect": ["The noble's cruelty created the Hellfire Maiden's hatred", "The accidental fire killed all the children, creating the boss monster", "Kim Gong-ja's compassion in finding the real doll allows peaceful resolution instead of just killing", "Comforting the doll causes the chains and fire to disappear, clearing the stage"],
+    "notes": "Hidden stage cleared along with normal stage. Kim Gong-ja chooses compassion over brute force, contrasting with Flame Emperor's approach. First indication that boss monsters have tragic backstories."
+  },
+  {
+    "chapter": 19,
+    "characters": ["Kim Gong-ja", "Bae Hu-ryeong", "Doorkeeper", "Various guild representatives", "Count (Sangryun Guild Master, Rank 3)"],
+    "events": ["10th floor clear announced to entire tower with fireworks", "Kim Gong-ja becomes E Class and opens 11th floor", "Online community erupts with speculation about who cleared 10th floor", "Kim Gong-ja tricks doorkeeper again to enter boss room", "Doorkeeper tries to get Kim Gong-ja's identity", "Multiple guilds arrive to scout Kim Gong-ja at cafe", "Count (Rank 3) appears disguised as cat, offers 50,000 Gold and vice leader position"],
+    "locations": ["10th floor entrance", "Babylon 1st floor city", "Starbucks cafe across from Sangryun", "Online communities"],
+    "skills": ["None new"],
+    "deaths": [],
+    "loops": ["11th floor opens in 24 hours", "Kim Gong-ja's achievement changes timeline from original"],
+    "cause_effect": ["Clearing 10th floor causes tower-wide announcement and opens 11th floor", "Kim Gong-ja's anonymity creates massive speculation", "Count's appearance means top guilds are competing fiercely for Kim Gong-ja"],
+    "notes": "Kim Gong-ja feels 'on top of the world' for first time. Count is revealed as Rank 3 hunter with metamorphosis skill. Count can transform into animals (cat form shown)."
+  },
+  {
+    "chapter": 20,
+    "characters": ["Kim Gong-ja", "Count", "Bae Hu-ryeong", "Civil Militia Guild HR", "Adventure League", "Chen Mu-mun", "Ten Thousand Temple"],
+    "events": ["Guild recruitment competition for Kim Gong-ja", "Kim Gong-ja sets conditions: no media leaks until midnight, respect public spaces", "Kim Gong-ja negotiates with multiple guilds simultaneously", "Count reveals true form and offers 50,000 Gold + vice leader position", "Kim Gong-ja realizes his value has increased dramatically"],
+    "locations": ["Starbucks cafe in Babylon 1st floor", "Sangryun Guild area"],
+    "skills": ["Count's metamorphosis skill"],
+    "deaths": [],
+    "loops": [],
+    "cause_effect": ["Kim Gong-ja's 10th floor clear makes him extremely valuable to guilds", "His conditions show strategic thinking about media and public perception", "Count's high offer establishes baseline for negotiations"],
+    "notes": "Kim Gong-ja drinks caramel macchiato. Count is over 40 but looks 20s due to elixirs. Count is wealthiest person in tower."
+  },
+  {
+    "chapter": 21,
+    "characters": ["Kim Gong-ja", "Count", "Venomous Snake (Rank 5, Chen Mu-mun)", "Heretic Questioner (Rank 4, Ten Thousand Temple)", "Crusader (Rank 8, Civil Militia)", "Black Witch (Rank 2, Black Dragon)", "Bae Hu-ryeong"],
+    "events": ["All top guild masters gather to negotiate for Kim Gong-ja", "Kim Gong-ja suggests poker game to decide guild membership", "Winner gets exclusive rights, loser gets shared membership", "Kim Gong-ja uses Bae Hu-ryeong's ability to see cards to cheat", "Kim Gong-ja wins poker game against all guild masters"],
+    "locations": ["Starbucks cafe", "Babylon 1st floor city"],
+    "skills": ["Lie Detection (Crusader's skill, revealed later)", "Heretic Questioner's holy techniques", "Witch's mirror skills", "Count's wealth/snail pouch item"],
+    "deaths": [],
+    "loops": [],
+    "cause_effect": ["Kim Gong-ja's poker game strategy allows him to join all guilds equally", "By cheating with Bae Hu-ryeong's help, he gains equal status with all guild masters", "Heretic Questioner and others suspect cheating but can't prove it"],
+    "notes": "Kim Gong-ja reveals he knows future information about 11th-20th floors being 'Play' themed. Top guild masters' personalities established."
+  },
+  {
+    "chapter": 22,
+    "characters": ["Kim Gong-ja", "Venomous Snake", "Black Witch", "Crusader", "Heretic Questioner", "Count", "Bae Hu-ryeong"],
+    "events": ["Poker game continues, Kim Gong-ja eliminates Venomous Snake", "Crusader reveals she knew Kim Gong-ja was cheating but accepts it", "Kim Gong-ja faces Black Witch in final round", "Kim Gong-ja wins with full house against Witch's flush", "Kim Gong-ja gains equal status with all five guilds"],
+    "locations": ["Starbucks cafe"],
+    "skills": ["Various guild masters' combat abilities discussed", "Witch's black Aura"],
+    "deaths": [],
+    "loops": [],
+    "cause_effect": ["Crusader's acceptance of cheating shows pragmatic approach", "Witch's personal backstory (Ukraine, war refugee) revealed", "Kim Gong-ja's ambition to clear all floors to 100th revealed", "Winning poker game establishes Kim Gong-ja as political equal"],
+    "notes": "Crusader is female (note from translator). Witch reveals she's from Ukraine. Kim Gong-ja reveals his ultimate goal: clear 100th floor."
+  },
+  {
+    "chapter": 23,
+    "characters": ["Kim Gong-ja", "Sword Saint (Marcus Calenberry)", "Heretic Questioner", "Crusader", "Bae Hu-ryeong", "Goddess NPC"],
+    "events": ["11th floor opens with countdown and fireworks", "Goddess NPC announces end of tutorial", "Sword Saint tests if goddess is real by cutting her with sword", "Hunters begin 'Transmit' to 11th floor", "Kim Gong-ja arrives on 11th floor - large battlefield", "Supply Route Defense quest given", "Sword Saint leads battle against monster army"],
+    "locations": ["Babylon 1st floor square", "11th floor battlefield - Aegim Empire port", "Aegim Empire"],
+    "skills": ["Heretic Questioner's Holy Technique: Inner God", "Sword Saint's blue Aura sword technique"],
+    "deaths": [],
+    "loops": [],
+    "cause_effect": ["Clearing 10th floor triggers tutorial end and 11th floor opening", "Goddess NPC explains new quest structure", "11th floor introduces large-scale warfare instead of individual hunting"],
+    "notes": "Theme of 11th-20th floors is 'Play'/Devil King attack genre. Sword Saint is shown to be pragmatic/cynical about NPCs. Kim Gong-ja gets reward for 10th floor clear."
+  },
+  {
+    "chapter": 24,
+    "characters": ["Kim Gong-ja", "Crusader", "General Sarbast Aegim", "Bae Hu-ryeong", "Witch"],
+    "events": ["Kim Gong-ja gets 10th floor clear rewards: Blessing of War God (mini map)", "Hidden stage reward: Blessing of Human God (NPC directory)", "Blessing of Merchant God (chosen item)", "Kim Gong-ja chooses Holy Protection Sword (Legendary item)", "Kim Gong-ja copies General Sarbast's skill 'Discernment of the Battlefield' by dying", "Witch helps Kim Gong-ja teleport to boss monster", "Kim Gong-ja kills boss monster with one strike"],
+    "locations": ["11th floor battlefield", "Aegim Empire port city Kunkur"],
+    "skills": ["Discernment of the Battlefield (B)", "Holy Protection Sword (Legendary)", "Blessing of War God", "Blessing of Human God", "Blessing of Merchant God"],
+    "deaths": ["Kim Gong-ja asks General Sarbast to kill him (clean cut)", "Boss monster (head goblin) killed by Kim Gong-ja"],
+    "loops": ["Kim Gong-ja dies to copy NPC skill, returns 24 hours before", "Uses copied skill and minimap to efficiently clear 11th floor"],
+    "cause_effect": ["Copying NPC skills is possible, expanding Kim Gong-ja's strategy", "Holy Protection Sword gives authority over Aegim Empire NPCs", "Minimap + NPC directory + Holy Sword = overwhelming tactical advantage", "11th floor cleared with minimal casualties due to Kim Gong-ja's leadership"],
+    "notes": "Kim Gong-ja's status window shown: 5 skills. First time copying NPC skill. First legendary item obtained."
+  },
+  {
+    "chapter": 25,
+    "characters": ["Kim Gong-ja", "General Sarbast Aegim", "Bae Hu-ryeong", "Witch", "Sword Saint", "Heretic Questioner", "Venomous Snake", "Crusader", "Count"],
+    "events": ["Kim Gong-ja uses copied battlefield skill and Holy Sword to lead army", "Kim Gong-ja uses Goblin High Society skill to confuse goblin boss", "11th floor cleared with 0 casualties", "Contribution Rank: Kim Gong-ja #1, Sword Saint #2", "Top 10 rankers get early access to 12th floor rewards", "General Sarbast thanks Kim Gong-ja and asks him to protect empire"],
+    "locations": ["11th floor battlefield", "Aegim Empire"],
+    "skills": ["Discernment of the Battlefield (B)", "Goblin High Society (F)", "Holy Protection Sword (Legendary)"],
+    "deaths": ["Boss monster (high king goblin) decapitated by Kim Gong-ja"],
+    "loops": [],
+    "cause_effect": ["Kim Gong-ja's combination of skills allows efficient battlefield command", "Zero casualties on 11th floor due to his tactics", "Early access to 12th floor gives advantage in reward selection"],
+    "notes": "Kim Gong-ja feels 'like flying' from leading army. Bae Hu-ryeong calls him lazy for not training Aura. General Sarbast reveals prophecy about warriors from another world."
+  },
+  {
+    "chapter": 26,
+    "characters": ["Kim Gong-ja", "Bae Hu-ryeong", "Sword Saint", "Witch", "Heretic Questioner", "Venomous Snake", "Crusader", "Count"],
+    "events": ["Top rankers arrive at 12th floor - Imperial Palace of Aegim Empire", "Sword Saint immediately attacks Kim Gong-ja", "Heretic Questioner blocks Sword Saint's attack", "Guild masters unite against Sword Saint", "Crusader reveals her Lie Detection skill to mediate", "Sword Saint forced to back down"],
+    "locations": ["12th floor - Imperial Palace reception room"],
+    "skills": ["Sword Saint's Detective's Insight (kill count vision)", "Crusader's Lie Detection (A-)", "Heretic Questioner's Holy Techniques", "Witch's mirror skills", "Count's wealth-based techniques"],
+    "deaths": [],
+    "loops": [],
+    "cause_effect": ["Sword Saint sees Kim Gong-ja's high kill count (4093) and assumes he's mass murderer", "Guild masters protect Kim Gong-ja because of their deal", "Crusader's Lie Detection is the only skill Sword Saint trusts", "Heretic Questioner uses donated gold to enhance Crusader and Venomous Snake"],
+    "notes": "Sword Saint's kill count vision shows 4093 above Kim Gong-ja's head (from his 4093 suicides/deaths). First major tension between Sword Saint and guilds."
+  },
+  {
+    "chapter": 27,
+    "characters": ["Kim Gong-ja", "Sword Saint", "Crusader", "Witch", "Heretic Questioner", "Venomous Snake", "Count", "Bae Hu-ryeong"],
+    "events": ["Crusader uses Lie Detection to verify truth", "Sword Saint questions Kim Gong-ja about kill count", "Kim Gong-ja admits to killing one person (Flame Emperor)", "Crusader confirms Kim Gong-ja tells truth", "Sword Saint apologizes and bows to Kim Gong-ja", "Sword Saint reveals his skill: Detective's Insight (B-)"],
+    "locations": ["12th floor Imperial Palace reception room"],
+    "skills": ["Detective's Insight (B-) - shows opponent's kill count", "Lie Detection (A-) - Crusader's skill"],
+    "deaths": [],
+    "loops": [],
+    "cause_effect": ["Crusader's Lie Detection reveals Kim Gong-ja only killed one person (Flame Emperor)", "Sword Saint realizes his skill misled him - kill count includes self-deaths", "Sword Saint's apology shows his honorable nature", "Crusader's skill becomes key to resolving conflict"],
+    "notes": "Flame Emperor had lied about having Lie Detection - it was actually Crusader's skill. Sword Saint reveals his daughter was killed by murderer, explaining his obsession with kill counts."
+  },
+  {
+    "chapter": 28,
+    "characters": ["Kim Gong-ja", "Sword Saint", "Crusader", "Heretic Questioner", "Venomous Snake", "Count", "Witch", "Bae Hu-ryeong"],
+    "events": ["Sword Saint sincerely apologizes to Kim Gong-ja", "Kim Gong-ja asks Sword Saint to be his sparring partner", "Sword Saint becomes overly affectionate/grandfatherly", "Crusader confirms Sword Saint's sincerity with Lie Detection", "12th floor rewards appear - Goddess of Protection vs Devil King of Fall Rain"],
+    "locations": ["12th floor Imperial Palace"],
+    "skills": ["Lie Detection (A-)", "Detective's Insight (B-)"],
+    "deaths": [],
+    "loops": [],
+    "cause_effect": ["Kim Gong-ja's forgiveness gains Sword Saint's loyalty", "Sword Saint's grandfatherly behavior embarrasses Kim Gong-ja", "Reward choice creates tension between Goddess and Devil King paths"],
+    "notes": "Sword Saint offers to set Kim Gong-ja up with his granddaughter. Kim Gong-ja is uncomfortable with affection. First appearance of Devil King of Fall Rain reward option."
+  },
+  {
+    "chapter": 29,
+    "characters": ["Kim Gong-ja", "Bae Hu-ryeong", "Sword Saint", "Witch", "Heretic Questioner", "Venomous Snake", "Crusader", "Count"],
+    "events": ["12th floor rewards revealed: Goddess roles vs Devil King's offer", "Devil King offers: kill other top 10 rankers, skip to 99th floor", "Bae Hu-ryeong strongly warns against Devil King's offer", "Kim Gong-ja considers the offer seriously", "Kim Gong-ja ultimately rejects Devil King's offer"],
+    "locations": ["12th floor Imperial Palace"],
+    "skills": ["Goddess of Protection rewards: Chancellor, Supreme General, etc.", "Devil King of Fall Rain reward: skip to 99th floor after killing top 10"],
+    "deaths": [],
+    "loops": [],
+    "cause_effect": ["Devil King's offer is tempting but Bae Hu-ryeong reveals it's a trap", "Bae Hu-ryeong says 99th floor has no boss monster - something worse", "Kim Gong-ja's decision to reject shows strategic patience"],
+    "notes": "Flame Emperor likely fell for this trap and failed. Bae Hu-ryeong reveals he died on 99th floor. Kim Gong-ja's curiosity about 99th floor is piqued."
+  },
+  {
+    "chapter": 30,
+    "characters": ["Kim Gong-ja", "Bae Hu-ryeong", "Sword Saint", "Witch", "Heretic Questioner", "Venomous Snake", "Crusader", "Count"],
+    "events": ["Kim Gong-ja formally rejects all 12th floor rewards", "Sword Saint chooses 'Grand Master of Aegim Empire'", "Other guild masters choose their roles", "System reveals someone chose Devil King's reward", "Panic and suspicion erupt among hunters", "Heretic Questioner kills 3 innocent hunters suspecting betrayal"],
+    "locations": ["12th floor Imperial Palace reception room"],
+    "skills": ["Heretic Questioner's Holy Technique: Divine Transmission", "Witch's mirror skills"],
+    "deaths": ["3 innocent hunters killed by Heretic Questioner (8th, 9th, 10th rankers)"],
+    "loops": [],
+    "cause_effect": ["Someone choosing Devil King's reward triggers suspicion and paranoia", "Heretic Questioner's violent response shows his true nature", "Kim Gong-ja's rejection of rewards protects him from being suspect", "Crusader's Lie Detection becomes crucial to finding betrayer"],
+    "notes": "First major tragedy in alliance. Devil King's reward creates 'Mafia game' scenario. Kim Gong-ja realizes giving up reward was correct choice."
+  }
+]

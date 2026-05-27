@@ -1,0 +1,369 @@
+---
+chapter: 213
+title: 208. Cheat(1)
+word_count: 2336
+character_count: 13346
+source_url: https://novelfire.net/book/sss-class-suicide-hunter/chapter-213
+parsed_at: 2026-05-27T17:44:00.657741
+characters: []
+events: []
+locations: []
+skills: []
+deaths: []
+loops: []
+cause_effect: []
+---
+
+====================
+
+Translator: Seven
+
+1.
+
+"I researched it like wife asked"
+
+Raviel slammed a pile of newspapers down.
+
+"Did you manage to find anything?"
+
+"Right. She's a pretty famous student."
+
+The newspapers had been marked with a light green highlighter. The words [Mother Ja], [Miss J] and [Ja Soo-jung] were all underlined in the bright color. They had even exposed the real name of a minor.
+
+The media in this era.
+
+"She's more famous by her nickname than her name. They call her [The Ghost Seeing Detective]. Even if you stop a random person on the street and ask, one in two people will know her."
+
+"It's like that even when she hasn't been on a public TV show…"
+
+"The younger they are, the more likely they are to know her. In particular, almost all the high school and middle school students know her. They might not know her personally, but at least they know [The Ghost Seeing Detective]."
+
+It didn't seem to be a kind form of attention.
+
+"Most of them responded [Ah, that fraud?]. It's pitiful. It seems that child you call the Tower Master isn't very popular."
+
+"…a fraud."
+
+It had been two days since I met the Tower Master.
+
+Uburka and Raviel had traced my aura. I introduced them to Ja Soo-jung as the Tower Master. Although they were surprised, they decided to stay here with me for now.
+
+When I asked if it would be okay for us to stay for a while, [Ja Soo-jung, Class A 3rd Year Shinseo Middle School] nodded expressionlessly.
+
+「Yes. That's fine. There are a lot of empty rooms here. Please stay as you like.」
+
+However, there was a condition.
+
+「Please ask for my permission before entering the warehouse. And please try to not walk around the house after 1 am. That's the time for the kids to play.」
+
+I quietly accepted her words.
+
+No matter how big my liver was, I was still not brave enough to play with ghosts.
+
+The fact that my aura didn't work was already a mystery in itself.
+
+"12 administrative measures. And at least 8 civil suits."
+
+Raviel furrowed her eyebrows.
+
+"Considering her young age, she's experiencing too many unnecessary troubles. This might be why she is considered a fraud… It's amazing that she can see ghosts. Gong-ja, is she really the Tower Master?"
+
+"Yeah. I'm certain."
+
+Tak, tak, tak, tak.
+
+A kitchen knife danced on a cutting board.
+
+Tower Master.
+
+In this world, the middle school student named Ja Soo-jung cut raw chicken with her back turned to us. She was preparing dinner, and Uburka was helping from the side.
+
+"To be honest, I noticed a few strange things when attacking this stage."
+
+"Strange things?"
+
+"Yes. Originally, this world was the place that embodied the Constellation Killer's trauma."
+
+Earlier, on the 50th floor, I'd faced the Constellation Killer.
+
+I managed to kill one of the Constellation Killer's puppets, but I was killed in the end.
+
+And when I died, I managed to catch a glimpse of the true nature of the Constellation Killer's trauma. That was the essence of [Ascension City – Side story]
+
+"As soon as the trauma materialized, I heard the Tower's voice."
+
+I wrote in my notebook.
+
+Warning.
+
+The trauma of the enemy who killed you is being materialized.
+
+The data necessary for materialization will be extracted from your memories.
+
+The last sentence was the most important part.
+
+"The landscape painting that is this world is a painting of the Constellation Killer's, but all the paint used to paint it came from me. So all of the characters took the appearances of people I knew."
+
+The Class President was the Black Dragon Master.
+
+The Student Council President was Raviel.
+
+My mother and father were my respected Master and Bae Hu-ryeong respectively.
+
+However, there was only one – one person that [I didn't remember].
+
+"Kim Yul's face didn't change."
+
+"Hmm."
+
+"I had no idea what face the Constellation Killer had in his previous life. Since I don't know, I couldn't have remembered. And yet, in the trauma world, Kim Yul had taken his true form from the beginning."
+
+Raviel stroked her chin.
+
+"…that certainly is strange. If the data had been extracted from wife's memories then it should have also changed Kim Yul's face to [someone you know]."
+
+"That's right. So that only leaves one conclusion. Kim Yul was extracted from [different data], not from my memories. It was borrowed from someone else's memories. And I'm pretty sure the [other person] is the Tower Master."
+
+"On what basis?"
+
+"This."
+
+I lifted my pencil.
+
+"When I cleared this world, the Tower said something strange."
+
+I tried to recreate the voice as best as I could.
+
+The clear requirements have been achieved.
+
+Considering the uniqueness of this stage, requesting judgment.
+
+Judgment complete.
+
+The Lord of Manseng accepts the clearing.
+
+"Until now, the Constellations were the ones in charge of whether a stage in the Tower was cleared or not. The Constellation in charge of the 21st to 30th floors was the [Head Librarian of the Universe]. It was Hamustra. But for some reason, the [Lord of Manseng] was the one to make the judgment of this world."
+
+"In other words, this stage was specially managed by the [Lord of Manseng] himself."
+
+I had more evidence.
+
+"Even after the stage clear was approved, I received a suspicious message."
+
+Today, the 29th floor Stage has been cleared.
+
+The Lord of Manseng announces instead of the Tower.
+
+Good work, everyone.
+
+May luck be with you all.
+
+There was a longer message in between those, but I couldn't remember it.(1)
+
+But this was enough.
+
+The [Lord of Manseng] himself had personally congratulated me.
+
+"There is no doubt about it. The Tower Master was in charge of this stage."
+
+I was confident in those words.
+
+"It was the Tower Master that manifested Kim Yul's face. According to the [The Lady Who Walks Through the Mirage], the Tower Master had once lived in this world. In place of the unhappiest person. And coincidentally, this child, Ja Soo-jung, knew Kim Yul."
+
+"…so you made the connection because they managed the farm together."
+
+"Yes."
+
+So Kim Yul was recreated using the memories of the Tower Master.
+
+The gap in the data disappeared.
+
+"That makes sense. However, if that little girl is the Tower Master, why has she lost her power and memory?"
+
+"…"
+
+I looked at the back of Ja Soo-jung in the kitche.
+
+Bubble.
+
+The chicken boiled in an old pot.
+
+"I can think of a few possibilities, but…"
+
+"What is it?"
+
+"From how I see it, the Tower Master is the type of person who doesn't interfere much with the affairs of the Tower. They won't show up unless it's absolutely necessary. I think the Tower Master might have placed a restriction like [Unless it's an urgent situation, I'll just be a normal person] on themself."
+
+I played with the pencil.
+
+Raviel rested her head on my shoulder and we looked down at the notebook together.
+
+About Trauma.
+
+"For example, Trauma. I can see the trauma of someone who killed me. This rule is basically guaranteed by [Returner's Clockwork Watch]. But it's still unclear what determines the nature of the trauma."
+
+Ssk.
+
+Two possibilities were written on the page.
+
+About Trauma.
+
+1. The Trauma the party remembers.
+
+2. Trauma that had a profound impact on the person's life, even if the person in question doesn't remember.
+
+"At first, I thought it was the first one, but…"
+
+"This world's stage practically denies number 1."
+
+"Yeah. Because the Constellation Killer [cannot remember] Kim Yul's trauma."
+
+So the answer was number 2.
+
+An event that had an impact on the person's life, regardless of whether they remembered it or not.
+
+That was what determined the nature of the Trauma my skills showed me.
+
+"The Tower, in the event of a contradiction, tries to solve it somehow. This is the contradiction that arose when the Constellation Killer's trauma was recreated."
+
+1. The past trauma of the Constellation Killer had to be recreated.
+
+2. But the Constellation Killer lost his past due to his skill.
+
+3. [Kim Gong-ja's skill to manifest trauma] and the [Constellation killer's skill which deleted his past] conflict with each other.
+
+4. A contradiction occurs.
+
+"The Tower recognised this as a crisis. So the Tower Master, who was living a life as the ordinary middle school student, Ja Soo-jung, was temporarily awakened to deal with the issue. The Tower Master came up with their own way to resolve the issue, but…"
+
+5. Because of the hurry, data was extracted from Kim Gong-ja's memories instead of the Constellation Killer.
+
+"They hesitated before completing the final piece of the puzzle. The Tower Master must have thought. Is it really okay to cover the origin of the trauma, Kim Yul, with someone else's face?"
+
+"…"
+
+"In the end, this place is [Kim Yul's trauma]. Even if there was no choice but to cover the faces of others… if even Kim Yul became another person, then it could no longer be called [Kim Yul's trauma]. It would be a lie."
+
+The Tower Master could not tolerate Kim Yul's face being changed to a different face.
+
+That was the type of person they were.
+
+In the end.
+
+6. The Tower Master used their own memory to reproduce Kim Yul's appearance.
+
+7. After the stage was cleared, the sealed their memory and power once again and continued living as the ordinary Ja Soo-jung.
+
+"I believe that this… is the truth of this world."
+
+"Indeed. There are still a few uncertainties, but… that's amazing."
+
+Raviel brushed my bangs aside.
+
+"You must be busy just climbing the Tower, but you still try to understand the truth by revisiting a path you already passed. That effort is your most brilliant talent. There is no Hunter more interested in the Tower than you."
+
+"Well. This is basic."
+
+"No, it's only possible because it's you. If it was someone else, they wouldn't have been able to gather any information on the Tower Master, and if it wasn't for your skill, you wouldn't have been able to attract the Tower Master's attention. You should be proud of that."
+
+Raviel praised me.
+
+Uhihihi.
+
+"Gong-ja. What do you plan to do now? Even if this girl is the Tower Master, she has no power nor memory. Her ability to see ghosts is amazing, but that's it."
+
+Mm.
+
+"If my reasoning is correct… There should be a way to make the [Lord of Manseng] appear again."
+
+"Hoh?"
+
+"Contradictions created by skills cannot be solved by the Tower on its own. It would need the Tower Master's judgment. So if I cause another contradiction, the Tower Master will appear."
+
+"That makes sense. But how exactly do you plan to create a contradiction?"
+
+"…I will die at Ja Soo-jung's hands."
+
+"…"
+
+Raviel's lips closed.
+
+I spoke quickly.
+
+"There will be a problem with the manifestation of the Trauma. Trauma highlights an even that had a major impact on the life of the person in question. Regardless of if they remember or not. In other words…"
+
+Ja Soo-jung(Tower Master)'s trauma.
+
+1. The trauma of the middle school student Ja Soo-jung living in this world.
+
+2. The trauma of the Tower Master before they started living as Ja Soo-jung.
+
+"There will be a conflict. Because the Tower won't know which trauma to show me."
+
+"…"
+
+"If we were to follow the Constellation Killer's example, the right choice would be to show me the [Tower Master's trauma]. That was the source. This is a chance to get close to the truth and identity of the Tower Master who created and governs this tower before even reaching the 50th floor."
+
+"…"
+
+"This might be the first and last chance."
+
+Tuk. Tuk.
+
+Raviel tapped the table with her fingers.
+
+"…how can you be so sure that it's your last chance? If you go to the 50th, 60th or 70th floors, you might be able to find some secrets about the Tower Master."
+
+"I'm certain."
+
+I glanced at the side.
+
+Bae Hu-ryeong, who was listening to our conversation, folded his arms.
+
+-Mm.
+
+He wrinkled the tip of his nose.
+
+-I reached the 99th floor. But I never met anyone like a Tower Master. Even the existence of a [Pillar] was something I only learned after meeting Kim Zombie.
+
+This was the testimony of an experienced person.
+
+-If you compare this to a game, you'll probably be able to see the ending if you go up to the 100th floor. And I'm sure there must be a prize there suitable for the ending. However, the [developer who created the game] has nothing to do with the ending, do they? In the end, the identity of the developer, and their life story, don't matter.
+
+I can't be 100 percent certain since I didn't manage to reach the 100th floor, but… the 100th floor probably has nothing to do with the Tower Master.
+
+I nodded.
+
+"Yes. My Bae Hu-ryeong says that there was no information about the Tower Master at least up to the 99th floor."
+
+This had nothing to do with the progress in the Tower.
+
+In other words, it was an Easter Egg.
+
+It was just information about the creator of the Tower, the developer of the stages.
+
+"I want to know the identity of the Tower Master."
+
+"…"
+
+"Why that person made the Tower. How they made the Tower. Why they would want to live the life of the unhappiest person in the world… If there is a chance to know. I'd like to seize the opportunity."
+
+"And this is your last chance."
+
+"Yes. I think so."
+
+The secret of creation.
+
+The life of the creator.
+
+I think it was worth a life.
+
+"Raviel."
+
+I carefully looked into Raviel's eyes.
+
+"Please allow me to die to that child."
+
+(Note.
+
+1.For those curious, it was 'Though I am on everyone's side, with this much, others would also turn a blind eye. I am a little more generous to those who struggle.'

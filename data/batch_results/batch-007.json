@@ -1,0 +1,542 @@
+{
+  "batch": 7,
+  "chapters": [
+    {
+      "chapter": 91,
+      "characters": [
+        "Death King (Kim Gongja)",
+        "Bae Hu-ryeong (Sword Emperor)",
+        "Librarian (Bang Gu-seok)",
+        "Bloody Demon",
+        "Compassion Sword (fragment of Guardian Goddess)",
+        "Black Dragon (Constellation)"
+      ],
+      "events": [
+        "Compassion Sword tests Gongja's worth by examining his memories",
+        "Gongja proves his compassion and absorbs the black dragon's blade",
+        "Black Dragon corpse dissolves, ending winter and bringing spring",
+        "Librarian reveals his dream: to appear as a character in the Epic of Lefanta Aegim",
+        "Heavenly Demon's body disappears, leaving red peony flowers in its place",
+        "Gongja challenges cult members to sword matches instead of a funeral"
+      ],
+      "locations": [
+        "Yellow Dragon Mountain peak",
+        "Demonic Cult headquarters",
+        "Snowy mountain with melting snow"
+      ],
+      "skills": [
+        "Compassion Sword (new ability: inflicts pain without physical wounds)",
+        "Holy Sword (absorbs sister blade)"
+      ],
+      "deaths": [
+        "Black Dragon (final dissolution of corpse)"
+      ],
+      "loops": [],
+      "cause_effect": [
+        "Gongja's willingness to show his memories earns the Compassion Sword's loyalty",
+        "Absorbing the sword fragment ends the eternal winter of the Murim world",
+        "The Librarian admires Lefanta Aegim and wants to appear in his story",
+        "Heavenly Demon's pure energy transforms into peonies, symbolizing spring"
+      ],
+      "notes": "The Librarian is a fan of the Constellation Killer (Lefanta Aegim) and wants to be killed by him. The chapter ends with spring coming to the Murim world and Gongja becoming the Young Master of the Demonic Sect."
+    },
+    {
+      "chapter": 92,
+      "characters": [
+        "Death King",
+        "Venomous Snake",
+        "Alchemist",
+        "Medicine King",
+        "Sword Saint",
+        "Witch (Black Dragon Witch)",
+        "Librarian",
+        "Heretic Questioner",
+        "Count",
+        "Crusader"
+      ],
+      "events": [
+        "Venomous Snake moves Chen Mu-mun headquarters to 22nd floor",
+        "Alchemist opens new pharmacy on 20th floor with Death King's help",
+        "Medicine King jealous of Alchemist's success",
+        "25th floor attack team fails - Count and Crusader die",
+        "Tale of Sormwyn Academy (Romance Fantasy) introduced as next Apocalypse",
+        "Librarian reveals he prepared perks for Death King (character windows)"
+      ],
+      "locations": [
+        "Great Library",
+        "20th floor (new pharmacy)",
+        "22nd floor (Chen Mu-mun headquarters)",
+        "25th floor (failed attack)"
+      ],
+      "skills": [
+        "Character Window (perk from Librarian)"
+      ],
+      "deaths": [
+        "Count (killed in 25th floor attack)",
+        "Crusader (killed in 25th floor attack)",
+        "Multiple unnamed hunters"
+      ],
+      "loops": [
+        "Death King regresses to before the attack team decision"
+      ],
+      "cause_effect": [
+        "Count and Crusader failed because they were consumed by character immersion",
+        "Death King realizes he must take charge of the romance stage himself",
+        "The Heretic Questioner is chosen for his appearance despite being a psychopath"
+      ],
+      "notes": "The 25th floor Apocalypse is a romance fantasy where the villainess's fiance was stolen by a reincarnated girl. Death King decides to challenge it to save his colleagues and find Holy Sword fragments."
+    },
+    {
+      "chapter": 93,
+      "characters": [
+        "Death King",
+        "Heretic Questioner",
+        "Witch",
+        "Crusader",
+        "Count",
+        "Librarian"
+      ],
+      "events": [
+        "Death King takes command of 25th floor attack team",
+        "Chooses Heretic Questioner as partner despite objections",
+        "Librarian gives three cards: Facial Recognition Barrier, Overhearing Secrets, Oops I Said Wrong Thing",
+        "Death King and Heretic Questioner enter the Apocalypse",
+        "Heretic Questioner becomes the Lady of the Golden Silk",
+        "Death King becomes the butler"
+      ],
+      "locations": [
+        "Great Library",
+        "Sormwyn Academy (Apocalypse world)"
+      ],
+      "skills": [
+        "Facial Recognition Barrier Card",
+        "What a coincidence! Overhearing crucial secrets! Card",
+        "Oops! I shouldn't have said this! I said something wrong! Card"
+      ],
+      "deaths": [],
+      "loops": [],
+      "cause_effect": [
+        "Death King's rank and prophecy reputation convince others to let him lead",
+        "Heretic Questioner's angelic appearance makes him suitable for romance",
+        "The Librarian prepared special romance-themed cards for this stage"
+      ],
+      "notes": "The Apocalypse assigns roles: Heretic Questioner is the female protagonist (Sylvia Evanail), Death King is her butler. The villainess (Lady of Silver Lily) slaps Heretic Questioner at the ball."
+    },
+    {
+      "chapter": 94,
+      "characters": [
+        "Death King",
+        "Heretic Questioner (as Lady of Golden Silk)",
+        "Lady of the Silver Lily (Raviel Ivansia)",
+        "Crown Prince"
+      ],
+      "events": [
+        "Heretic Questioner uses Sacred Technique Transformation to become more feminine",
+        "Assassins attack through the window",
+        "Death King and Heretic Questioner defeat the attackers",
+        "Crown Prince arrives to 'rescue' them",
+        "Death King deduces the prince orchestrated the attack"
+      ],
+      "locations": [
+        "Warehouse/prison at Sormwyn Academy",
+        "Ballroom"
+      ],
+      "skills": [
+        "Sacred Technique: Transformation (Heretic Questioner)",
+        "Holy Sword"
+      ],
+      "deaths": [
+        "1 assassin (killed by Heretic Questioner)"
+      ],
+      "loops": [],
+      "cause_effect": [
+        "The prince's genuine concern reveals he cares for the Lady of Golden Silk",
+        "The attackers knew exactly where to find them, suggesting inside information",
+        "Death King's detective skills impress the Heretic Questioner"
+      ],
+      "notes": "The crown prince has ramen-like blond hair and is described as superficial. Death King and Heretic Questioner establish code words to maintain their identities."
+    },
+    {
+      "chapter": 95,
+      "characters": [
+        "Death King",
+        "Heretic Questioner (as Lady of Golden Silk)",
+        "Lady of the Silver Lily (Raviel Ivansia)",
+        "Crown Prince"
+      ],
+      "events": [
+        "Introduction of Lady of Golden Silk (Sylvia Evanail) and Lady of Silver Lily (Raviel Ivansia) backgrounds",
+        "Crown prince shows favoritism to Lady of Golden Silk",
+        "Immersion rate system revealed - Death King at 3%, Heretic Questioner at 10%",
+        "Death King sarcastically implies prince set up the raid",
+        "Lady of Silver Lily confronts them in the hallway"
+      ],
+      "locations": [
+        "Sormwyn Academy corridors",
+        "Gardens with magnolias"
+      ],
+      "skills": [
+        "Character Window (Death King can see psychological states)"
+      ],
+      "deaths": [],
+      "loops": [],
+      "cause_effect": [
+        "The more they act like their characters, the deeper the immersion",
+        "The prince's jealousy and protectiveness drive the plot",
+        "Lady of Silver Lily's presence causes immediate tension"
+      ],
+      "notes": "The two ladies have opposing epithets from the emperor: Golden Silk (heroine) and Silver Lily (villainess). The crown prince is officially engaged to the Lady of Silver Lily but loves the Lady of Golden Silk."
+    },
+    {
+      "chapter": 96,
+      "characters": [
+        "Death King",
+        "Heretic Questioner (as Lady of Golden Silk)",
+        "Lady of the Silver Lily (Raviel Ivansia)",
+        "Crown Prince",
+        "Flame Emperor (Yoo Sooha, summoned ghost)"
+      ],
+      "events": [
+        "Lady of Silver Lily and Lady of Golden Silk exchange barbs",
+        "Death King establishes password: 'When spring comes, magnolias fall'",
+        "Bad girl/bad butler strategy to reduce immersion",
+        "Summon Flame Emperor to teach how to be bad",
+        "Plan to break the prince's love line"
+      ],
+      "locations": [
+        "Sormwyn Academy garden",
+        "Lady of Golden Silk's quarters"
+      ],
+      "skills": [
+        "Hundred Ghosts Reincarnation (summons Flame Emperor)",
+        "Character Window"
+      ],
+      "deaths": [],
+      "loops": [],
+      "cause_effect": [
+        "Acting out of character slows or reverses immersion",
+        "The Flame Emperor's personality is used as a template for bad behavior",
+        "Death King realizes breaking love is easier than creating it"
+      ],
+      "notes": "The Heretic Questioner is surprisingly good at playing the bad girl. Death King makes salty tea to fight immersion."
+    },
+    {
+      "chapter": 97,
+      "characters": [
+        "Death King",
+        "Heretic Questioner (as Lady of Golden Silk)",
+        "Crown Prince",
+        "Flame Emperor (ghost)"
+      ],
+      "events": [
+        "Heretic Questioner insults 14 ladies, causing them to faint ('Is Your Head Well' incident)",
+        "Servants challenge Death King to duels for honor",
+        "Heretic Questioner charges 5 gold coins per duel",
+        "Death King beats multiple servants easily",
+        "Crown prince arrives and is outmaneuvered by the bad butler act",
+        "Heretic Questioner rejects prince's advances with fan"
+      ],
+      "locations": [
+        "Road to Sormwyn Academy",
+        "Academy garden",
+        "Main building"
+      ],
+      "skills": [
+        "Holy Sword",
+        "Flame Emperor's bad attitude (teaching method)"
+      ],
+      "deaths": [],
+      "loops": [],
+      "cause_effect": [
+        "The bad girl act successfully reduces immersion rate increases",
+        "Charging for duels subverts romance expectations",
+        "The prince's love persists despite the bad behavior"
+      ],
+      "notes": "The Heretic Questioner enjoys being bad. The 'Is Your Head Well' incident becomes legendary. Death King's immersion is at 6%."
+    },
+    {
+      "chapter": 98,
+      "characters": [
+        "Death King",
+        "Heretic Questioner (as Lady of Golden Silk)",
+        "Lady of the Silver Lily (Raviel Ivansia)",
+        "Crown Prince",
+        "Bae Hu-ryeong"
+      ],
+      "events": [
+        "Crown prince and Heretic Questioner do synchronized laughter (ohoho/mwahaha)",
+        "Bae Hu-ryeong explains that love cannot always be cut easily",
+        "Lady of Silver Lily invites them for a walk",
+        "Leads them to basement where three servants are tied up",
+        "Reveals she captured the real culprits behind the assassination",
+        "Shows her scarred arms from self-punishment"
+      ],
+      "locations": [
+        "Sormwyn Academy garden",
+        "Lady of Silver Lily's villa",
+        "Basement torture room"
+      ],
+      "skills": [],
+      "deaths": [],
+      "loops": [],
+      "cause_effect": [
+        "The prince is revealed as the true mastermind but Lady of Silver Lily covers for him",
+        "Lady of Silver Lily takes blame to protect the prince (her loyalty/fiance)",
+        "Her scarred arms show history of taking punishment for others' sins",
+        "Death King's immersion rises to 7% from fascination with Lady of Silver Lily"
+      ],
+      "notes": "The Lady of Silver Lily is not simply evil - she is complex and sacrifices herself for the prince. Death King feels instinctive attraction/obsession toward her."
+    },
+    {
+      "chapter": 99,
+      "characters": [
+        "Death King",
+        "Heretic Questioner (as Lady of Golden Silk)",
+        "Lady of the Silver Lily (Raviel Ivansia)",
+        "Crown Prince"
+      ],
+      "events": [
+        "Lady of Silver Lily forces prince to execute the servants",
+        "Prince tries to flee but Death King blocks him",
+        "Heretic Questioner executes one servant easily",
+        "Death King forces prince to hold sword and kills last servant",
+        "Prince breaks down and runs away",
+        "Death King's immersion rises to 9%"
+      ],
+      "locations": [
+        "Lady of Silver Lily's villa basement"
+      ],
+      "skills": [],
+      "deaths": [
+        "3 servants (executed by Lady of Silver Lily, Heretic Questioner, and Death King)"
+      ],
+      "loops": [],
+      "cause_effect": [
+        "Lady of Silver Lily creates false testimony to protect the prince's reputation",
+        "The prince's cowardice is fully exposed",
+        "Death King's butler instincts merge with his own feelings of anger at the prince",
+        "The execution scene bonds the four characters in shared guilt/secrecy"
+      ],
+      "notes": "Death King realizes he wants to understand the Lady of Silver Lily. The chapter explores themes of loyalty, sacrifice, and the weight of sin."
+    },
+    {
+      "chapter": 100,
+      "characters": [
+        "Death King",
+        "Heretic Questioner (as Lady of Golden Silk)",
+        "Lady of the Silver Lily (Raviel Ivansia)",
+        "Bae Hu-ryeong"
+      ],
+      "events": [
+        "Lady of Silver Lily absent from academy (illness)",
+        "Death King and Heretic Questioner have tea in the garden",
+        "Heretic Questioner reveals his past: 1st generation Hunter massacre",
+        "4,653 people died first night, then tens of thousands more",
+        "Black Dragon Witch, Count, Venomous Snake, Sword Saint all participated",
+        "Sword Saint resigned from Civil Militia commander position",
+        "Heretic Questioner feels regret for first time due to immersion",
+        "Death King decides he cannot kill someone who knows regret",
+        "Heretic Questioner's immersion reaches 50%"
+      ],
+      "locations": [
+        "Sormwyn Academy garden",
+        "Lady of Golden Silk's quarters"
+      ],
+      "skills": [
+        "Sacred Technique: Hidden Spirit (makes things disappear)",
+        "Ten Thousand Temple"
+      ],
+      "deaths": [
+        "4,653 people (first night of 1st generation cleanup)",
+        "10,171 people (second night)",
+        "8,275 people (third night)",
+        "7,412 people (fourth night)",
+        "23,781 people (fifth night)"
+      ],
+      "loops": [],
+      "cause_effect": [
+        "The 1st generation Hunters committed massacres to stabilize the Tower",
+        "The Heretic Questioner's psychopathy stems from being able to erase evidence easily",
+        "Immersion gives him emotions for the first time, making him feel regret",
+        "Death King realizes the Heretic Questioner is redeemable"
+      ],
+      "notes": "This is a major backstory chapter revealing the dark history of the Tower's early days. The Heretic Questioner is from Bulgaria and is a first-generation Hunter."
+    },
+    {
+      "chapter": 101,
+      "characters": [
+        "Death King (Kim Gongja)",
+        "Lady of the Silver Lily (Raviel Ivansia)",
+        "Bae Hu-ryeong"
+      ],
+      "events": [
+        "Lady of Silver Lily reveals she is a regressor in her 14th session",
+        "She repeats the last 10 days of her life forever",
+        "Gongja reveals he is also a regressor but dies to go back 24 hours",
+        "He explains his trauma-viewing ability",
+        "Lady of Silver Lily agrees to teach him about love",
+        "Librarian grants 'skip the scene' for private conversation"
+      ],
+      "locations": [
+        "Lady of Silver Lily's office at Sormwyn Academy",
+        "Ivansia ducal residence"
+      ],
+      "skills": [
+        "Returner's Clockwork Watch",
+        "Corner Librarian's broadcasting"
+      ],
+      "deaths": [],
+      "loops": [],
+      "cause_effect": [
+        "Lady of Silver Lily recognizes Gongja as different from other 'actors' because he sees people as human",
+        "Gongja shares his secret to build trust with a fellow regressor",
+        "The Librarian (Hamustra) is revealed as a moderate Constellation",
+        "Lady of Silver Lily's heart is 'silver-plated' - unable to love normally"
+      ],
+      "notes": "Raviel Ivansia is the true name of the Lady of the Silver Lily. She knows the Librarian's true name is Hamustra. She has poisoned previous apostles who tried to 'capture' her with strategy guides."
+    },
+    {
+      "chapter": 102,
+      "characters": [
+        "Death King (Kim Gongja)",
+        "Lady of the Silver Lily (Raviel Ivansia)",
+        "Gray-haired servant",
+        "Crown Prince"
+      ],
+      "events": [
+        "Gongja becomes Lady of Silver Lily's exclusive servant for one week",
+        "Lesson 1: Love starts like a bitch (both parties are flawed)",
+        "Lesson 2: If you can't avoid the bitch, enjoy what you can / Become a bigger bitch",
+        "Lady of Silver Lily water-wakes the crown prince at 5am",
+        "Gongja tears up the Librarian's strategy cards to show sincerity",
+        "Lady of Silver Lily applies lily perfume behind Gongja's ear",
+        "Immersion rate rises to 15%"
+      ],
+      "locations": [
+        "Lady of Silver Lily's dressing room",
+        "Crown Prince's bedroom",
+        "Parlor at crown prince's residence"
+      ],
+      "skills": [
+        "Facial Recognition Barrier Card (destroyed)",
+        "What a coincidence! Overhearing crucial secrets! Card (destroyed)",
+        "Oops! I shouldn't have said this! Card (destroyed)"
+      ],
+      "deaths": [],
+      "loops": [],
+      "cause_effect": [
+        "The Lady of Silver Lily's lessons are cynical but practical",
+        "Destroying the cards proves Gongja's sincerity to her",
+        "The perfume scene creates romantic tension and raises immersion",
+        "The crown prince is portrayed as lazy and unworthy of her love"
+      ],
+      "notes": "The Lady of Silver Lily has dull taste buds and likes exciting food. She is pragmatic and prefers political conversations. The 'love equation': Handsome < Smart < Bitch."
+    },
+    {
+      "chapter": 103,
+      "characters": [
+        "Death King (Kim Gongja)",
+        "Lady of the Silver Lily (Raviel Ivansia)",
+        "Bae Hu-ryeong",
+        "Shiny (Holy Sword)"
+      ],
+      "events": [
+        "Gongja is lovestruck, thinking about Raviel constantly",
+        "Bae Hu-ryeong teases him about being struck by love",
+        "Shiny strikes Gongja's head to bring him back to senses",
+        "Lady of Silver Lily takes Gongja to see her secret at night",
+        "She reveals the Sword of Prayer embedded in a mirror",
+        "Explains she stabbed her heart to make her love last forever",
+        "Her heart is now immortal/silver-plated, but she has no heart to give",
+        "Blood demons form from the mirror"
+      ],
+      "locations": [
+        "Sormwyn Academy garden (daytime)",
+        "Lady of Silver Lily's residence hallway (night)"
+      ],
+      "skills": [
+        "Sword of Prayer (fragment of Guardian Goddess - 3rd sister)",
+        "Infernal Heavens Demonic Art"
+      ],
+      "deaths": [],
+      "loops": [],
+      "cause_effect": [
+        "Gongja falls in love with Raviel despite (or because of) her cynicism",
+        "The Sword of Prayer grants wishes by stabbing the heart",
+        "Raviel's wish for eternal love made her a semi-Constellation",
+        "The blood demons are her familiars, born from her suppressed negative emotions"
+      ],
+      "notes": "Gongja's immersion rate reaches 30%. The Lady of Silver Lily's mother's trauma is hinted at. The mirror bleeds because of her heart's condition."
+    },
+    {
+      "chapter": 104,
+      "characters": [
+        "Death King (Kim Gongja)",
+        "Lady of the Silver Lily (Raviel Ivansia)",
+        "Bae Hu-ryeong",
+        "Shiny (Holy Sword)"
+      ],
+      "events": [
+        "Blood demons manifest at midnight - tongues, lips, hands",
+        "Demons reenact past memories like a play (crown prince's childhood proposal)",
+        "Gongja uses Infernal Heavens Demonic Art 8th form: Sword of Incineration",
+        "Lady of Silver Lily reveals she became a Constellation when she stabbed her heart",
+        "The world has no original Constellation (or it was killed by Lefanta Aegim)",
+        "The demons grow stronger each day, and on the 10th day they destroy the world",
+        "Gongja declares he will make her love him and free her from the eternal loop"
+      ],
+      "locations": [
+        "Lady of Silver Lily's residence hallway",
+        "Mirror chamber"
+      ],
+      "skills": [
+        "Infernal Heavens Demonic Art - 8th form: Sword of Incineration"
+      ],
+      "deaths": [],
+      "loops": [],
+      "cause_effect": [
+        "The blood demons are Raviel's familiars and represent her suppressed feelings",
+        "She became a semi-Constellation accidentally through the sword fragment",
+        "Gongja realizes he loves her and wants to understand her",
+        "The 10-day loop is caused by her wish and the sword's power"
+      ],
+      "notes": "Bae Hu-ryeong notes her ascension is an 'evil path' like a demonic cultivation. The demons don't resist because they recognize allies. The chapter ends with Heretic Questioner/Lady of Golden Silk arriving."
+    },
+    {
+      "chapter": 105,
+      "characters": [
+        "Death King (Kim Gongja)",
+        "Lady of the Silver Lily (Raviel Ivansia)",
+        "Heretic Questioner (as Lady of Golden Silk)",
+        "Crown Prince"
+      ],
+      "events": [
+        "Heretic Questioner arrives at midnight to reclaim 'his butler'",
+        "Lady of Silver Lily orders caning for trespassing",
+        "The two ladies confront each other - sun and moon metaphor",
+        "Heretic Questioner shows signs of complete immersion (longer hair, different personality)",
+        "Lady of Silver Lily canes the Lady of Golden Silk",
+        "Crown prince arrives and takes Lady of Golden Silk's side",
+        "Gongja chooses to stay with Lady of Silver Lily",
+        "Character window reveals Heretic Questioner is 90% immersed",
+        "Gongja's immersion rises to 43%"
+      ],
+      "locations": [
+        "Lady of Silver Lily's garden (night)",
+        "Ivansia residence"
+      ],
+      "skills": [
+        "Character Window (reveals Heretic Questioner's immersion at 90%)"
+      ],
+      "deaths": [],
+      "loops": [],
+      "cause_effect": [
+        "The Heretic Questioner is being consumed by the Lady of Golden Silk character",
+        "Lady of Silver Lily uses law and hierarchy to justify punishment",
+        "The crown prince shows his weakness by taking the easy way out",
+        "Gongja's choice to stay with Raviel increases his immersion but also his resolve"
+      ],
+      "notes": "The Heretic Questioner's character window shows Favorability 90, Favorite Genre [Romance], Hated Character [Raviel Ivansia]. The moon appears red with 'sand' (blood)."
+    }
+  ]
+}

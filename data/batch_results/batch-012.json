@@ -1,0 +1,167 @@
+[
+  {
+    "chapter": 166,
+    "characters": ["Kim Gongja/Death King (as lion)", "Bae Hu-ryeong", "Old goblin priest", "Gyari (deceased goblin warrior)", "Goblins"],
+    "events": ["Funeral for Gyari in secret cave temple", "Goblins share memories of deceased", "Old priest performs Fire Painting using red aura", "Death King witnesses Guru Doctrine and Fire Painting traits", "Realizes goblins are his children", "Decides on support not salvation"],
+    "locations": ["32nd floor underground cave", "Goblin secret temple"],
+    "skills": ["Fire Painting (art form)", "Guru Doctrine (religion)", "Red aura manipulation"],
+    "deaths": ["Gyari (goblin warrior killed in colosseum)"],
+    "loops": [],
+    "cause_effect": ["Goblins developed Fire Painting because mud was scarce in caves", "Only aura users can perform Fire Painting, making it endangered", "Death King's simple teachings (tattoos, drawings) led to complex culture"],
+    "notes": "Goblins don't separate life and death - only 'Guru' and 'Not Guru'. The old priest's fire art depicts anger (▲), sadness (▼), and darkness (●). Death King feels parental pride and fear."
+  },
+  {
+    "chapter": 167,
+    "characters": ["Kim Gongja/Death King", "Heretic Questioner", "Black Dragon Master", "Sword Saint", "Crusader", "Count", "Venomous Snake", "Gorke", "Old goblin priest"],
+    "events": ["6 hunters side with Death King, none with Heretic Questioner", "Death King buys 40 Oracle Messages", "Sends 'The White Lion is by your side' to 40 goblin leaders", "Old priest exhausts himself spreading message through caves", "Goblins begin shouting and rebelling in mines", "Death King possesses lion in colosseum", "Roars 'Guru!' triggering full rebellion"],
+    "locations": ["Rimepolis", "Salt mines", "Colosseum", "Goblin pits"],
+    "skills": ["Oracle Message (purchased 40 times)", "Animal Possession", "Prey Search"],
+    "deaths": [],
+    "loops": [],
+    "cause_effect": ["Oracle messages restore goblin hope and trigger rebellion", "Lion's roar confirms divine presence and breaks snail morale", "Heretic Questioner's 200-year rule begins to collapse"],
+    "notes": "The old priest uses last of his aura to amplify the oracle message through echoing caves. The rebellion starts in the mines and spreads."
+  },
+  {
+    "chapter": 168,
+    "characters": ["Kim Gongja/Death King (as lion)", "Heretic Questioner (as golden hound)", "Black Dragon Master (as black swan)", "Crusader (as pink dolphin)", "Snail soldiers", "Goblins"],
+    "events": ["Snails blow horns using dead snail shells", "Death King breaks cage and climbs central pillar", "Uses Infernal Heavens First Form to shatter snail religious pillar", "Heretic Questioner possesses golden hound and attacks", "Hound vs lion battle in dust cloud", "Black Dragon Master's black swan arrives", "Vampires, mermaids, sprites, elves, humans all rebel simultaneously", "Rimepolis falls to rebels"],
+    "locations": ["Rimepolis", "Central pillar", "Colosseum", "Port"],
+    "skills": ["Infernal Heavens Demonic Art - First Form: The Burning Young Sword", "Sacred Transformation Technique (Heretic Questioner)"],
+    "deaths": [],
+    "loops": [],
+    "cause_effect": ["Destroying the pillar destroys snail religious morale", "Heretic Questioner tries to buy time for snails to regroup", "Other five races rebel at same time, overwhelming snail empire"],
+    "notes": "The golden hound has jeweled teeth and perfumed oil, making it easy to track. Heretic Questioner admits he'll obey Death King if proven more capable."
+  },
+  {
+    "chapter": 169,
+    "characters": ["Kim Gongja/Death King (as lion)", "Black Dragon Master (as black swan)", "Heretic Questioner (as hound)", "Goblins", "Murmu (goblin warrior)"],
+    "events": ["Flashback to young goblins hearing about rain from elders", "Black swan helps lion fight golden hound", "Liberation messages appear for mines, red light district, temple, gate, barracks, port", "Mermaids eat snail overseers and sink ships", "Allied races share unified rage against snails", "Death King walks away without ordering revenge", "Goblins choose to follow him instead of killing snails"],
+    "locations": ["Rimepolis", "Port", "Plains outside cave"],
+    "skills": [],
+    "deaths": ["Many snail soldiers killed by rebels"],
+    "loops": [],
+    "cause_effect": ["Death King refuses to command revenge, letting goblins choose their own path", "Goblins' choice to follow rather than kill shows moral growth", "The escape from Rimepolis officially begins"],
+    "notes": "The six races finally share the same feeling: rage. But Death King demonstrates mercy by walking away, and the goblins follow his example."
+  },
+  {
+    "chapter": 170,
+    "characters": ["Kim Gongja/Death King (as lion)", "Bae Hu-ryeong", "Gorke", "Goblins"],
+    "events": ["Goblins exit cave, see sunset and sky for first time", "Goblin Race status updates: Extinction Grade B, 'We are fire'", "Death King buys Dream Appearance for 100 points", "Enters Gorke's dream as human form", "Teaches Gorke aura by beating him in dream (Shibal method)", "Gorke learns aura and becomes Fire Painting heir"],
+    "locations": ["Outside Rimepolis", "Guru (ruined village)", "Gorke's dream"],
+    "skills": ["Dream Appearance", "Shibal Aura Training Method (origin)", "Aura transfer/teaching"],
+    "deaths": [],
+    "loops": [],
+    "cause_effect": ["Fire Painting trait was at risk due to priest's death", "Dream teaching allows rapid aura learning without physical injury", "Gorke becomes heir and preserves goblin culture"],
+    "notes": "Gorke calls Death King a demon in dreams but accepts him after shoulder pat. The goblin race has proverb 'We are fire' - fire burns as one despite many directions."
+  },
+  {
+    "chapter": 171,
+    "characters": ["Kim Gongja/Death King (as lion)", "Bae Hu-ryeong", "Gorke", "Snail general", "Seimsalam (Helix Apostle heir)", "Goblins"],
+    "events": ["Three weeks into journey home", "Snail cavalry (dog-riding soldiers) chase goblins", "Snail general lies about suppressing other rebellions", "Death King uses Oracle Message to expose deceit", "Challenges snail general to honorable duel", "Forces Gorke to ride on his back", "Snail noble Seimsalam with 4 swords accepts challenge"],
+    "locations": ["Plains", "Riverside"],
+    "skills": ["Oracle Message", "Four Swords Style (snail)"],
+    "deaths": [],
+    "loops": [],
+    "cause_effect": ["Death King's Oracle Message exposes general's lies to snail army", "Honorable duel challenge raises goblin morale", "Gorke positioned as champion despite fear"],
+    "notes": "Snail nobility judged by number of tentacles. Seimsalam is from Lekamurime family. The general uses hound mucus adhesion instead of saddles."
+  },
+  {
+    "chapter": 172,
+    "characters": ["Kim Gongja/Death King (as lion)", "Gorke", "Seimsalam (snail noble)", "Bae Hu-ryeong"],
+    "events": ["Death King analyzes Four Swords Style", "Fights defensively to let Gorke observe", "Gorke finally punches Seimsalam with aura", "11 more challengers come forward", "Death King deliberately pauses between matches to show off Gorke", "Goblins' eyes open to beauty of dueling", "Trait 'Greed' changes to 'Competitive Spirit'", "Rain falls as 13th challenger defeated"],
+    "locations": ["Plains battlefield"],
+    "skills": ["Infernal Heavens Demonic Art", "Four Swords Style analysis", "Competitive Spirit trait (new)"],
+    "deaths": [],
+    "loops": [],
+    "cause_effect": ["Death King's humiliation of strong opponents builds goblin confidence", "Gorke's victories inspire desire for honor and challenge", "Rain arrives symbolically as goblins achieve emotional catharsis"],
+    "notes": "Competitive Spirit trait description: 'Life is only life when it flows into the world. If it must flow, I'd rather it be a stream.' Goblins now believe sword=faith, dueling=process, victory=proof."
+  },
+  {
+    "chapter": 173,
+    "characters": ["Kim Gongja/Death King (as lion)", "Bae Hu-ryeong", "Gorke", "Heretic Questioner/Bambolina", "Black Dragon Master", "Sword Saint", "Count", "Venomous Snake", "Crusader"],
+    "events": ["Goblins arrive at ruined Guru after one week", "Quest clears - rescued from Rimepolis", "Death King enters Gorke's dream to say farewell", "Reveals Kekerkker is friend not god", "Asks Gorke to teach others aura and spread truth", "Heretic Questioner declares Death King his master", "Reveals real name Bambolina, former mafia child", "Explains 11 years captivity and escape", "Admits to hesitating after Somerwin Academy", "Death King accepts and gives three orders: no killing, no torture, no locking up without permission"],
+    "locations": ["Guru (ruined)", "32nd floor waiting room", "Dreamscape"],
+    "skills": [],
+    "deaths": [],
+    "loops": [],
+    "cause_effect": ["Heretic Questioner's loss makes him recognize Death King's competence", "Death King's influence gave Heretic Questioner 'one second' of hesitation - first emotion", "Orders establish ethical boundaries for Heretic Questioner"],
+    "notes": "Heretic Questioner gives rusty lock as symbol. Death King calls him 'Mr. Pseudo Sect Leader.' The 'hope' conversation - Death King becomes Heretic Questioner's hope for experiencing emotions."
+  },
+  {
+    "chapter": 174,
+    "characters": ["Kim Gongja/Death King", "Heretic Questioner", "Black Dragon Master", "Sword Saint", "Count", "Venomous Snake", "Crusader", "The Lady Who Walks Through the Mirage"],
+    "events": ["Group discusses Heretic Questioner's betrayal", "Lady appears from floor", "Reveals rewards deferred until 40th floor", "Splits Heretic Questioner's 54,964 points among 6 survivors (9,160 each)", "Sword Saint gets extra 4 points", "Items can be bought in advance to affect future history", "Death King buys Race Evolution for 8,900 points", "Black Dragon Master copies his choice", "660 years pass"],
+    "locations": ["32nd floor waiting room", "33rd floor (battlefield)"],
+    "skills": ["Race Evolution (purchased)"],
+    "deaths": [],
+    "loops": [],
+    "cause_effect": ["Heretic Questioner's 200-year rule generated massive point accumulation", "Race Evolution will fundamentally change goblin civilization", "Lady hints that Death King knows more than he should about future"],
+    "notes": "The Lady mentions 'eating alone is as harmful as poisoning oneself' - hinting at need for shared knowledge. Death King recognizes his future knowledge privilege is ending after 40th floor."
+  },
+  {
+    "chapter": 175,
+    "characters": ["Kim Gongja/Death King", "Black Dragon Master", "Sword Saint", "Count", "Venomous Snake", "Crusader", "Allied soldiers", "Snail defenders"],
+    "events": ["Arrive on 33rd floor in middle of battlefield", "Can't fly anymore", "Multi-race alliance besieging Rimepolis (6th expedition)", "Humans=infantry, elves=archers, sprites=cavalry, vampires=aerial", "Black Dragon Master uses space transfer to scout with Death King", "Confirm Rimepolis is the Holy Land"],
+    "locations": ["33rd floor battlefield", "Rimepolis", "Allied camp"],
+    "skills": ["Space Transfer Technique (Black Dragon Master)"],
+    "deaths": ["Many soldiers in ongoing battle"],
+    "loops": [],
+    "cause_effect": ["Rimepolis is holy to all seven races because guardian gods descended there", "Alliance formed from former slaves against snail empire", "Flying restriction makes this floor more challenging"],
+    "notes": "The Lady mentions 'Neo-Babylonians' cult and R'lyeh reference. Black Dragon Master complains about becoming 'mama pig' for group transfers."
+  },
+  {
+    "chapter": 176,
+    "characters": ["Kim Gongja/Death King", "Black Dragon Master", "Sword Saint", "Count", "Venomous Snake", "Crusader", "Gerkesa (goblin warrior)", "Karajan (vampire commander)", "Goblin warriors"],
+    "events": ["Goblins arrive as third party at battlefield", "Evolved: nearly human-sized, sophisticated speech, ride lions", "Gerkesa declares goblins will end war, not join it", "Fire River Council mentioned", "Gorke is now 'apostle' in lore", "Kekerkker known as 'bad friend' not god", "Goblins set camp between both armies"],
+    "locations": ["Battlefield between allied camp and Rimepolis", "Goblin camp"],
+    "skills": ["Race Evolution (hobgoblin form)"],
+    "deaths": [],
+    "loops": [],
+    "cause_effect": ["Goblins evolved into hobgoblins due to Race Evolution purchase", "600 years of independent development created unique culture", "Goblins' neutral position forces both sides to reconsider"],
+    "notes": "Goblins now have 'ugor' speech pattern instead of 'gork'. They swear on Kekerkker AND Gorke. Vampire evolved form is humanoid with dark cloak."
+  },
+  {
+    "chapter": 177,
+    "characters": ["Kim Gongja/Death King", "Black Dragon Master", "Sword Saint", "Count", "Venomous Snake", "Crusader", "Murmu (goblin warrior)", "Elf fighter", "Goblin warriors"],
+    "events": ["Murmu duels elf fighter", "Wins by throwing greatsword like windmill", "Kills elf and takes white horse for meat", "Explains 'Shibal Aura Training Method' - beaten to learn aura", "Goblins shout 'Friendship instead of reverence! Trust instead of faith!'", "Goblins block both armies with duels", "Death King's reputation damaged among companions"],
+    "locations": ["Battlefield plains", "Goblin camp"],
+    "skills": ["Shibal Aura Training Method", "Greatsword throwing technique"],
+    "deaths": ["Elf fighter"],
+    "loops": [],
+    "cause_effect": ["Goblins' unconventional fighting style (throwing swords) shocks enemies", "Death King's 'education through violence' became cultural tradition", "Duel-based warfare blocks both armies effectively"],
+    "notes": "Murmu is ranked 631st in Fire River Council. Goblins are now called 'mold bastards' by others. The 'Shibal' chant becomes battle cry."
+  },
+  {
+    "chapter": 178,
+    "characters": ["Kim Gongja/Death King", "Bae Hu-ryeong", "Black Dragon Master", "Sword Saint", "Count", "Venomous Snake", "Crusader", "Uburka (212th Chairman)", "Goblin warriors"],
+    "events": ["Goblin Race status: evolved to hobgoblins, Extinction Grade C", "Aura Civilization - everyone uses aura, council rankings by strength", "Republican Tradition from funeral meetings in dark caves", "Chairman Uburka arrives with 3000 lion-riding warriors", "Uburka: strongest in history, 260 wins/261 fights", "Proposes destroying Holy Land entirely", "'If you can't forgive others for having something, no one should have it'"],
+    "locations": ["Battlefield", "Horizon"],
+    "skills": ["Giant Mode (Uburka)", "Aura Civilization"],
+    "deaths": [],
+    "loops": [],
+    "cause_effect": ["Republican system originated from anonymous funeral meetings in dark caves", "Uburka's overwhelming strength makes him hegemon", "Proposal to destroy Holy Land shocks both sides"],
+    "notes": "Uburka has albino condition, trained aura to cover body. Council meetings at night - 'Shibal Gor' = strongest. Goblins use trophies from defeated enemies as trumpet decorations."
+  },
+  {
+    "chapter": 179,
+    "characters": ["Kim Gongja/Death King", "Uburka", "Count", "Black Dragon Master", "Sword Saint", "Venomous Snake", "Crusader", "Goblin warriors"],
+    "events": ["Uburka demonstrates power with aura javelins", "Threatens both armies with overwhelming strength", "Tower announces Uburka is Hegemon, gives 900 points", "Count theorizes goblins are actually in danger of collapse", "Too strong = other 6 races will unite against them after snails fall", "Death King enters Uburka's dream to warn him", "Uburka meditating on mud pond using aura", "Senses Death King with 'muscle detection'", "Demands Death King prove strength in combat to earn right to advise"],
+    "locations": ["Battlefield", "Uburka's dream (mud pond)"],
+    "skills": ["Aura javelin throw", "Muscle-based hostility detection", "River Sitting Technique"],
+    "deaths": [],
+    "loops": [],
+    "cause_effect": ["Count's political analysis reveals goblin hegemony is unstable", "Uburka only accepts advice from those stronger than him", "Death King must fight his 'son' to save goblin race"],
+    "notes": "Count compares situation to how guild leaders treated Death King as rookie - bought his name instead of fearing him. Uburka has 'ego muscle' that surpasses 'ego sword'."
+  },
+  {
+    "chapter": 180,
+    "characters": ["Kim Gongja/Death King", "Uburka", "Bae Hu-ryeong"],
+    "events": ["Death King vs Uburka battle in dream", "Uburka reveals 'Internal muscles' concept - aura permeates muscles", "Uses Giant Mode - aura mech the size of a hill", "Death King uses Burning Young Sword against giant", "Realizes he can combine his style (attracting screams) with Uburka's (expanding)", "Teaches Uburka to embed emotions and images into aura", "Uburka's punch produces fire tongues resembling Infernal Heavens", "Uburka acknowledges Death King's strength"],
+    "locations": ["Uburka's dreamscape"],
+    "skills": ["Infernal Heavens Demonic Art - Reformation: First Form The Burning Young Sword", "Shibal Aura Method - Giant Style: Humiliating Fist", "Aura embedding technique"],
+    "deaths": [],
+    "loops": [],
+    "cause_effect": ["Uburka's giant mode is pure aura expansion, not physical growth", "Death King realizes both expansion and attraction can coexist in aura usage", "Teaching Uburka emotional embedding advances goblin martial arts"],
+    "notes": "Uburka was born with albinism, trained aura to compensate. 'Humiliating Fist' technique name is as elegant as 'tadpole's eyes.' Death King uses image of Rimepolis pit children to teach emotional aura."
+  }
+]

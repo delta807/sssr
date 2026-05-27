@@ -1,0 +1,156 @@
+[
+  {
+    "chapter": 151,
+    "characters": ["Kim Gongja/Death King (as Hwang Eunseo)", "Orphanage Director (as class president)", "Constellation Killer/Kim Yul", "Girlfriend (student council president)", "Broadcasting club president"],
+    "events": ["Hwang Eunseo prepares apology speech for student council election", "Rehearsal check with class president", "Election speeches begin", "Hwang Eunseo delivers masterful apology speech", "Kim Yul gives standing ovation", "Broadcasting club president plays incriminating video", "Hwang Eunseo's life collapses in public"],
+    "locations": ["Shinseo High School", "Auditorium", "Stage"],
+    "skills": [],
+    "deaths": [],
+    "loops": [],
+    "cause_effect": ["Hwang Eunseo's narcissism makes him believe he can manipulate the situation", "Class president has been planning betrayal all along", "Evidence videos were sent to media that morning"],
+    "notes": "The speech is a masterpiece of manipulation - Hwang Eunseo genuinely believes he's performing brilliantly. The standing ovation from Kim Yul is ironic given what's about to happen."
+  },
+  {
+    "chapter": 152,
+    "characters": ["Kim Gongja/Death King (as Hwang Eunseo)", "Orphanage Director (as class president)", "Constellation Killer/Kim Yul", "Girlfriend", "Broadcasting club president", "Teachers", "Principal"],
+    "events": ["Class president reveals true plan on stage", "Presents 103 tapes, 311 videos, 30,790 photos as evidence", "Reports Hwang Eunseo to police with victim Kim Yul pressing charges", "Evidence already sent to media outlets", "Hwang Eunseo attacks class president physically", "Stage cleared by Tower judgment", "Director scolds Death King for 'stealing half the revenge'", "Constellation Killer accepts Kim Yul's memories and feelings"],
+    "locations": ["Auditorium", "Stage", "Great Library"],
+    "skills": [],
+    "deaths": [],
+    "loops": [],
+    "cause_effect": ["Class president's meticulous planning over two weeks leads to perfect public takedown", "Hwang Eunseo's violence on stage becomes additional evidence", "The trauma/stage ends when justice is served"],
+    "notes": "Director uses Wu Zixu allegory to scold Death King for doing too much himself. The stage was cleared by 'The Lord of Manseng' instead of normal Tower voice."
+  },
+  {
+    "chapter": 153,
+    "characters": ["Kim Gongja/Death King", "Constellation Killer", "Orphanage Director", "Corner Librarian/Hamustra"],
+    "events": ["Constellation Killer lists hundreds of Constellations he killed", "Acknowledges he must receive revenge of the worlds", "Death King gives him 'The Epic of Lefanta Aegim' book", "Constellation Killer accepts book to remember his life", "Constellation Killer accepts director's forgiveness", "Director breaks down emotionally", "Death King realizes he wants to 'prove' people's screams/existence", "Death King decides to reform Infernal Heavens Demonic Art", "Librarian offers Constellation Killer and Director positions as librarians"],
+    "locations": ["Great Library"],
+    "skills": ["Infernal Heavens Demonic Art (planned reform)"],
+    "deaths": [],
+    "loops": [],
+    "cause_effect": ["Remembering is the first step to redemption", "The Librarian's love of stories makes him offer positions to his favorite characters", "Death King's new purpose: prove that people lived and suffered"],
+    "notes": "The chapter is titled 'Prologue (1)' - marking the end of one story and beginning of another. Death King wants to embed children's dance, Preta's scream, Master's blade, Raviel's sacrifice, and Director's silence into his martial art."
+  },
+  {
+    "chapter": 154,
+    "characters": ["Kim Gongja/Death King", "Corner Librarian/Hamustra", "Constellation Killer (mentioned)", "Raviel (mentioned)"],
+    "events": ["Librarian reveals other worlds' Hunters chose easy/helpful Apocalypses only", "Shows example of Hunters hiding in cave waiting for Heavenly Demon to die", "Shows example of apostle trying to woo Raviel with flowers and failing", "Death King reveals he planned to recruit Librarian from the snowy mountain day", "Librarian's favorability is 99, favorite characters now list Death King before Kim Yul", "Death King reveals Librarian no longer has purpose since Constellation Killer won't kill him", "Proposes Librarian become 30th floor of Tower", "Librarian's real name is Hamustra (simplified pronunciation of ■■■■■)"],
+    "locations": ["Great Library", "Snowy mountain (flashback)", "Raviel's basement (flashback)"],
+    "skills": [],
+    "deaths": [],
+    "loops": [],
+    "cause_effect": ["Death King's persistent character-driven approach makes Librarian love him more than Constellation Killer", "By saving Constellation Killer, Death King destroyed Librarian's original dream", "Death King offers new dream: become a character in their story"],
+    "notes": "The Librarian's original dream was to die by Constellation Killer's hands as perfect epilogue. Death King outmaneuvered him by saving the Constellation Killer."
+  },
+  {
+    "chapter": 155,
+    "characters": ["Kim Gongja/Death King", "Corner Librarian/Hamustra", "Lord of Manseng (mentioned)"],
+    "events": ["Flashback to Pond of Accumulating Memories meeting Lord of Manseng", "Lord of Manseng is building a Tower, recruits Hamustra as tenant", "Hamustra signs contract to become Corner Librarian", "Back to present: Death King convinces Hamustra to join them", "Hamustra gives Death King his life-book [■■■■■]", "Death King declares they'll ascend Tower together"],
+    "locations": ["Great Library", "Flashback to ancient library"],
+    "skills": [],
+    "deaths": [],
+    "loops": [],
+    "cause_effect": ["Hamustra's curiosity and love of stories made him sign original contract", "Death King uses same appeal - offering to be in a story together", "The book contains Hamustra's entire existence"],
+    "notes": "Lord of Manseng's motivation: 'Everyone should be able to live one more life.' Hamustra is 'The Pond of Accumulating Memories.'"
+  },
+  {
+    "chapter": 156,
+    "characters": ["Kim Gongja/Death King", "Corner Librarian/Hamustra", "Constellation Killer/Kim Yul", "Orphanage Director", "Medicine King", "Alchemist", "Venomous Snake", "Heretic Questioner", "Black Dragon Master", "Count", "Crusader"],
+    "events": ["The Librarian's Apocalypse floods library with white light", "Tower warns Librarian about immense penalty for clearing", "Librarian stripped of title and authority", "Librarian loses ability to fly", "Becomes cafe employee at Library Cafe Planetarium", "Death King grants his wish: white mocha frappuccino", "Raviel wears school uniform and drinks cider while Death King holds her", "Raviel reveals 'A Regressor's Love' skill - she regresses when he does", "Death King punished by holding Raviel for hours"],
+    "locations": ["Great Library", "Library Cafe Planetarium", "29th floor (school world)", "30th floor"],
+    "skills": ["A Regressor's Love (EX rank)", "Returner's Clockwork Watch"],
+    "deaths": [],
+    "loops": [],
+    "cause_effect": ["Librarian's choice to become a Hunter strips him of Constellation powers", "Raviel's regression skill means she experienced Death King's death too", "The 30th floor becomes a rest/recuperation area"],
+    "notes": "Raviel knew immediately when Death King died: 'I don't know where, but a bitch just touched my wife.' Golden Silk witnessed this and felt cosmic horror."
+  },
+  {
+    "chapter": 157,
+    "characters": ["Kim Gongja/Death King", "Sword Saint", "Bae Hu-ryeong", "Black Dragon Master", "Kim Hanbija/Kim Hanbi (childhood friend)", "Flame Emperor (mentioned)"],
+    "events": ["Death King video calls childhood friend Kim Hanbija (now National Assembly member)", "Politician tries to use Death King's fame for election", "Death King asks about Hwang Eunseo", "Sword Saint and Death King spar - Death King wins for first time", "Death King reveals 'unfinished move': Infernal Heavens Reformation First Formula - The Burning Young Sword", "Uses image of burning house with children to power aura"],
+    "locations": ["Great Library", "Empty lot outside Babylon (1st floor)"],
+    "skills": ["Infernal Heavens Reformation - First Formula: The Burning Young Sword", "Aura manipulation"],
+    "deaths": [],
+    "loops": [],
+    "cause_effect": ["Death King's shamelessness in battle catches Sword Saint off guard", "Using Bae Hu-ryeong connection as distraction proves effective", "The new martial art formula embeds traumatic memories into attacks"],
+    "notes": "Sword Saint had 52 wins out of 53 fights before this. Death King is now genuinely competitive with top ranker."
+  },
+  {
+    "chapter": 158,
+    "characters": ["Kim Gongja/Death King", "Sword Saint", "Black Dragon Master", "Heretic Questioner", "Crusader", "Count", "Venomous Snake", "The Lady Who Walks Through the Mirage"],
+    "events": ["31st floor opening ceremony", "Top 7 hunters gather", "Lady explains Race War concept: choose a race to guide", "Options: put all 700 points in one race or distribute 100 each to 7 races", "Sword Saint chooses to distribute for diversity", "Each hunter selects a race:", "- Sword Saint: Pure Race (Human)", "- Death King: Dokkaebi Race (Goblin)", "- Black Dragon Master: Bloodsucking Race (Vampire)", "- Heretic Questioner: Snail Race (Slug)", "- Count: Fairy Race (Elf)", "- Venomous Snake: Noble Race (Sprite)", "- Crusader: Ocean Race (Mermaid)", "Death King reveals his trump card: Goblin High Society skill"],
+    "locations": ["Great Library/Library Cafe", "31st floor (Great Forest of Origin)"],
+    "skills": ["Goblin High Society (F rank)", "Race Points system"],
+    "deaths": [],
+    "loops": [],
+    "cause_effect": ["Death King's F-rank Goblin High Society skill suddenly becomes relevant", "The 31st-40th floors form a continuous civilization-building arc", "Hunters become guardian constellations/gods for their chosen races"],
+    "notes": "Death King's choice of goblins shocks everyone. The skill Goblin High Society was copied from Great King Goblin monster long ago and seemed useless until now."
+  },
+  {
+    "chapter": 159,
+    "characters": ["Kim Gongja/Death King", "Black Dragon Master", "Heretic Questioner", "Count", "Venomous Snake", "Crusader", "Sword Saint", "The Lady Who Walks Through the Mirage"],
+    "events": ["Race selection completed", "Lady gives 100 race points to each hunter", "Civilization Store revealed with purchasable items", "31st floor quest: evacuate race from volcanic eruption", "Crusader buys Oracle Message but it fails - primitive races don't understand language", "Death King figures out the problem: language barrier", "Death King buys Prey Search and Animal Possession", "Possesses white lion to lead goblins", "Uses Goblin High Society skill to communicate with goblins", "Goblins create primitive religion: White Lion Religion", "First achievement: 500 bonus race points", "Leads goblins to new settlement"],
+    "locations": ["31st floor (Great Forest of Origin)", "Goblin village", "Civilization Store"],
+    "skills": ["Goblin High Society", "Animal Possession", "Prey Search"],
+    "deaths": [],
+    "loops": [],
+    "cause_effect": ["Primitive races can't understand complex language, requiring creative solutions", "Animal possession allows physical guidance without words", "Goblin High Society enables basic communication with goblins", "Creating religion gives massive bonus points"],
+    "notes": "Civilization Store items include: Oracle Message (20), Animal Possession (40), Dream Appearance (100), Prey Search (5), Settlement Search (80), etc. Death King becomes literal God of Goblins."
+  },
+  {
+    "chapter": 160,
+    "characters": ["Kim Gongja/Death King (as white lion)", "Bae Hu-ryeong", "Black Dragon Master (as black swan)", "Goblins"],
+    "events": ["Goblins safely evacuated from volcano", "Other races also escape via animal possession", "Quest cleared: 300 race points reward", "Death King has 855 total points", "Buys Search for Bronze-Ranked Settlement (80 points)", "Names new settlement 'Guru'", "Death King rejects stage clear to do more preparation", "Teaches goblins pictographic writing using mud drawings", "Goblins develop 'Legacy of Records' talent", "Goblins gain 'Primitive Fashionista' trait (tattoo culture)"],
+    "locations": ["31st floor", "Guru settlement", "Stream"],
+    "skills": ["Legacy of Records (E rank)", "Primitive Fashionista (E rank)"],
+    "deaths": [],
+    "loops": [],
+    "cause_effect": ["Teaching goblins to draw pictographs replaces need for expensive Text item (4500 points)", "Mud tattoos change 'Victims of Racial Discrimination' trait to 'Primitive Fashionista'", "Goblins develop culture and identity through art"],
+    "notes": "Death King draws symbols: ■=mud/ground, O=sky/day, ●=night, ☆=sun, ★=moon, ~=water. Goblins create combination symbols like O■=world, ●~=rain."
+  },
+  {
+    "chapter": 161,
+    "characters": ["Kim Gongja/Death King (as white lion)", "Bae Hu-ryeong", "Goblins"],
+    "events": ["Death King continues developing goblin civilization", "Teaches hunting and gathering", "Goblins become Hunter-Gatherers", "Teaches numbers using Roman numerals (I, II, III)", "Goblins struggle with concepts above 6", "Other hunters declare stage clear one by one", "Heretic Questioner stays behind - doesn't declare clear", "Death King finally declares clear after exhausting all teachable content"],
+    "locations": ["31st floor", "Guru settlement", "Salt mines"],
+    "skills": [],
+    "deaths": [],
+    "loops": [],
+    "cause_effect": ["Death King's extended stay allows maximum development of goblins", "Heretic Questioner's decision to stay will have massive consequences", "Goblins develop from mud-playing primitives to organized hunters"],
+    "notes": "Death King leaves the white lion body far from village to avoid hurting goblins. Goblins cry 'Kekerkker' (his name) when they realize he's gone."
+  },
+  {
+    "chapter": 162,
+    "characters": ["Kim Gongja/Death King", "Black Dragon Master", "Heretic Questioner", "Venomous Snake", "Count", "Crusader", "Sword Saint", "The Lady Who Walks Through the Mirage"],
+    "events": ["Hunters arrive at 32nd floor waiting room", "Only 200 years passed (instead of expected 1000+)", "Lady reveals Heretic Questioner already on 32nd floor", "32nd floor is underground city", "Snail civilization has become dominant empire", "Other races are slaves: sprites, vampires, mermaids, goblins", "Heretic Questioner reveals he stayed 200 years with snails", "Created 'Rime' religion using snails' unique vocal ability"],
+    "locations": ["32nd floor waiting room", "Underground city (Rimepolis)", "Snail Empire"],
+    "skills": [],
+    "deaths": [],
+    "loops": [],
+    "cause_effect": ["Heretic Questioner staying 200 years allowed snails to accelerate development massively", "Snails' unique ability to say 'Rime' became basis for religious supremacy", "Other races enslaved because they invaded and lost, or were conquered"],
+    "notes": "The Lady made plushies of all seven races. Heretic Questioner possessed 34 generations of white dogs, regarded as divine beasts. Welsh Corgi sphinx statue."
+  },
+  {
+    "chapter": 163,
+    "characters": ["Kim Gongja/Death King", "Heretic Questioner", "Venomous Snake", "Black Dragon Master", "Crusader", "Count", "Sword Saint"],
+    "events": ["Heretic Questioner explains Rime religion philosophy", "Religion provides meaning and dispels fear of unknown", "Uses Mother Goddess mythology to explain natural phenomena", "Salt is 'Holy Teeth' of goddess", "Goblins work as gladiators/sword fighters in colosseum", "32nd floor quest revealed: rescue races from Snail Empire oppression", "Heretic Questioner's quest: defend empire and prevent escape", "Conflicting objectives between hunters"],
+    "locations": ["Rimepolis (underground city)", "Colosseum", "Salt mines"],
+    "skills": [],
+    "deaths": [],
+    "loops": [],
+    "cause_effect": ["Heretic Questioner's 200-year guidance created highly organized religious civilization", "Goblins' combat ability makes them favored gladiators", "The quest pits hunters against each other"],
+    "notes": "Heretic Questioner's philosophy: 'People need a reason to love a flower, even if it's only to shed tears on it. God grants them infinite reasons!'"
+  },
+  {
+    "chapter": 164,
+    "characters": ["Kim Gongja/Death King", "Heretic Questioner", "Venomous Snake", "Black Dragon Master", "Crusader", "Count", "Bae Hu-ryeong"],
+    "events": ["Hunters debate whether to surrender to Heretic Questioner or fight", "Heretic Questioner argues his method saves time and lives overall", "Death King visits goblin quarters in salt mines", "Goblins live in pits, work day and night shifts", "Goblins called 'Molds' (slur by snails)", "Older female goblins sneak children out for water", "Goblins maintain tattoo culture even in slavery", "Death King considers regressing to change history", "Bae Hu-ryeong argues against regression - trusts the goblins", "Goblins sneak out at night into secret mine passages"],
+    "locations": ["Rimepolis", "Salt mines", "Goblin pits/dormitories", "Underground passages"],
+    "skills": [],
+    "deaths": [],
+    "loops": [],
+    "cause_effect": ["Heretic Questioner's 200-year guidance created dominant empire but at cost of slavery", "Goblins maintain secret culture and organization despite oppression", "Bae Hu-ryeong advises trusting the people they raised rather than controlling everything"],
+    "notes": "The goblins call Death King 'Kekerkker' - his name in their language. Slur 'Molds' comes from 'ork' sounding similar to goblin speech. Tower announces: 'The Goblin Race has created a secret assembly.'"
+  }
+]

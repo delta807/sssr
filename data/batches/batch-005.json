@@ -1,0 +1,172 @@
+```json
+{
+  "batch": 5,
+  "chapters": [
+    {
+      "chapter": 61,
+      "characters": ["Kim Gong-ja (Death King)", "Heretic Questioner (Natural Born Crazy Psycho)", "Venomous Snake (Chen Mu-mun Master)", "Witch", "Librarian Bang Gu-seok", "Bookmark maids"],
+      "events": ["50 Hunters eaten by Apocalypse books", "Hunters must choose discontinued worlds to save", "Quest [Remake The World. Volume 1.] issued", "Death King asserts authority as 3rd rank", "Death King picks a random Apocalypse book"],
+      "locations": ["Great Library (22nd floor preparation)", "Babylon Square (broadcast)"],
+      "skills": ["[Apocalypse] (book worlds)", "[Remake The World. Volume 1.] (quest)"],
+      "deaths": ["50 Hunters eaten by books"],
+      "loops": [],
+      "cause_effect": ["Discontinued Apocalypse worlds can be claimed as 22nd floor if saved", "Death King silences Heretic Questioner to maintain morale", "Genre assignment determines which book each Hunter receives"],
+      "notes": "Death King establishes leadership over 250 Hunters. Heretic Questioner has 'Fairy Tale' genre."
+    },
+    {
+      "chapter": 62,
+      "characters": ["Kim Gong-ja (Death King)", "Heretic Questioner", "Venomous Snake", "Witch", "Emperor of Light Novel"],
+      "events": ["Hunters read Apocalypses by genre", "Heretic Questioner receives [Me and Our Scapegoat] from Venomous Snake", "All genre groups receive books"],
+      "locations": ["Great Library"],
+      "skills": [],
+      "deaths": [],
+      "loops": [],
+      "cause_effect": ["Romance Apocalypses all end in disaster at climax", "Death King instructs Hunters to find worlds with suitable difficulty and rewards", "Witch confirms self-sufficiency is possible with right world"],
+      "notes": "The Apocalypses are extensive and document the imprints of worlds. Romance genre ends with meteors and alien invasions."
+    },
+    {
+      "chapter": 63,
+      "characters": ["Kim Gong-ja (Death King)", "Bae Hu-ryeong (Sword Emperor)", "Shiny (Goddess of Protection/Holy Sword)", "Lefanta Aegim (mentioned)"],
+      "events": ["Death King decides to die once before Murim expedition", "Reveals Lefanta Aegim split Holy Sword into 5 fragments", "Holy Sword is a Constellation (Goddess of Protection)", "Death King stabs himself with Holy Sword to test suicide vs murder"],
+      "locations": ["Great Library bathroom", "Aegim Empire (mentioned)", "Murim world (mentioned)"],
+      "skills": ["[Goddess of Protection] (Holy Sword)", "Aura", "Returners Clockwork Watch (mentioned - Flame Emperor's skill)"],
+      "deaths": ["Death King stabs himself with Holy Sword"],
+      "loops": ["Death King uses death to copy skills and gather information"],
+      "cause_effect": ["Lefanta Aegim could travel between worlds and established an Empire", "Death King fears arrogance after reaching 3rd rank", "Stabbing self with Constellation sword tests suicide condition for skill copying"],
+      "notes": "Death King references Yoo Soo-ha (Flame Emperor) as example of letting guard down."
+    },
+    {
+      "chapter": 64,
+      "characters": ["Kim Gong-ja (Death King)", "Sword Saint (Marcus)", "Alchemist", "Medicine King (Sean McCallister)", "Sword Emperor (mentioned)", "Crusader (mentioned)"],
+      "events": ["Expedition team assembled", "Alchemist joins despite Sword Saint's initial hostility", "Medicine King challenges Alchemist's credentials", "Medicine King boasts about Silicon Valley, Wall Street, boxing"],
+      "locations": ["Great Library"],
+      "skills": [],
+      "deaths": [],
+      "loops": [],
+      "cause_effect": ["Death King vouches for Alchemist as best alchemist", "Medicine King looks down on Alchemist due to age/experience bias", "Alchemist has 15x production efficiency compared to Medicine King"],
+      "notes": "Sword Saint has old-fashioned mindset. Medicine King is self-made billionaire archetype."
+    },
+    {
+      "chapter": 65,
+      "characters": ["Alchemist", "Medicine King", "Sword Saint (Marcus)", "Count (Sangryun's Master)", "Kim Gong-ja (Death King)", "Crusader"],
+      "events": ["Alchemist vs Medicine King elixir competition", "Alchemist wins repeatedly despite Medicine King claiming luck", "Medicine King loses multiple rounds", "Sword Saint apologizes to Alchemist", "Count offers exclusive contract to Alchemist", "Hunters swarm Alchemist for elixirs"],
+      "locations": ["Great Library"],
+      "skills": [],
+      "deaths": [],
+      "loops": [],
+      "cause_effect": ["Alchemist's elixir quality vastly superior to Medicine King's", "Alchemist's skill overcomes Medicine King's decades of experience", "Alchemist declares she will only sell to people Death King approves"],
+      "notes": "Medicine King is former 3-Michelin star chef. Alchemist gains confidence and authority."
+    },
+    {
+      "chapter": 66,
+      "characters": ["Kim Gong-ja (Death King)", "Alchemist", "Venomous Snake", "Medicine King", "Heavenly Demon (So Baek-hyang)", "Murim Lord (Namgung Un)"],
+      "events": ["Party enters Chronicles of Heavenly Demon world", "Bitter cold snowstorm environment", "Alchemist and Medicine King can't use Aura", "Death King shares Aura with Alchemist", "Venomous Snake carries Medicine King", "They discover martial arts zombies (jiangshi) in snowfield", "Zombies retain martial arts abilities"],
+      "locations": ["Chronicles of Heavenly Demon world (snowfield)", "22nd floor (pending)"],
+      "skills": ["Aura (red Aura - Death King)", "Extreme Qingong Skill", "Walking the Air (martial arts)", "Heavenly Demon Limbo"],
+      "deaths": [],
+      "loops": [],
+      "cause_effect": ["Heavenly Demon died of unidentified epidemic causing world destruction", "Strong martial artists become jiangshi that retain their skills", "Low visibility from blizzard hides zombie horde"],
+      "notes": "World has been destroyed for 3 years. Zombies can fly/jump using Qingong."
+    },
+    {
+      "chapter": 67,
+      "characters": ["Kim Gong-ja (Death King)", "Alchemist", "Venomous Snake", "Medicine King", "Heavenly Demon (So Baek-hyang)", "Murim Lord (Namgung Un)"],
+      "events": ["Zombie horde attacks", "Death King uses Holy Sword against zombies", "Party meets Heavenly Demon and Murim Lord", "Both native martial artists are alive but weakened", "They flee from zombies together", "Heavenly Demon recognizes Death King's 'miraculous Footwork'"],
+      "locations": ["Snowfield in Chronicles of Heavenly Demon world", "Cave (later)"],
+      "skills": ["[Goddess of Protection] (Holy Sword)", "Qingong Skill (zombies)", "Heavenly Demon Limbo", "Extreme Qingong Skill (路雪無癌)", "Walking the Air (達空虛道)"],
+      "deaths": [],
+      "loops": [],
+      "cause_effect": ["Zombies retain martial arts memories after death", "Heavenly Demon and Murim Lord were fighting each other when world ended", "Both sects were trying to find cure before being overwhelmed"],
+      "notes": "Murim Lord is from Righteous Sect, Heavenly Demon from Demonic Cult. They refer to party as 'children of Sae-Wae' (outside world)."
+    },
+    {
+      "chapter": 68,
+      "characters": ["Kim Gong-ja (Death King)", "Bae Hu-ryeong (Sword Emperor)", "Venomous Snake", "Heavenly Demon (So Baek-hyang)", "Murim Lord (Namgung Un)"],
+      "events": ["Heavenly Demon and Murim Lord fight with wooden canes", "Bae Hu-ryeong recognizes their forms as master-level despite appearances", "They have no chi/energy - Dantians are empty not crushed", "Venomous Snake recognizes martial arts principles (Jiwangsa, Onwolyong)"],
+      "locations": ["Cave in snowfield"],
+      "skills": ["Infernal Heavens Demonic Art (implied)", "Jiwangsa", "Onwolyong", "Thousand Sound Observing", "Two Dragons Fighting for a Pearl"],
+      "deaths": [],
+      "loops": [],
+      "cause_effect": ["Masters have correct posture and breathing but no energy", "Empty Dantians explain their weakness", "Righteous Sect embraces world, Demonic Cult ravages world (philosophical difference)"],
+      "notes": "Heavenly Demon is female. Both are top masters of their respective sects."
+    },
+    {
+      "chapter": 69,
+      "characters": ["Kim Gong-ja (Death King)", "Medicine King", "Alchemist", "Venomous Snake", "Heavenly Demon (So Baek-hyang)", "Murim Lord (Namgung Un)"],
+      "events": ["Medicine King cooks elaborate 5-star meal", "Party and native martial artists eat together", "Medicine King reveals he was 3-Michelin star chef", "Discuss finding cure for Jiangshi disease"],
+      "locations": ["Cave in snowfield"],
+      "skills": [],
+      "deaths": [],
+      "loops": [],
+      "cause_effect": ["Good food builds rapport between factions", "Medicine King's cooking skill surprises everyone", "Death King appointed as culinary director of expedition"],
+      "notes": "Medicine King's cooking is exceptional. Murim Lord and Heavenly Demon enjoy foreign cuisine."
+    },
+    {
+      "chapter": 70,
+      "characters": ["Heavenly Demon (So Baek-hyang)", "Murim Lord (Namgung Un)", "Kim Gong-ja (Death King)", "Alchemist", "Medicine King", "Demon Lord Wolyeong (mentioned)", "Blood Demon (mentioned)"],
+      "events": ["Flashback: Heavenly Demon's subordinates report epidemic progress", "Half of Blood Guard destroyed", "Pharmacy established for both sects", "Demon Lord Wolyeong and Blood Demon attacked", "Heavenly Demon refused to flee to Nakdo island", "Heavenly Demon kept promise with Murim Lord for 3 years", "Present: Heavenly Demon tells story of master killed by succubus"],
+      "locations": ["Cave", "Snowfield", "Nakdo island (mentioned)", "Demonic Cult headquarters (flashback)"],
+      "skills": ["Thousand Poisons Immunity", "Stone Durability", "Blood Guard martial arts"],
+      "deaths": ["Blood Guard members", "Demon Lord Wolyeong (mentioned)", "Blood Demon (mentioned)", "Unidentified master killed by succubus (story)"],
+      "loops": [],
+      "cause_effect": ["Epidemic creates more jiangshi than can be killed", "Heavenly Demon's promise with Murim Lord kept them both in danger", "Even invincible masters have weaknesses (pleasure/emotion)"],
+      "notes": "Heavenly Demon endured 3 years of hell. Murim Lord is near death. Both have survived through mutual stubbornness."
+    },
+    {
+      "chapter": 71,
+      "characters": ["Alchemist", "Medicine King (Sean McCallister)", "Kim Gong-ja (Death King)", "Bae Hu-ryeong (Sword Emperor)", "Murim Lord (Namgung Un)", "Heavenly Demon (So Baek-hyang)"],
+      "events": ["Alchemist commits to making medicine", "Shows Medicine King her skill cards", "Reveals [Moving Hospital] and [Life Diagnosis] skills", "Medicine King slaps Alchemist", "Alchemist offers all her recipes in exchange for his help", "Medicine King reluctantly agrees to support her"],
+      "locations": ["Cave"],
+      "skills": ["[Moving Hospital] (B-grade)", "[Life Diagnosis] (B-grade)", "Two other B-grade or higher skills"],
+      "deaths": [],
+      "loops": [],
+      "cause_effect": ["Alchemist reveals skills to gain trust (normally secret)", "Medicine King slaps her for offering recipes", "Alchemist needs Medicine King to speed up development time"],
+      "notes": "Alchemist's demeanor changes - becomes cold and focused. Medicine King eventually respects her dedication."
+    },
+    {
+      "chapter": 72,
+      "characters": ["Heavenly Demon (So Baek-hyang)", "Murim Lord (Namgung Un / Ax Saint)", "Alchemist", "Medicine King", "Kim Gong-ja (Death King)"],
+      "events": ["Alchemist examines Murim Lord, declares him incurable", "Murim Lord asks Heavenly Demon to kill him", "Heavenly Demon refuses to let him die easily", "Murim Lord reveals he is Namgung Un with Heavenly Body Constitution", "Heavenly Demon demands he admit defeat of Righteous Sect", "Murim Lord cannot say the words"],
+      "locations": ["Cave"],
+      "skills": ["Heavenly Body Constitution", "Infernal Heavens Demonic Art (implied)", "Ax Saint martial arts"],
+      "deaths": [],
+      "loops": [],
+      "cause_effect": ["Murim Lord's chi has run out - he is dying", "Heavenly Demon wants honorable death through combat, not bedridden surrender", "Murim Lord's pride prevents him from admitting Righteous Sect's end"],
+      "notes": "Murim Lord and Heavenly Demon have deep history. Both are stubborn warriors. Heavenly Demon wants him to say 'War has forgotten chivalry, and chivalry has forgotten war.'"
+    },
+    {
+      "chapter": 73,
+      "characters": ["Kim Gong-ja (Death King)", "Bae Hu-ryeong (Sword Emperor)", "So Baek-hyang (Heavenly Demon, young)", "Alchemist (mentioned)", "Medicine King (mentioned)", "Murim Lord (mentioned)"],
+      "events": ["Flashback: Young So Baek-hyang lost in snow, mother abandons her", "Death King dies by Holy Sword", "Skill copy triggered: [So Baek-hyang's skills are being randomly copied]", "Death King and Bae Hu-ryeong memorize Alchemist's research notes", "Death King considers [Infernal Heavens Demonic Art] (A+)"],
+      "locations": ["Death space (skill copy realm)", "Snowfield (flashback)", "Cave (mentioned)"],
+      "skills": ["[Infernal Heavens Demonic Art] (A+, Demonic Cult essence)", "[Goddess of Protection] (Holy Sword)"],
+      "deaths": ["Death King (suicide by Holy Sword)", "So Baek-hyang's mother (implied abandonment)"],
+      "loops": ["Death King dies to copy Heavenly Demon's skills", "Must return quickly before forgetting research notes"],
+      "cause_effect": ["Death by Constellation weapon satisfies suicide condition", "Holy Sword is divided into 5 fragments", "Infernal Heavens Demonic Art requires hatred/curse of the world to master"],
+      "notes": "Skill has risk of losing sense of self. Bae Hu-ryeong explains Righteous vs Demonic philosophy."
+    },
+    {
+      "chapter": 74,
+      "characters": ["So Baek-hyang (young)", "Old Master (Demonic Sect)", "Kim Gong-ja (Death King)", "Heavenly Demon (So Baek-hyang)", "Murim Lord (Namgung Un)", "Bae Hu-ryeong (Sword Emperor)"],
+      "events": ["Flashback: Old master finds So Baek-hyang buried in snow after 10 days", "She has no memories of name, age, or past", "Old master names her So Baek-hyang (scent of white snow)", "Takes her to Demonic Sect", "Present: Death King asks Heavenly Demon to accept him as disciple", "Murim Lord also offers to teach him", "Heavenly Demon refuses - only accepts orphans abandoned by world"],
+      "locations": ["Snowfield (flashback)", "Demonic Sect headquarters (flashback)", "Cave (present)", "North Sea (mentioned)"],
+      "skills": ["Infernal Heavens Demonic Art (mentioned)"],
+      "deaths": [],
+      "loops": [],
+      "cause_effect": ["So Baek-hyang survived 10 days buried in snow due to being 'born of ice and snow'", "Demonic Cult only accepts children abandoned by parents and world", "Heavenly Demon's rules prevent her from accepting Death King"],
+      "notes": "Old master recognizes her as perfect vessel for martial arts. So Baek-hyang means 'scent of white snow.'"
+    },
+    {
+      "chapter": 75,
+      "characters": ["So Baek-hyang (young)", "Old Master (Demonic Sect)", "Kim Gong-ja (Death King, mentioned)"],
+      "events": ["Flashback: So Baek-hyang at Demonic Cult headquarters at age 11", "Place appears as paradise but is actually 'Jar of Solitude'", "Children are orphans from tragedies (famine, abuse, bandits, plague)", "So Baek-hyang isolates herself from other children", "She works with farmers, makes her own clothes, eats minimally", "Old master questions her behavior"],
+      "locations": ["Demonic Cult headquarters (flashback)", "Peach Blossom Spring (mentioned)"],
+      "skills": [],
+      "deaths": [],
+      "loops": [],
+      "cause_effect": ["Demonic Cult gathers abandoned children to cultivate ultimate poison/vessel", "So Baek-hyang's cold heart from abandonment prevents her from integrating", "She rejects easy abundance to build self-sufficiency"],
+      "notes": "The Demonic Cult operates like a jar of poisonous insects - only the strongest survive. So Baek-hyang's isolation and discipline make her unique."
+    }
+  ]
+}
+```

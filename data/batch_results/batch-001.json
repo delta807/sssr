@@ -1,0 +1,309 @@
+{
+  "batch": 1,
+  "chapters": [
+    {
+      "chapter": 1,
+      "characters": ["Kim Gongja", "Flame Emperor", "Yoo Sooha", "Saintess"],
+      "events": [
+        "Kim Gongja envies the Flame Emperor's success",
+        "Kim discovers his S-rank skill: 'I want to become just like you'",
+        "Skill activates upon death and copies enemy skills",
+        "Kim's skill is considered trash because it requires dying"
+      ],
+      "locations": ["Kim's apartment", "Internet community"],
+      "skills": ["I want to become just like you (S+)"],
+      "deaths": [],
+      "loops": [],
+      "cause_effect": [
+        "Kim's extreme envy of Flame Emperor → awakens S-rank skill",
+        "Skill's condition requires death → seemingly useless"
+      ],
+      "notes": "Kim is an F-class hunter living alone, obsessed with the Flame Emperor's success"
+    },
+    {
+      "chapter": 2,
+      "characters": ["Kim Gongja", "Flame Emperor", "Yoo Sooha", "Saintess"],
+      "events": [
+        "Kim gets drunk in an alley after discovering his trash skill",
+        "Kim witnesses Flame Emperor confronting the Saintess",
+        "Flame Emperor claims Saintess tried to poison him",
+        "Flame Emperor reveals his real name: Yoo Sooha"
+      ],
+      "locations": ["Dark alley", "Bar"],
+      "skills": [],
+      "deaths": [],
+      "loops": [],
+      "cause_effect": [
+        "Kim's depression over trash skill → gets drunk → witnesses murder",
+        "Flame Emperor's paranoia → confronts and kills Saintess"
+      ],
+      "notes": "Flame Emperor mentions a 'Lie Detection skill' as a bluff"
+    },
+    {
+      "chapter": 3,
+      "characters": ["Kim Gongja", "Flame Emperor", "Yoo Sooha", "Saintess"],
+      "events": [
+        "Flame Emperor kills Saintess with fire",
+        "Flame Emperor discovers Kim witnessing the murder",
+        "Flame Emperor kills Kim by burning his head",
+        "Kim's skill activates: copies Flame Emperor's skill",
+        "Kim catches the golden skill card"
+      ],
+      "locations": ["Dead-end alley"],
+      "skills": ["Returner's Clockwork Watch (EX)"],
+      "deaths": ["Saintess (burned by Flame Emperor)", "Kim Gongja (burned by Flame Emperor)"],
+      "loops": ["Kim dies and copies Flame Emperor's regression skill"],
+      "cause_effect": [
+        "Kim witnesses murder → Flame Emperor kills him to silence him",
+        "Kim's death → skill activates → copies 'Returner's Clockwork Watch'",
+        "Kim's envy-driven skill → allows copying even EX-rank skills"
+      ],
+      "notes": "Flame Emperor says 'My name is Yoo Sooha. Good bye.' before killing Kim"
+    },
+    {
+      "chapter": 4,
+      "characters": ["Kim Gongja", "Flame Emperor", "Yoo Sooha", "Sword Saint"],
+      "events": [
+        "Kim returns 24 hours before death using copied skill",
+        "Kim plans revenge against Flame Emperor",
+        "Kim discovers Flame Emperor's weakness: regression to 24 hours prior",
+        "Kim realizes killing Flame Emperor is impossible because he'd just regress",
+        "Kim finds clue: Flame Emperor awakened on June 7th, 11 years ago on 1st floor"
+      ],
+      "locations": ["Kim's apartment (covered in newspaper clippings)"],
+      "skills": ["Returner's Clockwork Watch (EX)"],
+      "deaths": [],
+      "loops": ["Kim returns 24 hours prior to his death"],
+      "cause_effect": [
+        "Copied 'Returner's Clockwork Watch' → Kim can now time regress",
+        "Flame Emperor's regression ability → makes him seemingly invincible",
+        "Kim discovers Flame Emperor's awakening date → finds way to kill him in the past"
+      ],
+      "notes": "Kim realizes he must kill Yoo Sooha before he becomes the Flame Emperor"
+    },
+    {
+      "chapter": 5,
+      "characters": ["Kim Gongja", "Flame Emperor", "Yoo Sooha"],
+      "events": [
+        "Kim commits suicide 4091 times using a knife",
+        "Each death sends him back 24 hours",
+        "Newspaper clippings of Flame Emperor's achievements fade away one by one",
+        "Kim erases Flame Emperor's history progressively",
+        "Flame Emperor's legend begins to disappear"
+      ],
+      "locations": ["Kim's apartment"],
+      "skills": [],
+      "deaths": ["Kim Gongja (suicide by knife, 4091 times)"],
+      "loops": ["4091 time loops via suicide, each sending Kim 24 hours back"],
+      "cause_effect": [
+        "Kim's suicides → progressive time regression → erases Flame Emperor's history",
+        "Each death removes one of Flame Emperor's achievements from the timeline"
+      ],
+      "notes": "Kim's kill count becomes 4091 due to repeated suicides"
+    },
+    {
+      "chapter": 6,
+      "characters": ["Kim Gongja", "Yoo Sooha", "Sword Saint", "Count"],
+      "events": [
+        "Kim kills Yoo Sooha before he becomes Flame Emperor",
+        "Meadow wolves eat Yoo Sooha's body",
+        "Kim buries bloody clothes and changes",
+        "Kim returns to Babylon, no one suspects him",
+        "News shows 10th floor strategy failed, Sword Saint still missing"
+      ],
+      "locations": ["Hidden hunting ground outside Babylon", "Babylon city gates", "Tavern"],
+      "skills": [],
+      "deaths": ["Yoo Sooha (stabbed by Kim, eaten by wolves)"],
+      "loops": [],
+      "cause_effect": [
+        "Kim kills Yoo Sooha in the past → prevents him from becoming Flame Emperor",
+        "Yoo Sooha's death → his future achievements erased from history"
+      ],
+      "notes": "Yoo Sooha is not yet the Flame Emperor, just a Rank 1 candidate"
+    },
+    {
+      "chapter": 7,
+      "characters": ["Kim Gongja", "Sword Saint", "Marcus Calenberry", "Bae Hu-ryeong"],
+      "events": [
+        "Kim sees Sword Saint in a tavern",
+        "Sword Saint drinks milk with vodka and honey",
+        "Kim recognizes Sword Saint from newspaper clipping",
+        "Kim realizes he can copy Sword Saint's skills too",
+        "Sword Saint has S-rank skills and 'Detective's Insight'"
+      ],
+      "locations": ["Tavern in Babylon"],
+      "skills": ["Detective's Insight"],
+      "deaths": [],
+      "loops": [],
+      "cause_effect": [
+        "Kim's realization about his skill → plans to copy Sword Saint's abilities",
+        "Sword Saint's appearance confirms Kim is in the past"
+      ],
+      "notes": "Sword Saint is current Rank 1, will disappear in 22 days"
+    },
+    {
+      "chapter": 8,
+      "characters": ["Kim Gongja", "Sword Saint", "Marcus Calenberry"],
+      "events": [
+        "Kim researches Sword Saint online",
+        "Sword Saint's real name: Marcus Calenberry, from Northern Europe",
+        "Sword Saint has habit of muttering to himself",
+        "Forum post reveals trigger: mentioning Sword Saint's family/grandchildren gets you killed",
+        "Sword Saint left his family and fortune to enter the Tower"
+      ],
+      "locations": ["Tavern", "Internet forums"],
+      "skills": ["Sword Constellation"],
+      "deaths": ["Top-ranking hunter (mentioned in forum, killed for mentioning grandchildren)"],
+      "loops": [],
+      "cause_effect": [
+        "Kim learns Sword Saint's trauma → plans to provoke him to get killed and copy skills"
+      ],
+      "notes": "Sword Saint seems to talk to himself but may be communicating via skill"
+    },
+    {
+      "chapter": 9,
+      "characters": ["Kim Gongja", "Sword Saint", "Marcus Calenberry"],
+      "events": [
+        "Kim provokes Sword Saint about his grandchildren",
+        "Sword Saint beheads Kim instantly with one strike",
+        "Kim sees 'One Hit KO' before dying",
+        "Kim copies 'Sword Constellation' from Sword Saint",
+        "Kim's head is cut off cleanly"
+      ],
+      "locations": ["Clearing outside Babylon"],
+      "skills": ["Sword Constellation"],
+      "deaths": ["Kim Gongja (beheaded by Sword Saint)"],
+      "loops": ["Kim returns 24 hours prior"],
+      "cause_effect": [
+        "Kim provokes Sword Saint → gets killed → copies 'Sword Constellation'",
+        "Sword Saint's family trigger → instant death for offenders"
+      ],
+      "notes": "Kim describes the beheading as 'beautiful', like a clean street"
+    },
+    {
+      "chapter": 10,
+      "characters": ["Kim Gongja", "Bae Hu-ryeong", "Sword Saint", "Marcus Calenberry"],
+      "events": [
+        "Bae Hu-ryeong appears as a ghost attached to Kim",
+        "Bae Hu-ryeong is Sword Saint's master/teacher",
+        "Bae Hu-ryeong complains about being 'kidnapped' by Kim's skill",
+        "Sword Saint's muttering was actually him talking to Bae Hu-ryeong",
+        "Bae Hu-ryeong reveals Sword Saint's 'Detective's Insight' is a 'crap skill'",
+        "Bae Hu-ryeong sees Kim's kill count is 4091"
+      ],
+      "locations": ["Kim's apartment"],
+      "skills": ["Detective's Insight"],
+      "deaths": [],
+      "loops": [],
+      "cause_effect": [
+        "Kim copies Sword Constellation → also copies attached ghost Bae Hu-ryeong",
+        "Bae Hu-ryeong knows all of Sword Saint's skills → becomes valuable informant"
+      ],
+      "notes": "Bae Hu-ryeong died after reaching the 99th floor, was attached to Sword Saint"
+    },
+    {
+      "chapter": 11,
+      "characters": ["Kim Gongja", "Bae Hu-ryeong", "Count", "Sword Saint"],
+      "events": [
+        "Bae Hu-ryeong wakes Kim up at 4am for training",
+        "Kim buys a lottery ticket using future knowledge",
+        "Kim wins 1st prize lottery from Sangryun Merchant's Union",
+        "Count is Rank 3 and only one who can send/receive items from outside",
+        "Kim gets capital for training expenses"
+      ],
+      "locations": ["Kim's apartment", "Sangryun Guild headquarters"],
+      "skills": [],
+      "deaths": [],
+      "loops": [],
+      "cause_effect": [
+        "Future knowledge → Kim knows winning lottery numbers → gets funds",
+        "Money → can buy elixirs for training"
+      ],
+      "notes": "Bae Hu-ryeong reveals Count is a pervert who makes employees wear cat ears"
+    },
+    {
+      "chapter": 12,
+      "characters": ["Kim Gongja", "Bae Hu-ryeong", "Sword Saint", "Count", "Black Dragon Witch", "Heretic Questioner", "Venomous Snake", "Babel's Linguist", "Kwangyeok Messenger", "Crusader"],
+      "events": [
+        "Bae Hu-ryeong demands expensive elixirs for training",
+        "Kim and Bae Hu-ryeong hide from Sword Saint behind a trash can",
+        "Sword Saint enters the best elixir shop",
+        "Kim uses phone to check top ranker list",
+        "Kim knows a skilled pharmacist from before his regression"
+      ],
+      "locations": ["Streets of Babylon", "Trash can", "Alley"],
+      "skills": [],
+      "deaths": [],
+      "loops": [],
+      "cause_effect": [
+        "Sword Saint's presence → forces Kim to find alternative elixir source",
+        "Kim's future knowledge → knows a skilled pharmacist in the slums"
+      ],
+      "notes": "Top rankers listed: Sword Saint(1), Black Dragon Witch(2), Count(3), Heretic Questioner(4), Venomous Snake(5), Babel's Linguist(6), Kwangyeok Messenger(7), Crusader(8)"
+    },
+    {
+      "chapter": 13,
+      "characters": ["Kim Gongja", "Bae Hu-ryeong", "Alchemist"],
+      "events": [
+        "Kim meets a skilled female pharmacist in the slums",
+        "Pharmacist's shop is messy and appears poor",
+        "Kim orders 20,000 Gold worth of custom elixirs",
+        "Pharmacist refuses to make drugs despite financial need",
+        "Bae Hu-ryeong provides recipe for reflex/intensifying elixir",
+        "Pharmacist recognizes the complex combination",
+        "Delivery ready in 4 days"
+      ],
+      "locations": ["Poor neighborhood in Babylon", "Alchemist's messy shop"],
+      "skills": [],
+      "deaths": [],
+      "loops": [],
+      "cause_effect": [
+        "Lottery winnings → funds for custom elixirs",
+        "Bae Hu-ryeong's recipe + pharmacist's skill → potent training elixir"
+      ],
+      "notes": "Pharmacist has strong morals, refuses to make drugs even when desperate"
+    },
+    {
+      "chapter": 14,
+      "characters": ["Kim Gongja", "Bae Hu-ryeong"],
+      "events": [
+        "Kim fights an orc in slowed time (about 50 seconds)",
+        "Kim learns to feel and use Aura for the first time",
+        "Bae Hu-ryeong explains Aura pathways like mountain roads",
+        "Kim narrowly avoids orc's club twice",
+        "Kim successfully uses Aura to jump and cut orc's throat",
+        "Bae Hu-ryeong warns orc skin is tough"
+      ],
+      "locations": ["Hunting ground"],
+      "skills": ["Aura usage"],
+      "deaths": ["Orc (throat cut by Kim)"],
+      "loops": [],
+      "cause_effect": [
+        "Elixirs → Kim can sense Aura → survives orc fight",
+        "Bae Hu-ryeong's training → Kim learns to focus Aura on body parts"
+      ],
+      "notes": "Bae Hu-ryeong calls Kim 'Zombie' and says he has 'abyss-level' talent"
+    },
+    {
+      "chapter": 15,
+      "characters": ["Kim Gongja", "Bae Hu-ryeong"],
+      "events": [
+        "Kim kills orc, skill activation triggers",
+        "Kim can copy orc's skill",
+        "Two orange/bronze cards appear: 'Blessing of Reproduction' and 'Chiik, Chik'",
+        "Bae Hu-ryeong can see the front of the cards while Kim cannot",
+        "Kim realizes Bae Hu-ryeong's ghost form allows him to see card fronts",
+        "Kim chooses 'Chiik, Chik' over 'Blessing of Reproduction'"
+      ],
+      "locations": ["Dark skill selection space"],
+      "skills": ["Blessing of Reproduction (E)", "Chiik, Chik (F)"],
+      "deaths": ["Orc (already dead from previous chapter)"],
+      "loops": [],
+      "cause_effect": [
+        "Orc's death → Kim can copy its skill",
+        "Bae Hu-ryeong can see card fronts → gives Kim advantage in skill selection"
+      ],
+      "notes": "Skills copied from monsters are lower rank. Bae Hu-ryeong calls it a 'cheat'"
+    }
+  ]
+}

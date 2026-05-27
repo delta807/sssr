@@ -1,0 +1,38 @@
+{
+  "batch": "missing-4",
+  "chapters": [
+    {
+      "chapter": 232,
+      "characters": ["Kim Gong-ja/Death King", "Black Dragon Guild", "Civil Militia", "Black Dragon Master/Anastasia", "Vice Guild Leader (Civil Militia)"],
+      "events": ["Martial law imposed in Babylon", "Black Dragon Guild suppression team attacks civilians", "Civil Militia confronts Black Dragon Guild", "Guild war breaks out in Babylon Square", "Kim Gong-ja witnesses the chaos after leaving Ten Thousand Temple"],
+      "locations": ["Babylon", "Babylon Square", "Ten Thousand Temple"],
+      "skills": [],
+      "deaths": ["Vice Guild Leader (Civil Militia)", "Civilians"],
+      "loops": [],
+      "cause_effect": ["Martial law imposed -> Black Dragon Guild hunters pour into streets", "Guild leaders attacked -> guilds fight each other in confusion", "Kim Gong-ja leaves Ten Thousand Temple -> discovers the hellish scene"],
+      "notes": "Chapter shows the aftermath of attacks on guild leaders. Black Dragon Guild is indiscriminately killing people without resident IDs or recent IDs. The Civil Militia tries to stop them but fails."
+    },
+    {
+      "chapter": 233,
+      "characters": ["Kim Gong-ja/Death King", "Ja Soo-jung/Tower Master/Viscount/Manager/Advisor", "Yoo Soo-ha/Flame Emperor", "Preta/Devil King of Fall Rain", "Lady of Golden Silk", "Constellation Killer/Kim Yul", "Heretic Questioner/Bambolina", "Black Dragon Master/Anastasia", "Sword Saint/Calenbury", "Heavenly Demon/Director", "Raviel/Duke Ivansia"],
+      "events": ["Yoo Soo-ha leaves to eliminate traitors and assassins", "Ja Soo-jung shows Kim Gong-ja an IF world where she existed", "Kim Gong-ja argues his world is more peaceful and better", "Ja Soo-jung psychoanalyzes Kim Gong-ja's hatred for Yoo Soo-ha", "Kim Gong-ja declares he will change Yoo Soo-ha", "Kim Gong-ja demands reward using his first skill", "Ja Soo-jung displays her 9 skill cards", "Kim Gong-ja selects a skill card (cliffhanger)"],
+      "locations": ["Yoo Soo-ha Guild building terrace", "Babylon Square", "Kingdom (mentioned)", "Ten Thousand Temple (mentioned)"],
+      "skills": ["[I Want To Become Just Like You] (S+)", "[Madness to Insanity]", "[Three Musics King's Road]", "[The One Loved by Dice]", "[King's Tutor]", "[Guardian of the Subrace]", "[Gold Dragon's Gaze]", "[Earth Bone Dragon's Skull]", "[Ice River Dragon's Breath]", "[Manseng]", "Flame Emperor's regression (24 hours)"],
+      "deaths": ["Kim Gong-ja (past, mentioned)", "Ja Soo-jung (past, mentioned)", "Yoo Soo-ha (killed by Kim Gong-ja in the past)"],
+      "loops": ["Yoo Soo-ha performs regression by killing himself to return 24 hours", "Kim Gong-ja went back 4,000 days in the past"],
+      "cause_effect": ["Ja Soo-jung died and Kim Gong-ja died -> Yoo Soo-ha performed regression", "Kim Gong-ja killed Yoo Soo-ha -> Ja Soo-jung argues he never tried to change him", "Kim Gong-ja's weakness and betrayal by Yoo Soo-ha -> drove him to save others to prove he was different", "Kim Gong-ja demands reward -> Ja Soo-jung displays her 9 skills", "Kim Gong-ja provokes Ja Soo-jung -> she accepts the duel"],
+      "notes": "Heavy psychological analysis chapter. Ja Soo-jung argues Kim Gong-ja killed Yoo Soo-ha out of weakness and betrayal rather than necessity. Kim Gong-ja declares he will change Yoo Soo-ha better than Ja Soo-jung can, initiating a duel."
+    },
+    {
+      "chapter": 234,
+      "characters": ["Kim Gong-ja/Death King/Mr. Gong-ja", "Ja Soo-jung/Tower Master/Viscount/Manager"],
+      "events": ["Ja Soo-jung explains the random selection rule for skill copying", "Kim Gong-ja studies the 9 cards", "Kim Gong-ja deduces the card pattern is Ja Soo-jung's family crest", "Kim Gong-ja identifies [The One Loved By Dice] and rejects it", "Kim Gong-ja uses reflections in Ja Soo-jung's purple eyes to read the cards", "Kim Gong-ja selects [Earth Bone Dragon's Skull] (SSS+)"],
+      "locations": ["Terrace in Babylon", "Babylon Square"],
+      "skills": ["[I Want To Become Just Like You]", "[Madness to Insanity]", "[Three Musics King's Road]", "[The One Loved by Dice] (SSS - Heavenly Luck)", "[King's Tutor]", "[Guardian of the Subrace]", "[Gold Dragon's Gaze]", "[Earth Bone Dragon's Skull] (SSS+ - memory archive and body recreation)", "[Ice River Dragon's Breath]", "[Manseng]", "Aura"],
+      "deaths": [],
+      "loops": [],
+      "cause_effect": ["Kim Gong-ja enhances vision with aura -> can read reflections in Ja Soo-jung's purple eyes", "Reading reflections -> identifies all 9 skill cards without flipping them", "Selecting [Earth Bone Dragon's Skull] -> gains ability to archive memories and recreate bodies from save points"],
+      "notes": "Kim Gong-ja uses a clever trick to identify all cards by reading their reflections in Ja Soo-jung's mirror-like purple eyes. He rejects the luck-based skill and chooses Earth Bone Dragon's Skull, which allows creating memory 'save points' and recreating bodies."
+    }
+  ]
+}

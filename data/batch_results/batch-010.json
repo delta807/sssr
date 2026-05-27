@@ -1,0 +1,167 @@
+[
+  {
+    "chapter": 136,
+    "characters": ["Kim Gongja/Death King", "Raviel Ivansia", "Flame Emperor/Yoo Sooha (as brother)", "Master/Demonic Sect Leader (as mother)", "Bae Hu-ryeong (as father)", "Four Demon Lords (as Four Heavenly Kings)", "Black Dragon Master (as class president)", "Venomous Snake (as teacher)", "Crusader", "Count", "Alchemist (as math teacher)", "Children from Hellfire Residence", "Namgung Un (as security guard)"],
+    "events": ["Family dinner with Raviel", "Raviel handles Yoo Sooha's scandal", "Death King goes to school in trauma world", "Realizes all students are characters from his life", "Four Demon Lords become Four Heavenly Kings delinquents", "Receives threatening text: 'The one who murdered me was you'", "Student on rooftop prepares to jump"],
+    "locations": ["Home", "Shinseo Middle-High School", "School library"],
+    "skills": [],
+    "deaths": [],
+    "loops": ["Trauma world repeats"],
+    "cause_effect": ["Death King's rising rank causes more immersive penalty", "Trauma overlays his memories onto Lefanta Aegim's past"],
+    "notes": "Death King realizes he is the perpetrator/bully in this trauma, not an observer."
+  },
+  {
+    "chapter": 137,
+    "characters": ["Kim Gongja/Death King", "Raviel Ivansia", "Constellation Killer/Kim Yul (as bullied student)", "Black Dragon Master", "Heretic Questioner", "Crusader", "Count", "Venomous Snake", "Children from Hellfire Residence"],
+    "events": ["Student jumps from rooftop", "Death King recognizes victim as Constellation Killer's past self", "World turns to wasteland when student dies", "People take photos of corpse instead of helping", "Trauma repeats - Death King wakes up in library again", "Death King realizes he is the bully in this scenario", "Reads bullying text messages on victim's phone"],
+    "locations": ["School rooftop", "Schoolyard", "Classroom", "School library"],
+    "skills": [],
+    "deaths": ["Constellation Killer's past self (Kim Yul) - suicide by jumping from rooftop"],
+    "loops": ["Trauma repeats multiple times - time loops back to dismissal bell"],
+    "cause_effect": ["Each time the student dies, the world collapses and resets", "Death King's presence as observer becomes participation as perpetrator"],
+    "notes": "The trauma is Lefanta Aegim's actual school bullying and suicide attempt. The messages on the phone mirror what Death King experienced from Flame Emperor."
+  },
+  {
+    "chapter": 138,
+    "characters": ["Kim Gongja/Death King", "Constellation Killer/Kim Yul", "Raviel Ivansia", "Bae Hu-ryeong (as father)", "Master/Demonic Sect Leader (as mother)", "Yoo Sooha/Flame Emperor (as brother)", "Orphanage Director (flashback)"],
+    "events": ["Flashback to orphanage director's philosophy about masks and love", "Death King takes Kim Yul home", "Visits Kim Yul's actual home - garbage dump shack", "Meets Kim Yul's father (poor trash collector)", "Death King apologizes to father for bullying", "Death King confronts Bae Hu-ryeong as false father"],
+    "locations": ["School", "Constellation Killer's shack/home (garbage dump)", "Death King's home"],
+    "skills": [],
+    "deaths": [],
+    "loops": [],
+    "cause_effect": ["Director's philosophy about not pretending to love influenced Death King's upbringing", "Poverty and broken family system created environment for bullying"],
+    "notes": "The orphanage director was a social worker who took an oath to defend human rights. Death King realizes this world is impossible because Bae Hu-ryeong would never raise a bully."
+  },
+  {
+    "chapter": 139,
+    "characters": ["Kim Gongja/Death King", "Constellation Killer/Kim Yul", "Master/Demonic Sect Leader (as mother)", "Yoo Sooha/Flame Emperor (as brother)", "Bae Hu-ryeong (as father)", "Preta", "Golden Silk", "Venomous Snake", "Alchemist", "Sword Saint"],
+    "events": ["Death King confronts Master as false mother - she fades away", "Yoo Sooha appears with squid legs (revealed as monster)", "Death King destroys trauma world characters one by one", "Characters dissolve into faceless specters", "Four Demon Lords destroyed", "Children from Hellfire Residence crumble", "Crusader is last to dissolve after seeing evidence of bullying"],
+    "locations": ["Home", "School", "Bathroom", "Teachers' office"],
+    "skills": [],
+    "deaths": [],
+    "loops": [],
+    "cause_effect": ["Death King corrupts trauma data by revealing characters' true natures", "World collapses as implementation degree decreases"],
+    "notes": "Trauma implementation percentage drops with each character destroyed. The world becomes filled with white noise and faceless specters."
+  },
+  {
+    "chapter": 140,
+    "characters": ["Kim Gongja/Death King", "Constellation Killer/Kim Yul", "Raviel Ivansia", "Black Dragon Master (as class president)", "Crusader"],
+    "events": ["World shrinks as Void encroaches", "Constellation Killer reveals he feeds animals behind school", "Raviel realizes world is fake but kisses Death King goodbye", "Raviel disappears into Void", "Death King and Kim Yul escape to rooftop", "Black Dragon Master follows them", "Only three people remain in collapsing world"],
+    "locations": ["School", "Animal farm", "School rooftop", "Void"],
+    "skills": [],
+    "deaths": [],
+    "loops": [],
+    "cause_effect": ["Corrupted trauma data causes world to collapse into Void", "Raviel sacrifices herself to let Death King focus on saving Kim Yul"],
+    "notes": "The animal farm detail was real in Kim Yul's life. The Void represents the erased/unknown parts of the trauma."
+  },
+  {
+    "chapter": 141,
+    "characters": ["Kim Gongja/Death King (as Hwang Eunseo)", "Black Dragon Master (as class president)", "Constellation Killer/Kim Yul", "Orphanage Director (revealed as true identity of class president)"],
+    "events": ["Class president reveals she knew about bullying but was powerless", "School board connections protected bullies", "Constellation Killer reveals he attempted suicide", "Class president cries and begs Kim Yul not to die", "Constellation Killer hugs her", "Black Dragon Master's face dissolves revealing orphanage director's face"],
+    "locations": ["School rooftop"],
+    "skills": [],
+    "deaths": [],
+    "loops": [],
+    "cause_effect": ["Director's childhood guilt is the core of the trauma", "The one bystander who cared was the only real person in the fake world"],
+    "notes": "Major revelation: The orphanage director was Kim Yul's classmate and the only one who tried to help. The rooftop scene where they promised to survive together was the trauma's heart."
+  },
+  {
+    "chapter": 142,
+    "characters": ["Kim Gongja/Death King", "Bae Hu-ryeong", "Constellation Killer (flashback)", "Count", "Wide-Range Communications Officer"],
+    "events": ["Death King dies and enters skill selection", "Two key skills revealed: Puppeteer's Parade (S) and Salvation of a Torn Goddess (A+)", "Puppeteer's Parade reveals Constellation Killer has 13 puppet bodies", "Death King regresses 24 hours using Returner's Clockwork Watch", "Clears fairy tale world again easily", "Asks Count for help contacting outside world", "Calls orphanage director for first time in years"],
+    "locations": ["Underworld/dark space", "Great Library", "Outside world (phone call)"],
+    "skills": ["Puppeteer's Parade (S-rank)", "Salvation of a Torn Goddess (A+)", "Returner's Clockwork Watch"],
+    "deaths": ["Death King (dies and regresses)"],
+    "loops": ["24-hour regression after killing Constellation Killer"],
+    "cause_effect": ["Killing Constellation Killer triggers skill copy and regression", "Death King uses foreknowledge to clear fairy tale world faster"],
+    "notes": "Constellation Killer's true skill setup revealed. He has 13 puppet bodies with no shared memories."
+  },
+  {
+    "chapter": 143,
+    "characters": ["Kim Gongja/Death King", "Orphanage Director", "Constellation Killer", "Wide-Range Communications Officer", "Count"],
+    "events": ["Death King calls orphanage director", "Director confirms he attended Shinseo High and was class president", "Confirms Kim Yul existed and committed suicide", "Reveals Kim Yul's real name: Kim Yul (金律)", "Director liquidates all assets and enters Tower", "Director meets Constellation Killer", "Director kneels and apologizes to Constellation Killer"],
+    "locations": ["Great Library", "Outside world (phone call)"],
+    "skills": ["Hundred Ghosts Reincarnation"],
+    "deaths": [],
+    "loops": [],
+    "cause_effect": ["Director's confirmation proves trauma events were real", "Director gives up everything to apologize in person"],
+    "notes": "Kim Yul's name uses hanja 金律 (Kim=gold, Yul=law/principle). The director kept his promise to never change his number."
+  },
+  {
+    "chapter": 144,
+    "characters": ["Kim Gongja/Death King", "Constellation Killer", "Orphanage Director", "Corner Librarian/Hamustra"],
+    "events": ["Constellation Killer rejects apology (can't remember being Kim Yul)", "Librarian reveals he knows Death King is a regressor", "Shows book 'The Tale of the Ascending City' about Death King", "Librarian says it's too late to save Constellation Killer", "Death King proposes bet with Librarian", "If Death King can connect Kim Yul's timeline to Constellation Killer, he wins", "If he fails, Librarian gets 10 years with Death King"],
+    "locations": ["Great Library"],
+    "skills": [],
+    "deaths": [],
+    "loops": [],
+    "cause_effect": ["Librarian's obsession with stories makes him susceptible to bets", "Death King proposes immersive return to trauma as solution"],
+    "notes": "Librarian's true name is Hamustra. He records everything about Death King in real-time."
+  },
+  {
+    "chapter": 145,
+    "characters": ["Kim Gongja/Death King", "Constellation Killer", "Orphanage Director", "Corner Librarian/Hamustra"],
+    "events": ["Librarian agrees to bet and opens side story", "Black smoke emerges instead of white light", "Librarian negotiates with Tower/Zrakua's Asin", "Death King receives penalty: deployed one year before others", "Immersion rate starts at 95%", "Death King will be the bully, Constellation Killer will be Kim Yul, Director will be class president"],
+    "locations": ["Great Library", "Trauma world (Shinseo High)"],
+    "skills": [],
+    "deaths": [],
+    "loops": [],
+    "cause_effect": ["Tower penalty for using shortcut to 50th floor", "Higher power (Zrakua's Asin) intervenes in the side story"],
+    "notes": "The trauma is now a proper Apocalypse/side story. Death King enters one year early to prepare."
+  },
+  {
+    "chapter": 146,
+    "characters": ["Kim Gongja/Death King (as Hwang Eunseo)", "Constellation Killer/Kim Yul", "Orphanage Director (as young class president)"],
+    "events": ["Death King at 95% immersion as bully Hwang Eunseo", "Spends 11 months gathering evidence of bullying", "Records 103 tapes, 311 videos, 30,790 photos", "Collects cell phones with text messages", "Sends evidence box to young director's house", "Immersion rate reaches 100%", "Death King's consciousness fades into bully persona"],
+    "locations": ["Shinseo High School", "Classroom", "School farm"],
+    "skills": [],
+    "deaths": [],
+    "loops": [],
+    "cause_effect": ["Death King deliberately becomes the villain to gather evidence", "The only way to win is to be defeated as the bully"],
+    "notes": "The chapter shows the meticulous documentation of bullying evidence. Death King endures 11 months of being a monster to create an undeniable record."
+  },
+  {
+    "chapter": 147,
+    "characters": ["Kim Gongja/Death King (as Hwang Eunseo)", "Constellation Killer/Kim Yul", "Orphanage Director (as class president)", "Girlfriend (student council president)"],
+    "events": ["Fully immersed as Hwang Eunseo", "Reveals mechanics of bullying in detail (Levels 1-3)", "Explains 'Kim Yul game' and fabricated evidence (shoes with star)", "Class president running for student council president", "Hwang Eunseo's girlfriend supports the bullying for entertainment", "Hwang Eunseo sees himself as superior manipulator"],
+    "locations": ["Shinseo High School", "Classroom"],
+    "skills": [],
+    "deaths": [],
+    "loops": [],
+    "cause_effect": ["Bullying escalates from ridicule to violence through systematic manipulation", "Class president's ambition for college recommendations drives political maneuvering"],
+    "notes": "Detailed explanation of bullying mechanics. The 'star on shoes' trick shows how fabricated evidence spreads. Class president wants Seoul National University recommendation."
+  },
+  {
+    "chapter": 148,
+    "characters": ["Kim Gongja/Death King (as Hwang Eunseo)", "Constellation Killer/Kim Yul", "Orphanage Director (as class president)", "Girlfriend", "Broadcasting club president"],
+    "events": ["Broadcasting club president confronts Hwang Eunseo with recording", "All customers/friends abandon Hwang Eunseo", "Receives threatening texts from former allies", "Girlfriend dumps him via text", "Constellation Killer appears and says he wants revenge", "Kim Yul quotes about beauty and suffering", "Tables turned - bully becomes bullied"],
+    "locations": ["School", "Broadcasting room", "Animal farm", "Classroom"],
+    "skills": [],
+    "deaths": [],
+    "loops": [],
+    "cause_effect": ["Evidence leak causes Hwang Eunseo's support network to collapse", "Constellation Killer takes control and begins systematic reversal of bullying"],
+    "notes": "The reversal begins. Kim Yul uses the same tactics that were used against him. The broadcasting club president was a 'customer' of the bullying videos."
+  },
+  {
+    "chapter": 149,
+    "characters": ["Kim Gongja/Death King (as Hwang Eunseo)", "Constellation Killer/Kim Yul", "Orphanage Director (as class president)", "Classmates"],
+    "events": ["Hwang Eunseo receives hate notes from former friends", "Notes mock him using his own tactics", "Someone tapes 'Official Trash of Shinseo High' on his back", "Girlfriend breaks up via text", "Hwang Eunseo searches desks for evidence of culprit", "Classmates catch him searching desks", "Class president offers to help him apologize to Kim Yul"],
+    "locations": ["Classroom", "Teachers' office"],
+    "skills": [],
+    "deaths": [],
+    "loops": [],
+    "cause_effect": ["Hwang Eunseo's paranoia and isolation accelerate his downfall", "Class president uses the situation for student council election advantage"],
+    "notes": "The class president's 'help' is revealed to have ulterior motives. Hwang Eunseo's internal monologue shows he feels unfairly targeted despite being the perpetrator."
+  },
+  {
+    "chapter": 150,
+    "characters": ["Kim Gongja/Death King (as Hwang Eunseo)", "Orphanage Director (as class president)", "Constellation Killer/Kim Yul"],
+    "events": ["Class president proposes student council election speech", "Hwang Eunseo will publicly apologize to Kim Yul during the speech", "Hwang Eunseo agrees to help class president win election", "They bond over shared cynicism about human nature", "Hwang Eunseo writes apology speech", "Class president admits he's only helping for election advantage"],
+    "locations": ["Classroom"],
+    "skills": [],
+    "deaths": [],
+    "loops": [],
+    "cause_effect": ["Hwang Eunseo's desperation makes him vulnerable to manipulation", "Class president uses Hwang Eunseo's downfall for political gain"],
+    "notes": "The chapter shows how the class president (Director) was pragmatic even as a teenager. He and Hwang Eunseo share a cynical worldview but choose different paths."
+  }
+]

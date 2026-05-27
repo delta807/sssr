@@ -1,0 +1,540 @@
+{
+  "batch": 5,
+  "chapters": [
+    {
+      "chapter": 61,
+      "characters": [
+        "Death King (Kim Gongja)",
+        "Heretic Questioner",
+        "Venomous Snake",
+        "Witch (Black Dragon Witch)",
+        "Alchemist",
+        "Librarian (Bang Gu-seok)"
+      ],
+      "events": [
+        "50 hunters are eaten by the Librarian's tentacle monster for touching books recklessly",
+        "Death King organizes 250 hunters into genre-based groups to evaluate Apocalypses",
+        "Character windows reveal true preferences - Witch secretly loves romance novels",
+        "Venomous Snake is revealed to be a light novel fan sitting in martial arts group"
+      ],
+      "locations": [
+        "Great Library"
+      ],
+      "skills": [
+        "Character Window (reveals psychological preferences)",
+        "Ten Thousand Temple (Heretic Questioner)"
+      ],
+      "deaths": [
+        "50 unnamed hunters (eaten by tentacles)"
+      ],
+      "loops": [],
+      "cause_effect": [
+        "Death King uses his 3rd rank authority to command the hunters",
+        "The Librarian only allows safe interaction with Apocalypse books when his powers are inactive",
+        "Character windows reveal the gap between stated and true preferences among hunters"
+      ],
+      "notes": "The Great Library contains 683 discontinued Apocalypses. Hunters must choose one to save for their 22nd floor. The Witch is embarrassed about liking romance. The Heretic Questioner knows Sherlock Holmes and joins the Fairy Tale group."
+    },
+    {
+      "chapter": 62,
+      "characters": [
+        "Death King",
+        "Heretic Questioner",
+        "Witch",
+        "Alchemist",
+        "Sword Saint",
+        "Librarian",
+        "Venomous Snake"
+      ],
+      "events": [
+        "Hunters read through hundreds of Apocalypse books",
+        "Alchemist reveals she received her Title because Death King used her elixir to save the world",
+        "Sword Saint recommends 'Chronicles of Heavenly Demon' (Murim world) for martial arts skills",
+        "Shiny senses her sister sword fragment in the Murim world Apocalypse",
+        "Heretic Questioner receives a dark fairy tale book from Venomous Snake"
+      ],
+      "locations": [
+        "Great Library"
+      ],
+      "skills": [
+        "Moving Hospital",
+        "Life Diagnosis"
+      ],
+      "deaths": [],
+      "loops": [],
+      "cause_effect": [
+        "The Alchemist's Title 'Alchemist' was earned through Death King's indirect actions",
+        "Shiny's sensing of her sister sword determines the next destination",
+        "Sword Saint's recommendation leads the team to choose the Murim Apocalypse"
+      ],
+      "notes": "The Chronicles of Heavenly Demon is a B-Class Martial Arts Apocalypse. The world ends due to an unidentified epidemic. Player limit is 2-4 people."
+    },
+    {
+      "chapter": 63,
+      "characters": [
+        "Death King",
+        "Bae Hu-ryeong (Sword Emperor)",
+        "Shiny (Holy Sword)",
+        "Sword Saint",
+        "Medicine King",
+        "Alchemist",
+        "Librarian"
+      ],
+      "events": [
+        "Death King stabs himself with the Holy Sword to trigger trauma and learn about Lefanta Aegim",
+        "Lefanta Aegim is revealed as the 'Constellation Killer' who hunted hundreds of Constellations",
+        "Bae Hu-ryeong knew Lefanta Aegim from the 50th floor",
+        "Team for Chronicles of Heavenly Demon finalized: Death King, Sword Saint, Medicine King, Alchemist"
+      ],
+      "locations": [
+        "Great Library",
+        "Bathroom in the Library"
+      ],
+      "skills": [
+        "I Want To Become Just Like You (death-based skill copying)",
+        "Returner's Clockwork Watch (mentioned - Flame Emperor's skill)"
+      ],
+      "deaths": [
+        "Death King (suicide by Holy Sword to see trauma)"
+      ],
+      "loops": [
+        "Death King loops back 24 hours after viewing Lefanta Aegim's trauma"
+      ],
+      "cause_effect": [
+        "Death King learns Lefanta Aegim is hostile to Constellations and will be an enemy on the 50th floor",
+        "The trauma reveals Lefanta sealed the Goddess of Protection despite her helping him",
+        "Death King decides to be cautious before entering the Murim world"
+      ],
+      "notes": "Lefanta Aegim established the Aegim Empire and split/sealed the Goddess of Protection into five swords. He is extremely dangerous."
+    },
+    {
+      "chapter": 64,
+      "characters": [
+        "Death King",
+        "Sword Saint",
+        "Alchemist",
+        "Medicine King",
+        "Venomous Snake",
+        "Crusader",
+        "Count"
+      ],
+      "events": [
+        "Sword Saint questions bringing Alchemist to dangerous Apocalypse",
+        "Medicine King insults Alchemist as a 'greenhorn'",
+        "Death King proposes elixir-making competition between Medicine King and Alchemist",
+        "Medicine King produces Unique Recovery Potion",
+        "Alchemist produces Quasi-Myth 'Soma Strawberry' that can graft severed limbs"
+      ],
+      "locations": [
+        "Great Library"
+      ],
+      "skills": [
+        "Unique Recovery Potion (Medicine King)",
+        "Soma Strawberry - Quasi-Myth (Alchemist)"
+      ],
+      "deaths": [],
+      "loops": [],
+      "cause_effect": [
+        "Alchemist's vastly superior product proves Death King's judgment correct",
+        "Medicine King loses face and becomes resentful",
+        "Count tries to sign exclusive contract with Alchemist"
+      ],
+      "notes": "The betting odds were 1.08 to 47 in favor of Medicine King. The Crusader bet on Alchemist and won big."
+    },
+    {
+      "chapter": 65,
+      "characters": [
+        "Death King",
+        "Alchemist",
+        "Medicine King",
+        "Sword Saint",
+        "Venomous Snake",
+        "Crusader",
+        "Librarian",
+        "Heretic Questioner"
+      ],
+      "events": [
+        "Medicine King repeatedly loses to Alchemist, then concedes",
+        "Venomous Snake's guild members push him to join the expedition",
+        "Sword Saint yields spot to Venomous Snake after Crusader's mediation",
+        "Team enters 'Chronicles of Heavenly Demon' Apocalypse",
+        "They arrive 10 days before the world's destruction"
+      ],
+      "locations": [
+        "Great Library",
+        "Chronicles of Heavenly Demon Apocalypse (Murim world)"
+      ],
+      "skills": [],
+      "deaths": [],
+      "loops": [],
+      "cause_effect": [
+        "Crusader's mediation and mention of financial/pride concerns convinces Sword Saint to step back",
+        "Venomous Snake actually doesn't want to go but is pressured by his disciples",
+        "The librarian transports them to the Murim world 10 days before destruction"
+      ],
+      "notes": "Final team: Death King, Venomous Snake, Medicine King, Alchemist. The Apocalypse has a 2-4 player limit. If they die inside, they die in reality."
+    },
+    {
+      "chapter": 66,
+      "characters": [
+        "Death King",
+        "Venomous Snake",
+        "Alchemist",
+        "Medicine King",
+        "Heavenly Demon (So Baek-hyang)",
+        "Murim Lord (Namgung Un / Bu Wol-sun)",
+        "Bae Hu-ryeong"
+      ],
+      "events": [
+        "Team arrives in snowy Murim world",
+        "They discover hundreds of frozen human corpses standing upright",
+        "Zombies awaken when dark clouds cover the sun and attack",
+        "Death King uses Shiny's light to repel the zombies",
+        "Heavenly Demon and Murim Lord are found fighting with wooden sticks"
+      ],
+      "locations": [
+        "Murim snowfield",
+        "Cave with hot spring"
+      ],
+      "skills": [
+        "Aura",
+        "Qingong Skill (zombies retain martial arts)",
+        "Holy Sword light (repels zombies)"
+      ],
+      "deaths": [],
+      "loops": [],
+      "cause_effect": [
+        "Sunlight stops zombie movement; darkness triggers awakening",
+        "The 'unidentified epidemic' is a zombie virus that preserves martial arts skills",
+        "Heavenly Demon and Murim Lord have been fighting for 989 days despite the apocalypse"
+      ],
+      "notes": "The zombies are former martial arts masters who can use Qingong to fly. The Heavenly Demon and Murim Lord treat their zombified subordinates as still belonging to their respective factions."
+    },
+    {
+      "chapter": 67,
+      "characters": [
+        "Death King",
+        "Venomous Snake",
+        "Alchemist",
+        "Medicine King",
+        "Heavenly Demon",
+        "Murim Lord",
+        "Bae Hu-ryeong"
+      ],
+      "events": [
+        "Team flees from martial arts zombies jumping through the air",
+        "Death King throws Alchemist and Heavenly Demon to safety",
+        "Shiny's light stops the zombie horde",
+        "Heavenly Demon reveals the zombies are her former disciples",
+        "The two leaders have been at war for 989 days and refuse to stop"
+      ],
+      "locations": [
+        "Murim snowfield"
+      ],
+      "skills": [
+        "Holy Sword light",
+        "Qingong Skill (zombies)"
+      ],
+      "deaths": [],
+      "loops": [],
+      "cause_effect": [
+        "The war between Righteous and Demonic sects continued even after everyone turned to zombies",
+        "Both leaders maintain their honor by refusing to surrender or stop fighting",
+        "Death King realizes this world itself has no hope or dreams"
+      ],
+      "notes": "The Heavenly Demon is called So Baek-hyang. The Murim Lord is Bu Wol-sun of the Namgung family. They swear to fight until one defeats the other."
+    },
+    {
+      "chapter": 68,
+      "characters": [
+        "Death King",
+        "Heavenly Demon",
+        "Murim Lord",
+        "Venomous Snake",
+        "Medicine King",
+        "Alchemist",
+        "Bae Hu-ryeong"
+      ],
+      "events": [
+        "Heavenly Demon and Murim Lord's 'fight' is shown to be clumsy stick-fighting without aura",
+        "Bae Hu-ryeong explains their movements are actually master-level principles without energy",
+        "Medicine King cooks an incredible feast from his subspace inventory",
+        "Death King notices Murim Lord's body is warm despite freezing weather",
+        "Team stays in the cave with hot spring"
+      ],
+      "locations": [
+        "Cave with hot spring",
+        "Murim snowfield"
+      ],
+      "skills": [
+        "Infernal Heavens Demonic Art (mentioned)",
+        "Various martial arts principles"
+      ],
+      "deaths": [],
+      "loops": [],
+      "cause_effect": [
+        "The two leaders are physically weak despite being martial arts masters",
+        "Medicine King's cooking reveals he was a 3-Michelin star chef",
+        "Death King suspects something is wrong with their bodies (warmth without aura)"
+      ],
+      "notes": "The two leaders have been eating only energy seeds (Hwan) for over two years. Medicine King uses Bling H2O for cooking. The cave is their base."
+    },
+    {
+      "chapter": 69,
+      "characters": [
+        "Death King",
+        "Alchemist",
+        "Medicine King",
+        "Heavenly Demon",
+        "Murim Lord",
+        "Venomous Snake"
+      ],
+      "events": [
+        "Alchemist and Medicine King examine a zombie monk in a coffin",
+        "They discover acupuncture needles can block the zombie virus temporarily",
+        "Death King follows Heavenly Demon and Murim Lord at night",
+        "Discovers they are infected and use chi to block their spinal cords to prevent full zombification",
+        "They have been paralyzed but moving via chi control for three years"
+      ],
+      "locations": [
+        "Cave with hot spring",
+        "Open-air bath in cave"
+      ],
+      "skills": [
+        "Life Diagnosis",
+        "Moving Hospital",
+        "Chi-based body control (Heavenly Demon and Murim Lord)"
+      ],
+      "deaths": [],
+      "loops": [],
+      "cause_effect": [
+        "Both leaders were bitten three years ago and block the virus by sealing their cervical spinal cords with chi",
+        "This is why they are physically weak - moving their bodies manually with chi is exhausting",
+        "They refuse to stop fighting because they want to die by each other's hands, not by disease"
+      ],
+      "notes": "The Shaolin monk lasted a year after being bitten before turning. Most last only 15 days. The Heavenly Demon and Murim Lord have endured three years through extreme willpower."
+    },
+    {
+      "chapter": 70,
+      "characters": [
+        "Death King",
+        "Heavenly Demon",
+        "Murim Lord",
+        "Alchemist",
+        "Medicine King",
+        "Venomous Snake",
+        "Bae Hu-ryeong"
+      ],
+      "events": [
+        "Heavenly Demon tells story of invincible master killed by succubus - no one is invincible to happiness",
+        "Reveals they line up their zombified subordinates daily as a ritual",
+        "The 990th battle between Heavenly Demon and Murim Lord begins",
+        "Death King decides he must save this world properly, not just the two leaders",
+        "Murim Lord dies on the 10th day from the virus"
+      ],
+      "locations": [
+        "Snowfield",
+        "Cave"
+      ],
+      "skills": [],
+      "deaths": [
+        "Murim Lord (dies from zombie virus on day 10)"
+      ],
+      "loops": [],
+      "cause_effect": [
+        "The world ends when both leaders die; until then, the world technically continues",
+        "Their daily ritual of lining up zombies maintains their sense of purpose and war",
+        "Murim Lord's chi finally runs out, leading to his death"
+      ],
+      "notes": "Death King realizes a 'good ending' must satisfy the characters, not just save them physically. The war has lasted 990 days. There are 500 zombies on each side."
+    },
+    {
+      "chapter": 71,
+      "characters": [
+        "Death King",
+        "Alchemist",
+        "Medicine King",
+        "Heavenly Demon",
+        "Murim Lord"
+      ],
+      "events": [
+        "Alchemist reveals her skills to Medicine King to gain his cooperation",
+        "Medicine King slaps her, then they form a tense working relationship",
+        "Count tries to sign exclusive contract with Alchemist",
+        "Heavenly Demon admits she is afraid of her chi running out",
+        "The team works around the clock on research"
+      ],
+      "locations": [
+        "Cave"
+      ],
+      "skills": [
+        "Moving Hospital (golden card)",
+        "Life Diagnosis (silver card)",
+        "Three other B-grade or higher skills (Alchemist)"
+      ],
+      "deaths": [],
+      "loops": [],
+      "cause_effect": [
+        "Alchemist's openness about her skills builds trust with Medicine King",
+        "Heavenly Demon reveals her body parts will rot one by one as chi depletes",
+        "The blizzard prevents them from gathering lost zombies"
+      ],
+      "notes": "The Alchemist has four high-grade skills. Medicine King eventually acknowledges her superiority. Time is running out - only 2 days remain until destruction."
+    },
+    {
+      "chapter": 72,
+      "characters": [
+        "Death King",
+        "Heavenly Demon",
+        "Murim Lord",
+        "Alchemist",
+        "Medicine King",
+        "Venomous Snake",
+        "Bae Hu-ryeong"
+      ],
+      "events": [
+        "Murim Lord dies at dawn on day 10",
+        "Heavenly Demon goes mad with grief and enters 'disharmony' state",
+        "She kills Medicine King instantly with one sword strike",
+        "Venomous Snake dies after enduring only 3 strikes",
+        "Death King and Alchemist are cut down while fleeing"
+      ],
+      "locations": [
+        "Cave",
+        "Snowfield"
+      ],
+      "skills": [
+        "Infernal Heavens Demonic Art (Heavenly Demon's true power revealed)"
+      ],
+      "deaths": [
+        "Murim Lord (virus)",
+        "Medicine King (beheaded by Heavenly Demon)",
+        "Venomous Snake (killed by Heavenly Demon)",
+        "Death King (cut in half)",
+        "Alchemist (cut in half)"
+      ],
+      "loops": [
+        "Death King dies and regresses 24 hours"
+      ],
+      "cause_effect": [
+        "Heavenly Demon's madness is triggered by Murim Lord's death",
+        "She loses all sense of reality and attacks everyone as enemies",
+        "Her true strength is revealed - even Bae Hu-ryeong admits she'd win 6 out of 10 fights against him in his prime"
+      ],
+      "notes": "The Heavenly Demon's 'disharmony' state makes her incredibly powerful but completely insane. She mistakes everyone for righteous path enemies."
+    },
+    {
+      "chapter": 73,
+      "characters": [
+        "Death King",
+        "Bae Hu-ryeong",
+        "Heavenly Demon (So Baek-hyang)",
+        "Alchemist",
+        "Medicine King",
+        "Venomous Snake",
+        "Murim Lord"
+      ],
+      "events": [
+        "Death King copies Infernal Heavens Demonic Art (A+ rank) from Heavenly Demon after death",
+        "Heavenly Demon's trauma reveals she was abandoned by her mother in a snowfield as a child",
+        "Bae Hu-ryeong explains demonic arts as 'nails that scratch the world' vs righteous sect 'vessels that accept'",
+        "Death King commits 8 additional suicides to return to day 1 of the Apocalypse",
+        "Death King kneels before Heavenly Demon and asks to become her disciple"
+      ],
+      "locations": [
+        "Trauma space",
+        "Murim snowfield (day 1)"
+      ],
+      "skills": [
+        "Infernal Heavens Demonic Art (A+ rank, copied by Death King)",
+        "I Want To Become Just Like You"
+      ],
+      "deaths": [
+        "Death King (suicide by Holy Sword to see trauma)",
+        "Death King (8 additional suicides to reach day 1)"
+      ],
+      "loops": [
+        "Death King loops back 24 hours after first death",
+        "Death King loops back 8 more days through repeated suicide to reach day 1"
+      ],
+      "cause_effect": [
+        "Death King realizes curing the virus is only the first step - need a satisfying ending for both leaders",
+        "He chooses Infernal Heavens Demonic Art specifically to understand the Heavenly Demon",
+        "Going back to day 1 allows him to change the entire course of events"
+      ],
+      "notes": "The Infernal Heavens Demonic Art requires hatred and curses toward the world. Using it risks losing one's sense of self. Death King has now experienced Heavenly Demon's childhood trauma of abandonment."
+    },
+    {
+      "chapter": 74,
+      "characters": [
+        "Death King",
+        "Heavenly Demon",
+        "Murim Lord",
+        "Alchemist",
+        "Medicine King",
+        "Venomous Snake",
+        "Demonic Buddha (old master)"
+      ],
+      "events": [
+        "Young So Baek-hyang's backstory: found buried in snow by Demonic Buddha",
+        "She has no memories of her name or past",
+        "Present: Death King demonstrates Infernal Heavens Demonic Art before Heavenly Demon",
+        "Heavenly Demon is shocked and demands to know where he learned it",
+        "Death King passes out from overusing the skill"
+      ],
+      "locations": [
+        "Snowfield (flashback)",
+        "Demonic Cult headquarters (flashback)",
+        "Cave with hot spring"
+      ],
+      "skills": [
+        "Infernal Heavens Demonic Art (demonstrated by Death King)"
+      ],
+      "deaths": [],
+      "loops": [],
+      "cause_effect": [
+        "Death King's demonstration proves he has the qualification to inherit the demonic art",
+        "Heavenly Demon cannot understand how an outsider learned her sect's secret technique",
+        "The skill is fueled by grief and screams rather than traditional martial arts principles"
+      ],
+      "notes": "So Baek-hyang was given her name by the Demonic Buddha - it means 'scent of white snow.' She was the perfect vessel for demonic arts because she was born of ice and snow."
+    },
+    {
+      "chapter": 75,
+      "characters": [
+        "Death King",
+        "Heavenly Demon (young So Baek-hyang)",
+        "Demonic Buddha",
+        "Alchemist",
+        "Medicine King",
+        "Venomous Snake",
+        "Murim Lord"
+      ],
+      "events": [
+        "Young So Baek-hyang enters Demonic Cult at age 11",
+        "Realizes the 'paradise' is actually a jar of poison where orphans are raised for revenge",
+        "She works harder than others, helps farmers, makes her own clothes",
+        "At age 13, she passes the 'test of comfort' by Demonic Buddha",
+        "Present: Death King wakes up; Heavenly Demon accepts him as disciple but gives test",
+        "Test: Fight a zombie in a pit while feeling only hunger"
+      ],
+      "locations": [
+        "Demonic Cult headquarters",
+        "Cave",
+        "Snowfield",
+        "Zombie pit"
+      ],
+      "skills": [
+        "Infernal Heavens Demonic Art (training begins)"
+      ],
+      "deaths": [],
+      "loops": [],
+      "cause_effect": [
+        "So Baek-hyang's harsh upbringing shaped her worldview - the Demonic Cult exists to take revenge on the world",
+        "Death King's test requires him to wield sword from pure hunger, the first of nine techniques",
+        "Understanding starvation is necessary to cut down those who have never starved"
+      ],
+      "notes": "The nine techniques of Infernal Heavens Demonic Art correspond to deaths: starvation, dehydration, drowning, etc. Each represents a different form of suffering."
+    }
+  ]
+}

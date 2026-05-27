@@ -1,0 +1,327 @@
+---
+chapter: 362
+title: 358: Return to the Origin (3)
+word_count: 2275
+character_count: 12873
+source_url: https://novelfire.net/book/sss-class-suicide-hunter/chapter-362
+parsed_at: 2026-05-27T17:44:01.344862
+characters: []
+events: []
+locations: []
+skills: []
+deaths: []
+loops: []
+cause_effect: []
+---
+
+4.
+
+Lets talk about the old days for a moment.
+
+When Director was young, instead of smartphones, staring blankly at the television was a childs pleasure, it is said.
+
+On TV, you couldnt choose whatever video you wanted freely. You watched whatever the broadcasting station played.
+
+Since broadcasting stations are places where people work, nothing is broadcasted during the times when people drift off to dreamland.
+
+Its just like a restaurant that doesnt operate 24 hours. Rest. Closed. There is certainly a stop, but its function does not operate.
+
+Zzzt-
+
+And when the television rests, it shows a strange screen. Black dots and white dots intertwine messily with a crackling sound. Flicker, flicker. As if machines AIs are playing their own game of Go at high speed, black and white dots mix together. Dizzily. Dizzily, dizzily.
+
+Zzzt, zzzt-
+
+That was the scene where I was standing now.
+
+[The 76th stage has been forcibly terminated.]
+
+The once blue sky had suddenly cracked open. From the split crevices, like the proliferation of mold, black and white vomit poured out. The sky was devoured first, then the humans wandering below the sky, and finally, the horizon was eaten away.
+
+Zzzzt!
+
+[The sixth pillar, The Wand Of Ages intervenes.]
+
+[The Wand Of Ages wishes to maintain control of the stage.]
+
+In the midst of a world where black and white fornicate, there was a wizard leaning on a lonely staff.
+
+One of the pillars operating this tower. It was The Wand Of Ages.
+
+Thats an interesting story youre telling. Death King.
+
+The wizard looked at me.
+
+So, you just said, my choice was wrong? Who is suitable to be the judge of this layer of heaven. Who is willingly able to judge pass or fail for you. Considering all of that, my choice of Yoo Soo-ha as the judge, my judgment, was wrong?
+
+Yes.
+
+The wizards pupils were like water in which a knife was soaked, silvery. I did not avoid the gaze of the silver blade aimed at me.
+
+Yoo Soo-ha, even if he were to face death, he would never wish to be reincarnated here.
+
+The wizard did not answer immediately. Press. After a long time, the wizard gripped his staff tightly.
+
+Maybe theres some merit to your words. However, what about here?
+
+The wizard raised his long staff high. And with all his might, he slammed it down on the ground.
+
+[The Wand Of Ages manifests its power.]
+
+Whoosh!
+
+Centered around the spot hit by the staff, waves arose. White waves. The white waves instantly became violent torrents, driving away the blackness that was devouring various places in this world.
+
+At the same time.
+
+[The Wand Of Ages is teleporting you.]
+
+The world of crackling noise was transformed.
+
+[You have entered the 77th stage.]
+
+[You set foot in a place where you originally could not enter.]
+
+This place is Machine Heaven.
+
+Was it magic cast by The Wand Of Ages? We were floating in the air.
+
+Dazzlingly far below was a splendid future city. The skyscrapers rose smoothly without a single pillar or joint, and buildings were connected like neurons in the brain. The pathways draped like spiderwebs between skyscrapers constantly emitted light.
+
+In this world, countless mechanical dolls live. If I were to borrow your terminology, they are NPCs.
+
+In the future city, numerous people were bustling about.
+
+If what the wizard told me is correct, the vast majority of them are NPCs. That is, they are not hunters who have been reincarnated with souls.
+
+The constellation of this world [The God of Machinery] controls millions of mechanical dolls. Of course, humans reincarnated here are unaware of such facts. NPCs too believe they are just like themselves, humans. Naturally. The dolls controlled by [The God of Machinery] are vividly indistinguishable from humans. And then
+
+And then?
+
+The dolls always lose to humans at [lifes decisive moments].
+
+A boxing-like match was being shown on the citys electronic display.
+
+Humans reincarnated here always win against the dolls. So cunningly that they never realize the dolls deliberately lose to them. No, they never notice that the people who lost to them were actually just dolls.
+
+Thump!
+
+A boxer with red gloves knocked his opponent down. Wow! Cheers from the audience could be heard beyond the display. The boxer with blue gloves staggered into a corner, and the red player aggressively pushed his opponent.
+
+Those reborn here lead a life of constant success. Even when crises that seem like defeats loom, they ultimately win. The sweetness of victory. The confidence of having overcome lifes challenges. All these joys are gifts prepared by [The God of Machinery] solely for humans.
+
+Eventually, the red players uppercut landed squarely.
+
+Boom! The blue player couldnt stand and fell on the ring. The referee hurriedly ran over to separate the two players, but a bright certainty of victory, the joy of having won, was already smeared on the face of the red player.
+
+Its a game. A kind of play. A game where one always receives victory. But, the suspicion that [I am being treated] never arises. One cant help but believe that theyve earned every victory through their own merit.
+
+.
+
+How about it, Death King. Doesnt this place perfectly fit as Yoo Soo-has heaven?
+
+Roar!
+
+The red player roared. The referee grabbed his wrist and raised it high. The red player, intoxicated with his victory, howled like a gorilla, and the audience responded to him. An even louder cheer rewarded him.
+
+Ill admit you know Yoo Soo-ha well.
+
+From the sky dyed with cheers, the wizard softly said.
+
+Yeah, maybe I made a mistake once. Sorry. Its the administrators responsibility. As an apology, Ill acknowledge that youve automatically cleared the 76th floor. So now, lets proceed to capturing the 77th floor
+
+How long can you keep doing this?
+
+What?
+
+I narrowed my eyes.
+
+Those who wanted to abandon the world from the outside entered the tower. Those who want to abandon the world of the tower, go to one of the heavenly layers prepared from the 71st to the 79th floors. Is that the end? What if the souls that arrived here want to abandon the world once more?
+
+.
+
+Then, will you create another heaven of heavens? Build a tower within a tower, and again a tower within that tower, stacking it up forever to a hundred floors, a thousand floors, ten thousand floors, a hundred thousand floors, a million floors?
+
+The wizard bit his lip.
+
+[The Wand Of Ages is teleporting you.]
+
+The staff the wizard was tightly holding trembled.
+
+[You have entered the 78th stage.]
+
+[You set foot in a place where you originally could not enter.]
+
+How about this place?
+
+The world changed again. A tranquil yet fulfilling village by the seaside unfolded. People were paired up, peacefully engaging in conversation or enjoying meals.
+
+This place is Twin Heavens. Here, everyone can find their destined partner. Even those who did not meet their fate in their previous life, here, they are bound to meet and be together forever
+
+Theres no end.
+
+I said this to deflect the blade in the wizards eyes with the sword in my voice.
+
+The Wand Of Ages. I now understand your identity. You are probably the [Judge of the Afterlife], akin to the King of Hell, deciding which layer of heaven the souls that died in the tower will go to.
+
+.
+
+The difference might be that you never sentence them to hell.
+
+The voice of the tower rang in my head.
+
+[You have seen through the identity of The Wand Of Ages!]
+
+[The Wand Of Ages activates its privilege as a pillar.]
+
+[Your memories related to the pillar are distorted.]
+
+[Failed.]
+
+[All actions attempting to distort your memories fail!]
+
+Fox~nim was wrapped around my neck like a scarf. I nodded my head and continued to glare at the wizard in front of me. The judge who decides and distributes all the souls that have died in the tower.
+
+You have made two critical errors.
+
+Errors, what do you mean?
+
+The tower never forces people from the outside world to come here. Thats a decision for people to make on their own. Whether the world of the tower suits them Whether they really want to abandon the outside world once and for all. The hunters living here have come by making that decision on their own.
+
+I said emphatically.
+
+But you did not ask for their consent. You didnt ask the Crusader if she would choose this heaven if she died. You just decided on your own that the Musical Heaven would suit the Crusader best. The same goes for the Count, Venomous Snake, Heretic Questioner, Alchemist, and Yoo Soo-ha; you summoned them [without asking anything].
+
+.
+
+But theres an even worse mistake.
+
+That is.
+
+The people who go to the layers of heaven you manage, completely forget their past lives.
+
+So what? They are souls that chose to leave the world for a heaven that would make them happy. Theres no need to remember the unwanted memories, the things related to the world they have abandoned.
+
+We did not choose to be born into the outside world.
+
+However.
+
+But the tower is a world we chose.
+
+.
+
+It is a world we were born into because we wanted to. It is the world we decided to come to. Unlike the outside world where we just fell without knowing anythingwe chose to come here. That is why the tower has meaning!
+
+I took a step forward.
+
+Had the wizards magic been undone?
+
+For a moment, my foot lost weight in the air and almost fell. But I quickly utilized aura to create an invisible stepping stone. Walking on air. The sky could no longer mean falling to me.
+
+And you made them lose [the memories they chose]!
+
+Ugh.
+
+The layers of heaven you manage have erased the meaning that the tower barely managed to create. Its the same. Youve just rebuilt the same world as the outside, inside the tower.
+
+I said, standing in the sky.
+
+You are not fit to be the judge of heaven.
+
+The Wand Of Ages hissed.
+
+Just because you have a mouth, doesnt mean you should spout nonsense!
+
+Yes. And its not over yet.
+
+I looked up at the sky.
+
+Yoo Soo-ha!
+
+Zzzt-.
+
+You must be listening! You choose! You decide! Whether there is a layer of heaven among the 76th, 77th, and 78th floors that you willingly wish to go to, as judged by [The Wand Of Ages]! And whether [The Wand Of Ages] is qualified as a judge! Or else
+
+The sky crackled and opened a gap.
+
+Or else, tell them to get lost! Whether the Lion World, the world where you are alive, where I am alive, is your world! If you die, tell us if its the place you wish to be reborn in! So decide who is right between [The Wand Of Ages] and me!
+
+What will you give me?
+
+The same noise peeked through the opened gap in the sky as before. White and black dots were noisily flickering. From there, Yoo Soo-has voice flowed out.
+
+Choosing barehanded like this doesnt seem right. I dont understand it all, but youre in a contest with that pillar or whatever, arent you? Youre asking me to take your side. Then, this too is a deal. Tell me what youll give me.
+
+This fucking realist asshole
+
+After getting killed once by some damn punk, I started to take care of reality too.
+
+I gritted my teeth. But between my teeth, it wasnt a grinding sound that flowed out but laughter.
+
+Crazy bastard.
+
+I laughed.
+
+You were like that even before you got fucked by me, you bastard.
+
+Yoo Soo-ha. Thats the kind of guy you are.
+
+A guy who prefers this life even if he rolls in a field of dog poop, and even if this life is like dog poop, as long as his memories of living remain, hes the type to flip off the whole world. A man who cant and wont go to heaven. A human who would tell the afterlife or whatever to get lost if it doesnt bring him pleasure in his current life.
+
+Ill do the Cossack dance for you!!
+
+I shouted with a damn laugh.
+
+It doesnt matter if its a day, two days, or a week! Ill show you my dance moves until you tell me to stop! Ill dance 10, 20 times more than the time you dance, you damn bastard! Tell heaven to get lost and keep living in my world!
+
+Hmm
+
+The sky was silent for a moment.
+
+It sounds like not a bad world?
+
+Before The Wand Of Ages could contort its expression, the judge had already raised a hand in my favor.
+
+Deal.
+
+Warning tones embroidered the consciousness.
+
+[The 76th stage will be forcibly terminated.]
+
+[The 77th stage will be forcibly terminated.]
+
+[The 78th stage will be forcibly terminated.]
+
+Really,
+
+The moment The Wand Of Ages, holding its forehead, spat out curses,
+
+These damn brats.
+
+The towers declaration fell.
+
+[An objection has been raised that The Wand Of Ages is unfit as a pillar.]
+
+[Confirmation is requested from Zrakua.]
+
+[Confirmation impossible.]
+
+[The question exceeds the authority of the tower.]
+
+It was a declaration I hadnt heard in a long time.
+
+[The tower reconfirms the question.]
+
+[Passed. The issue raised is currently valid.]
+
+[The tower formally acknowledges the Death Kings issue as an agenda.]
+
+And then.
+
+[The Tower requests a majority vote among the Six Pillars of Manseng (10,000 Lives).]
+
+White and black sands once again covered my sight.
+
+*****
+
+Support link /sssdeathking

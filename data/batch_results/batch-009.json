@@ -1,0 +1,167 @@
+[
+  {
+    "chapter": 121,
+    "characters": ["Kim Gongja/Death King", "Raviel Ivansia", "Flame Ghost Demon", "Blood Demon", "Demon Lord Wolyeong", "Sword Demon", "Preta (Devil King of Fall Rain)", "Heretic Questioner", "Sylvia Evanail (Golden Silk)"],
+    "events": ["Demonic Cult summoned via Hundred Ghosts Reincarnation", "Wedding ceremony interrupted by apostles", "Ghost legion battle - 1000 vs 10000", "Sword Demon beheads apostle general", "Apostles of Evangelist of Everlasting Happiness sing lullaby", "Only Death King, Heretic Questioner, and Raviel immune to sleep", "Death King defeats dream apostles"],
+    "locations": ["Wedding hall", "Sormwyn Academy world"],
+    "skills": ["Hundred Ghosts Reincarnation", "Lightness Skill", "Sacred Technique: Divine Transmission", "Infernal Heavens Demonic Art"],
+    "deaths": ["Apostle of 'The Warhorse of the Eternal Plains' (general)", "Ghost legion soldiers"],
+    "loops": [],
+    "cause_effect": ["Apostles' song traps people in happy memories but fails against those already maximally happy (Death King at his wedding)", "Sword Demon killing general causes entire ghost legion to vanish"],
+    "notes": "Sylvia Evanail revealed as final apostle. Wedding continues despite invasion."
+  },
+  {
+    "chapter": 122,
+    "characters": ["Kim Gongja/Death King", "Sylvia Evanail", "Heretic Questioner", "Raviel Ivansia"],
+    "events": ["Sylvia cornered by Death King", "Revelation of three regressions", "Butler sacrificed everything for Sylvia - name erased from world", "Sylvia renounces Constellation blessing", "Death King kills Sylvia with Sword of Idols", "25th floor stage cleared", "Third challenger listed as N/A"],
+    "locations": ["Empire", "Sormwyn Academy world"],
+    "skills": ["Sword of Idols", "Hundred Ghosts Reincarnation"],
+    "deaths": ["Sylvia Evanail (apostle of 'The Ox that Harvests Ruins')", "Butler (already long dead, name erased)"],
+    "loops": ["Three regressions revealed: Sylvia's wish to Ox that Harvests Ruins", "Butler's wish to unknown Constellation", "Raviel's wish to Guardian Goddess fragment causing 10-day time loop"],
+    "cause_effect": ["Sylvia gave everything to Constellation creating gap for possession", "Butler sacrificed his name/existence for Sylvia's second chance", "Sylvia renounces blessing to be reborn properly"],
+    "notes": "Butler's sacrifice is central emotional beat. Marriage to Raviel formally completed."
+  },
+  {
+    "chapter": 123,
+    "characters": ["Kim Gongja/Death King", "Raviel Ivansia", "Black Dragon Master", "Sword Saint", "Heretic Questioner", "Crusader", "Count", "Venomous Snake", "Sword Demon", "Demon Lord Wolyeong", "Preta", "Shiny (Guardian Goddess)", "Bae Hu-ryeong"],
+    "events": ["Post-wedding negotiations between Empire and Tower", "Top rankers arrive at wedding", "Death King introduces family/subordinates to Raviel", "Reveals Preta was originally a nameless doppelganger monster", "Introduces Shiny (Guardian Goddess)", "Mentions Bae Hu-ryeong as first sword teacher", "Dance between Death King and Raviel"],
+    "locations": ["Wedding hall", "Empire", "Flower garden"],
+    "skills": [],
+    "deaths": [],
+    "loops": [],
+    "cause_effect": ["Marriage creates diplomatic bridge between Empire and Tower", "Raviel's authority controls empire side, Death King's trust controls Tower side"],
+    "notes": "Culture note: In empire, families meet after wedding. Shiny quickly switches allegiance to Raviel."
+  },
+  {
+    "chapter": 124,
+    "characters": ["Kim Gongja/Death King", "Raviel Ivansia", "Shiny (Guardian Goddess)", "Lady of the Golden Silk", "Black Dragon Master", "Sword Saint", "Heretic Questioner", "Crusader", "Count", "Venomous Snake"],
+    "events": ["Prayer Sword absorbed by Shiny", "Lefanta Aegim's legacy discussed - killing Constellations causes new ones to appear", "Tower population boom: 113,654 entrants in one day", "Death King becomes symbol/icon for refugees", "Hunter ranking updated: Death King ranked #2", "Black Dragon Master asks if Death King is ready to become king"],
+    "locations": ["Bedroom", "Great Library"],
+    "skills": ["Hundred Ghosts Reincarnation"],
+    "deaths": [],
+    "loops": [],
+    "cause_effect": ["Death King's heroics in previous stages cause massive population influx", "Refugees and poor enter Tower seeing him as symbol of hope", "Political power structure shifts with his rising influence"],
+    "notes": "Lady of the Golden Silk now serving as Raviel's maid. Death King plans to build house on 20th floor."
+  },
+  {
+    "chapter": 125,
+    "characters": ["Kim Gongja/Death King", "Black Dragon Master", "Heretic Questioner", "Venomous Snake", "Crusader", "Count", "Corner Librarian"],
+    "events": ["Guildmasters discuss making new society in Tower", "Death King suggests targeting fairy tale Apocalypse 'Me and Our Scapegoat' as declaration of intent", "All top rankers agree to participate together", "Librarian presents the Apocalypse book"],
+    "locations": ["Great Library"],
+    "skills": [],
+    "deaths": [],
+    "loops": [],
+    "cause_effect": ["Choosing a moral cause over practical resources demonstrates leadership values", "All guildmasters joining shows unity to Tower inhabitants"],
+    "notes": "Previous floors: 21-Library, 22-Chronicles of Heavenly Demon, 23-Saga of Iron Knights in Space, 24-Dawn Mountain Cabin, 25-Tale of Sormwyn Academy, 26-Festival City, 27-Bakery Street. Floor 28 is fairy tale."
+  },
+  {
+    "chapter": 126,
+    "characters": ["Kim Gongja/Death King", "Black Dragon Master", "Heretic Questioner", "Count", "Venomous Snake", "Crusader", "Corner Librarian", "Evangelist of Everlasting Happiness"],
+    "events": ["Six guildmasters form alliance with hand-stack", "Librarian designates them as characters of 'Me and Our Scapegoat'", "Party ambushed immediately upon entry by millions of apostle children", "Evangelist of Everlasting Happiness declares war", "Shiny identifies Evangelist as fourth sister sword 'Sacrifice'"],
+    "locations": ["Great Library", "Utopia/fairy tale world"],
+    "skills": ["Teleport (Black Dragon Master)", "Sacred Technique: Transmission (Heretic Questioner)", "Sacred Technique: Devotion (Heretic Questioner)", "Aura reinforcement", "Mirror magic (Black Dragon Master)"],
+    "deaths": [],
+    "loops": [],
+    "cause_effect": ["A-Class Apocalypse means Constellation is alive and hostile from start", "Evangelist of Everlasting Happiness is the Sacrifice Sword that left Lefanta Aegim"],
+    "notes": "Unlike previous stages, Constellation attacks immediately with full force."
+  },
+  {
+    "chapter": 127,
+    "characters": ["Kim Gongja/Death King", "Black Dragon Master", "Heretic Questioner", "Count", "Venomous Snake", "Crusader", "Evangelist of Everlasting Happiness/Sacrifice Sword"],
+    "events": ["Skeleton army summoned via Hundred Ghosts Reincarnation", "Skeletons immune to mental attacks because they have no memories", "Infernal Heavens Demonic Art First Form: Sword of Starvation used with mirrors", "Massacre of apostle army - tens of thousands wiped out per strike", "Sacrifice Sword reveals utopia powered by one innocent child's screams", "Death King declares he'll kill all apostles and re-summon them as ghosts"],
+    "locations": ["Utopia/fairy tale world", "Battlefield"],
+    "skills": ["Hundred Ghosts Reincarnation", "Infernal Heavens Demonic Art First Form: Sword of Starvation", "Mirror reflection amplification (Black Dragon Master)"],
+    "deaths": ["Thousands/millions of apostle children", "Innocent child powering utopia (implied)"],
+    "loops": [],
+    "cause_effect": ["Apostles who know only happiness are vulnerable to starvation/desire-based attacks", "Death King's declaration shows his 'hell' is better than Sacrifice's 'hell'"],
+    "notes": "Death King proposes using Hundred Ghosts Reincarnation as permanent prison/execution system."
+  },
+  {
+    "chapter": 128,
+    "characters": ["Kim Gongja/Death King", "Black Dragon Master", "Heretic Questioner", "Count", "Venomous Snake", "Crusader", "Evangelist of Everlasting Happiness/Sacrifice Sword"],
+    "events": ["Death King details prison concept using Hundred Ghosts Reincarnation", "Heretic Questioner excited about 'moving prison' idea", "Guildmasters debate moral legitimacy vs efficiency", "Sacrifice Sword surrenders", "Sacrifice Sword absorbed by Holy Sword", "28th floor cleared", "Death King declares intent to clear to 30th floor same day"],
+    "locations": ["Utopia/fairy tale world", "Blood sea"],
+    "skills": ["Hundred Ghosts Reincarnation (proposed as prison system)"],
+    "deaths": ["Sacrifice Sword/Constellation (absorbed)", "All apostle children (turned to blood)"],
+    "loops": [],
+    "cause_effect": ["Death King's power to summon dead with memories makes him a walking prison", "Absorbing Sacrifice completes more of Guardian Goddess"],
+    "notes": "Corner Librarian's favorability at 98. Death King added to favorite characters list alongside Constellation Killer."
+  },
+  {
+    "chapter": 129,
+    "characters": ["Kim Gongja/Death King", "Black Dragon Master", "Heretic Questioner", "Count", "Venomous Snake", "Crusader", "Corner Librarian", "Bae Hu-ryeong"],
+    "events": ["Death King requests 'The Epic of Lefanta Aegim' from Librarian", "Librarian reveals he loves Death King as character", "Death King manipulates Librarian into giving forbidden book", "Librarian reveals Lefanta Aegim is from Korea (Kim family)", "Genre is 'High School Student Messes Around in an Isekai'", "Lefanta on 50th floor", "Librarian violates contract, gets penalized by Tower", "Death King's blessings from Goddess of Beauty and Vitality suspended"],
+    "locations": ["Great Library"],
+    "skills": [],
+    "deaths": [],
+    "loops": [],
+    "cause_effect": ["Librarian's love of stories makes him vulnerable to temptation of crossover", "Contract violation triggers Tower penalties", "Death King loses favorability/observation blessings"],
+    "notes": "Lefanta Aegim = Kim, same surname origin. 'Aegim' means 'I, Kim'."
+  },
+  {
+    "chapter": 130,
+    "characters": ["Kim Gongja/Death King", "Bae Hu-ryeong", "Lefanta Aegim/Constellation Killer", "Kim ■ (Lefanta's past self)", "Guardian Goddess"],
+    "events": ["Lefanta's backstory: bullied Korean high school student who jumped from rooftop", "Summoned to another world by Guardian Goddess", "Used Salvation Sword power - sacrificed name syllable for power", "Death King enters 50th floor", "Void poison erodes body", "Encounters mutated monsters", "Lefanta Aegim saves Death King from monsters"],
+    "locations": ["50th floor (Demon World)", "School rooftop (flashback)"],
+    "skills": ["Sound Transmission (Lefanta)", "Salvation Sword power (flashback)", "Aura protection"],
+    "deaths": ["Monster toads", "Monster hedgehog", "Old man lures (monster bait)"],
+    "loops": [],
+    "cause_effect": ["50th floor manager's death curse created void poison", "Lefanta's amnesia means he doesn't recognize Shiny"],
+    "notes": "50th floor is 'beginners area' boundary. Magic Towers dominate the floor. Lefanta has no memory beyond one week."
+  },
+  {
+    "chapter": 131,
+    "characters": ["Kim Gongja/Death King", "Lefanta Aegim/Constellation Killer", "Bae Hu-ryeong", "Shiny (Guardian Goddess)"],
+    "events": ["Lefanta confirms amnesia - can't remember past week", "Uses diary relic from 'Great Puppy' Constellation to store memories", "Death King confronts him about sealing Guardian Goddess and causing disasters", "Lefanta offers reward for advice", "Death King asks for protection during 50th floor stay"],
+    "locations": ["Open-air alehouse", "50th floor"],
+    "skills": ["Diary of Great Puppy (holy relic with infinite pages)"],
+    "deaths": [],
+    "loops": [],
+    "cause_effect": ["Lefanta acknowledges two mistakes: not considering new Constellations appearing after death, and neglecting dead Constellation curses", "Death King uses promise as trap"],
+    "notes": "1127 huntsmen trying to kill Lefanta. He writes everything down daily."
+  },
+  {
+    "chapter": 132,
+    "characters": ["Kim Gongja/Death King", "Lefanta Aegim/Constellation Killer", "Bae Hu-ryeong", "Magic Tower wizards", "Magic Tower Master"],
+    "events": ["Death King provokes Magic Tower using Bae Hu-ryeong's old words", "Magic Tower launches full mobilization against Death King and Lefanta", "Lefanta fights tens of thousands of wizards using memory sacrifices", "Others' Heavenly Song halves party stats", "Lefanta systematically destroys magic formations", "Negotiates week-long ceasefire with Magic Tower"],
+    "locations": ["50th floor wasteland", "Magic Towers"],
+    "skills": ["Memory sacrifice techniques (Lefanta)", "Others' Heavenly Song (wizards)", "Spider web formation", "Strengthening blows via memory exchange"],
+    "deaths": ["Many wizards", "Hunters caught in crossfire"],
+    "loops": [],
+    "cause_effect": ["Each memory Lefanta sacrifices powers one strike", "Week-long memory reduced to one day after battle"],
+    "notes": "Lefanta's fighting style is reverse of Death King's - he discards memories while Death King accumulates them."
+  },
+  {
+    "chapter": 133,
+    "characters": ["Kim Gongja/Death King", "Lefanta Aegim/Constellation Killer", "Bae Hu-ryeong"],
+    "events": ["Death King vs Lefanta Aegim duel begins", "All nine forms of Infernal Heavens Demonic Art used", "Death King shouts that Lefanta is 'The Constellation Who Kills the Sky' not 'Killer of Constellations'", "Death King pierces Lefanta's heart and diary", "Lefanta 'dies'", "Death King levels up to B-Class"],
+    "locations": ["50th floor wasteland"],
+    "skills": ["Infernal Heavens Demonic Art (all 9 forms)", "Sword of Suicide (9th form)", "Sword of Starvation (1st)", "Sword of Thirst (2nd)", "Sword of the Drowned (3rd)", "Sword of Freezing (4th)", "Sword of Poison (5th)", "Sword of Illness (6th)", "Sword of Blunt Impact (7th)", "Sword of Incineration (8th)"],
+    "deaths": ["Lefanta Aegim (first body)"],
+    "loops": [],
+    "cause_effect": ["Death King realizes he could have become Lefanta without Bae Hu-ryeong and Raviel", "Infernal Heavens responds to all screams including Lefanta's"],
+    "notes": "Death King's rank jumps from ??? to C-Class then B-Class."
+  },
+  {
+    "chapter": 134,
+    "characters": ["Kim Gongja/Death King", "Lefanta Aegim (clone/body)", "Bae Hu-ryeong", "Magic Tower wizards", "Hunters"],
+    "events": ["Lefanta reveals clone/body backup system", "Clone was created after dying to Sword Emperor 153 years ago", "Clone kills Death King", "Death King's trauma enters new immersive level", "Penalty is 'animal road'", "Death King appears in high school setting"],
+    "locations": ["50th floor", "Shinseo High School (trauma world)"],
+    "skills": [],
+    "deaths": ["Death King (killed by Lefanta clone)", "Many Hunters in crossfire"],
+    "loops": [],
+    "cause_effect": ["Bae Hu-ryeong killed Lefanta in past but Lefanta had clone prepared", "Death killed by stronger opponent triggers trauma penalty"],
+    "notes": "Trauma is now fully immersive - not just observing but participating. Bae Hu-ryeong knew about clone system."
+  },
+  {
+    "chapter": 135,
+    "characters": ["Kim Gongja/Death King", "Heretic Questioner (as schoolmate)", "Raviel (as girlfriend)", "Bae Hu-ryeong (as father)", "Master/Demonic Sect Leader (as mother)", "Flame Emperor/Yoo Sooha (as brother)", "Preta", "Golden Silk"],
+    "events": ["Death King enters trauma high school world at Shinseo High", "Meets Heretic Questioner as fellow student", "Raviel appears as chaebol girlfriend", "Bae Hu-ryeong cast as father", "Master cast as mother", "Flame Emperor/Yoo Sooha cast as older brother", "News about Yoo Sooha assault scandal", "Death King attacks Flame Emperor upon seeing him as brother"],
+    "locations": ["Shinseo High School", "School library", "Home"],
+    "skills": [],
+    "deaths": [],
+    "loops": [],
+    "cause_effect": ["Trauma creates idealized alternate reality where Death King has normal family", "All characters from story recast in mundane roles"],
+    "notes": "Death King never attended high school in reality. The trauma world gives him the normal life he never had."
+  }
+]

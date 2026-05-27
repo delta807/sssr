@@ -1,0 +1,167 @@
+[
+  {
+    "chapter": 211,
+    "characters": ["Kim Gongja/Death King", "Raviel Ivansia", "Uburka", "Ja Soo-jung/Tower Master (as pedestrian)", "Bae Hu-ryeong"],
+    "events": ["Death King takes Raviel and Uburka to fast food restaurant in side story world", "Raviel and Uburka have friendly conversation ignoring Death King", "Death King notices pedestrian with strange steady gait wearing Shinseo Middle-High uniform", "Pedestrian has blonde hair, carries old briefcase, expressionless face", "Death King follows pedestrian and recognizes Tower Master's voice", "Reveals Tower Master is living as middle school student in this world"],
+    "locations": ["Fast food restaurant", "City streets", "Shaded alley"],
+    "skills": ["Perception alteration spell (world-wide)", "Aura-enhanced eyesight"],
+    "deaths": [],
+    "loops": [],
+    "cause_effect": ["The side story world uses data from Death King's memories but Kim Yul's face came from Tower Master's memories", "The pedestrian's absolute regularity of movement reveals divine nature hidden in human form", "Death King's recognition of Tower Master confirms the Lady's words: Towers are built by Masters living the unhappiest lives"],
+    "notes": "The world-wide perception alteration makes Raviel's empire dress and Uburka's hobgoblin appearance seem normal to locals. Tower Master's walking rhythm is described as absolutely unchanging - like a being from another time. Death King recalls the Lady's explanation: The Master lives on behalf of the unhappiest person in the world."
+  },
+  {
+    "chapter": 212,
+    "characters": ["Kim Gongja/Death King", "Ja Soo-jung (Tower Master amnesiac form)", "Bae Hu-ryeong"],
+    "events": ["Death King follows Tower Master to dilapidated hanok village", "Ja Soo-jung introduces herself as 3rd year Shinseo Middle School student", "Reveals her uncle was killed by robbers, lives alone", "Claims to know nothing about Tower, Pillars, or Hunters", "Death King realizes she has no memories of being Tower Master", "Ja Soo-jung demonstrates extreme observational intelligence analyzing Death King's behavior", "Shows warehouse with possessed objects: mirror that shows loved ones, puppy doll named Meow that makes cat sounds", "Reveals she can see Bae Hu-ryeong - first person besides Death King to do so"],
+    "locations": ["Japanese Colonial Era hanok village", "Ja Soo-jung's house", "Warehouse with cursed items"],
+    "skills": ["Ghost seeing ability", "Object possession/containment"],
+    "deaths": ["Ja Soo-jung's uncle (killed by robbers)", "Three men with uncle (also killed)"],
+    "loops": [],
+    "cause_effect": ["Ja Soo-jung's amnesia is self-imposed restriction - she lives as ordinary person unless urgent situation arises", "Her ability to see ghosts and cursed objects hints at her true divine nature", "The possessed items are dangerous but she contains them to protect others"],
+    "notes": "Ja Soo-jung's name is written as 慈水晶 (Amethyst). She demonstrates extreme logical reasoning to determine Death King is not a criminal. The warehouse contains multiple cursed items she cares for like children. She mentions 'kids play at 1 am' - referring to the ghosts/entities."
+  },
+  {
+    "chapter": 213,
+    "characters": ["Kim Gongja/Death King", "Raviel Ivansia", "Uburka", "Ja Soo-jung", "Bae Hu-ryeong", "The Lady Who Walks Through the Mirage (mentioned)"],
+    "events": ["Raviel researches Ja Soo-jung using newspapers - discovers she's known as 'Ghost Seeing Detective'", "Media exposes real name of minor, 12 administrative measures, 8 civil suits against her", "Death King explains contradiction in trauma manifestation: Constellation Killer cannot remember Kim Yul", "Tower extracted data from Death King's memories for faces but needed Tower Master's memory for Kim Yul's face", "Lord of Manseng accepted stage clear instead of Head Librarian Hamustra - proving Tower Master managed this stage", "Death King deduces he can trigger Tower Master's appearance by creating another contradiction: dying at Ja Soo-jung's hands", "Raviel allows it on condition he dies in front of her"],
+    "locations": ["Ja Soo-jung's house", "Kitchen"],
+    "skills": ["Returner's Clockwork Watch", "Trauma manifestation analysis", "Information gathering"],
+    "deaths": [],
+    "loops": [],
+    "cause_effect": ["The Constellation Killer's lost memory created a contradiction that required Tower Master intervention", "Death King realizes this is his only chance to learn Tower Master's secrets before higher floors", "Bae Hu-ryeong confirms no Tower Master information existed up to 99th floor"],
+    "notes": "Death King explains two types of trauma: what killer remembers vs what profoundly impacted their life regardless of memory. Kim Yul's face appearing correctly proves Tower Master provided the data. The Lady Who Walks Through the Mirage is revealed to be Tower Master's daughter."
+  },
+  {
+    "chapter": 214,
+    "characters": ["Kim Gongja/Death King", "Raviel Ivansia", "Uburka", "Ja Soo-jung", "Bae Hu-ryeong"],
+    "events": ["Death King tests Ja Soo-jung's compliance with unreasonable requests: sit on table, put hand on his head", "Ja Soo-jung complies with every request without hesitation", "Raviel confirms Ja Soo-jung never refuses any sincere request", "Death King shows Returner's Clockwork Watch as proof of other worlds", "Tells his life story for 1.5 hours", "Ja Soo-jung agrees to kill him once", "She requests he tell Tower Master she's happy and loves the city and children", "Ja Soo-jung stabs Death King in throat with dagger"],
+    "locations": ["Ja Soo-jung's house", "Dining area"],
+    "skills": ["Returner's Clockwork Watch (revealed as proof)"],
+    "deaths": ["Kim Gongja (stabbed in throat by Ja Soo-jung)"],
+    "loops": ["Death by Ja Soo-jung's hand triggers trauma manifestation"],
+    "cause_effect": ["Ja Soo-jung's absolute compliance reveals she sees everyone as children to care for, not an AI", "Her final words 'I'm happy' show she genuinely loves her life despite the hardship", "Death King's death creates the contradiction needed to summon Tower Master"],
+    "notes": "Ja Soo-jung's compliance is absolute - she would follow a stranger into captivity or worse if asked sincerely. She sells Raviel's emerald through classmate Lee Mi-ho whose family is in secondary finance/construction (implied gangster connections). Death King describes her as a 'mommy' figure."
+  },
+  {
+    "chapter": 215,
+    "characters": ["Kim Gongja/Death King", "Lord of Manseng/Tower Master (Ja Soo-jung awakened form)", "The Lady Who Walks Through the Mirage (mentioned)", "Dragon Emperor (mentioned)"],
+    "events": ["Death King's trauma manifestation fails - data rejected", "Tower system requests approval from Zrakua (Tower Master's name in system)", "Approval denied - issue not on agenda", "Lord of Manseng manifests directly, grabs Death King's chin", "Tower Master introduces herself: Lord of Manseng, Ja Soo-jung (紫水晶/Amethyst), Man Hwa-gyeong (萬華鏡/Kaleidoscope)", "Reveals Returner's Clockwork Watch's trauma penalty was originally her ancestor's ability called Manseng (萬生)", "Reveals The Lady Who Walks Through the Mirage is her DAUGHTER", "Tower Master offers to remove trauma penalty and give better skill if Death King gives up", "Death King refuses", "Tower Master blesses him and activates Animal Road trauma level", "Trauma shows Ja Soo-jung's birth as Baron Amethyst's daughter in dying kingdom"],
+    "locations": ["Dark void space (Tower Master's domain)", "Trauma world - dying kingdom"],
+    "skills": ["Lord of Manseng's authority", "Dragon Pressure", "Manseng (萬生) - original trauma skill", "Blessing of the Lord of Manseng", "Animal Road ( trauma penalty level)"],
+    "deaths": [],
+    "loops": [],
+    "cause_effect": ["Tower Master's direct intervention confirms she manages this stage personally", "The trauma penalty skill originated from Tower Master's ancestor (Dragon Emperor)", "Her daughter created Returner's Clockwork Watch based on mother's ability", "Tower Master's rough personality contrasts sharply with amnesiac Ja Soo-jung's emotionlessness"],
+    "notes": "Tower Master has peach scent. She repeatedly says 'shit' and threatens to turn Death King's nostrils inside out. She reveals her daughter (The Lady) is a serious mama's girl who carries a peach-patterned pillow. The six roads of Manseng are revealed: Hell Road, Hungry Ghost Road, Animal Road, Sura Road, Human Road, Heaven Road."
+  },
+  {
+    "chapter": 216,
+    "characters": ["Ja Soo-jung/Baron Amethyst", "Baron Citrine/Hwang Soo-jung", "Apathetic Duke (Lady of Leisure)", "Conservative nobles", "Black Witch (mentioned)", "Stone Assembly (mentioned)"],
+    "events": ["Kingdom on brink of collapse, conflict between humans and sub races", "Conservative faction proposes 7th Unified Marriage Act to restrict mixing", "Baron Citrine declares family war on Amethyst family", "Ja Soo-jung defeats Citrine through fabricated reports and hidden Archmage vassal", "Ja Soo-jung beheads enemy vassals one by one in front of Baron Citrine", "Forces Baron Citrine to marry her (same-sex marriage) as condition for sparing remaining vassals", "Political middle finger to conservative faction", "Skill revealed: [Madness to Insanity] - curse from Dragon preventing loss of mind"],
+    "locations": ["Noble Council courtroom", "Amethyst Barony", "Citrine Barony"],
+    "skills": ["Madness to Insanity (A- rank)", "King's Tutor (B+ rank)", "Political strategy"],
+    "deaths": ["Baron Citrine's vassals (beheaded by Ja Soo-jung)", "Ja Soo-jung's father (implied, killed by her)"],
+    "loops": [],
+    "cause_effect": ["Ja Soo-jung's marriage to Baron Citrine merges divided families after 6 generations", "Her 'madness' is actually absolute clarity - she cannot lose her mind due to Dragon's curse", "The conservative faction's attack backfires completely"],
+    "notes": "Ja Soo-jung and Hwang Soo-jung were childhood friends, even kidnapped together by terrorists. Ja Soo-jung's comment 'This one wanted to do this' reveals her proactive cruelty. The marriage is officiated in court with conservative nobles present."
+  },
+  {
+    "chapter": 217,
+    "characters": ["Ja Soo-jung/Viscount Amethyst", "Black Witch (leader of Red Nails)", "Princess Cham Beol-sa (Crown Princess)", "Apathetic Duke", "Red Nails members", "Sub race rebels"],
+    "events": ["Ja Soo-jung gains favor of Apathetic Duke - one of six great nobles", "Witch Hunt begins: targets Black Witch terrorist organization", "Ja Soo-jung seduces Princess Cham Beol-sa using psychological manipulation", "Skill: [King's Tutor] - instinctively spots enemy weaknesses", "Ja Soo-jung captures Red Nail rebels, guarantees safety to those who surrender", "Converts former terrorists into her vassals/soldiers/citizens", "Skill: [Guardian of the Subrace] - easier to gain sub race trust but humans despise her", "Uses Crown Princess as bait to trap Black Witch", "Black Witch reveals they don't want compensation - they want humans to feel pain", "Black Witch dies cursing Ja Soo-jung", "Ja Soo-jung realizes she cannot help the dead, decides to find Dragons who might know how to treat death"],
+    "locations": ["Royal Capital", "Red Nails bases", "Forest village", "Princess's chambers"],
+    "skills": ["King's Tutor (B+)", "Guardian of the Subrace (B)", "Seduction/manipulation", "Military strategy"],
+    "deaths": ["Black Witch (stabbed by Ja Soo-jung)", "Red Nails members (various)", "Countless humans killed by Red Nails"],
+    "loops": [],
+    "cause_effect": ["Ja Soo-jung's sub race protection creates Mirror Faction of outcasts and criminals", "The Black Witch's curse makes Ja Soo-jung confront her own incompetence regarding death", "Her decision to hunt Dragons sets up Act 2"],
+    "notes": "Princess Cham Beol-sa's hobby is cutting off criminals' right arms. Ja Soo-jung acts as sister figure to dissolve princess's childhood trauma. The Black Witch's final words reveal the rebels' pain is about already-dead children who can never return."
+  },
+  {
+    "chapter": 218,
+    "characters": ["Ja Soo-jung/Viscount Amethyst", "Gold Dragon Emperor", "Ultimate Sword Duke", "Viscount's warriors", "Earth Bone Dragon (mentioned)", "Ice River Dragon (mentioned)"],
+    "events": ["Gold Dragon lives in Golden Sky Tower/Netherworld Tower for 7,000 years", "Kingdom's 1st, 2nd, 3rd subjugation orders all failed due to Gold Dragon's [Instinct] power", "Ja Soo-jung approaches Gold Dragon with warriors who love her more than their own greed", "Gold Dragon's power liberates human greed but Ja Soo-jung's followers fear disappointing her more than their desires", "Gold Dragon realizes they are dominated by love/fear of Ja Soo-jung", "Gold Dragon falls in love and surrenders", "Reveals Earth Bone Dragon's power: archives memories in 'box', grants immortality", "Reveals Ice River Dragon's power: freezes people in ice pillars, stops time", "Gold Dragon becomes Ja Soo-jung's pet", "Earth Bone Dragon and Ice River Dragon also captured"],
+    "locations": ["Netherworld Tower/Golden Sky Tower", "Kingdom territories", "Desert (mentioned)", "Great River (mentioned)"],
+    "skills": ["Gold Dragon's Gaze (EX) - liberates instinct, reveals essence", "Earth Bone Dragon's Skull (SSS+) - memory archiving box", "Ice River Dragon's Breath (EX) - time control", "Instinct (Gold Dragon's unique power)"],
+    "deaths": ["100,000+ soldiers in past subjugation orders", "200,000+ including uncounted"],
+    "loops": [],
+    "cause_effect": ["The three Dragon Emperors' powers form foundation of future Tower: Eyes (observation), Skull (memory storage), Breath (time control)", "Love is revealed as the strategy that defeated the 'impregnable' Netherworld Tower", "Gold Dragon's surrender proves Ja Soo-jung's charisma transcends racial/species boundaries"],
+    "notes": "The Earth Bone Dragon's Box can recreate bodies with same memories repeatedly. The Ice River Dragon can send people back to past or freeze them, but only to times the Dragon observed. Ja Soo-jung now has three Dragon 'pets' who love her."
+  },
+  {
+    "chapter": 219,
+    "characters": ["Kim Gongja/Death King (as Baron Gu Won-ha)", "Marquis Baek Seol-to", "Viscount Sun Heuk-sin", "Viscount Ja Soo-jung", "Other nobles"],
+    "events": ["Death King wakes up possessing Baron Gu Won-ha's body in Tower Master's trauma", "Experiences memory instability and ego weakening", "Uses magic spells to restore information about surrounding nobles", "Discovers Baek Seol-to killed a freeman child with whip at age 12", "Discovers Sun Heuk-sin was former cannibal who ate 300+ humans in Ritual of Darkness", "Both are Ja Soo-jung's lovers/allies", "Viscount Ja Soo-jung sits under throne with King stroking her head", "Death King's ego wavers between Gu Won-ha's personality and his own"],
+    "locations": ["Platinum Tower meeting hall", "Noble Council chamber"],
+    "skills": ["Stability-Relaxation spell", "Information-Restoration spell", "Consciousness-Acceleration spell"],
+    "deaths": [],
+    "loops": [],
+    "cause_effect": ["Death King's possession of Gu Won-ha allows him to observe Tower Master's past from inside", "The trauma actively tries to suppress his ego and make him believe he's Gu Won-ha", "Information spells reveal all of Ja Soo-jung's lovers are murderers/criminals"],
+    "notes": "Gu Won-ha is a 2nd Stage Ascendant Wizard - one of only twelve in the world. Her body is literally made of mana/water. Ja Soo-jung's faction is called 'Mirror Faction.' The Platinum Tower has water channels with 'amniotic fluid' flowing beneath seats."
+  },
+  {
+    "chapter": 220,
+    "characters": ["Kim Gongja/Death King (as Baron Gu Won-ha)", "Viscount Ja Soo-jung", "King Sun King", "Other nobles"],
+    "events": ["Death King realizes the Tower is a gigantic memory box using Earth Bone Dragon's power", "Deduces that everyone who enters has memories archived in the Tower", "This explains how Returner's Clockwork Watch can restore 4,000 days - data restoration points", "Tower confirms first correct answer: Earth Bone Dragon's Box forms outer shell", "Death King struggles with second gateway: how worlds are brought into Tower", "Viscount Ja Soo-jung detects his changed consciousness and asks what he's doing", "Death King reveals he's from future where Tower already exists", "Ja Soo-jung realizes he's not Gu Won-ha", "Death King reveals his real name and that he's a Hunter from Ascension City/Spire World", "Ja Soo-jung accepts this and offers to show him her world"],
+    "locations": ["Platinum Tower meeting hall", "Viscount Ja Soo-jung's trauma world"],
+    "skills": ["Consciousness-Acceleration (time dilation thinking)", "Tower structure analysis"],
+    "deaths": [],
+    "loops": [],
+    "cause_effect": ["Death King becomes first to discover Tower's structural foundation", "The Earth Bone Dragon's Box stores all hunters' memories and allows body recreation", "Viscount Ja Soo-jung's awareness within her own trauma shows she has some meta-cognition even in past form", "The Tower's naming (Spire World) seems intentional to Ja Soo-jung"],
+    "notes": "The Tower congratulates Death King for being first to discover structure. Gu Won-ha's body has fire core (1st Advisor) and water core (2nd Advisor - Gu Won-ha herself). Ja Soo-jung calls her water 'personal lip balm, washroom, and sink.' Death King realizes he's possessing a FEMALE body - Baron Gu Won-ha is a woman."
+  },
+  {
+    "chapter": 221,
+    "characters": ["Kim Gongja/Death King (as Baron Gu Won-ha)", "Viscount Ja Soo-jung", "Marquis Baek Seol-to", "Viscount Sun Heuk-sin", "Viscount Dae Ha-ran", "Baron Hae Meong-sum", "Baron Gu Se-ju", "Former Viscount Se Ah-gwi", "Count Ah Ru-ho", "Other Mirror Faction nobles"],
+    "events": ["Ja Soo-jung explains 2nd Stage Ascendants - closer to divine beings, can escape human limits", "Gu Won-ha's core is water - extremely clean and cool", "Ja Soo-jung uses Gu Won-ha's water as personal lip balm/washroom", "They enter lounge where Mirror Faction nobles gather", "Death King examines each noble's information using Gu Won-ha's spells", "Reveals ALL of Ja Soo-jung's lovers/followers are murderers, cannibals, arsonists, poisoners, butchers", "Dae Ha-ran: former general who killed 210,000 including civilians", "Hae Meong-sum: former assassin guild master, arsonist, poisoner", "Gu Se-ju: rebel right hand who tortured/killed hundreds", "Se Ah-gwi: ate thousands of people in Ritual of Darkness", "Death King realizes common thread: Ja Soo-jung surrounds herself exclusively with sinners"],
+    "locations": ["Platinum Tower lounge", "Meeting areas"],
+    "skills": ["Information examination spells", "2nd Stage Ascension"],
+    "deaths": ["210,000 deaths under Dae Ha-ran's command", "300+ humans eaten by Sun Heuk-sin", "Thousands eaten by Se Ah-gwi", "Hundreds tortured/killed by Gu Se-ju"],
+    "loops": [],
+    "cause_effect": ["Every person in Ja Soo-jung's faction has committed atrocities but serves her loyally", "Death King begins to understand Ja Soo-jung's true nature through her choice of companions", "The Mirror Faction is literally a collection of the kingdom's worst criminals"],
+    "notes": "Gu Won-ha's family history: uncle, father, and adopted daughter all participated in different rebellions. Ja Soo-jung can speak German, English, French, Korean, and Japanese from foreign tutors. She mentions outsiders from other worlds who came to her world but were imprisoned or killed."
+  },
+  {
+    "chapter": 222,
+    "characters": ["Kim Gongja/Death King (as Baron Gu Won-ha)", "Viscount Ja Soo-jung", "Count Ah Ru-ho", "Marquis Baek Seol-to", "Mirror Faction nobles"],
+    "events": ["Death King asks why Ja Soo-jung only gathers murderers as lovers", "Ja Soo-jung asks if he thinks executing sinners is right", "She demonstrates Count Ah Ru-ho's hypocrisy - he also has blood on his hands", "Ja Soo-jung reveals her philosophy: pain is the only answer", "The law should return exact same pain to sinners that victims suffered", "She plans to refound kingdom under 'Law of Pain'", "The Tower is a tool to accomplish this", "She declares gaining power is the only way to make impossible possible", "She has seduced six Dukes, King, and captured three Dragon Emperors to become most powerful", "Taps chair twice - entire lounge falls silent instantly", "She will show Death King a 'miracle' tonight"],
+    "locations": ["Platinum Tower lounge"],
+    "skills": ["Leadership/charisma", "Psychological manipulation"],
+    "deaths": [],
+    "loops": [],
+    "cause_effect": ["Ja Soo-jung's Law of Pain reveals her motivation for building Tower: to create system where all suffering can be precisely returned to wrongdoers", "Her 'miracle' is the council meeting where she will implement this law", "Death King realizes she's completely different from him - he hesitates at executing sinners, she embraces it as necessity"],
+    "notes": "Ja Soo-jung says there are two ways to make impossible possible: go crazy, or gain power. The entire lounge - hundreds of powerful nobles - goes completely silent at her two taps, showing absolute control."
+  },
+  {
+    "chapter": 223,
+    "characters": ["Kim Gongja/Death King (as Baron Gu Won-ha)", "Viscount Ja Soo-jung", "Count Ah Ru-ho", "Marquis Baek Seol-to", "King Sun King", "Viscount Sun Heuk-sin", "Noble Council members"],
+    "events": ["Council meeting resumes in circular hall with amniotic fluid channels", "Count Ah Ru-ho accuses Ja Soo-jung of harboring rebels and sub race terrorists", "Ja Soo-jung defends them as her captured property/belongings", "Count brings witness: old man Nam Suk whose granddaughter was killed by Marquis Baek Seol-to", "The hairpin the granddaughter was carrying is presented as evidence", "Marquis Baek Seol-to confesses she killed the child 6 years ago", "Ja Soo-jung admits she knew and accepted Marquis anyway", "Ja Soo-jung reveals Marquis's abusive childhood under genius grandfather", "Explains she 'raised' Marquis properly by showing her real world suffering", "Count calls Ja Soo-jung rotten; she says the point is Marquis will be unhappier the better she becomes"],
+    "locations": ["Platinum Tower council hall", "Amniotic fluid-filled chamber"],
+    "skills": ["Gold Dragon's Eyes (implied)", "Political debate"],
+    "deaths": ["Nam Suk's granddaughter (whipped to death by Young Miss Baek Seol-to, 6 years ago)"],
+    "loops": [],
+    "cause_effect": ["Ja Soo-jung deliberately raises Marquis Baek Seol-to be great noble while ensuring her past sin makes her perpetually unhappy", "She considers this 'lovely' - the combination of competence and unhappiness", "The council meeting is revealed to be proceeding exactly as Ja Soo-jung planned"],
+    "notes": "The amniotic fluid changes color based on agenda importance - would turn red for war. The granddaughter's name was Ari. Baek Seol-to was 10 years old when she killed the child. The brooch she made for her grandfather was stepped on and broken by the commoner girl, triggering the rage."
+  },
+  {
+    "chapter": 224,
+    "characters": ["Kim Gongja/Death King (as Baron Gu Won-ha)", "Viscount Ja Soo-jung", "Count Ah Ru-ho", "Witnesses/victims", "Noble Council"],
+    "events": ["Death King deduces Ja Soo-jung has Gold Dragon's Eyes AND Ice River Dragon's Breath", "Gold Dragon's Eyes allow omniscient viewpoint - can see anything", "Ice River Dragon's Breath allows traveling to any observed time", "Combination = she personally witnessed the granddaughter's death", "Tower confirms second correct answer: Gold Dragon's Eyes and Ice River Dragon's Breath form Tower's Observatory", "Ja Soo-jung takes Death King back in time to witness the whipping death personally", "She reveals she has lived infinite lives within 18 years, watched countless deaths", "She could prevent any death by regressing but chooses NEVER to interfere", "By not interfering, ALL misfortune becomes HER fault - the only God who can be condemned", "She shows other sinners' crimes: Sun Heuk-sin eating human flesh, Dae Ha-ran burning villages"],
+    "locations": ["Platinum Tower council hall", "Past - snowy street where Ari died", "Cave where Sun Heuk-sin ate humans", "Burning village"],
+    "skills": ["Gold Dragon's Eyes (omniscience)", "Ice River Dragon's Breath (time travel to observed moments)", "Shadow/time travel manipulation"],
+    "deaths": ["Ari/Nam Suk's granddaughter (rewitnessed)", "Village civilians burned by Dae Ha-ran"],
+    "loops": [],
+    "cause_effect": ["Ja Soo-jung's refusal to interfere makes her the 'God that never Regresses' - she accepts all blame to give victims someone to condemn", "Her omniscience + time travel = she witnesses every tragedy in her kingdom personally", "She tells Death King to blame her, scream at her - it won't be meaningless because she COULD have helped"],
+    "notes": "The death scene is graphic: 10-year-old Baek Seol-to whipping a child to death over a broken brooch. Ja Soo-jung reveals she watched 'billions, trillions' cross the yellow river. She is 'A God who would not help anyone, even if she regressed.'"
+  },
+  {
+    "chapter": 225,
+    "characters": ["Viscount Ja Soo-jung", "Kim Gongja/Death King (as Baron Gu Won-ha)", "Count Ah Ru-ho", "King Sun King", "Six Dukes", "Mirror Faction nobles", "Victims/witnesses"],
+    "events": ["Ja Soo-jung accepts full blame: 'This one is the greatest sinner in kingdom history'", "Proposes bill called 'The Golden Rule'", "Reveals it was pre-debated among the Six Dukes - Ten Thousand God Duke was in on it", "The Golden Rule: Seventh Duke (Ja Soo-jung) accepts all responsibility for kingdom's sins", "Any subject ruined by kingdom can inflict exact same suffering on Ja Soo-jung", "Victims can force the actual culprit to attend as witness", "Culprit must support Ja Soo-jung during punishment, smell her blood from closest distance", "Annual event: every December 24th, midnight, Ja Soo-jung circles Royal Capital clockwise", "Starting/ending at Platinum Square", "Any subject of any age/sex can demand Golden Rule execution", "Ja Soo-jung uses Gold Dragon's Eyes to measure suffering and Ice River Dragon's Breath to verify past"],
+    "locations": ["Platinum Tower council hall", "Platinum Square"],
+    "skills": ["Gold Dragon's Eyes (measure emotions/suffering)", "Ice River Dragon's Breath (verify past suffering)", "Political mastery"],
+    "deaths": [],
+    "loops": [],
+    "cause_effect": ["The Golden Rule makes Ja Soo-jung the kingdom's scapegoat - she absorbs all punishment", "Her lovers who committed sins must watch her suffer their consequences", "The bill transforms her from villain to sacrificial God figure", "Count Ah Ru-ho realizes too late the entire proceeding was Ja Soo-jung's plan"],
+    "notes": "Today is December 24th - the first Golden Rule night. The Ten Thousand God Duke apologizes to Count for keeping secret: 'Big sis asked me to.' Ja Soo-jung's faction nobles all lower their heads when the bill is read - they knew. The Country Tilting Duke (傾國公) is her shortened title."
+  }
+]

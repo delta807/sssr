@@ -1,0 +1,38 @@
+{
+  "batch": "missing-6",
+  "chapters": [
+    {
+      "chapter": 238,
+      "characters": ["Kim Gongja/Death King", "Ja Soo-jung", "Uburka", "Bae Hu-ryeong/Sword Emperor", "Preta/Estel/Devil King of Fall Rain", "Meow"],
+      "events": ["Gongja wakes from Manseng and speaks with student Ja Soo-jung", "Ja Soo-jung asks if Gongja achieved his goal through death", "Gongja realizes Ja Soo-jung's essence is to worry and protect all people", "Gongja summons the Earth Bone Dragon's Skull skill card", "Gongja offers bodies to creatures in the Ghost Warehouse", "Mirror creature accepts and is resurrected with a cockroach-like body", "Meow the puppy doll and other creatures are given bodies", "Gongja uses Hundred Ghosts Reincarnation to summon Preta", "Gongja tells Preta to live and that he will carry her when she falls"],
+      "locations": ["Hanok", "Ghost Warehouse", "Shinseo Middle School"],
+      "skills": ["Manseng", "Earth Bone Dragon's Skull", "Hundred Ghosts Reincarnation", "Card Summon", "Aura"],
+      "deaths": [],
+      "loops": [],
+      "cause_effect": ["Gongja meeting the Tower Master -> learned her human side and protective essence", "Gongja using Earth Bone Dragon's Skull -> gives immortal bodies to Ghost Warehouse creatures", "Clearing creatures from Ghost Warehouse -> reduces Tower Master's burden", "Reducing Tower Master's burden -> path to defeating her"],
+      "notes": "Ja Soo-jung as a middle school student represents God's pure desire to protect everyone. Meow is a puppy doll that meows and believes the world will end if it stops contemplating existence. Gongja's primary goal was to meet the Tower Master as a human."
+    },
+    {
+      "chapter": 239,
+      "characters": ["Kim Gongja/Death King", "Preta/Estelle/Devil King of Fall Rain", "Ja Soo-jung", "Raviel", "Uburka", "Bae Hu-ryeong", "Shiny", "Blood Demon", "Ghost Flame Demon", "Moon Shadow Demon Lord", "Sword Demon"],
+      "events": ["Gongja compresses Preta into the Earth Bone Dragon's Box bead", "Gongja asks Preta to be his daughter and gives her the choice to accept a body", "Preta's bead nods in agreement", "Gongja swallows the bead and shadows wrap around his heart", "Gongja uses Earth Bone Dragon's Skull to recreate Preta's body as Estelle", "Estelle manifests her power and splits the rain, clouds, and sunset with her sword", "499 members of the Demonic Cult are resurrected", "Gongja addresses the four leaders of the cult individually", "Demonic Cult declares loyalty and intent to conquer the Tower", "Immortal Demonic Cult Army is completed"],
+      "locations": ["Hanok", "Backyard", "Hanok Street", "Planetarium Cafe"],
+      "skills": ["Earth Bone Dragon's Skull", "Earth Bone Dragon's Box", "Infernal Heavens Demonic Art", "Constellation power"],
+      "deaths": [],
+      "loops": [],
+      "cause_effect": ["Gongja offering Preta a choice -> Preta accepts and is reborn as Estelle", "Estelle's rebirth -> manifests as Devil King of Fall Rain, splits the sky with her sword", "499 Demonic Cult members resurrected -> regain their prime martial arts and bodies", "Resurrected cult + Estelle -> formation of the Immortal Demonic Cult Army"],
+      "notes": "Estelle chooses her new name to honor the first person she killed, deciding to live a life to replace that person. She is assigned to work at the Planetarium Cafe to learn what it means to be human. The chapter briefly switches to third person narration at the end."
+    },
+    {
+      "chapter": 240,
+      "characters": ["Kim Gongja/Death King", "Ja Soo-jung", "Uburka", "Raviel", "Sylvia Evanail/Golden Silk", "Bae Hu-ryeong", "Shiny", "Blood Demon", "Ghost Flame Demon", "Moon Shadow Demon Lord", "Sword Demon", "Namgong Un", "Hamustra/Corner Librarian", "Butler"],
+      "events": ["1000 total Demonic Cult members mentioned; 499 previously summoned, 500 awaiting", "Cult members celebrate regaining their bodies and martial arts", "Gongja summons Golden Silk (Sylvia Evanail)", "Raviel's presence transforms the hanok into the Ivansia Duchy throne room", "Gongja confronts Sylvia about being a regressor who aimed to be Empress", "Sylvia confesses she admired and fell in love with Raviel", "Sylvia reveals the Silver Bells secret social club dedicated to Raviel", "Sylvia demonstrates that Raviel Ivansia and Sylvia Evanail share the exact same letters", "Story of the butler praying to Hamustra to rewind time, erasing himself from existence"],
+      "locations": ["Hanok", "Ivansia Duchy", "Evanail Barony", "Somerwin Academy"],
+      "skills": ["Infernal Heavens Demonic Art", "Hundred Ghosts Reincarnation", "Constellation power", "Earth Bone Dragon's Box", "Time regression"],
+      "deaths": ["Butler (ceased to exist in restored timeline)"],
+      "loops": ["Butler prayed to Hamustra/Corner Librarian -> time was rewound to before Sylvia became Empress and Raviel was ruined"],
+      "cause_effect": ["Butler's prayer to Hamustra -> time rewound -> Raviel's heart protected but butler ceased to exist", "Sylvia regressing with Constellation power -> attempted to seize Empress position from Raviel", "Sylvia's admiration for Raviel -> creation of Silver Bells club -> discovered their names are anagrams"],
+      "notes": "The Hundred Ghost Penal Colony is formally introduced. Sylvia Evanail's name is an exact anagram of Raviel Ivansia when broken into consonants and vowels. The butler sacrificed his entire existence to save both Raviel and Sylvia through a timeline reversal. Total Demonic Cult army is 1000 strong."
+    }
+  ]
+}

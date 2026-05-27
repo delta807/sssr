@@ -1,0 +1,167 @@
+[
+  {
+    "chapter": 31,
+    "characters": ["Kim Gong-ja", "Witch", "Heretic Questioner", "Venomous Snake", "Count", "Crusader", "Sword Saint", "Bae Hu-ryeong"],
+    "events": ["Witch declares she'll kill the betrayer", "Crusader uses Lie Detection on everyone", "All guild masters pass Lie Detection test", "Sword Saint suspects Crusader might be betrayer", "Heretic Questioner kills 3 more hunters (8th, 9th, 10th place)", "Sword Saint cuts off Heretic Questioner's arm", "Kim Gong-ja takes command of situation"],
+    "locations": ["12th floor Imperial Palace reception room"],
+    "skills": ["Crusader's Lie Detection (A-)", "Heretic Questioner's Holy Technique: Divine Body", "Witch's mirror skills"],
+    "deaths": ["3 more hunters killed by Heretic Questioner", "Sword Saint severs Heretic Questioner's right arm"],
+    "loops": [],
+    "cause_effect": ["Someone chose Devil King's reward but identity remains hidden", "Heretic Questioner's preemptive killing is 'efficient' but brutal", "Sword Saint's intervention stops further killing", "Kim Gong-ja steps up as neutral leader"],
+    "notes": "Crusader reveals Heretic Questioner's past: killed all religious fighters when tower first opened. Kim Gong-ja uses his authority to stop the fighting."
+  },
+  {
+    "chapter": 32,
+    "characters": ["Kim Gong-ja", "Devil King of Fall Rain", "Witch", "Sword Saint", "Heretic Questioner", "Crusader", "Venomous Snake"],
+    "events": ["Devil King of Fall Rain manifests", "Red rain pours down on city", "Devil King summons massive monster army", "Quest 'Defense of the Empire's City' given", "Difficulty A~SSS", "Devil King is weakened from manifesting"],
+    "locations": ["12th floor Imperial Palace", "Aegim Empire capital city Hakamenia"],
+    "skills": ["Devil King's red rain summoning", "Devil King's sword technique"],
+    "deaths": ["Count dies from Devil King's sword attack", "NPC soldiers and citizens terrified"],
+    "loops": [],
+    "cause_effect": ["Devil King's manifestation triggers 12th floor boss battle", "Red rain is Devil King's signature ability", "Count's death cuts off tower's connection to outside world", "Quest failure means 13th floor won't open"],
+    "notes": "Count dies first, causing economic crisis. Kim Gong-ja realizes he needs to unite hunters and NPCs. Devil King's army is vastly larger than 11th floor."
+  },
+  {
+    "chapter": 33,
+    "characters": ["Kim Gong-ja", "Witch", "Bae Hu-ryeong", "Devil King of Fall Rain"],
+    "events": ["Witch teleports Kim Gong-ja to city walls", "Witch gives rousing speech to soldiers", "Kim Gong-ja uses Holy Sword to stop red rain locally", "Soldiers regain morale and prepare to fight", "Kim Gong-ja plans to confront Devil King directly"],
+    "locations": ["Aegim Empire city walls", "Capital city Hakamenia"],
+    "skills": ["Witch's Teleportation", "Holy Sword's rain-stopping ability", "Kim Gong-ja's battlefield discernment"],
+    "deaths": [],
+    "loops": [],
+    "cause_effect": ["Witch's speech + Holy Sword's light restores hope to soldiers", "Devil King's red rain stopped where Holy Sword shines", "Kim Gong-ja plans to use Witch's teleport to reach Devil King", "Alliance between hunters and NPCs formed"],
+    "notes": "Witch reveals she's Ukrainian and learned speech techniques from communists. Kim Gong-ja starts to embody hero role. Devil King's army hesitates after seeing Holy Sword."
+  },
+  {
+    "chapter": 34,
+    "characters": ["Kim Gong-ja", "Witch", "Sword Saint", "Devil King of Fall Rain", "Bae Hu-ryeong"],
+    "events": ["Devil King attacks with red sword trajectory", "City walls break, buildings destroyed", "Count confirmed dead from attack", "Kim Gong-ja defends broken wall alone for 30 seconds", "Sword Saint arrives and praises Kim Gong-ja", "Kim Gong-ja and Sword Saint fight together", "Kim Gong-ja levels up to D Class during battle"],
+    "locations": ["Broken city walls", "Aegim Empire battlefield"],
+    "skills": ["Devil King's red trajectory sword", "Kim Gong-ja's D Class Aura", "Sword Saint's blue Aura", "Bae Hu-ryeong's sword technique teachings"],
+    "deaths": ["Count confirmed dead", "Many soldiers killed in Devil King's attack"],
+    "loops": [],
+    "cause_effect": ["Kim Gong-ja's 30-second solo defense inspires soldiers", "Sword Saint's arrival turns tide of battle", "Kim Gong-ja levels up from combat experience", "Hunters and NPCs unite against common enemy"],
+    "notes": "Kim Gong-ja's growth in real combat shown. Devil King's attack pattern revealed. Count's death has major economic implications."
+  },
+  {
+    "chapter": 35,
+    "characters": ["Kim Gong-ja", "Sword Saint", "Witch", "Heretic Questioner", "Venomous Snake", "Crusader", "Devil King of Fall Rain", "Bae Hu-ryeong"],
+    "events": ["Full battle against Devil King's army", "Kim Gong-ja kills ogre and reaches D Class", "Hunters unite: Sword Saint, Witch, Heretic Questioner, Venomous Snake, Crusader", "Kim Gong-ja charges alone at Devil King", "Devil King kills Kim Gong-ja", "Kim Gong-ja copies Devil King's skills in death space"],
+    "locations": ["Aegim Empire battlefield", "Nether World during death"],
+    "skills": ["Kim Gong-ja reaches D Class", "New skill slots opened", "Devil King's skills revealed for copying"],
+    "deaths": ["Kim Gong-ja killed by Devil King's sword", "Many monsters killed by hunters"],
+    "loops": ["Kim Gong-ja dies and returns 24 hours before", "Plans to use copied Devil King skills against him"],
+    "cause_effect": ["Kim Gong-ja's charge was suicidal but allows skill copying", "Dying to Devil King lets him copy Devil King's abilities", "Returns to past to prepare better strategy", "Sword Saint acknowledges Kim Gong-ja's bravery"],
+    "notes": "Kim Gong-ja shows growth in combat ability. Devil King's true power shown. Kim Gong-ja's willingness to die for strategy demonstrated."
+  },
+  {
+    "chapter": 36,
+    "characters": ["Kim Gong-ja", "Bae Hu-ryeong", "Devil King of Fall Rain", "Sword Saint", "Crusader", "Lord of Alchemy Castle (pharmacist)", "Witch"],
+    "events": ["Kim Gong-ja views Devil King's trauma penalty", "Devil King's backstory revealed: Estelle, a saintess from rural village", "Estelle could heal by swallowing diseases", "Kings and religious leaders burned her village", "Estelle consumed her village's remains and became Devil King", "Kim Gong-ja returns 24 hours before", "Kim Gong-ja shares 11th floor information with guilds", "Kim Gong-ja meets Crusader to set up Sword Saint encounter"],
+    "locations": ["Nether World trauma vision", "Rural village (trauma)", "Babylon 1st floor city", "Pharmacist's shop"],
+    "skills": ["Devil King's origin: Estelle's disease consumption ability", "Hundred Ghosts Summon (SS) - copied from Devil King"],
+    "deaths": ["Estelle's village burned (trauma)", "Estelle consumed by her own shadow", "Devil King's origin story"],
+    "loops": ["Kim Gong-ja returns 24 hours before to prepare", "Uses knowledge of future to change strategy", "Plans to prevent guild conflict and Count's death"],
+    "cause_effect": ["Devil King's trauma reveals she was once innocent healer", "Human cruelty turned Estelle into monster", "Kim Gong-ja uses knowledge to prevent future tragedies", "Sets up meeting with Crusader to intercept Sword Saint"],
+    "notes": "Medium-level penalty: Hungry Ghost Road. Devil King's true name is Estelle. Kim Gong-ja plans to change history to save Count and prevent guild conflict."
+  },
+  {
+    "chapter": 37,
+    "characters": ["Kim Gong-ja", "Sword Saint", "Crusader", "Pharmacist (future Lord of Alchemy Castle)", "Bae Hu-ryeong"],
+    "events": ["Sword Saint confronts Kim Gong-ja in alley", "Crusader and pharmacist intervene", "Crusader reveals Sword Saint's backstory: daughter killed by murderer", "Sword Saint backs down", "Kim Gong-ja challenges Sword Saint to test of prophecy", "Kim Gong-ja commits suicide multiple times to prove he's prophet", "Sword Saint agrees to follow Kim Gong-ja for 5 days"],
+    "locations": ["Dark alley in Babylon", "Pharmacist's shop"],
+    "skills": ["Sword Saint's Detective's Insight", "Crusader's Lie Detection"],
+    "deaths": ["Kim Gong-ja cuts his own throat multiple times to prove prophecy", "Sword Saint's daughter mentioned as killed by serial killer"],
+    "loops": ["Kim Gong-ja commits suicide repeatedly to return 24 hours", "Uses future knowledge to predict Sword Saint's test", "Proves prophecy by knowing Sword Saint's finger count test"],
+    "cause_effect": ["Kim Gong-ja's repeated suicides prove he's prophet to Sword Saint", "Crusader's innocence stops Sword Saint's violence", "5-day agreement prevents immediate conflict on 12th floor", "Pharmacist's kindness also affects Sword Saint"],
+    "notes": "Sword Saint reveals his real name: Marcus Calenberry. Kim Gong-ja's willingness to die repeatedly shows his commitment. Crusader is key to stopping Sword Saint."
+  },
+  {
+    "chapter": 38,
+    "characters": ["Kim Gong-ja", "Sword Saint", "Witch", "Heretic Questioner", "Crusader", "Venomous Snake", "Count", "Bae Hu-ryeong"],
+    "events": ["Kim Gong-ja returns to 11th floor with Sword Saint watching", "Shares minimap with Witch for efficient boss kill", "11th floor cleared in under an hour with minimal casualties", "Kim Gong-ja ranks #1, Witch #2", "Kim Gong-ja asks guild masters to wait 5 days on 12th floor", "Claims he'll clear to 20th floor in 5 days"],
+    "locations": ["11th floor battlefield", "12th floor Imperial Palace"],
+    "skills": ["Minimap sharing", "Teleportation (Witch)", "Battlefield coordination"],
+    "deaths": ["Boss monster killed instantly", "Under 50 hunters die (much less than previous timeline)"],
+    "loops": ["Kim Gong-ja uses future knowledge to optimize 11th floor clear", "Prevents guild conflict by asking them to wait 5 days"],
+    "cause_effect": ["Sharing information reduces casualties dramatically", "Sword Saint's presence prevents Heretic Questioner's violence", "Kim Gong-ja's 5-day promise prevents reward selection conflict", "Witch is ecstatic about low casualties"],
+    "notes": "Witch cries from happiness about low death count. Kim Gong-ja's reputation grows. Sword Saint follows Kim Gong-ja as promised."
+  },
+  {
+    "chapter": 39,
+    "characters": ["Kim Gong-ja", "Bae Hu-ryeong", "Devil King of Fall Rain", "Witch", "Sword Saint"],
+    "events": ["Kim Gong-ja recalls goddess's words about 'test of faith'", "Kim Gong-ja rejects all 12th floor rewards again", "Devil King manifests early, furious at Kim Gong-ja", "Kim Gong-ja attacks Devil King before quest officially begins", "Devil King is confused by Kim Gong-ja's strategy", "Kim Gong-ja declares he'll kill Devil King before quest starts"],
+    "locations": ["12th floor Imperial Palace", "Field outside city", "Paused world before quest trigger"],
+    "skills": ["Devil King's skills", "Kim Gong-ja's combat abilities"],
+    "deaths": [],
+    "loops": ["Kim Gong-ja returns to past with knowledge of Devil King's patterns", "Plans to kill Devil King in paused world before quest triggers"],
+    "cause_effect": ["Rejecting rewards keeps quest from starting", "Devil King manifests anyway due to Kim Gong-ja's provocation", "Fighting in paused world means no NPCs will die", "Kim Gong-ja's strategy aims for zero casualties"],
+    "notes": "Kim Gong-ja realizes he can exploit game mechanics by rejecting rewards. 'A warrior fights alone' - Kim Gong-ja's philosophy. Devil King is angered by unexpected player behavior."
+  },
+  {
+    "chapter": 40,
+    "characters": ["Kim Gong-ja", "Devil King of Fall Rain", "Witch", "Sword Saint", "Bae Hu-ryeong"],
+    "events": ["Kim Gong-ja dies repeatedly fighting Devil King alone", "Marks each death on his hand with permanent marker", "Learns Devil King's attack patterns through deaths", "Bae Hu-ryeong coaches sword techniques during loops", "Kim Gong-ja's sword skills improve dramatically", "Devil King asks why Kim Gong-ja smiles while dying"],
+    "locations": ["Paused field outside Aegim Empire", "Nether World between deaths"],
+    "skills": ["Sword technique improvement", "Aura control", "Pattern recognition from repeated deaths"],
+    "deaths": ["Kim Gong-ja dies 100+ times fighting Devil King", "Each death marks progress on his hand"],
+    "loops": ["Kim Gong-ja dies and returns 24 hours before each time", "Accumulates combat experience across hundreds of deaths", "Uses marker to track days/deaths"],
+    "cause_effect": ["Each death teaches Kim Gong-ja Devil King's patterns", "Bae Hu-ryeong's coaching improves sword skills", "Kim Gong-ja's 'lives' are longer than Devil King's history", "Accumulated experience makes Kim Gong-ja stronger each loop"],
+    "notes": "Hundred days of fighting in paused time. Kim Gong-ja's determination to save everyone drives him. Witch notices his hands are covered in marks."
+  },
+  {
+    "chapter": 41,
+    "characters": ["Kim Gong-ja", "Devil King of Fall Rain", "Witch", "Sword Saint", "Bae Hu-ryeong", "Estelle (Devil King's true form)"],
+    "events": ["Kim Gong-ja uses Hundred Ghosts Summon (SS)", "Reveals he has 4099 deaths worth of skeletons", "Skeleton army overwhelms Devil King's forces", "Tower gives Kim Gong-ja nickname: 'Death King'", "Death King title officially recognized", "Devil King shocked by same skill"],
+    "locations": ["Paused battlefield", "Aegim Empire"],
+    "skills": ["Hundred Ghosts Summon (SS) - summons those killed as monsters", "Death King nickname/title", "Kim Gong-ja's 4099 skeleton army"],
+    "deaths": ["Devil King's monsters killed by skeleton army", "Kim Gong-ja's previous deaths manifested as skeletons"],
+    "loops": [],
+    "cause_effect": ["Kim Gong-ja's 4099 suicides/deaths = 4099 skeleton soldiers", "Devil King recognizes his own skill being used against him", "Tower acknowledges Kim Gong-ja's unique achievement with title", "Death King title reflects his mastery over death"],
+    "notes": "Hundred Ghosts Summon reveals each death counts separately for summon count. Kim Gong-ja's kill count (4093) + Flame Emperor + Devil King = ~4099. Death King becomes his permanent nickname."
+  },
+  {
+    "chapter": 42,
+    "characters": ["Kim Gong-ja", "Witch", "Sword Saint", "Devil King of Fall Rain", "Bae Hu-ryeong"],
+    "events": ["Devil King retreats to 13th floor", "Quest revised for floors 12-20", "Hidden quest 'Warrior of the Paused World' created", "Kim Gong-ja accepts quest", "12th floor stage cleared without quest officially starting", "History changes - Devil King's attack erased from timeline"],
+    "locations": ["12th floor battlefield", "Revised timeline"],
+    "skills": ["Warrior of the Paused World quest", "Hundred Ghosts Summon cooldown: 1 week"],
+    "deaths": [],
+    "loops": [],
+    "cause_effect": ["Devil King's retreat causes historical revision", "All floors 12-20 quests revised due to changed history", "Kim Gong-ja's choice to fight in paused world creates new timeline", "Zero casualties achieved on 12th floor"],
+    "notes": "Devil King becomes weaker as history regresses. Each floor cleared makes Devil King weaker. Kim Gong-ja's strategy of fighting in paused world succeeds."
+  },
+  {
+    "chapter": 43,
+    "characters": ["Kim Gong-ja", "Witch", "Sword Saint", "General Sarbast Aegim", "Bae Hu-ryeong"],
+    "events": ["12th floor history rewritten - no Devil King attack", "NPCs don't remember original timeline", "General Sarbast is alive and well", "Kim Gong-ja celebrates on fortress walls", "Kim Gong-ja shouts 'I protected your empire!'", "Kim Gong-ja gains recognition as Death King"],
+    "locations": ["Aegim Empire city walls", "Revised 12th floor timeline"],
+    "skills": [],
+    "deaths": [],
+    "loops": [],
+    "cause_effect": ["History revision means no one remembers original suffering", "Kim Gong-ja's sacrifice in paused world saved everyone", "NPCs don't know what he did but he feels fulfilled", "Ranking updated: Death King #1, Witch #2, Sword Saint #3"],
+    "notes": "Kim Gong-ja's emotional moment shouting from fortress. Sword Saint and Witch become his close allies. General Sarbast is confused by Kim Gong-ja's emotional outburst."
+  },
+  {
+    "chapter": 44,
+    "characters": ["Kim Gong-ja", "Witch", "Sword Saint", "Devil King of Fall Rain", "Bae Hu-ryeong"],
+    "events": ["13th floor: Devil King is weaker", "Devil King manifests in temple", "Kim Gong-ja realizes Devil King's level dropped due to history change", "Tower acknowledges hidden quest progress", "11th-19th floor maps opened", "Devil King summons zombie army"],
+    "locations": ["13th floor - temple between east and west continent", "Aegim Empire"],
+    "skills": ["World map showing entire continent", "Devil King's weakened state"],
+    "deaths": [],
+    "loops": [],
+    "cause_effect": ["History regression makes Devil King weaker on each floor", "Devil King's growth/leveling was erased by history change", "Kim Gong-ja's earlier victory continues to affect later floors", "Tower rewards him with world map for changed history"],
+    "notes": "Devil King's being becomes fainter. Temple was goddess's shield. West side is red (Devil King territory), east is blue (human territory)."
+  },
+  {
+    "chapter": 45,
+    "characters": ["Kim Gong-ja", "Witch", "Sword Saint", "Devil King of Fall Rain", "Bae Hu-ryeong"],
+    "events": ["Kim Gong-ja, Witch, and Sword Saint push Devil King back floor by floor", "13th-19th floors: zombie army, elf army, mermaid queen, wyvern, giants", "Devil King retreats each time, getting weaker", "97th death when reaching 19th floor", "Devil King's true eyes revealed - bloodshot", "Kim Gong-ja says 'My time is longer than your history'"],
+    "locations": ["13th-19th floors", "Various locations: temple, fairy forest, waterfall, volcano, small country"],
+    "skills": ["Hundred Ghosts Summon used again after 1 week cooldown", "Kim Gong-ja's accumulated combat experience"],
+    "deaths": ["Kim Gong-ja dies 97 times total by 19th floor", "Many monster armies destroyed"],
+    "loops": ["Kim Gong-ja dies and returns 24 hours before", "Re-fights each floor with improved tactics"],
+    "cause_effect": ["Devil King gets weaker each retreat due to history regression", "Kim Gong-ja's deaths make him stronger each time", "Teamwork with Witch and Sword Saint improves", "Devil King's true form starts showing through wastewater"],
+    "notes": "Bae Hu-ryeong bets Kim Gong-ja will die under 100 times. Kim Gong-ja wins bet. Devil King's origin as Estelle becomes more apparent."
+  }
+]

@@ -1,0 +1,331 @@
+---
+chapter: 168
+title: 163. [Cave Fire (3)]
+word_count: 2169
+character_count: 12403
+source_url: https://novelfire.net/book/sss-class-suicide-hunter/chapter-168
+parsed_at: 2026-05-27T17:44:00.454260
+characters: []
+events: []
+locations: []
+skills: []
+deaths: []
+loops: []
+cause_effect: []
+---
+
+Translator: Seven Editor: Sasha PR: LightBrin
+
+The disturbance in the early morning woke the snails up.
+
+-What's with all the fuss?!
+
+-A lion suddenly started roaring. Rime.
+
+-Ominous sounds are coming from the mines…
+
+From the buildings that rose like mushrooms in the underground cavern, snails crawled out of their windows. Hundreds. Thousands. Tens of thousands. From the snail who slept the lightest to the one who slept the deepest. The snails' mucus covered the walls.
+
+-What's with the commotion? A rebellion?
+
+-It's a rebellion!
+
+-Blow the horn!
+
+-Rime! Let's awaken the spirits of our ancestors!
+
+The snails climbed up the wall. Slap! They slapped themselves with the antennae on top of their heads. That was how they woke themselves up.
+
+Buuuu-…
+
+The snails who climbed to the top of the wall first, blew their horns. They weren't actually horns or trumpets. They were the shells of snails who had already died. The snails used the shells left behind by those who died as a kind of coffin, and they also blew them to let out a long, disturbing trumpet sound.
+
+Buuuuu-
+
+Following the first horn being blown, the other snails also climbed the wall, lifted the shells of their kind and blew into them. The numerous buildings in the underground city began to tremble.
+
+Organ.
+
+Each building was like a pipe that rang out in the large cavern. Buuu. Buuu. The harmony of the organ blown by the snails shook the dark space. The sounds of the goblins coming from afar were buried by the harmony.
+
+Bark! Bark!
+
+The dogs raised by the snails also began barking. The snail race considered dogs to be sacred because they resembled god. The dogs raised in the cavern had wet noses and gloomy cries. The snail's horns muffled even the fierce cries of the dogs.
+
+"Krr."
+
+I broke the iron bars of the cage. Crack! The iron bars were like tofu for my paws that were reinforced with aura. The keepers noticed late and crawled over, but I had already escaped and was running into the streets of Rimepolis.
+
+-The lion!
+
+-The gladiator lion has escaped!
+
+The snails that were climbing the walls were startled to see me, and they hurried, even more, to get to a high place. I kicked off from the ground with my hind legs and leaped onto the same pillar the snails had carved their history into.
+
+"Krr!"
+
+My front paws dug into the pillar. My feet were overflowing with red aura. I climbed the pillar one step at a time like a mountain climber scaling a rock wall.
+
+-Rime!
+
+-L-, look over there!
+
+My ascent frightened the snails. The snails, who were climbing the walls of other buildings, scattered in trails of mucus. Some of them even lost their grip and fell.
+
+I climbed to the top of the pillar and looked down at the city.
+
+Buuuu…
+
+The cavern was filled with the sounds of the horns. It was a sound that came from dead bodies. And when they heard the sound, the snails all armed themselves and assembled. The snail troops began moving all over the city, and before long, they would subdue the goblins.
+
+'I won't let that happen.'
+
+I lifted my chest. None of the buildings were higher than the pillar I had climbed on. I inhaled a breath of air at the highest point in the city and slowly opened my mouth.
+
+Goooooo-
+
+A loud roar erupted from it.
+
+Like ripples spreading through a pond, the lion's voice swept away the sound of the snails' horns. The more it spread, the more it pushed. My lungs were deeper than the empty shells of dead snails, and my voice was louder than their notes.
+
+-Gor!
+
+Finally, the goblins appeared. They were gathered at the entrance of the mine with stone hammers in their hands.
+
+When I saw them, the children also saw me.
+
+The goblins shouted.
+
+-Kekerkker!
+
+That was my name.
+
+When their language had still been closer to the cries of a beast, the goblins called me Kekerkker.
+
+'Ke' meaning water. Everything that was transparent and pure in the world was called 'ke' by the goblins.
+
+'Kerk' meaning the sky. The goblins called the highest and most sacred thing in the world 'kerk'.
+
+'Ker' meaning meat. It also meant animal or beast.
+
+That's what my name was.
+
+-Kekerkker!
+
+A white beast that came down from the sky.
+
+A white lion.
+
+I stood tall on the pillar in the middle of the underground city and roared.
+
+"Guru!"
+
+Seeing me on the pillar, the snails froze, but the goblins kept moving. The goblins began to line up. They took the hunting formation that I had taught them while catching bison.
+
+The goblins still remembered the things I'd taught them 200 years ago. Just like words that were randomly thrown out by parents unintentionally leaving a lifelong mark on their children.
+
+I felt a sense of responsibility when I saw the goblins' formation.
+
+-Guru!
+
+Fine.
+
+My young strangers.
+
+I will take you to the home you longed for.
+
+"Korrk."
+
+I pressed down with my front paws. Aura rushed out from my heart and down the lion's forelimbs and claws.
+
+Crackle.
+
+A crack appeared where my claw had sunk into the stone. In an instant, the red aura stretched across the entire pillar like a spider web.
+
+Infernal Heavens Demonic Art
+
+First form.
+
+The Burning Young Sword.
+
+The huge pillar shattered like glass. The snails screamed. Many things had been carved on the pillar. The stone fragments containing the myths of the snail race shattered.
+
+I stepped from one fragment to the other with a 'ta, ta, ta' and went down to the ground. As I landed, the pillar collapsed around me, creating an enormous cloud of dust.
+
+'With this, the snail race's momentum will be destroyed.'
+
+The people of this era lived on myths and legends. The collapse of the pillar was different from the collapse of a simple building. For on the pillar, was the recorded history and religion of the snail race. That's why the collapse of the pillar meant disaster.
+
+God had descended.
+
+'On the other hand, the goblins' momentum will increase'
+
+However, I wasn't the only god present in this underground city.
+
+I heard a message that I had never gotten before.
+
+[The Heretic Questioner admires your swift plan.]
+
+Suddenly, a hound jumped through the cloud of dust.
+
+"Kaaah!"
+
+With a howl, the hound clawed at my back. It was a surprise attack. I roared and swung my paws back. Whoosh! But instead of the hound's head, my paws only met the air. The hound had disappeared suddenly.
+
+'Sacred Transformation Technique!'
+
+I immediately realized the hound's identity.
+
+'The Heretic Questioner was also possessing a beast!'
+
+The Heretic Questioner had immediately noticed what I was aiming for. Destroying the pillar that symbolized the snail race's religion. To make the snails panic.
+
+I tried to win quickly by creating this kind of mythical scene. When the snail race was confused, it would be easier for the goblins to escape. But the Heretic Questioner had possessed the divine beast to confront me.
+
+'Where are you?'
+
+My back ached. Blood flowed from the wound left behind by the Heretic Questioner. I was wary of my surroundings, but I couldn't see any signs of the Heretic Questioner. My surroundings were still covered by the dust cloud, which affected my vision.
+
+'Where are you going to show up next? Heretic Questioner!'
+
+It was at that moment that the scent of oil filled my nose.
+
+"Kor!"
+
+As soon as I smelled the oil, I rolled to the side. Thud! The hound leaped through the air and landed in the spot I had just vacated. The hound stuck out its tongue as if in regret.
+
+It was a hound with golden fur.
+
+It was clear that the snails regularly took care of this beast. The hound's teeth had small jewels embedded in them. And its short fur had been trimmed in a wave-like pattern.
+
+Most importantly, its entire body carried the scent of perfumed oil similar to olive oil.
+
+'I'm sure he chose the divine beast to fight against the myth.'
+
+I let out a soft growl.
+
+'You messed up. Heretic Questioner. Your entire body smells like perfume. You managed to sneak attack me once, but don't think it'll happen a second time!'
+
+I could only make the sounds of a lion in this body. However, the Heretic Questioner still seemed to understand my noises. Since he knew that it was meaningless, he stopped trying to sneak attack.
+
+We looked at each before each taking a step forward.
+
+"Karr."
+
+"Gor…"
+
+The sounds of a lion and a hound mixed in the dust.
+
+I slowly circled around.
+
+'He can't beat me in a one on one fight, and I doubt this will become a group battle. His sacred transformation technique is formidable, but it's closer to a support skill. Without teammates to help him fight he's only half as strong.'
+
+The golden hound let out a soft 'karr'.
+
+To me, it sounded like the Heretic Questioner was laughing.
+
+[The Heretic Questioner says he's happy to fight you.]
+
+'Happy?'
+
+[The Heretic Questioner wants you to prove that you are more capable than him.]
+
+I couldn't understand the meaning of the message at first.
+
+As if reading my expression, the hound moved its front paws slowly.
+
+[The Heretic Questioner says.]
+
+[He only aims to get the best result.]
+
+The cloud of dust slowly settled.
+
+[Each person has different abilities.]
+
+[The best of the capable is better than the best of the incapable.]
+
+[The Heretic Questioner is willing to obey you if you prove that you are more capable than he is.]
+
+Through the dust that settled, the snails and goblins were revealed.
+
+The two races were facing off against each other.
+
+[He has shown his best over the past 200 years.]
+
+[The Heretic Questioner asks that now you show your best.]
+
+The hound rushed forward.
+
+I also raised my claws with a roar.
+
+At the same time as the two of us collided, the citizens rushed towards the slaves, and the slaves rushed towards the citizens.
+
+-Rime!
+
+-Kekerkker!
+
+The snails wore leather armor and swung swords held in their tentacles. The goblins didn't have any proper clothes, so they just swung their stone hammers with their bare bodies. The citizens' armor was overwhelmingly better. However, the snails had been shaken by the collapse of the pillar which allowed the slaves, who had higher morale, to push them back.
+
+"Gork!"
+
+My claws tore into the Heretic Questioner's hind leg. Kaah! The hound twisted its neck and cried out. But my attack wasn't fatal.
+
+Every time I tried to land a decisive blow, the Heretic Questioner cleverly avoided it with his sacred transformation technique. The sacred transformation technique might be useless for surprise attacks now, but it was still effective for evasion.
+
+It was clear what the Heretic Questioner's tactics meant.
+
+'He's buying time.'
+
+The hound let out a soft cry. I couldn't understand the hound, but I had an idea of what the Heretic Questioner was trying to say.
+
+The Heretic Questioner was saying this.
+
+'The snails might be confused right now, but they will gradually regain their senses. And more troops will gather here. As long as I continue to buy time, I will eventually win.'
+
+Delaying.
+
+That was the tactic the Heretic Questioner had chosen.
+
+"Krrr."
+
+I stared at the hound as the wound on my back bled. The hound limped slightly and made eye contact with me. We were both wounded beasts.
+
+'It's not a bad tactic.'
+
+I growled.
+
+'It's a valid tactic that he could handle on his own. In this situation, it's a smart choice.'
+
+Unfortunately, time was never on the Heretic Questioner's side.
+
+To be precise, it was never on the snail race's side.
+
+The time the snail race had dominated was slowly coming to an end.
+
+[A rebellion has erupted in Rimepolis!]
+
+Paht. Something appeared in the air.
+
+It was a black swan.
+
+The black swan spread its wings and let out a long cry.
+
+[The Vampires have risen up against the Snails!]
+
+The beast that the Black Dragon Master had possessed arrived through space transfer.
+
+The bats hanging from the ceiling flapped their wings. They descended upon the snails slowly moving over to the mines. The snails cried out and swung their tentacles, but the vampires showed that their teeth were more fierce.
+
+'It wasn't you who was buying time, Heretic Questioner. It was me.'
+
+The cries of beasts in the underground city didn't end there. Four roars erupted from the pier, where the river flowed, the port where the salt was stored, and from the east and west sides of the large cavern.
+
+[The Mermaids have risen up against the Snails!]
+
+[The Sprites have risen up against the Snails!]
+
+[The Elves have risen up against the Snails!]
+
+[The Humans have risen up against the Snails!]
+
+It was the sound of an empire collapsing.

@@ -1,0 +1,664 @@
+---
+import Layout from '../layouts/Layout.astro';
+---
+
+<Layout>
+    <div class="controls">
+        <div class="tabs">
+            <button class="tab-button active" data-tab="branch">Branch Timeline</button>
+            <button class="tab-button" data-tab="network">Network Graph</button>
+            <button class="tab-button" data-tab="grid">Floor Grid</button>
+        </div>
+        
+        <div class="search-bar">
+            <input type="text" id="search" placeholder="Search characters, events, chapters..." />
+            <select id="filter-type">
+                <option value="all">All</option>
+                <option value="characters">Characters</option>
+                <option value="events">Events</option>
+                <option value="deaths">Deaths</option>
+                <option value="skills">Skills</option>
+            </select>
+        </div>
+    </div>
+    
+    <div class="tab-content active" id="branch-tab">
+        <div class="timeline-container" id="branch-timeline">
+            <p class="loading">Loading branch timeline...</p>
+        </div>
+    </div>
+    
+    <div class="tab-content" id="network-tab">
+        <div class="network-container" id="network-graph">
+            <p class="loading">Loading network graph...</p>
+        </div>
+    </div>
+    
+    <div class="tab-content" id="grid-tab">
+        <div class="grid-container" id="floor-grid">
+            <p class="loading">Loading floor grid...</p>
+        </div>
+    </div>
+    
+    <div class="stats-panel">
+        <h3>Quick Stats</h3>
+        <div class="stats-grid">
+            <div class="stat-item">
+                <span class="stat-value" id="total-chapters">--</span>
+                <span class="stat-label">Chapters</span>
+            </div>
+            <div class="stat-item">
+                <span class="stat-value" id="total-characters">--</span>
+                <span class="stat-label">Characters</span>
+            </div>
+            <div class="stat-item">
+                <span class="stat-value" id="total-deaths">--</span>
+                <span class="stat-label">Deaths</span>
+            </div>
+            <div class="stat-item">
+                <span class="stat-value" id="total-loops">--</span>
+                <span class="stat-label">Time Loops</span>
+            </div>
+        </div>
+    </div>
+</Layout>
+
+<script>
+    // Tab switching
+    const tabButtons = document.querySelectorAll('.tab-button');
+    const tabContents = document.querySelectorAll('.tab-content');
+    
+    tabButtons.forEach(button => {
+        button.addEventListener('click', () => {
+            const tab = button.dataset.tab;
+            
+            tabButtons.forEach(btn => btn.classList.remove('active'));
+            tabContents.forEach(content => content.classList.remove('active'));
+            
+            button.classList.add('active');
+            document.getElementById(`${tab}-tab`).classList.add('active');
+            
+            // Trigger render for the active tab
+            if (tab === 'branch') renderBranchTimeline();
+            else if (tab === 'network') renderNetworkGraph();
+            else if (tab === 'grid') renderFloorGrid();
+        });
+    });
+    
+    // Load chapter data
+    let chapterData = [];
+    
+    async function loadData() {
+        try {
+            // Load all chapter JSON files
+            const chapters = [];
+            for (let i = 1; i <= 15; i++) {
+                try {
+                    const response = await fetch(`/data/chapter-${String(i).padStart(3, '0')}.json`);
+                    if (response.ok) {
+                        const data = await response.json();
+                        chapters.push(data);
+                    }
+                } catch (e) {
+                    console.warn(`Failed to load chapter ${i}:`, e);
+                }
+            }
+            
+            chapterData = chapters;
+            updateStats();
+            renderBranchTimeline();
+        } catch (error) {
+            console.error('Error loading data:', error);
+        }
+    }
+    
+    function updateStats() {
+        const allCharacters = new Set();
+        let deathCount = 0;
+        let loopCount = 0;
+        
+        chapterData.forEach(ch => {
+            ch.annotations?.characters?.forEach(c => allCharacters.add(c));
+            deathCount += ch.annotations?.deaths?.length || 0;
+            loopCount += ch.annotations?.loops?.length || 0;
+        });
+        
+        document.getElementById('total-chapters').textContent = chapterData.length;
+        document.getElementById('total-characters').textContent = allCharacters.size;
+        document.getElementById('total-deaths').textContent = deathCount;
+        document.getElementById('total-loops').textContent = loopCount;
+    }
+    
+    // Branch Timeline View
+    function renderBranchTimeline() {
+        const container = document.getElementById('branch-timeline');
+        if (!container || container.dataset.rendered) return;
+        
+        let html = '<div class="branch-timeline">';
+        
+        chapterData.forEach((ch, index) => {
+            const hasLoop = ch.annotations?.loops?.length > 0;
+            const hasDeath = ch.annotations?.deaths?.length > 0;
+            
+            html += `
+                <div class="timeline-item ${hasLoop ? 'loop' : ''} ${hasDeath ? 'death' : ''}" data-chapter="${ch.chapter}">
+                    <div class="timeline-marker"></div>
+                    <div class="timeline-content">
+                        <div class="chapter-header">
+                            <span class="chapter-num">Ch. ${ch.chapter}: ${ch.title}</span>
+                            ${hasLoop ? '<span class="badge loop">Loop</span>' : ''}
+                            ${hasDeath ? '<span class="badge death">Death</span>' : ''}
+                        </div>
+                        <div class="chapter-details">
+                            <p><strong>Characters:</strong> ${ch.annotations?.characters?.join(', ') || 'None recorded'}</p>
+                            <p><strong>Events:</strong> ${ch.annotations?.events?.join(', ') || 'None recorded'}</p>
+                            ${ch.annotations?.deaths?.length ? `<p><strong>Deaths:</strong> <span class="death-text">${ch.annotations.deaths.join(', ')}</span></p>` : ''}
+                            ${ch.annotations?.skills?.length ? `<p><strong>Skills:</strong> ${ch.annotations.skills.join(', ')}</p>` : ''}
+                        </div>
+                    </div>
+                </div>
+            `;
+        });
+        
+        html += '</div>';
+        container.innerHTML = html;
+        container.dataset.rendered = 'true';
+    }
+    
+    // Network Graph View
+    function renderNetworkGraph() {
+        const container = document.getElementById('network-graph');
+        if (!container || container.dataset.rendered) return;
+        
+        // Collect all characters and their relationships
+        const characterMap = new Map();
+        const relationships = [];
+        
+        chapterData.forEach(ch => {
+            const chars = ch.annotations?.characters || [];
+            
+            // Add characters
+            chars.forEach(char => {
+                if (!characterMap.has(char)) {
+                    characterMap.set(char, {
+                        id: char,
+                        chapters: [],
+                        connections: new Set()
+                    });
+                }
+                characterMap.get(char).chapters.push(ch.chapter);
+            });
+            
+            // Create relationships
+            for (let i = 0; i < chars.length; i++) {
+                for (let j = i + 1; j < chars.length; j++) {
+                    relationships.push({
+                        source: chars[i],
+                        target: chars[j],
+                        chapter: ch.chapter
+                    });
+                    characterMap.get(chars[i]).connections.add(chars[j]);
+                    characterMap.get(chars[j]).connections.add(chars[i]);
+                }
+            }
+        });
+        
+        let html = '<div class="network-graph">';
+        html += '<div class="network-viz">';
+        
+        const characters = Array.from(characterMap.values());
+        const nodePositions = new Map();
+        
+        // Calculate positions in a circle
+        const radius = 200;
+        const centerX = 250;
+        const centerY = 250;
+        
+        characters.forEach((char, i) => {
+            const angle = (i / characters.length) * 2 * Math.PI;
+            const x = centerX + radius * Math.cos(angle);
+            const y = centerY + radius * Math.sin(angle);
+            nodePositions.set(char.id, { x, y });
+            
+            html += `
+                <div class="network-node" style="left: ${x - 20}px; top: ${y - 20}px;"
+                     data-character="${char.id}"
+                     title="${char.id} - Appears in ${char.chapters.length} chapters">
+                    ${char.id.substring(0, 2)}
+                </div>
+            `;
+        });
+        
+        html += '</div>';
+        html += '<div class="network-legend">';
+        html += '<h4>Characters (${characters.length})</h4>';
+        html += '<ul>';
+        characters.forEach(char => {
+            html += `<li title="Appears in chapters: ${char.chapters.join(', ')}">${char.id} (${char.connections.size} connections)</li>`;
+        });
+        html += '</ul>';
+        html += '</div>';
+        html += '</div>';
+        
+        container.innerHTML = html;
+        container.dataset.rendered = 'true';
+    }
+    
+    // Floor Grid View
+    function renderFloorGrid() {
+        const container = document.getElementById('floor-grid');
+        if (!container || container.dataset.rendered) return;
+        
+        // Group chapters by approximate floor
+        const floorMap = new Map();
+        chapterData.forEach(ch => {
+            // Approximate floor based on chapter number for now
+            const floor = Math.floor((ch.chapter - 1) / 5) + 1;
+            if (!floorMap.has(floor)) {
+                floorMap.set(floor, []);
+            }
+            floorMap.get(floor).push(ch);
+        });
+        
+        const maxFloor = Math.max(...floorMap.keys());
+        const loops = ['Initial', 'Loop 1', 'Loop 2'];
+        
+        let html = '<div class="floor-grid">';
+        
+        // Header row
+        html += '<div class="grid-header">';
+        html += '<div class="grid-cell">Floor \\ Loop</div>';
+        loops.forEach(loop => {
+            html += `<div class="grid-cell">${loop}</div>`;
+        });
+        html += '</div>';
+        
+        // Floor rows
+        for (let floor = 1; floor <= maxFloor; floor++) {
+            const floorChapters = floorMap.get(floor) || [];
+            
+            html += '<div class="grid-row">';
+            html += `<div class="grid-cell floor-label">Floor ${floor}</div>`;
+            
+            loops.forEach((loop, loopIndex) => {
+                // Filter chapters based on loop data
+                const loopChapters = floorChapters.filter(ch => {
+                    if (loopIndex === 0) return ch.annotations?.loops?.length === 0;
+                    return ch.annotations?.loops?.length > 0;
+                });
+                
+                html += `<div class="grid-cell ${loopChapters.length > 0 ? 'has-content' : ''}">`;
+                if (loopChapters.length > 0) {
+                    html += `<span class="chapter-count">${loopChapters.length} chapters</span>`;
+                    html += '<div class="chapter-list">';
+                    loopChapters.forEach(ch => {
+                        html += `<span class="mini-chapter" title="${ch.title}">Ch.${ch.chapter}</span>`;
+                    });
+                    html += '</div>';
+                }
+                html += '</div>';
+            });
+            
+            html += '</div>';
+        }
+        
+        html += '</div>';
+        container.innerHTML = html;
+        container.dataset.rendered = 'true';
+    }
+    
+    // Initialize
+    document.addEventListener('DOMContentLoaded', loadData);
+</script>
+
+<style>
+    .controls {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 2rem;
+        flex-wrap: wrap;
+        gap: 1rem;
+    }
+    
+    .tabs {
+        display: flex;
+        gap: 0.5rem;
+    }
+    
+    .tab-button {
+        padding: 0.75rem 1.5rem;
+        background: var(--bg-tertiary);
+        border: 1px solid var(--border-color);
+        color: var(--text-secondary);
+        cursor: pointer;
+        border-radius: 8px;
+        transition: all 0.3s;
+    }
+    
+    .tab-button:hover {
+        background: var(--bg-secondary);
+        color: var(--text-primary);
+    }
+    
+    .tab-button.active {
+        background: var(--accent-gold);
+        color: var(--bg-primary);
+        font-weight: bold;
+    }
+    
+    .search-bar {
+        display: flex;
+        gap: 0.5rem;
+    }
+    
+    .search-bar input,
+    .search-bar select {
+        padding: 0.5rem;
+        background: var(--bg-tertiary);
+        border: 1px solid var(--border-color);
+        color: var(--text-primary);
+        border-radius: 4px;
+    }
+    
+    .search-bar input {
+        width: 300px;
+    }
+    
+    .tab-content {
+        display: none;
+    }
+    
+    .tab-content.active {
+        display: block;
+    }
+    
+    .loading {
+        text-align: center;
+        padding: 2rem;
+        color: var(--text-secondary);
+    }
+    
+    /* Branch Timeline Styles */
+    .branch-timeline {
+        position: relative;
+        padding-left: 2rem;
+    }
+    
+    .branch-timeline::before {
+        content: '';
+        position: absolute;
+        left: 0;
+        top: 0;
+        bottom: 0;
+        width: 2px;
+        background: var(--border-color);
+    }
+    
+    .timeline-item {
+        position: relative;
+        margin-bottom: 1.5rem;
+        padding: 1rem;
+        background: var(--bg-secondary);
+        border-radius: 8px;
+        border: 1px solid var(--border-color);
+    }
+    
+    .timeline-item.loop {
+        border-left: 3px solid var(--accent-gold);
+    }
+    
+    .timeline-item.death {
+        border-left: 3px solid var(--accent-red);
+    }
+    
+    .timeline-marker {
+        position: absolute;
+        left: -2.4rem;
+        top: 1.2rem;
+        width: 12px;
+        height: 12px;
+        background: var(--accent-blue);
+        border-radius: 50%;
+        border: 2px solid var(--bg-primary);
+    }
+    
+    .timeline-item.loop .timeline-marker {
+        background: var(--accent-gold);
+    }
+    
+    .timeline-item.death .timeline-marker {
+        background: var(--accent-red);
+    }
+    
+    .chapter-header {
+        display: flex;
+        gap: 0.5rem;
+        align-items: center;
+        margin-bottom: 0.5rem;
+    }
+    
+    .chapter-num {
+        font-weight: bold;
+        color: var(--accent-gold);
+    }
+    
+    .badge {
+        padding: 0.2rem 0.5rem;
+        border-radius: 4px;
+        font-size: 0.75rem;
+        font-weight: bold;
+    }
+    
+    .badge.loop {
+        background: rgba(255, 215, 0, 0.2);
+        color: var(--accent-gold);
+    }
+    
+    .badge.death {
+        background: rgba(255, 68, 68, 0.2);
+        color: var(--accent-red);
+    }
+    
+    .chapter-details {
+        font-size: 0.9rem;
+        color: var(--text-secondary);
+    }
+    
+    .chapter-details p {
+        margin: 0.25rem 0;
+    }
+    
+    .death-text {
+        color: var(--accent-red);
+    }
+    
+    /* Network Graph Styles */
+    .network-graph {
+        display: flex;
+        gap: 2rem;
+    }
+    
+    .network-viz {
+        flex: 1;
+        min-height: 600px;
+        background: var(--bg-secondary);
+        border-radius: 8px;
+        position: relative;
+        overflow: hidden;
+    }
+    
+    .network-node {
+        position: absolute;
+        width: 40px;
+        height: 40px;
+        background: var(--accent-blue);
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 0.75rem;
+        font-weight: bold;
+        cursor: pointer;
+        transition: transform 0.3s;
+        color: white;
+    }
+    
+    .network-node:hover {
+        transform: scale(1.2);
+    }
+    
+    .network-legend {
+        width: 250px;
+        background: var(--bg-secondary);
+        padding: 1rem;
+        border-radius: 8px;
+        max-height: 600px;
+        overflow-y: auto;
+    }
+    
+    .network-legend h4 {
+        margin-bottom: 1rem;
+        color: var(--accent-gold);
+    }
+    
+    .network-legend ul {
+        list-style: none;
+    }
+    
+    .network-legend li {
+        padding: 0.25rem 0;
+        color: var(--text-secondary);
+        font-size: 0.85rem;
+        cursor: pointer;
+    }
+    
+    .network-legend li:hover {
+        color: var(--text-primary);
+    }
+    
+    /* Floor Grid Styles */
+    .floor-grid {
+        display: flex;
+        flex-direction: column;
+        gap: 1px;
+        background: var(--border-color);
+        border-radius: 8px;
+        overflow: hidden;
+    }
+    
+    .grid-header,
+    .grid-row {
+        display: grid;
+        grid-template-columns: 120px repeat(3, 1fr);
+        gap: 1px;
+    }
+    
+    .grid-header {
+        background: var(--bg-tertiary);
+        font-weight: bold;
+    }
+    
+    .grid-cell {
+        padding: 0.75rem;
+        background: var(--bg-secondary);
+        min-height: 60px;
+    }
+    
+    .grid-header .grid-cell {
+        background: var(--bg-tertiary);
+        color: var(--accent-gold);
+    }
+    
+    .floor-label {
+        font-weight: bold;
+        color: var(--text-primary);
+    }
+    
+    .grid-cell.has-content {
+        background: rgba(68, 136, 255, 0.1);
+    }
+    
+    .chapter-count {
+        font-size: 0.8rem;
+        color: var(--accent-blue);
+    }
+    
+    .chapter-list {
+        display: flex;
+        gap: 0.25rem;
+        margin-top: 0.25rem;
+        flex-wrap: wrap;
+    }
+    
+    .mini-chapter {
+        padding: 0.1rem 0.4rem;
+        background: var(--bg-tertiary);
+        border-radius: 3px;
+        font-size: 0.7rem;
+        cursor: pointer;
+    }
+    
+    .mini-chapter:hover {
+        background: var(--accent-blue);
+        color: white;
+    }
+    
+    /* Stats Panel */
+    .stats-panel {
+        margin-top: 2rem;
+        padding: 1.5rem;
+        background: var(--bg-secondary);
+        border-radius: 8px;
+        border: 1px solid var(--border-color);
+    }
+    
+    .stats-panel h3 {
+        margin-bottom: 1rem;
+        color: var(--accent-gold);
+    }
+    
+    .stats-grid {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        gap: 1rem;
+    }
+    
+    .stat-item {
+        text-align: center;
+    }
+    
+    .stat-value {
+        display: block;
+        font-size: 2rem;
+        font-weight: bold;
+        color: var(--accent-gold);
+    }
+    
+    .stat-label {
+        color: var(--text-secondary);
+        font-size: 0.9rem;
+    }
+    
+    @media (max-width: 768px) {
+        .controls {
+            flex-direction: column;
+        }
+        
+        .search-bar input {
+            width: 100%;
+        }
+        
+        .network-graph {
+            flex-direction: column;
+        }
+        
+        .network-legend {
+            width: 100%;
+        }
+        
+        .stats-grid {
+            grid-template-columns: repeat(2, 1fr);
+        }
+    }
+</style>

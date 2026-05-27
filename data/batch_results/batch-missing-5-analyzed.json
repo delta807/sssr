@@ -1,0 +1,38 @@
+{
+  "batch": "missing-5",
+  "chapters": [
+    {
+      "chapter": 235,
+      "characters": ["Kim Gongja/Death King", "Ja Soo-jung/Tower Master", "Yoo Soo-ha/Flame Emperor", "Saintess Isabelle", "Constellation Killer (mentioned)", "Sword Saint (mentioned)"],
+      "events": ["Kim Gongja and Ja Soo-jung walk through Harlem to a dark alley", "Flame Emperor attacks Saintess Isabelle intending to kill her", "Kim Gongja intervenes and saves Saintess Isabelle", "Kim Gongja defeats Flame Emperor in combat using Salvation of a Torn Goddess", "Kim Gongja summons Yoo Soo-ha using Hundred Ghosts Reincarnation", "Kim Gongja apologizes to summoned Yoo Soo-ha for killing him", "Kim Gongja declares he will bring Yoo Soo-ha back to life using Earth Bone Dragon's Skull"],
+      "locations": ["Babylon", "Harlem", "Dark alley"],
+      "skills": ["Hundred Ghosts Reincarnation", "Salvation of a Torn Goddess", "Infernal Heavens Demonic Art", "Earth Bone Dragon's Skull", "Returner's Clockwork Watch", "Puppeteer's Parade (mentioned)"],
+      "deaths": [],
+      "loops": [],
+      "cause_effect": ["Flame Emperor attacks Saintess Isabelle because his Returner's Clockwork Watch showed him a future where she attacks him", "Kim Gongja uses Salvation of a Torn Goddess to trade memories for increased power to defeat Flame Emperor", "Kim Gongja combines Hundred Ghosts Reincarnation (which stores memories of the dead) with Earth Bone Dragon's Skull to plan giving Yoo Soo-ha a real living body"],
+      "notes": "Kim Gongja reveals he is now incomparably stronger than the Flame Emperor. He reflects on having killed Yoo Soo-ha in his own world and chooses to save him instead. The chapter shows Kim Gongja's emotional growth and his willingness to apologize to even his enemies."
+    },
+    {
+      "chapter": 236,
+      "characters": ["Kim Gongja/Death King", "Ja Soo-jung/Tower Master/Viscount Ja Soo-jung", "Yoo Soo-ha/Flame Emperor", "Preta", "Demonic Cult members", "Lady of Golden Silk (mentioned)", "Constellation Killer (mentioned)", "Children from burning mansion/Apostles of Lord of Manseng"],
+      "events": ["Ja Soo-jung explains why Kim Gongja's plan shouldn't work - Hundred Ghosts Reincarnation summons the dead while Earth Bone Dragon's Skull requires living memories", "Kim Gongja reveals Hundred Ghosts Reincarnation itself is a box containing memories of those he killed", "Kim Gongja summons hundred ghosts from his shadow including Preta and Demonic Cult members", "Ja Soo-jung opens the sky and summons countless Apostles as white butterflies", "Ja Soo-jung reveals her skill Manseng which gives second lives to the dead", "Ja Soo-jung acknowledges Kim Gongja as a Junior challenging her as Senior", "The trauma reenactment penalty ends"],
+      "locations": ["Harlem", "Dark alley", "Night sky"],
+      "skills": ["Hundred Ghosts Reincarnation", "Earth Bone Dragon's Skull", "Manseng", "Returner's Clockwork Watch (mentioned)"],
+      "deaths": [],
+      "loops": [],
+      "cause_effect": ["Hundred Ghosts Reincarnation stores memories of the dead, making it functionally a memory box", "Kim Gongja can bypass Earth Bone Dragon's Skull's living requirement because Hundred Ghosts Reincarnation already contains the dead's memories", "Ja Soo-jung uses Manseng to give second lives to those who died, creating her countless Apostles", "Ja Soo-jung sees Kim Gongja pursuing a similar but different path from hers - she is the Senior, he the Junior"],
+      "notes": "Ja Soo-jung reveals the true scale of her power with countless Apostles filling the night sky like stars. She acknowledges Kim Gongja's cleverness in combining skills in an unintended way. The trauma reenactment experience ends with light."
+    },
+    {
+      "chapter": 237,
+      "characters": ["Kim Gongja/Death King", "Raviel", "Uburka", "Ja Soo-jung (Side Story version)", "Ja Soo-jung/Tower Master (discussed)", "The Lady Who Walks Through the Mirage (mentioned)", "Constellation 'The Musclehead Who Dreams of Sinning Against Heaven'"],
+      "events": ["Kim Gongja wakes up in the Spire World/Side Story and is comforted by Raviel", "Kim Gongja describes the trauma of experiencing the Tower Master's life", "Raviel and Kim Gongja discuss the Tower Master's nature of absorbing everyone's pain", "Raviel advises Kim Gongja to win through happiness rather than misery", "Kim Gongja and Raviel share an intimate moment", "Next morning Uburka reacts dramatically to seeing Kim Gongja"],
+      "locations": ["Spire World/Side Story", "Ja Soo-jung's house", "Living room", "Yard"],
+      "skills": ["The Lady Who Walks Through the Mirage (mentioned)", "Manseng (mentioned)"],
+      "deaths": [],
+      "loops": [],
+      "cause_effect": ["The Tower Master constantly experiences everyone's trauma and deaths in her mind, replacing herself in their situations", "Victims direct their resentment at the Tower Master because she is God and chooses to absorb their pain rather than prevent it", "Raviel advises that true solution comes from finding happiness within oneself, not from outside help", "Kim Gongja must defeat the Tower Master by spreading happiness rather than absorbing misery"],
+      "notes": "Kim Gongja is emotionally exhausted from the trauma reenactment experience. Raviel provides both emotional support and strategic insight about defeating the Tower Master. The chapter shows the domestic life of the party in the Side Story world and the romantic relationship between Kim Gongja and Raviel."
+    }
+  ]
+}

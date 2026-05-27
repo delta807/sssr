@@ -1,0 +1,38 @@
+{
+  "batch": "missing-2",
+  "chapters": [
+    {
+      "chapter": 226,
+      "characters": ["Kim Gong-ja/Death King", "Ja Soo-jung/Tower Master", "Raviel", "Yoo Soo-ha"],
+      "events": ["Kim Gong-ja realizes Ja Soo-jung's entire life is a trauma", "Ja Soo-jung reveals she will enforce the Golden Ruler forever across the entire world", "Ja Soo-jung admits she peeked into Kim Gong-ja's memories", "Ja Soo-jung's expression becomes completely emotionless", "The surrounding scene shatters"],
+      "locations": ["Meeting hall", "Capital City"],
+      "skills": ["Trauma viewing", "Past viewing", "Golden Ruler enforcement"],
+      "deaths": [],
+      "loops": ["Kim Gong-ja has performed 4,000 days of regression", "Ja Soo-jung's entire life consists of trauma/loops"],
+      "cause_effect": ["Ja Soo-jung can see others' past -> she peeked into Kim Gong-ja's memories", "Kim Gong-ja sees Ja Soo-jung's trauma -> realizes her entire life is trauma", "Ja Soo-jung wants to enforce Golden Ruler -> plans to cover entire world eternally"],
+      "notes": "Ja Soo-jung plans to expand her rule beyond the kingdom to the entire world. Kim Gong-ja is revealed as Young Master of the Infernal Heavens and Moon of the Ivansia Family. Ja Soo-jung's eternal enforcement of the Golden Ruler is her ultimate goal."
+    },
+    {
+      "chapter": 227,
+      "characters": ["Kim Gong-ja/Death King", "Ja Soo-jung/Tower Master", "Raviel", "Marquis Baek Seol-to", "Viscount Dae Ha-ran", "Viscount Sun Heuk-sin", "Yoo Soo-ha"],
+      "events": ["The world shatters like a mirror revealing Ja Soo-jung's kaleidoscope world", "Ja Soo-jung reveals this life is not her first life", "Ja Soo-jung explains Dragon Bloodline and Dragon Emperor powers", "Ja Soo-jung sits on the cracked throne", "Ja Soo-jung gives Kim Gong-ja a white butterfly", "Ja Soo-jung reveals Kim Gong-ja was killed by Yoo Soo-ha and had to kill him in return"],
+      "locations": ["Meeting hall", "Throne room"],
+      "skills": ["Kaleidoscope world", "Dragon Bloodline", "Dragon Emperor power", "Dragon's library creation ability", "Trauma viewing"],
+      "deaths": ["Kim Gong-ja (killed by Yoo Soo-ha in the past)", "Yoo Soo-ha (killed by Kim Gong-ja in the past)"],
+      "loops": ["Ja Soo-jung has repeated her entire life countless times (billions of iterations)", "This is not Ja Soo-jung's first life"],
+      "cause_effect": ["Ja Soo-jung was not with Kim Gong-ja -> Kim Gong-ja was killed by Yoo Soo-ha -> Kim Gong-ja had to kill Yoo Soo-ha", "Dragon Bloodline inheritance -> descendants possess minor copies of Dragon powers"],
+      "notes": "Critical revelation about Kim Gong-ja's death at Yoo Soo-ha's hands and the subsequent revenge. The world reflects on the butterfly's wings. Ja Soo-jung has lived through her entire life an uncountable number of times."
+    },
+    {
+      "chapter": 228,
+      "characters": ["Kim Gong-ja/Death King", "Ja Soo-jung/Viscount", "Yoo Soo-ha", "Raviel"],
+      "events": ["Ja Soo-jung warned Kim Gong-ja not to open the lock", "Kim Gong-ja opens the lock and enters a vision of Yoo Soo-ha's past", "Yoo Soo-ha wakes up in the Hope bar on Tower's 1st floor", "Yoo Soo-ha reflects on his hatred-filled upbringing", "Flashback to Ja Soo-jung managing a guild and recruiting a manager for Yoo Soo-ha", "Banner hung recruiting manager for World Ranking Number 1 Hunter Yoo Soo-ha"],
+      "locations": ["Tower's 1st floor", "Hope bar", "Guild building", "Babylon"],
+      "skills": [],
+      "deaths": [],
+      "loops": ["Kim Gong-ja opening the lock reveals a traumatic vision/memory of Yoo Soo-ha's past"],
+      "cause_effect": ["Ja Soo-jung warns Kim Gong-ja -> Kim Gong-ja opens lock anyway -> receives vision of Yoo Soo-ha's past", "Yoo Soo-ha's upbringing in a hatred-filled environment -> his personality and hatred of people"],
+      "notes": "The Hope bar uses Korean-style hops and has familiar beer brands. Yoo Soo-ha is revealed as World Ranking Number 1 S-rank Hunter known as 'The Tyrant of the Tower of Babel'. Ja Soo-jung was selecting a manager for Yoo Soo-ha in the past."
+    }
+  ]
+}

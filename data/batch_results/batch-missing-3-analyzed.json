@@ -1,0 +1,38 @@
+{
+  "batch": "missing-3",
+  "chapters": [
+    {
+      "chapter": 229,
+      "characters": ["Yoo Soo-ha/Flame Emperor", "Ja Soo-jung", "Kim Gong-ja/Death King"],
+      "events": ["Yoo Soo-ha modifies recruitment banner to also hire a servant for Ja Soo-jung", "Ja Soo-jung interviews multiple applicants and rejects them", "Kim Gong-ja applies and honestly critiques Yoo Soo-ha's personality", "Ja Soo-jung hires Kim Gong-ja despite Yoo Soo-ha's objections"],
+      "locations": ["Yoo Soo-ha guild office"],
+      "skills": [],
+      "deaths": [],
+      "loops": [],
+      "cause_effect": ["Ja Soo-jung recognizes Kim Gong-ja's insight and honesty → hires him as manager", "Yoo Soo-ha's arrogance and vanity → guild named after himself and poor treatment of applicants"],
+      "notes": "Shows how Kim Gong-ja originally joined the Yoo Soo-ha guild. Ja Soo-jung sees through Kim Gong-ja's facade and recognizes him as a comrade rather than a servant."
+    },
+    {
+      "chapter": 230,
+      "characters": ["Kim Gong-ja/Death King", "Ja Soo-jung", "Yoo Soo-ha/Flame Emperor", "Heretic Questioner/Ten Thousand Temple Master", "Three Tower Society Vice Religious Leader"],
+      "events": ["Pseudo-religion preacher appears in Babylon Square and is arrested by Ten Thousand Temple", "Ja Soo-jung investigates and discovers the preacher is from Three Tower Society with over 5 million followers", "They watch a video declaration of war and planned terrorism against the Tower", "Heretic Questioner admits he already killed the Vice Religious Leader", "A new livestream shows another member preparing to bomb Babylon Square", "Explosion rocks the square"],
+      "locations": ["Yoo Soo-ha guild terrace", "Babylon Square", "Ten Thousand Temple"],
+      "skills": [],
+      "deaths": ["Three Tower Society Vice Religious Leader (killed by Heretic Questioner)"],
+      "loops": [],
+      "cause_effect": ["Vice Religious Leader's death → triggers bombing campaign by Three Tower Society", "Ja Soo-jung's investigation → uncovers terrorist plot and internet religion network"],
+      "notes": "The Three Tower Society, an internet religion with 5M+ followers, launches a coordinated terrorist attack on the Tower after their Vice Religious Leader is killed."
+    },
+    {
+      "chapter": 231,
+      "characters": ["Kim Gong-ja/Death King", "Ja Soo-jung", "Heretic Questioner/Ten Thousand Temple Master", "Black Dragon Master", "Ten Thousand Temple traitor priest"],
+      "events": ["Multiple explosions continue across Babylon", "Heretic Questioner decides to kill all suspicious individuals to reduce casualties", "Kim Gong-ja deduces there is a traitor inside the Ten Thousand Temple", "Traitor priest attempts to kill Kim Gong-ja but is killed by Heretic Questioner", "Heretic Questioner is mortally wounded (torn in half)", "Heretic Questioner gives Kim Gong-ja the Temple proxy idol and Black Dragon Mirror", "Heretic Questioner dies", "Kim Gong-ja contacts Black Dragon Master through the mirror", "Black Dragon Master declares martial law and war against the invaders"],
+      "locations": ["Ten Thousand Temple", "Babylon Square"],
+      "skills": ["Aura shield", "Black Dragon Mirror"],
+      "deaths": ["Heretic Questioner/Ten Thousand Temple Master", "Ten Thousand Temple traitor priest"],
+      "loops": [],
+      "cause_effect": ["Kim Gong-ja's deduction about traitor → traitor attacks but is killed by Heretic Questioner", "Heretic Questioner's mortal wounds → passes leadership to Kim Gong-ja via proxy idol and mirror", "Coordinated bombings → Black Dragon Master declares martial law and war"],
+      "notes": "Pivotal chapter where Kim Gong-ja unexpectedly gains authority over the Ten Thousand Temple and connects with the Black Dragon Master during a major crisis. The Tower faces its second-largest attack since its creation."
+    }
+  ]
+}
