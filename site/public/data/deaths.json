@@ -1,0 +1,2111 @@
+{
+  "deaths": [
+    {
+      "chapter": 3,
+      "character": "Saintess",
+      "cause": "burned by Flame Emperor",
+      "type": "murder",
+      "loop": "loop-1",
+      "context": "Saintess (burned by Flame Emperor)"
+    },
+    {
+      "chapter": 3,
+      "character": "Kim Gongja",
+      "cause": "burned by Flame Emperor",
+      "type": "murder",
+      "loop": "loop-1",
+      "context": "Kim Gongja (burned by Flame Emperor)"
+    },
+    {
+      "chapter": 5,
+      "character": "Kim Gongja",
+      "cause": "suicide by knife, 4091 times",
+      "type": "suicide",
+      "loop": "loop-3",
+      "context": "Kim Gongja (suicide by knife, 4091 times)"
+    },
+    {
+      "chapter": 6,
+      "character": "Flame Emperor",
+      "cause": "stabbed by Kim, eaten by wolves",
+      "type": "murder",
+      "loop": null,
+      "context": "Yoo Sooha (stabbed by Kim, eaten by wolves)"
+    },
+    {
+      "chapter": 8,
+      "character": "Top-ranking hunter",
+      "cause": "mentioned in forum, killed for mentioning grandchildren",
+      "type": "unknown",
+      "loop": null,
+      "context": "Top-ranking hunter (mentioned in forum, killed for mentioning grandchildren)"
+    },
+    {
+      "chapter": 9,
+      "character": "Kim Gongja",
+      "cause": "beheaded by Sword Saint",
+      "type": "murder",
+      "loop": "loop-4",
+      "context": "Kim Gongja (beheaded by Sword Saint)"
+    },
+    {
+      "chapter": 14,
+      "character": "Orc",
+      "cause": "throat cut by Kim",
+      "type": "unknown",
+      "loop": null,
+      "context": "Orc (throat cut by Kim)"
+    },
+    {
+      "chapter": 15,
+      "character": "Orc",
+      "cause": "already dead from previous chapter",
+      "type": "unknown",
+      "loop": null,
+      "context": "Orc (already dead from previous chapter)"
+    },
+    {
+      "chapter": 16,
+      "character": "Kim Gongja",
+      "cause": "burns to death by Hellfire Maiden's flames",
+      "type": "unknown",
+      "loop": "loop-7",
+      "context": "Kim Gong-ja burns to death by Hellfire Maiden's flames"
+    },
+    {
+      "chapter": 16,
+      "character": "King Goblin",
+      "cause": "killed by Kim Gong-ja after 6 deaths",
+      "type": "murder",
+      "loop": "loop-7",
+      "context": "King Goblin killed by Kim Gong-ja after 6 deaths"
+    },
+    {
+      "chapter": 17,
+      "character": "Kim Gongja",
+      "cause": "1st death for 10th floor",
+      "type": "unknown",
+      "loop": "loop-9",
+      "context": "Kim Gong-ja burns to death from hellfire (1st death for 10th floor)"
+    },
+    {
+      "chapter": 18,
+      "character": "Hellfire Maiden",
+      "cause": "died when Kim Gong-ja finds the real doll and comforts her",
+      "type": "unknown",
+      "loop": "loop-11",
+      "context": "Hellfire Maiden dies when Kim Gong-ja finds the real doll and comforts her"
+    },
+    {
+      "chapter": 24,
+      "character": "Kim Gongja",
+      "cause": "clean cut",
+      "type": "unknown",
+      "loop": "loop-15",
+      "context": "Kim Gong-ja asks General Sarbast to kill him (clean cut)"
+    },
+    {
+      "chapter": 24,
+      "character": "Boss monster (head goblin)",
+      "cause": "killed by Kim Gong-ja",
+      "type": "murder",
+      "loop": "loop-15",
+      "context": "Boss monster (head goblin) killed by Kim Gong-ja"
+    },
+    {
+      "chapter": 25,
+      "character": "Kim Gongja",
+      "cause": "Boss monster (high king goblin) decapitated by Kim Gong-ja",
+      "type": "murder",
+      "loop": null,
+      "context": "Boss monster (high king goblin) decapitated by Kim Gong-ja"
+    },
+    {
+      "chapter": 30,
+      "character": "Heretic Questioner",
+      "cause": "8th, 9th, 10th rankers",
+      "type": "murder",
+      "loop": null,
+      "context": "3 innocent hunters killed by Heretic Questioner (8th, 9th, 10th rankers)"
+    },
+    {
+      "chapter": 31,
+      "character": "3 more hunters",
+      "cause": "killed by Heretic Questioner",
+      "type": "murder",
+      "loop": null,
+      "context": "3 more hunters killed by Heretic Questioner"
+    },
+    {
+      "chapter": 32,
+      "character": "Count",
+      "cause": "dies from Devil King's sword attack",
+      "type": "unknown",
+      "loop": null,
+      "context": "Count dies from Devil King's sword attack"
+    },
+    {
+      "chapter": 32,
+      "character": "NPC soldiers and citizens terrified",
+      "cause": "NPC soldiers and citizens terrified",
+      "type": "unknown",
+      "loop": null,
+      "context": "NPC soldiers and citizens terrified"
+    },
+    {
+      "chapter": 34,
+      "character": "Count confirmed dead",
+      "cause": "Count confirmed dead",
+      "type": "unknown",
+      "loop": null,
+      "context": "Count confirmed dead"
+    },
+    {
+      "chapter": 35,
+      "character": "Kim Gongja",
+      "cause": "killed by Devil King's sword",
+      "type": "murder",
+      "loop": "loop-17",
+      "context": "Kim Gong-ja killed by Devil King's sword"
+    },
+    {
+      "chapter": 36,
+      "character": "Estelle",
+      "cause": "trauma",
+      "type": "unknown",
+      "loop": "loop-20",
+      "context": "Estelle's village burned (trauma)"
+    },
+    {
+      "chapter": 36,
+      "character": "Estelle",
+      "cause": "consumed by her own shadow",
+      "type": "unknown",
+      "loop": "loop-20",
+      "context": "Estelle consumed by her own shadow"
+    },
+    {
+      "chapter": 37,
+      "character": "Kim Gongja",
+      "cause": "cuts own throat multiple times to prove prophecy",
+      "type": "suicide",
+      "loop": "loop-23",
+      "context": "Kim Gong-ja cuts his own throat multiple times to prove prophecy"
+    },
+    {
+      "chapter": 37,
+      "character": "Sword Saint",
+      "cause": "killed by serial killer",
+      "type": "murder",
+      "loop": "loop-23",
+      "context": "Sword Saint's daughter mentioned as killed by serial killer"
+    },
+    {
+      "chapter": 38,
+      "character": "Boss monster killed instantly",
+      "cause": "Boss monster killed instantly",
+      "type": "unknown",
+      "loop": "loop-25",
+      "context": "Boss monster killed instantly"
+    },
+    {
+      "chapter": 38,
+      "character": "Under 50 hunters die",
+      "cause": "much less than previous timeline",
+      "type": "unknown",
+      "loop": "loop-25",
+      "context": "Under 50 hunters die (much less than previous timeline)"
+    },
+    {
+      "chapter": 40,
+      "character": "Kim Gongja",
+      "cause": "Kim Gong-ja dies 100+ times fighting Devil King",
+      "type": "combat",
+      "loop": "loop-30",
+      "context": "Kim Gong-ja dies 100+ times fighting Devil King"
+    },
+    {
+      "chapter": 41,
+      "character": "Devil King",
+      "cause": "killed by skeleton army",
+      "type": "murder",
+      "loop": null,
+      "context": "Devil King's monsters killed by skeleton army"
+    },
+    {
+      "chapter": 41,
+      "character": "Kim Gongja",
+      "cause": "Kim Gong-ja's previous deaths manifested as skeletons",
+      "type": "unknown",
+      "loop": null,
+      "context": "Kim Gong-ja's previous deaths manifested as skeletons"
+    },
+    {
+      "chapter": 45,
+      "character": "Kim Gongja",
+      "cause": "Kim Gong-ja dies 97 times total by 19th floor",
+      "type": "unknown",
+      "loop": "loop-32",
+      "context": "Kim Gong-ja dies 97 times total by 19th floor"
+    },
+    {
+      "chapter": 46,
+      "character": "Estelle",
+      "cause": "Estelle's entire village burned alive",
+      "type": "unknown",
+      "loop": null,
+      "context": "Estelle's entire village burned alive"
+    },
+    {
+      "chapter": 46,
+      "character": "Estelle",
+      "cause": "consumed by her shadow/wastewater",
+      "type": "unknown",
+      "loop": null,
+      "context": "Estelle consumed by her shadow/wastewater"
+    },
+    {
+      "chapter": 48,
+      "character": "Devil King",
+      "cause": "Devil King form 'dies' as authority is stripped",
+      "type": "unknown",
+      "loop": null,
+      "context": "Devil King form 'dies' as authority is stripped"
+    },
+    {
+      "chapter": 48,
+      "character": "Estelle",
+      "cause": "Estelle's monster form destroyed",
+      "type": "combat",
+      "loop": null,
+      "context": "Estelle's monster form destroyed"
+    },
+    {
+      "chapter": 59,
+      "character": "Various world destructions shown",
+      "cause": "billions of deaths in visions",
+      "type": "unknown",
+      "loop": null,
+      "context": "Various world destructions shown (billions of deaths in visions)"
+    },
+    {
+      "chapter": 60,
+      "character": "Librarian",
+      "cause": "50 hunters sealed by Librarian",
+      "type": "unknown",
+      "loop": null,
+      "context": "50 hunters sealed by Librarian"
+    },
+    {
+      "chapter": 61,
+      "character": "50 unnamed hunters",
+      "cause": "eaten by tentacles",
+      "type": "murder",
+      "loop": null,
+      "context": "50 unnamed hunters (eaten by tentacles)"
+    },
+    {
+      "chapter": 63,
+      "character": "Kim Gongja",
+      "cause": "suicide by Holy Sword to see trauma",
+      "type": "suicide",
+      "loop": "loop-33",
+      "context": "Death King (suicide by Holy Sword to see trauma)"
+    },
+    {
+      "chapter": 70,
+      "character": "Murim Lord",
+      "cause": "dies from zombie virus on day 10",
+      "type": "natural",
+      "loop": null,
+      "context": "Murim Lord (dies from zombie virus on day 10)"
+    },
+    {
+      "chapter": 72,
+      "character": "Murim Lord",
+      "cause": "virus",
+      "type": "natural",
+      "loop": "loop-34",
+      "context": "Murim Lord (virus)"
+    },
+    {
+      "chapter": 72,
+      "character": "Medicine King",
+      "cause": "beheaded by Heavenly Demon",
+      "type": "murder",
+      "loop": "loop-34",
+      "context": "Medicine King (beheaded by Heavenly Demon)"
+    },
+    {
+      "chapter": 72,
+      "character": "Venomous Snake",
+      "cause": "killed by Heavenly Demon",
+      "type": "murder",
+      "loop": "loop-34",
+      "context": "Venomous Snake (killed by Heavenly Demon)"
+    },
+    {
+      "chapter": 72,
+      "character": "Kim Gongja",
+      "cause": "cut in half",
+      "type": "murder",
+      "loop": "loop-34",
+      "context": "Death King (cut in half)"
+    },
+    {
+      "chapter": 72,
+      "character": "Alchemist",
+      "cause": "cut in half",
+      "type": "murder",
+      "loop": "loop-34",
+      "context": "Alchemist (cut in half)"
+    },
+    {
+      "chapter": 73,
+      "character": "Kim Gongja",
+      "cause": "suicide by Holy Sword to see trauma",
+      "type": "suicide",
+      "loop": "loop-36",
+      "context": "Death King (suicide by Holy Sword to see trauma)"
+    },
+    {
+      "chapter": 73,
+      "character": "Kim Gongja",
+      "cause": "8 additional suicides to reach day 1",
+      "type": "suicide",
+      "loop": "loop-36",
+      "context": "Death King (8 additional suicides to reach day 1)"
+    },
+    {
+      "chapter": 76,
+      "character": "Kim Gongja",
+      "cause": "killed by zombie in pit",
+      "type": "murder",
+      "loop": "loop-37",
+      "context": "Death King (killed by zombie in pit)"
+    },
+    {
+      "chapter": 76,
+      "character": "Kim Gongja",
+      "cause": "planned suicides for training",
+      "type": "suicide",
+      "loop": "loop-37",
+      "context": "Death King (planned suicides for training)"
+    },
+    {
+      "chapter": 78,
+      "character": "Kim Gongja",
+      "cause": "multiple deaths to absorb 112 traumas",
+      "type": "unknown",
+      "loop": "loop-38",
+      "context": "Death King (multiple deaths to absorb 112 traumas)"
+    },
+    {
+      "chapter": 78,
+      "character": "Various unnamed people",
+      "cause": "fisherman, town leader, children - traumas reenacted",
+      "type": "unknown",
+      "loop": "loop-38",
+      "context": "Various unnamed people (fisherman, town leader, children - traumas reenacted)"
+    },
+    {
+      "chapter": 79,
+      "character": "Kim Gongja",
+      "cause": "killed by stronger zombie when learning thirst",
+      "type": "murder",
+      "loop": "loop-39",
+      "context": "Death King (killed by stronger zombie when learning thirst)"
+    },
+    {
+      "chapter": 79,
+      "character": "Kim Gongja",
+      "cause": "loops back",
+      "type": "unknown",
+      "loop": "loop-39",
+      "context": "Death King (loops back)"
+    },
+    {
+      "chapter": 86,
+      "character": "Heavenly Demon",
+      "cause": "dying from true chi exhaustion",
+      "type": "unknown",
+      "loop": null,
+      "context": "Heavenly Demon (dying from true chi exhaustion)"
+    },
+    {
+      "chapter": 89,
+      "character": "Heavenly Demon",
+      "cause": "dies from true chi exhaustion",
+      "type": "unknown",
+      "loop": null,
+      "context": "Heavenly Demon (So Baek-hyang) - dies from true chi exhaustion"
+    },
+    {
+      "chapter": 91,
+      "character": "Black Dragon",
+      "cause": "final dissolution of corpse",
+      "type": "unknown",
+      "loop": null,
+      "context": "Black Dragon (final dissolution of corpse)"
+    },
+    {
+      "chapter": 94,
+      "character": "1 assassin",
+      "cause": "killed by Heretic Questioner",
+      "type": "murder",
+      "loop": null,
+      "context": "1 assassin (killed by Heretic Questioner)"
+    },
+    {
+      "chapter": 99,
+      "character": "3 servants",
+      "cause": "executed by Lady of Silver Lily, Heretic Questioner, and Death King",
+      "type": "murder",
+      "loop": null,
+      "context": "3 servants (executed by Lady of Silver Lily, Heretic Questioner, and Death King)"
+    },
+    {
+      "chapter": 100,
+      "character": "4,653 people",
+      "cause": "first night of 1st generation cleanup",
+      "type": "unknown",
+      "loop": null,
+      "context": "4,653 people (first night of 1st generation cleanup)"
+    },
+    {
+      "chapter": 100,
+      "character": "10,171 people",
+      "cause": "second night",
+      "type": "unknown",
+      "loop": null,
+      "context": "10,171 people (second night)"
+    },
+    {
+      "chapter": 100,
+      "character": "8,275 people",
+      "cause": "third night",
+      "type": "unknown",
+      "loop": null,
+      "context": "8,275 people (third night)"
+    },
+    {
+      "chapter": 100,
+      "character": "7,412 people",
+      "cause": "fourth night",
+      "type": "unknown",
+      "loop": null,
+      "context": "7,412 people (fourth night)"
+    },
+    {
+      "chapter": 100,
+      "character": "23,781 people",
+      "cause": "fifth night",
+      "type": "unknown",
+      "loop": null,
+      "context": "23,781 people (fifth night)"
+    },
+    {
+      "chapter": 107,
+      "character": "Kim Gongja",
+      "cause": "simultaneous suicide by aura explosion",
+      "type": "suicide",
+      "loop": "loop-41",
+      "context": "Death King and Lady of Silver Lily (simultaneous suicide by aura explosion)"
+    },
+    {
+      "chapter": 107,
+      "character": "Academy students",
+      "cause": "killed by blood demons",
+      "type": "murder",
+      "loop": "loop-41",
+      "context": "Academy students (killed by blood demons)"
+    },
+    {
+      "chapter": 108,
+      "character": "Kim Gongja",
+      "cause": "multiple simultaneous deaths",
+      "type": "unknown",
+      "loop": "loop-43",
+      "context": "Death King and Lady of Silver Lily (multiple simultaneous deaths)"
+    },
+    {
+      "chapter": 112,
+      "character": "Kim Gongja",
+      "cause": "killed by Lady of Silver Lily at 99% immersion",
+      "type": "murder",
+      "loop": "loop-47",
+      "context": "Death King (killed by Lady of Silver Lily at 99% immersion)"
+    },
+    {
+      "chapter": 114,
+      "character": "Gongja",
+      "cause": "from Raviel's perspective, killing him",
+      "type": "unknown",
+      "loop": "loop-48",
+      "context": "Gongja (from Raviel's perspective, killing him)"
+    },
+    {
+      "chapter": 114,
+      "character": "Ganja plant",
+      "cause": "overwatered by Raviel, nearly becomes her trauma",
+      "type": "unknown",
+      "loop": "loop-48",
+      "context": "Ganja plant (overwatered by Raviel, nearly becomes her trauma)"
+    },
+    {
+      "chapter": 115,
+      "character": "Kim Gongja",
+      "cause": "from trauma reenactment, multiple times in the vision",
+      "type": "unknown",
+      "loop": "loop-50",
+      "context": "Death King (from trauma reenactment, multiple times in the vision)"
+    },
+    {
+      "chapter": 119,
+      "character": "Grand Chamberlain",
+      "cause": "adoptive father, head crushed",
+      "type": "unknown",
+      "loop": "loop-51",
+      "context": "Grand Chamberlain (adoptive father, head crushed)"
+    },
+    {
+      "chapter": 119,
+      "character": "Multiple wedding guests",
+      "cause": "killed by ghosts and hammer",
+      "type": "murder",
+      "loop": "loop-51",
+      "context": "Multiple wedding guests (killed by ghosts and hammer)"
+    },
+    {
+      "chapter": 119,
+      "character": "Kim Gongja",
+      "cause": "crushed by hammer",
+      "type": "murder",
+      "loop": "loop-51",
+      "context": "Death King (crushed by hammer)"
+    },
+    {
+      "chapter": 119,
+      "character": "Lady of Silver Lily",
+      "cause": "crushed by hammer",
+      "type": "murder",
+      "loop": "loop-51",
+      "context": "Lady of Silver Lily (crushed by hammer)"
+    },
+    {
+      "chapter": 121,
+      "character": "Ghost legion soldiers",
+      "cause": "Ghost legion soldiers",
+      "type": "unknown",
+      "loop": null,
+      "context": "Ghost legion soldiers"
+    },
+    {
+      "chapter": 122,
+      "character": "Sylvia Evanail",
+      "cause": "apostle of 'The Ox that Harvests Ruins'",
+      "type": "unknown",
+      "loop": "loop-55",
+      "context": "Sylvia Evanail (apostle of 'The Ox that Harvests Ruins')"
+    },
+    {
+      "chapter": 122,
+      "character": "Butler",
+      "cause": "already long dead, name erased",
+      "type": "unknown",
+      "loop": "loop-55",
+      "context": "Butler (already long dead, name erased)"
+    },
+    {
+      "chapter": 127,
+      "character": "Innocent child powering utopia",
+      "cause": "implied",
+      "type": "unknown",
+      "loop": null,
+      "context": "Innocent child powering utopia (implied)"
+    },
+    {
+      "chapter": 128,
+      "character": "Sacrifice Sword/Constellation",
+      "cause": "absorbed",
+      "type": "sacrifice",
+      "loop": null,
+      "context": "Sacrifice Sword/Constellation (absorbed)"
+    },
+    {
+      "chapter": 130,
+      "character": "Old man lures",
+      "cause": "monster bait",
+      "type": "unknown",
+      "loop": null,
+      "context": "Old man lures (monster bait)"
+    },
+    {
+      "chapter": 133,
+      "character": "Lefanta Aegim",
+      "cause": "first body",
+      "type": "unknown",
+      "loop": null,
+      "context": "Lefanta Aegim (first body)"
+    },
+    {
+      "chapter": 134,
+      "character": "Kim Gongja",
+      "cause": "killed by Lefanta clone",
+      "type": "murder",
+      "loop": null,
+      "context": "Death King (killed by Lefanta clone)"
+    },
+    {
+      "chapter": 137,
+      "character": "Constellation Killer",
+      "cause": "Constellation Killer's past self (Kim Yul) - suicide by jumping from rooftop",
+      "type": "suicide",
+      "loop": "loop-57",
+      "context": "Constellation Killer's past self (Kim Yul) - suicide by jumping from rooftop"
+    },
+    {
+      "chapter": 142,
+      "character": "Kim Gongja",
+      "cause": "dies and regresses",
+      "type": "unknown",
+      "loop": "loop-58",
+      "context": "Death King (dies and regresses)"
+    },
+    {
+      "chapter": 199,
+      "character": "Ssonia",
+      "cause": "natural causes, old age",
+      "type": "natural",
+      "loop": null,
+      "context": "Ssonia (natural causes, old age)"
+    },
+    {
+      "chapter": 199,
+      "character": "Uburka",
+      "cause": "shed like cicada shell",
+      "type": "unknown",
+      "loop": null,
+      "context": "Uburka's original body (shed like cicada shell)"
+    },
+    {
+      "chapter": 200,
+      "character": "Mermaid captain",
+      "cause": "eaten by killer whale",
+      "type": "murder",
+      "loop": null,
+      "context": "Mermaid captain (eaten by killer whale)"
+    },
+    {
+      "chapter": 205,
+      "character": "Black Dragon Master",
+      "cause": "flashback",
+      "type": "unknown",
+      "loop": null,
+      "context": "Black Dragon Master's father (flashback)"
+    },
+    {
+      "chapter": 212,
+      "character": "Ja Soo-jung",
+      "cause": "killed by robbers",
+      "type": "murder",
+      "loop": null,
+      "context": "Ja Soo-jung's uncle (killed by robbers)"
+    },
+    {
+      "chapter": 212,
+      "character": "Three men with uncle",
+      "cause": "also killed",
+      "type": "unknown",
+      "loop": null,
+      "context": "Three men with uncle (also killed)"
+    },
+    {
+      "chapter": 214,
+      "character": "Kim Gongja",
+      "cause": "stabbed in throat by Ja Soo-jung",
+      "type": "unknown",
+      "loop": "loop-60",
+      "context": "Kim Gongja (stabbed in throat by Ja Soo-jung)"
+    },
+    {
+      "chapter": 216,
+      "character": "Baron Citrine's vassals",
+      "cause": "beheaded by Ja Soo-jung",
+      "type": "murder",
+      "loop": null,
+      "context": "Baron Citrine's vassals (beheaded by Ja Soo-jung)"
+    },
+    {
+      "chapter": 216,
+      "character": "Ja Soo-jung",
+      "cause": "implied, killed by her",
+      "type": "murder",
+      "loop": null,
+      "context": "Ja Soo-jung's father (implied, killed by her)"
+    },
+    {
+      "chapter": 217,
+      "character": "Black Witch",
+      "cause": "stabbed by Ja Soo-jung",
+      "type": "murder",
+      "loop": null,
+      "context": "Black Witch (stabbed by Ja Soo-jung)"
+    },
+    {
+      "chapter": 217,
+      "character": "Red Nails members",
+      "cause": "various",
+      "type": "unknown",
+      "loop": null,
+      "context": "Red Nails members (various)"
+    },
+    {
+      "chapter": 217,
+      "character": "Countless humans",
+      "cause": "killed by Red Nails",
+      "type": "murder",
+      "loop": null,
+      "context": "Countless humans killed by Red Nails"
+    },
+    {
+      "chapter": 221,
+      "character": "300+ humans",
+      "cause": "eaten by Sun Heuk-sin",
+      "type": "murder",
+      "loop": null,
+      "context": "300+ humans eaten by Sun Heuk-sin"
+    },
+    {
+      "chapter": 221,
+      "character": "Thousands",
+      "cause": "eaten by Se Ah-gwi",
+      "type": "murder",
+      "loop": null,
+      "context": "Thousands eaten by Se Ah-gwi"
+    },
+    {
+      "chapter": 221,
+      "character": "Hundreds tortured/killed by Gu Se-ju",
+      "cause": "Hundreds tortured/killed by Gu Se-ju",
+      "type": "murder",
+      "loop": null,
+      "context": "Hundreds tortured/killed by Gu Se-ju"
+    },
+    {
+      "chapter": 223,
+      "character": "Nam Suk's granddaughter",
+      "cause": "whipped to death by Young Miss Baek Seol-to, 6 years ago",
+      "type": "murder",
+      "loop": null,
+      "context": "Nam Suk's granddaughter (whipped to death by Young Miss Baek Seol-to, 6 years ago)"
+    },
+    {
+      "chapter": 224,
+      "character": "Ari/Nam Suk's granddaughter",
+      "cause": "rewitnessed",
+      "type": "unknown",
+      "loop": null,
+      "context": "Ari/Nam Suk's granddaughter (rewitnessed)"
+    },
+    {
+      "chapter": 224,
+      "character": "Village civilians",
+      "cause": "burned by Dae Ha-ran",
+      "type": "murder",
+      "loop": null,
+      "context": "Village civilians burned by Dae Ha-ran"
+    },
+    {
+      "chapter": 227,
+      "character": "Kim Gongja",
+      "cause": "killed by Yoo Soo-ha in the past",
+      "type": "murder",
+      "loop": "loop-64",
+      "context": "Kim Gong-ja (killed by Yoo Soo-ha in the past)"
+    },
+    {
+      "chapter": 227,
+      "character": "Flame Emperor",
+      "cause": "killed by Kim Gong-ja in the past",
+      "type": "murder",
+      "loop": "loop-64",
+      "context": "Yoo Soo-ha (killed by Kim Gong-ja in the past)"
+    },
+    {
+      "chapter": 232,
+      "character": "Vice Guild Leader",
+      "cause": "Civil Militia",
+      "type": "unknown",
+      "loop": null,
+      "context": "Vice Guild Leader (Civil Militia)"
+    },
+    {
+      "chapter": 233,
+      "character": "Kim Gongja",
+      "cause": "past, mentioned",
+      "type": "unknown",
+      "loop": "loop-67",
+      "context": "Kim Gong-ja (past, mentioned)"
+    },
+    {
+      "chapter": 233,
+      "character": "Ja Soo-jung",
+      "cause": "past, mentioned",
+      "type": "unknown",
+      "loop": "loop-67",
+      "context": "Ja Soo-jung (past, mentioned)"
+    },
+    {
+      "chapter": 233,
+      "character": "Flame Emperor",
+      "cause": "killed by Kim Gong-ja in the past",
+      "type": "murder",
+      "loop": "loop-67",
+      "context": "Yoo Soo-ha (killed by Kim Gong-ja in the past)"
+    },
+    {
+      "chapter": 240,
+      "character": "Butler",
+      "cause": "ceased to exist in restored timeline",
+      "type": "unknown",
+      "loop": "loop-68",
+      "context": "Butler (ceased to exist in restored timeline)"
+    },
+    {
+      "chapter": 244,
+      "character": "Kim Gongja",
+      "cause": "Death King, as you promised.",
+      "type": "unknown",
+      "loop": null,
+      "context": "Death King, as you promised."
+    },
+    {
+      "chapter": 244,
+      "character": "Kim Gongja",
+      "cause": "Death King.",
+      "type": "unknown",
+      "loop": null,
+      "context": "Death King."
+    },
+    {
+      "chapter": 246,
+      "character": "Kim Gongja",
+      "cause": "Death King, why do they have physical forms?",
+      "type": "unknown",
+      "loop": null,
+      "context": "Death King, why do they have physical forms?"
+    },
+    {
+      "chapter": 247,
+      "character": "Kim Gongja",
+      "cause": "Death King.",
+      "type": "unknown",
+      "loop": null,
+      "context": "Death King."
+    },
+    {
+      "chapter": 248,
+      "character": "Kim Gongja",
+      "cause": "Is it you, Death King?",
+      "type": "unknown",
+      "loop": null,
+      "context": "Is it you, Death King?"
+    },
+    {
+      "chapter": 250,
+      "character": "Death King Family",
+      "cause": "I hope the strong Death King Family Head and the strong retrainers enjoy all the joys.",
+      "type": "unknown",
+      "loop": null,
+      "context": "I hope the strong Death King Family Head and the strong retrainers enjoy all the joys."
+    },
+    {
+      "chapter": 254,
+      "character": "Kim Gongja",
+      "cause": "Me, Death King!",
+      "type": "unknown",
+      "loop": null,
+      "context": "Me, Death King!"
+    },
+    {
+      "chapter": 254,
+      "character": "Kim Gongja",
+      "cause": "Death King!",
+      "type": "unknown",
+      "loop": null,
+      "context": "Death King!"
+    },
+    {
+      "chapter": 257,
+      "character": "Kim Gongja",
+      "cause": "Death King, it will be a revolutionary flavor.",
+      "type": "unknown",
+      "loop": "loop-76",
+      "context": "Death King, it will be a revolutionary flavor."
+    },
+    {
+      "chapter": 257,
+      "character": "Kim Gongja",
+      "cause": "Sorry, Death King.",
+      "type": "unknown",
+      "loop": "loop-76",
+      "context": "Sorry, Death King."
+    },
+    {
+      "chapter": 258,
+      "character": "Kim Gongja",
+      "cause": "Seriously Death King.",
+      "type": "unknown",
+      "loop": "loop-77",
+      "context": "Seriously Death King."
+    },
+    {
+      "chapter": 265,
+      "character": "(*:All of these end in 'to death'.",
+      "cause": "(*:All of these end in 'to death'.",
+      "type": "unknown",
+      "loop": "loop-81",
+      "context": "(*:All of these end in 'to death'."
+    },
+    {
+      "chapter": 267,
+      "character": "Kim Gongja",
+      "cause": "Do the other kids share the same opinion as the Death King?",
+      "type": "unknown",
+      "loop": null,
+      "context": "Do the other kids share the same opinion as the Death King?"
+    },
+    {
+      "chapter": 271,
+      "character": "Kim Gongja",
+      "cause": "I think I'm normal, but for other people… especially if we're not talking about the Death King, mm.",
+      "type": "unknown",
+      "loop": "loop-85",
+      "context": "I think I'm normal, but for other people… especially if we're not talking about the Death King, mm."
+    },
+    {
+      "chapter": 273,
+      "character": "Uburka",
+      "cause": "I, Uburka, even defeated death.",
+      "type": "combat",
+      "loop": null,
+      "context": "I, Uburka, even defeated death."
+    },
+    {
+      "chapter": 276,
+      "character": "Kim Gongja",
+      "cause": "Death King.",
+      "type": "unknown",
+      "loop": "loop-88",
+      "context": "Death King."
+    },
+    {
+      "chapter": 277,
+      "character": "Kim Gongja",
+      "cause": "I preferred being called young man over Death King.",
+      "type": "unknown",
+      "loop": null,
+      "context": "I preferred being called young man over Death King."
+    },
+    {
+      "chapter": 277,
+      "character": "Kim Gongja",
+      "cause": "Death King.",
+      "type": "unknown",
+      "loop": null,
+      "context": "Death King."
+    },
+    {
+      "chapter": 278,
+      "character": "Kim Gongja",
+      "cause": "Immutable number 1, Sword Saint, and the unstoppable number 2, Death King.",
+      "type": "unknown",
+      "loop": null,
+      "context": "Immutable number 1, Sword Saint, and the unstoppable number 2, Death King."
+    },
+    {
+      "chapter": 279,
+      "character": "Kim Gongja",
+      "cause": "Now, tell me, Death King.",
+      "type": "unknown",
+      "loop": null,
+      "context": "Now, tell me, Death King."
+    },
+    {
+      "chapter": 280,
+      "character": "Kim Gongja",
+      "cause": "Death King.",
+      "type": "unknown",
+      "loop": null,
+      "context": "Death King."
+    },
+    {
+      "chapter": 280,
+      "character": "Devil King",
+      "cause": "I died hundreds of times at the hands of the [ Devil King of Fall Rain].",
+      "type": "unknown",
+      "loop": null,
+      "context": "I died hundreds of times at the hands of the [ Devil King of Fall Rain]."
+    },
+    {
+      "chapter": 283,
+      "character": "Kim Gongja",
+      "cause": "Hey, Death King!",
+      "type": "unknown",
+      "loop": null,
+      "context": "Hey, Death King!"
+    },
+    {
+      "chapter": 283,
+      "character": "Kim Gongja",
+      "cause": "Death King!",
+      "type": "unknown",
+      "loop": null,
+      "context": "Death King!"
+    },
+    {
+      "chapter": 285,
+      "character": "Death King Family",
+      "cause": "Or maybe the head of that Death King Family or something.",
+      "type": "unknown",
+      "loop": null,
+      "context": "Or maybe the head of that Death King Family or something."
+    },
+    {
+      "chapter": 287,
+      "character": "Death King Family",
+      "cause": "Now, Im known as the advisor of the Death King Family!",
+      "type": "unknown",
+      "loop": null,
+      "context": "Now, Im known as the advisor of the Death King Family!"
+    },
+    {
+      "chapter": 288,
+      "character": "Kim Gongja",
+      "cause": "Ive praised the Death King several times already, but still, amazing!",
+      "type": "unknown",
+      "loop": null,
+      "context": "Ive praised the Death King several times already, but still, amazing!"
+    },
+    {
+      "chapter": 288,
+      "character": "Kim Gongja",
+      "cause": "I just came to genuinely praise the Death King.",
+      "type": "unknown",
+      "loop": null,
+      "context": "I just came to genuinely praise the Death King."
+    },
+    {
+      "chapter": 288,
+      "character": "Kim Gongja",
+      "cause": "Yay, as expected of the Death King!",
+      "type": "unknown",
+      "loop": null,
+      "context": "Yay, as expected of the Death King!"
+    },
+    {
+      "chapter": 290,
+      "character": "Death King Family",
+      "cause": "Rank 2 Hunter, Deputy Leader of the Demonic Cult, Moon of the Ivansia Family, Head of the Death King Family.",
+      "type": "unknown",
+      "loop": null,
+      "context": "Rank 2 Hunter, Deputy Leader of the Demonic Cult, Moon of the Ivansia Family, Head of the Death King Family."
+    },
+    {
+      "chapter": 290,
+      "character": "Kim Gongja",
+      "cause": "Alias, Death King.",
+      "type": "unknown",
+      "loop": null,
+      "context": "Alias, Death King."
+    },
+    {
+      "chapter": 290,
+      "character": "Kim Gongja",
+      "cause": "Lord Death King!",
+      "type": "unknown",
+      "loop": null,
+      "context": "Lord Death King!"
+    },
+    {
+      "chapter": 290,
+      "character": "Kim Gongja",
+      "cause": "Lord Death King?",
+      "type": "unknown",
+      "loop": null,
+      "context": "Lord Death King?"
+    },
+    {
+      "chapter": 291,
+      "character": "Kim Gongja",
+      "cause": "Death King will help me.",
+      "type": "unknown",
+      "loop": null,
+      "context": "Death King will help me."
+    },
+    {
+      "chapter": 292,
+      "character": "Kim Gongja",
+      "cause": "Death King, no, not as a musician.",
+      "type": "unknown",
+      "loop": "loop-90",
+      "context": "Death King, no, not as a musician."
+    },
+    {
+      "chapter": 292,
+      "character": "Kim Gongja",
+      "cause": "Death King?",
+      "type": "unknown",
+      "loop": "loop-90",
+      "context": "Death King?"
+    },
+    {
+      "chapter": 292,
+      "character": "Kim Gongja",
+      "cause": "Death King!",
+      "type": "unknown",
+      "loop": "loop-90",
+      "context": "Death King!"
+    },
+    {
+      "chapter": 292,
+      "character": "Kim Gongja",
+      "cause": "Hey, Death King.",
+      "type": "unknown",
+      "loop": "loop-90",
+      "context": "Hey, Death King."
+    },
+    {
+      "chapter": 293,
+      "character": "Kim Gongja",
+      "cause": "Yes, it seems Death King, our Rank 2 Hunter, has a positive image.",
+      "type": "unknown",
+      "loop": null,
+      "context": "Yes, it seems Death King, our Rank 2 Hunter, has a positive image."
+    },
+    {
+      "chapter": 293,
+      "character": "Kim Gongja",
+      "cause": "Welcome, Death King.",
+      "type": "unknown",
+      "loop": null,
+      "context": "Welcome, Death King."
+    },
+    {
+      "chapter": 293,
+      "character": "Kim Gongja",
+      "cause": "Youre alone now, Death King.",
+      "type": "unknown",
+      "loop": null,
+      "context": "Youre alone now, Death King."
+    },
+    {
+      "chapter": 294,
+      "character": "Kim Gongja",
+      "cause": "I knew it when they said he was the Death King!",
+      "type": "unknown",
+      "loop": null,
+      "context": "I knew it when they said he was the Death King!"
+    },
+    {
+      "chapter": 295,
+      "character": "Constellation Killer",
+      "cause": "I think Ive heard something like that  Oh dear, theres a widespread rumor that the Constellation Killer killed him!",
+      "type": "unknown",
+      "loop": null,
+      "context": "I think Ive heard something like that  Oh dear, theres a widespread rumor that the Constellation Killer killed him!"
+    },
+    {
+      "chapter": 296,
+      "character": "Bae Hu-ryeong",
+      "cause": "Regrettably, I died on the 99th floor before I could complete the grand plan  Bae Hu-ryeong chuckled.",
+      "type": "unknown",
+      "loop": null,
+      "context": "Regrettably, I died on the 99th floor before I could complete the grand plan  Bae Hu-ryeong chuckled."
+    },
+    {
+      "chapter": 302,
+      "character": "Kim Gongja",
+      "cause": "Death King?",
+      "type": "unknown",
+      "loop": null,
+      "context": "Death King?"
+    },
+    {
+      "chapter": 302,
+      "character": "Ive only killed one or two.",
+      "cause": "Ive only killed one or two.",
+      "type": "unknown",
+      "loop": null,
+      "context": "Ive only killed one or two."
+    },
+    {
+      "chapter": 302,
+      "character": "Kim Gongja",
+      "cause": "Okay, Death King.",
+      "type": "unknown",
+      "loop": null,
+      "context": "Okay, Death King."
+    },
+    {
+      "chapter": 303,
+      "character": "Kim Gongja",
+      "cause": "Death King.",
+      "type": "unknown",
+      "loop": null,
+      "context": "Death King."
+    },
+    {
+      "chapter": 304,
+      "character": "Kim Gongja",
+      "cause": "Death King.",
+      "type": "unknown",
+      "loop": "loop-91",
+      "context": "Death King."
+    },
+    {
+      "chapter": 305,
+      "character": "Kim Gongja",
+      "cause": "(Thump)  If the Death King really has a connection with the Sword Emperor, oh my!",
+      "type": "unknown",
+      "loop": null,
+      "context": "(Thump)  If the Death King really has a connection with the Sword Emperor, oh my!"
+    },
+    {
+      "chapter": 305,
+      "character": "Kim Gongja",
+      "cause": "(Dramatic)  Will the Death King rekindle the most sinister spiders heart?",
+      "type": "unknown",
+      "loop": null,
+      "context": "(Dramatic)  Will the Death King rekindle the most sinister spiders heart?"
+    },
+    {
+      "chapter": 305,
+      "character": "Kim Gongja",
+      "cause": "Support the Death King with all your might.",
+      "type": "unknown",
+      "loop": null,
+      "context": "Support the Death King with all your might."
+    },
+    {
+      "chapter": 306,
+      "character": "Kim Gongja",
+      "cause": "Death King.",
+      "type": "unknown",
+      "loop": null,
+      "context": "Death King."
+    },
+    {
+      "chapter": 306,
+      "character": "Kim Gongja",
+      "cause": "Congratulations, Death King.",
+      "type": "unknown",
+      "loop": null,
+      "context": "Congratulations, Death King."
+    },
+    {
+      "chapter": 307,
+      "character": "Kim Gongja",
+      "cause": "Are you the Death King or something?",
+      "type": "unknown",
+      "loop": "loop-92",
+      "context": "Are you the Death King or something?"
+    },
+    {
+      "chapter": 307,
+      "character": "Kim Gongja",
+      "cause": "Death King?",
+      "type": "unknown",
+      "loop": "loop-92",
+      "context": "Death King?"
+    },
+    {
+      "chapter": 308,
+      "character": "Staying quiet will just get us killed!",
+      "cause": "Staying quiet will just get us killed!",
+      "type": "unknown",
+      "loop": null,
+      "context": "Staying quiet will just get us killed!"
+    },
+    {
+      "chapter": 308,
+      "character": "Kim Gongja",
+      "cause": "Death King.",
+      "type": "unknown",
+      "loop": null,
+      "context": "Death King."
+    },
+    {
+      "chapter": 309,
+      "character": "Kim Gongja",
+      "cause": "Forgive me for once treating you lightly, Death King!",
+      "type": "unknown",
+      "loop": null,
+      "context": "Forgive me for once treating you lightly, Death King!"
+    },
+    {
+      "chapter": 309,
+      "character": "Kim Gongja",
+      "cause": "Follow Death King, the successor of the Sword Emperor.",
+      "type": "unknown",
+      "loop": null,
+      "context": "Follow Death King, the successor of the Sword Emperor."
+    },
+    {
+      "chapter": 312,
+      "character": "Kim Gongja",
+      "cause": "I, the Death King, have defeated the master of all spiders!",
+      "type": "combat",
+      "loop": null,
+      "context": "I, the Death King, have defeated the master of all spiders!"
+    },
+    {
+      "chapter": 313,
+      "character": "Kim Gongja",
+      "cause": "Death King No, Gong-ja~nim.",
+      "type": "unknown",
+      "loop": null,
+      "context": "Death King No, Gong-ja~nim."
+    },
+    {
+      "chapter": 314,
+      "character": "Im quite skilled with Aura, after all.",
+      "cause": "Im quite skilled with Aura, after all.",
+      "type": "unknown",
+      "loop": null,
+      "context": "Im quite skilled with Aura, after all."
+    },
+    {
+      "chapter": 314,
+      "character": "Kim Gongja",
+      "cause": "Please, Lord Death King, have mercy on us!",
+      "type": "unknown",
+      "loop": null,
+      "context": "Please, Lord Death King, have mercy on us!"
+    },
+    {
+      "chapter": 314,
+      "character": "Kim Gongja",
+      "cause": "Long live the Death King!",
+      "type": "unknown",
+      "loop": null,
+      "context": "Long live the Death King!"
+    },
+    {
+      "chapter": 315,
+      "character": "Kim Gongja",
+      "cause": "Or will they say, We have captured the evil Death Kings son and start filming some kind of tragic confinement drama?",
+      "type": "unknown",
+      "loop": null,
+      "context": "Or will they say, We have captured the evil Death Kings son and start filming some kind of tragic confinement drama?"
+    },
+    {
+      "chapter": 315,
+      "character": "Kim Gongja",
+      "cause": "Death King.",
+      "type": "unknown",
+      "loop": null,
+      "context": "Death King."
+    },
+    {
+      "chapter": 315,
+      "character": "Kim Gongja",
+      "cause": "Wait, Death King.",
+      "type": "unknown",
+      "loop": null,
+      "context": "Wait, Death King."
+    },
+    {
+      "chapter": 316,
+      "character": "Kim Gongja",
+      "cause": "Not me No, hes calling you, Death King.",
+      "type": "unknown",
+      "loop": null,
+      "context": "Not me No, hes calling you, Death King."
+    },
+    {
+      "chapter": 316,
+      "character": "Kim Gongja",
+      "cause": "Death King, we saw the history youve made as a god.",
+      "type": "unknown",
+      "loop": null,
+      "context": "Death King, we saw the history youve made as a god."
+    },
+    {
+      "chapter": 316,
+      "character": "Kim Gongja",
+      "cause": "Death King, do you get it?",
+      "type": "unknown",
+      "loop": null,
+      "context": "Death King, do you get it?"
+    },
+    {
+      "chapter": 317,
+      "character": "Kim Gongja",
+      "cause": "Now that you have the Death King or whatever as your backing, youre all.",
+      "type": "unknown",
+      "loop": null,
+      "context": "Now that you have the Death King or whatever as your backing, youre all."
+    },
+    {
+      "chapter": 318,
+      "character": "Kim Gongja",
+      "cause": "I hope someday a constellation will create a quest just for you Death King.",
+      "type": "unknown",
+      "loop": null,
+      "context": "I hope someday a constellation will create a quest just for you Death King."
+    },
+    {
+      "chapter": 319,
+      "character": "Kim Gongja",
+      "cause": "Are you the Death King?",
+      "type": "unknown",
+      "loop": null,
+      "context": "Are you the Death King?"
+    },
+    {
+      "chapter": 319,
+      "character": "Good death)  Cham.",
+      "cause": "Good death)  Cham.",
+      "type": "unknown",
+      "loop": null,
+      "context": "Good death)  Cham."
+    },
+    {
+      "chapter": 319,
+      "character": "Kim Gongja",
+      "cause": "Death King!",
+      "type": "unknown",
+      "loop": null,
+      "context": "Death King!"
+    },
+    {
+      "chapter": 320,
+      "character": "Kim Gongja",
+      "cause": "Um, Death King-nim.",
+      "type": "unknown",
+      "loop": null,
+      "context": "Um, Death King-nim."
+    },
+    {
+      "chapter": 320,
+      "character": "Kim Gongja",
+      "cause": "Just as I was about to say goodbye and turn around,  De-Death King-nim!",
+      "type": "unknown",
+      "loop": null,
+      "context": "Just as I was about to say goodbye and turn around,  De-Death King-nim!"
+    },
+    {
+      "chapter": 321,
+      "character": "Kim Gongja",
+      "cause": "Death King.",
+      "type": "unknown",
+      "loop": null,
+      "context": "Death King."
+    },
+    {
+      "chapter": 321,
+      "character": "Kim Gongja",
+      "cause": "Death King!",
+      "type": "unknown",
+      "loop": null,
+      "context": "Death King!"
+    },
+    {
+      "chapter": 321,
+      "character": "Kim Gongja",
+      "cause": "Please come to your senses, Death King!",
+      "type": "unknown",
+      "loop": null,
+      "context": "Please come to your senses, Death King!"
+    },
+    {
+      "chapter": 322,
+      "character": "Kim Gongja",
+      "cause": "By the standards of the Death King, they were clearly evil.",
+      "type": "unknown",
+      "loop": null,
+      "context": "By the standards of the Death King, they were clearly evil."
+    },
+    {
+      "chapter": 323,
+      "character": "Kim Gongja",
+      "cause": "]  If I were to add a joke, it might be about the essence of the Death King.",
+      "type": "unknown",
+      "loop": null,
+      "context": "]  If I were to add a joke, it might be about the essence of the Death King."
+    },
+    {
+      "chapter": 327,
+      "character": "Kim Gongja",
+      "cause": "Oh, Death King.",
+      "type": "unknown",
+      "loop": "loop-93",
+      "context": "Oh, Death King."
+    },
+    {
+      "chapter": 327,
+      "character": "Kim Gongja",
+      "cause": "No matter how much Gong-ja~nim Death King tries to search, how can you find what is not there.",
+      "type": "unknown",
+      "loop": "loop-93",
+      "context": "No matter how much Gong-ja~nim Death King tries to search, how can you find what is not there."
+    },
+    {
+      "chapter": 328,
+      "character": "Kim Gongja",
+      "cause": "Even if the Death King says he will find me, that, thats just impossible.",
+      "type": "unknown",
+      "loop": null,
+      "context": "Even if the Death King says he will find me, that, thats just impossible."
+    },
+    {
+      "chapter": 328,
+      "character": "Kim Gongja",
+      "cause": "Death King cannot find me either.",
+      "type": "unknown",
+      "loop": null,
+      "context": "Death King cannot find me either."
+    },
+    {
+      "chapter": 329,
+      "character": "Kim Gongja",
+      "cause": "Death King.",
+      "type": "unknown",
+      "loop": null,
+      "context": "Death King."
+    },
+    {
+      "chapter": 330,
+      "character": "Kim Gongja",
+      "cause": "Try to avoid it forever, Death King.",
+      "type": "unknown",
+      "loop": null,
+      "context": "Try to avoid it forever, Death King."
+    },
+    {
+      "chapter": 332,
+      "character": "Kim Gongja",
+      "cause": "Stop doing this here  Death King!",
+      "type": "unknown",
+      "loop": "loop-100",
+      "context": "Stop doing this here  Death King!"
+    },
+    {
+      "chapter": 332,
+      "character": "Kim Gongja",
+      "cause": "Death King, no, before you were given the name Death King, you were indeed lacking nothing to become my follower!",
+      "type": "unknown",
+      "loop": "loop-100",
+      "context": "Death King, no, before you were given the name Death King, you were indeed lacking nothing to become my follower!"
+    },
+    {
+      "chapter": 332,
+      "character": "Kim Gongja",
+      "cause": "Using the power of the constellation to age the Death King.",
+      "type": "unknown",
+      "loop": "loop-100",
+      "context": "Using the power of the constellation to age the Death King."
+    },
+    {
+      "chapter": 335,
+      "character": "Kim Gongja",
+      "cause": "Death King!",
+      "type": "unknown",
+      "loop": "loop-109",
+      "context": "Death King!"
+    },
+    {
+      "chapter": 336,
+      "character": "Kim Gongja",
+      "cause": "Death King.",
+      "type": "unknown",
+      "loop": null,
+      "context": "Death King."
+    },
+    {
+      "chapter": 336,
+      "character": "I killed my father.",
+      "cause": "I killed my father.",
+      "type": "unknown",
+      "loop": null,
+      "context": "I killed my father."
+    },
+    {
+      "chapter": 337,
+      "character": "Killed a lot too.",
+      "cause": "Killed a lot too.",
+      "type": "unknown",
+      "loop": "loop-110",
+      "context": "Killed a lot too."
+    },
+    {
+      "chapter": 338,
+      "character": "Kim Gongja",
+      "cause": "O, Death King.",
+      "type": "unknown",
+      "loop": null,
+      "context": "O, Death King."
+    },
+    {
+      "chapter": 339,
+      "character": "Kim Gongja",
+      "cause": "So, who willingly wants to duel with the Death King?",
+      "type": "unknown",
+      "loop": null,
+      "context": "So, who willingly wants to duel with the Death King?"
+    },
+    {
+      "chapter": 340,
+      "character": "Kim Gongja",
+      "cause": "Death King, are you really going to do something so petty?",
+      "type": "unknown",
+      "loop": null,
+      "context": "Death King, are you really going to do something so petty?"
+    },
+    {
+      "chapter": 340,
+      "character": "Kim Gongja",
+      "cause": "Death King.",
+      "type": "unknown",
+      "loop": null,
+      "context": "Death King."
+    },
+    {
+      "chapter": 340,
+      "character": "Kim Gongja",
+      "cause": "Hey, Death King!",
+      "type": "unknown",
+      "loop": null,
+      "context": "Hey, Death King!"
+    },
+    {
+      "chapter": 341,
+      "character": "Kim Gongja",
+      "cause": "Death King.",
+      "type": "unknown",
+      "loop": "loop-111",
+      "context": "Death King."
+    },
+    {
+      "chapter": 342,
+      "character": "Kim Gongja",
+      "cause": "Useless effort, Death King!",
+      "type": "unknown",
+      "loop": null,
+      "context": "Useless effort, Death King!"
+    },
+    {
+      "chapter": 343,
+      "character": "Kim Gongja",
+      "cause": "Death King!",
+      "type": "unknown",
+      "loop": null,
+      "context": "Death King!"
+    },
+    {
+      "chapter": 343,
+      "character": "Kim Gongja",
+      "cause": "Death King.",
+      "type": "unknown",
+      "loop": null,
+      "context": "Death King."
+    },
+    {
+      "chapter": 344,
+      "character": "Kim Gongja",
+      "cause": "Death King.",
+      "type": "unknown",
+      "loop": "loop-113",
+      "context": "Death King."
+    },
+    {
+      "chapter": 345,
+      "character": "Kim Gongja",
+      "cause": "Death King.",
+      "type": "unknown",
+      "loop": null,
+      "context": "Death King."
+    },
+    {
+      "chapter": 348,
+      "character": "Kim Gongja",
+      "cause": "Honestly, you, Death King, are the odd one out for challenging the upper floors without any worries.",
+      "type": "unknown",
+      "loop": "loop-115",
+      "context": "Honestly, you, Death King, are the odd one out for challenging the upper floors without any worries."
+    },
+    {
+      "chapter": 351,
+      "character": "Kim Gongja",
+      "cause": "First, record and videotape this entire conversation and show it to the Death King.",
+      "type": "unknown",
+      "loop": null,
+      "context": "First, record and videotape this entire conversation and show it to the Death King."
+    },
+    {
+      "chapter": 353,
+      "character": "Kim Gongja",
+      "cause": "Death King.",
+      "type": "unknown",
+      "loop": "loop-117",
+      "context": "Death King."
+    },
+    {
+      "chapter": 358,
+      "character": "Kim Gongja",
+      "cause": "Me I am called the Death King, the Young master of the Demonic Cult.",
+      "type": "unknown",
+      "loop": "loop-120",
+      "context": "Me I am called the Death King, the Young master of the Demonic Cult."
+    },
+    {
+      "chapter": 358,
+      "character": "Kim Gongja",
+      "cause": "Mad Warrior Death King, why do you indulge in my childishness?",
+      "type": "unknown",
+      "loop": "loop-120",
+      "context": "Mad Warrior Death King, why do you indulge in my childishness?"
+    },
+    {
+      "chapter": 359,
+      "character": "Bae Hu-ryeong",
+      "cause": "Death  Bae Hu-ryeong scratched the back of his head.",
+      "type": "unknown",
+      "loop": "loop-121",
+      "context": "Death  Bae Hu-ryeong scratched the back of his head."
+    },
+    {
+      "chapter": 360,
+      "character": "Kim Gongja",
+      "cause": "Death King.",
+      "type": "unknown",
+      "loop": null,
+      "context": "Death King."
+    },
+    {
+      "chapter": 361,
+      "character": "Kim Gongja",
+      "cause": "Death King.",
+      "type": "unknown",
+      "loop": null,
+      "context": "Death King."
+    },
+    {
+      "chapter": 362,
+      "character": "Kim Gongja",
+      "cause": "Death King.",
+      "type": "unknown",
+      "loop": "loop-122",
+      "context": "Death King."
+    },
+    {
+      "chapter": 362,
+      "character": "Flame Emperor",
+      "cause": "Yoo Soo-ha, even if he were to face death, he would never wish to be reincarnated here.",
+      "type": "unknown",
+      "loop": "loop-122",
+      "context": "Yoo Soo-ha, even if he were to face death, he would never wish to be reincarnated here."
+    },
+    {
+      "chapter": 363,
+      "character": "Kim Gongja",
+      "cause": "Please rise, Death King.",
+      "type": "unknown",
+      "loop": null,
+      "context": "Please rise, Death King."
+    },
+    {
+      "chapter": 363,
+      "character": "Kim Gongja",
+      "cause": "Death King.",
+      "type": "unknown",
+      "loop": null,
+      "context": "Death King."
+    },
+    {
+      "chapter": 363,
+      "character": "Kim Gongja",
+      "cause": "Whats important now is not the story of my work, Death King.",
+      "type": "unknown",
+      "loop": null,
+      "context": "Whats important now is not the story of my work, Death King."
+    },
+    {
+      "chapter": 364,
+      "character": "Kim Gongja",
+      "cause": "I knew, Death King.",
+      "type": "unknown",
+      "loop": null,
+      "context": "I knew, Death King."
+    },
+    {
+      "chapter": 364,
+      "character": "Kim Gongja",
+      "cause": "Death King and The Wand Of Ages, please step forward.",
+      "type": "unknown",
+      "loop": null,
+      "context": "Death King and The Wand Of Ages, please step forward."
+    },
+    {
+      "chapter": 364,
+      "character": "Kim Gongja",
+      "cause": "Looking around at the pillars, the Tower Master continued,  I know there are many here who do not favor the Death King.",
+      "type": "unknown",
+      "loop": null,
+      "context": "Looking around at the pillars, the Tower Master continued,  I know there are many here who do not favor the Death King."
+    },
+    {
+      "chapter": 364,
+      "character": "Kim Gongja",
+      "cause": "Taking care of your unrelated world, and even creating conditions for you to shine, Death King.",
+      "type": "unknown",
+      "loop": null,
+      "context": "Taking care of your unrelated world, and even creating conditions for you to shine, Death King."
+    },
+    {
+      "chapter": 366,
+      "character": "Kim Gongja",
+      "cause": "Death King.",
+      "type": "unknown",
+      "loop": null,
+      "context": "Death King."
+    },
+    {
+      "chapter": 366,
+      "character": "Kim Gongja",
+      "cause": "]  [Death King 2 votes, Abstain 0 votes, The Wand of Ages 3 votes.",
+      "type": "unknown",
+      "loop": null,
+      "context": "]  [Death King 2 votes, Abstain 0 votes, The Wand of Ages 3 votes."
+    },
+    {
+      "chapter": 366,
+      "character": "Kim Gongja",
+      "cause": "]  [Death King 2 votes, Abstain 1 vote, The Wand of Ages 2 votes.",
+      "type": "unknown",
+      "loop": null,
+      "context": "]  [Death King 2 votes, Abstain 1 vote, The Wand of Ages 2 votes."
+    },
+    {
+      "chapter": 367,
+      "character": "Kim Gongja",
+      "cause": "Death King No.",
+      "type": "unknown",
+      "loop": "loop-127",
+      "context": "Death King No."
+    },
+    {
+      "chapter": 368,
+      "character": "Kim Gongja",
+      "cause": "Death King  2nd.",
+      "type": "unknown",
+      "loop": "loop-128",
+      "context": "Death King  2nd."
+    },
+    {
+      "chapter": 368,
+      "character": "Kim Gongja",
+      "cause": "Hey, isnt that person over there  Death King, isnt it?",
+      "type": "unknown",
+      "loop": "loop-128",
+      "context": "Hey, isnt that person over there  Death King, isnt it?"
+    },
+    {
+      "chapter": 368,
+      "character": "Kim Gongja",
+      "cause": "Thats where the Death King used to be.",
+      "type": "unknown",
+      "loop": "loop-128",
+      "context": "Thats where the Death King used to be."
+    },
+    {
+      "chapter": 368,
+      "character": "Kim Gongja",
+      "cause": "Did, did the Death King die?",
+      "type": "unknown",
+      "loop": "loop-128",
+      "context": "Did, did the Death King die?"
+    },
+    {
+      "chapter": 371,
+      "character": "Kim Gongja",
+      "cause": "I could hear the journalist panicking, Death King?",
+      "type": "unknown",
+      "loop": "loop-132",
+      "context": "I could hear the journalist panicking, Death King?"
+    },
+    {
+      "chapter": 371,
+      "character": "Kim Gongja",
+      "cause": "Death King!",
+      "type": "unknown",
+      "loop": "loop-132",
+      "context": "Death King!"
+    },
+    {
+      "chapter": 372,
+      "character": "Raviel",
+      "cause": "No, from the moment I realized Raviels death, my voice only flowed quietly.",
+      "type": "unknown",
+      "loop": null,
+      "context": "No, from the moment I realized Raviels death, my voice only flowed quietly."
+    },
+    {
+      "chapter": 372,
+      "character": "Raviel",
+      "cause": "Raviel was more interested in my reaction, enraged by her death, than her own death itself.",
+      "type": "unknown",
+      "loop": null,
+      "context": "Raviel was more interested in my reaction, enraged by her death, than her own death itself."
+    },
+    {
+      "chapter": 372,
+      "character": "Kim Gongja",
+      "cause": "Ah  Whoever killed me rightly deserves to pay the price, Gong-ja.",
+      "type": "unknown",
+      "loop": null,
+      "context": "Ah  Whoever killed me rightly deserves to pay the price, Gong-ja."
+    },
+    {
+      "chapter": 377,
+      "character": "Constellation Killer",
+      "cause": "Yet, that guy just died from the flashes of light that Constellation Killer had fired.",
+      "type": "unknown",
+      "loop": null,
+      "context": "Yet, that guy just died from the flashes of light that Constellation Killer had fired."
+    },
+    {
+      "chapter": 379,
+      "character": "Kim Gongja",
+      "cause": "Kim Gong-ja does not die no matter how many times he is killed; rather, he grows stronger with each death.",
+      "type": "unknown",
+      "loop": "loop-137",
+      "context": "Kim Gong-ja does not die no matter how many times he is killed; rather, he grows stronger with each death."
+    },
+    {
+      "chapter": 388,
+      "character": "Death King Family",
+      "cause": "Retainers of the Death King Family, who took on the role of gardeners, were moving around.",
+      "type": "unknown",
+      "loop": null,
+      "context": "Retainers of the Death King Family, who took on the role of gardeners, were moving around."
+    },
+    {
+      "chapter": 388,
+      "character": "Kim Gongja",
+      "cause": "– Death King, what are you doing?",
+      "type": "unknown",
+      "loop": null,
+      "context": "– Death King, what are you doing?"
+    },
+    {
+      "chapter": 393,
+      "character": "Abandon all hope, ye who are slain by this sword….",
+      "cause": "Abandon all hope, ye who are slain by this sword….",
+      "type": "unknown",
+      "loop": "loop-149",
+      "context": "Abandon all hope, ye who are slain by this sword…."
+    },
+    {
+      "chapter": 398,
+      "character": "I almost perished!",
+      "cause": "I almost perished!",
+      "type": "unknown",
+      "loop": null,
+      "context": "I almost perished!"
+    }
+  ],
+  "stats": {
+    "totalDeaths": 252,
+    "byCharacter": {
+      "Kim Gongja": 151,
+      "Estelle": 5,
+      "Death King Family": 5,
+      "Flame Emperor": 4,
+      "Devil King": 3,
+      "Constellation Killer": 3,
+      "Ja Soo-jung": 3,
+      "Orc": 2,
+      "Murim Lord": 2,
+      "Heavenly Demon": 2,
+      "Butler": 2,
+      "Uburka": 2,
+      "Bae Hu-ryeong": 2,
+      "Raviel": 2,
+      "Saintess": 1,
+      "Top-ranking hunter": 1,
+      "King Goblin": 1,
+      "Hellfire Maiden": 1,
+      "Boss monster (head goblin)": 1,
+      "Heretic Questioner": 1,
+      "3 more hunters": 1,
+      "Count": 1,
+      "NPC soldiers and citizens terrified": 1,
+      "Count confirmed dead": 1,
+      "Sword Saint": 1,
+      "Boss monster killed instantly": 1,
+      "Under 50 hunters die": 1,
+      "Various world destructions shown": 1,
+      "Librarian": 1,
+      "50 unnamed hunters": 1,
+      "Medicine King": 1,
+      "Venomous Snake": 1,
+      "Alchemist": 1,
+      "Various unnamed people": 1,
+      "Black Dragon": 1,
+      "1 assassin": 1,
+      "3 servants": 1,
+      "4,653 people": 1,
+      "10,171 people": 1,
+      "8,275 people": 1,
+      "7,412 people": 1,
+      "23,781 people": 1,
+      "Academy students": 1,
+      "Gongja": 1,
+      "Ganja plant": 1,
+      "Grand Chamberlain": 1,
+      "Multiple wedding guests": 1,
+      "Lady of Silver Lily": 1,
+      "Ghost legion soldiers": 1,
+      "Sylvia Evanail": 1,
+      "Innocent child powering utopia": 1,
+      "Sacrifice Sword/Constellation": 1,
+      "Old man lures": 1,
+      "Lefanta Aegim": 1,
+      "Ssonia": 1,
+      "Mermaid captain": 1,
+      "Black Dragon Master": 1,
+      "Three men with uncle": 1,
+      "Baron Citrine's vassals": 1,
+      "Black Witch": 1,
+      "Red Nails members": 1,
+      "Countless humans": 1,
+      "300+ humans": 1,
+      "Thousands": 1,
+      "Hundreds tortured/killed by Gu Se-ju": 1,
+      "Nam Suk's granddaughter": 1,
+      "Ari/Nam Suk's granddaughter": 1,
+      "Village civilians": 1,
+      "Vice Guild Leader": 1,
+      "(*:All of these end in 'to death'.": 1,
+      "Ive only killed one or two.": 1,
+      "Staying quiet will just get us killed!": 1,
+      "Im quite skilled with Aura, after all.": 1,
+      "Good death)  Cham.": 1,
+      "I killed my father.": 1,
+      "Killed a lot too.": 1,
+      "Abandon all hope, ye who are slain by this sword….": 1,
+      "I almost perished!": 1
+    },
+    "byType": {
+      "murder": 41,
+      "suicide": 8,
+      "unknown": 195,
+      "combat": 4,
+      "natural": 3,
+      "sacrifice": 1
+    }
+  }
+}

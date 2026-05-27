@@ -1,0 +1,4312 @@
+{
+  "characters": [
+    {
+      "id": "adventure-league",
+      "name": "Adventure League",
+      "aliases": [],
+      "firstAppearance": 20,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Count's metamorphosis skill"
+      ]
+    },
+    {
+      "id": "alchemist",
+      "name": "Alchemist",
+      "aliases": [],
+      "firstAppearance": 13,
+      "appearances": 22,
+      "deaths": 1,
+      "status": "alive",
+      "skills": [
+        "A Regressor's Love (EX rank)",
+        "Alchemist's cure for zombie virus",
+        "Aura",
+        "Character Window (perk from Librarian)",
+        "Character Window (reveals psychological preferences)",
+        "Chi-based body control (Heavenly Demon and Murim Lord)",
+        "Heavenly Demon's final chi demonstration (mountain-cutting strike)",
+        "Holy Sword light",
+        "Holy Sword light (repels zombies)",
+        "Hundred Ghosts Reincarnation (restores 1998 zombies temporarily)",
+        "I Want To Become Just Like You",
+        "I Want To Become Just Like You (death-based skill copying)",
+        "Infernal Heavens Demonic Art",
+        "Infernal Heavens Demonic Art (A+ rank, copied by Death King)",
+        "Infernal Heavens Demonic Art (Heavenly Demon's true power revealed)",
+        "Infernal Heavens Demonic Art (demonstrated by Death King)",
+        "Infernal Heavens Demonic Art (mentioned)",
+        "Infernal Heavens Demonic Art (training begins)",
+        "Life Diagnosis",
+        "Life Diagnosis (silver card)"
+      ]
+    },
+    {
+      "id": "alchemist-as-math-teacher",
+      "name": "Alchemist (as math teacher)",
+      "aliases": [],
+      "firstAppearance": 136,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": []
+    },
+    {
+      "id": "allied-soldiers",
+      "name": "Allied soldiers",
+      "aliases": [],
+      "firstAppearance": 175,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Space Transfer Technique (Black Dragon Master)"
+      ]
+    },
+    {
+      "id": "amethyst",
+      "name": "Amethyst",
+      "aliases": [],
+      "firstAppearance": 363,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "A Music Box Only for You",
+        "A majority decision meeting is requested to the six pillars",
+        "Basement Level 1",
+        "Constellation",
+        "Goddess of Protection",
+        "Participants are being confirmed.",
+        "Playing the voice.",
+        "Sword Emperor",
+        "The Second Pillar. The God Who Dances In The Void is present.",
+        "The Snake Living in the Labyrinth",
+        "The Third Pillar. The One Who Wrote The Beginning is present.",
+        "The fifth pillar, The Lady Who Walks the Mirage is present.",
+        "The fourth pillar, The Moon Contemplating Blindness is present.",
+        "The sixth pillar, The Wand Of Ages is present.",
+        "This message does not carry any additional meaning other than playing the voice."
+      ]
+    },
+    {
+      "id": "apathetic-duke",
+      "name": "Apathetic Duke",
+      "aliases": [],
+      "firstAppearance": 217,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Guardian of the Subrace (B)",
+        "King's Tutor (B+)",
+        "Military strategy",
+        "Seduction/manipulation"
+      ]
+    },
+    {
+      "id": "apathetic-duke-lady-of-leisure",
+      "name": "Apathetic Duke (Lady of Leisure)",
+      "aliases": [],
+      "firstAppearance": 216,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "King's Tutor (B+ rank)",
+        "Madness to Insanity (A- rank)",
+        "Political strategy"
+      ]
+    },
+    {
+      "id": "arika",
+      "name": "Arika",
+      "aliases": [],
+      "firstAppearance": 187,
+      "appearances": 7,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Aura communication (writing on skin)",
+        "Aura music creation",
+        "Aura music/dance",
+        "Aura pushup demonstration",
+        "Aura voice blocking",
+        "Crisis management",
+        "Dream Appearance",
+        "Dream Appearance (multiple uses)",
+        "Emotion-through-movement technique",
+        "Flame Emperor character acting",
+        "Marketing manipulation",
+        "Marketing/promotion",
+        "Memory-based aura triggering",
+        "Opera singing (Ssonia)",
+        "Puppy eyes technique",
+        "Silent acting technique",
+        "Swi-Rak-Gur ancient language",
+        "Theater management",
+        "Theater-wide aura manipulation"
+      ]
+    },
+    {
+      "id": "arika-one-eyed-actor",
+      "name": "Arika (one-eyed actor)",
+      "aliases": [],
+      "firstAppearance": 186,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Aura flame projection",
+        "Person Possession (purchased)"
+      ]
+    },
+    {
+      "id": "audience",
+      "name": "Audience",
+      "aliases": [],
+      "firstAppearance": 190,
+      "appearances": 2,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Aura voice blocking",
+        "Crisis management",
+        "Flame Emperor character acting",
+        "Marketing manipulation",
+        "Puppy eyes technique",
+        "Swi-Rak-Gur ancient language",
+        "Theater-wide aura manipulation"
+      ]
+    },
+    {
+      "id": "babels-linguist",
+      "name": "Babel's Linguist",
+      "aliases": [],
+      "firstAppearance": 12,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": []
+    },
+    {
+      "id": "babit",
+      "name": "Babit",
+      "aliases": [],
+      "firstAppearance": 303,
+      "appearances": 2,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Assistant Writer",
+        "Berserker",
+        "Constellation",
+        "Dungeon",
+        "Hatred",
+        "I have been dying for a thousand years",
+        "I have lived for a thousand years",
+        "Obsession",
+        "Paparazzo",
+        "Pink Romantic Comedy",
+        "Possessiveness",
+        "Quest progress. The Eye Living in the Labyrinth exposes the enemys retreat routes.",
+        "Regret",
+        "The Bell that Mourns the Dead is listening to your words.",
+        "The Eye Living in the Labyrinth is listening to your words.",
+        "The Incarnation of Love and Lust",
+        "The Incarnation of Love and Lust looks troubled.",
+        "The Warhorse of the Eternal Plains",
+        "The Warhorse of the Eternal Plains orders its followers to advance!",
+        "The Whip That Descends on the Self-Abuser"
+      ]
+    },
+    {
+      "id": "babits",
+      "name": "Babits",
+      "aliases": [],
+      "firstAppearance": 303,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Assistant Writer",
+        "Berserker",
+        "Constellation",
+        "Dungeon",
+        "Hatred",
+        "I have been dying for a thousand years",
+        "I have lived for a thousand years",
+        "Obsession",
+        "Paparazzo",
+        "Pink Romantic Comedy",
+        "Possessiveness",
+        "Regret",
+        "The Bell that Mourns the Dead is listening to your words.",
+        "The Eye Living in the Labyrinth is listening to your words.",
+        "The Incarnation of Love and Lust"
+      ]
+    },
+    {
+      "id": "bae-hu-ryeong",
+      "name": "Bae Hu-ryeong",
+      "aliases": [
+        "Bae Hu-ryeong (Sword Emperor)",
+        "Bae Hu-ryeong (as father)",
+        "Bae Hu-ryeong/Sword Emperor",
+        "Sword Emperor"
+      ],
+      "firstAppearance": 7,
+      "appearances": 244,
+      "deaths": 2,
+      "status": "dead",
+      "skills": [
+        "    .",
+        "   invites you to faith.",
+        "   is your constellation.",
+        " .... ",
+        " A vibrant field of flowers in full bloom unfolds. ",
+        " At last, it's made! ",
+        " Bear our burdens! ",
+        " Can you still not tell me? ",
+        " Desire ",
+        " Despair ",
+        " Disappointment ",
+        " Entering the 95th floor. ",
+        " Every other human is just an illusion. A scarecrow. An empty can. ",
+        " Fear ",
+        " Feel for us! ",
+        " Finally forged! ",
+        " Frankly speaking, it's okay even if you fail. ",
+        " Future ",
+        " Hmm. Well, death…. ",
+        " Hope "
+      ]
+    },
+    {
+      "id": "baron-citrinehwang-soo-jung",
+      "name": "Baron Citrine/Hwang Soo-jung",
+      "aliases": [],
+      "firstAppearance": 216,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "King's Tutor (B+ rank)",
+        "Madness to Insanity (A- rank)",
+        "Political strategy"
+      ]
+    },
+    {
+      "id": "baron-gu-se-ju",
+      "name": "Baron Gu Se-ju",
+      "aliases": [],
+      "firstAppearance": 221,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "2nd Stage Ascension",
+        "Information examination spells"
+      ]
+    },
+    {
+      "id": "baron-hae-meong-sum",
+      "name": "Baron Hae Meong-sum",
+      "aliases": [],
+      "firstAppearance": 221,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "2nd Stage Ascension",
+        "Information examination spells"
+      ]
+    },
+    {
+      "id": "black-dragon-constellation",
+      "name": "Black Dragon (Constellation)",
+      "aliases": [],
+      "firstAppearance": 91,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Compassion Sword (new ability: inflicts pain without physical wounds)",
+        "Holy Sword (absorbs sister blade)"
+      ]
+    },
+    {
+      "id": "black-dragon-guild",
+      "name": "Black Dragon Guild",
+      "aliases": [],
+      "firstAppearance": 232,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": []
+    },
+    {
+      "id": "black-dragon-guild-leader-rank-2",
+      "name": "Black Dragon Guild leader (Rank 2)",
+      "aliases": [],
+      "firstAppearance": 17,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Goblin High Society (F)",
+        "I Want to be Like You (S+)",
+        "Night and Day Fire Caution (A) - copied from Hellfire Maiden",
+        "Returner's Clockwork Watch (EX)",
+        "Sword Constellation (A+)"
+      ]
+    },
+    {
+      "id": "black-dragon-master",
+      "name": "Black Dragon Master",
+      "aliases": [
+        "Black Dragon Master (as black swan)",
+        "Black Dragon Master (as class president)",
+        "Black Dragon Master (as old vampire)",
+        "Black Dragon Master (vampire)",
+        "Black Dragon Master/Anastasia",
+        "Black Dragon Witch",
+        "Dream Demon (as young Black Dragon Master)",
+        "Witch (Black Dragon Witch)"
+      ],
+      "firstAppearance": 12,
+      "appearances": 53,
+      "deaths": 1,
+      "status": "alive",
+      "skills": [
+        "A Regressor's Love (EX rank)",
+        "Animal Possession",
+        "Aura Art",
+        "Aura Art (composite art form)",
+        "Aura Civilization",
+        "Aura communication (writing on skin)",
+        "Aura flower dyeing (Black Dragon Master)",
+        "Aura inspection (medical)",
+        "Aura javelin throw",
+        "Aura manipulation",
+        "Aura music",
+        "Aura music/dance",
+        "Aura piano music (Crusader)",
+        "Aura reinforcement",
+        "Aura shield",
+        "Aura space cutting",
+        "Black Dragon Mirror",
+        "Burning Grave demonstration",
+        "Character Window (perk from Librarian)",
+        "Character Window (reveals psychological preferences)"
+      ]
+    },
+    {
+      "id": "black-witch",
+      "name": "Black Witch",
+      "aliases": [],
+      "firstAppearance": 22,
+      "appearances": 1,
+      "deaths": 1,
+      "status": "unknown",
+      "skills": [
+        "Various guild masters' combat abilities discussed",
+        "Witch's black Aura"
+      ]
+    },
+    {
+      "id": "black-witch-rank-2-black-dragon",
+      "name": "Black Witch (Rank 2, Black Dragon)",
+      "aliases": [],
+      "firstAppearance": 21,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Count's wealth/snail pouch item",
+        "Heretic Questioner's holy techniques",
+        "Lie Detection (Crusader's skill, revealed later)",
+        "Witch's mirror skills"
+      ]
+    },
+    {
+      "id": "black-witch-leader-of-red-nails",
+      "name": "Black Witch (leader of Red Nails)",
+      "aliases": [],
+      "firstAppearance": 217,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Guardian of the Subrace (B)",
+        "King's Tutor (B+)",
+        "Military strategy",
+        "Seduction/manipulation"
+      ]
+    },
+    {
+      "id": "black-witch-mentioned",
+      "name": "Black Witch (mentioned)",
+      "aliases": [],
+      "firstAppearance": 216,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "King's Tutor (B+ rank)",
+        "Madness to Insanity (A- rank)",
+        "Political strategy"
+      ]
+    },
+    {
+      "id": "blood-demon",
+      "name": "Blood Demon",
+      "aliases": [],
+      "firstAppearance": 121,
+      "appearances": 8,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "    .",
+        "   invites you to faith.",
+        "   is your constellation.",
+        "A skill has been activated.",
+        "Congratulations.",
+        "Constellation",
+        "Constellation power",
+        "Earth Bone Dragon's Box",
+        "Earth Bone Dragon's Box*",
+        "Earth Bone Dragon's Skull",
+        "Even though we're family, we don't know anything about each other",
+        "Hundred Ghosts",
+        "Hundred Ghosts Reincarnation",
+        "If we're family, why can't we do this much?",
+        "Infernal Heavens Demonic Art",
+        "Infernal Heavens Formation",
+        "Lightness Skill",
+        "Please do come to visit us!",
+        "Sacred Technique: Divine Transmission",
+        "Skill activated."
+      ]
+    },
+    {
+      "id": "bloody-demon",
+      "name": "Bloody Demon",
+      "aliases": [],
+      "firstAppearance": 91,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Compassion Sword (new ability: inflicts pain without physical wounds)",
+        "Holy Sword (absorbs sister blade)"
+      ]
+    },
+    {
+      "id": "broadcasting-club-president",
+      "name": "Broadcasting club president",
+      "aliases": [],
+      "firstAppearance": 148,
+      "appearances": 3,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": []
+    },
+    {
+      "id": "butler",
+      "name": "Butler",
+      "aliases": [],
+      "firstAppearance": 240,
+      "appearances": 1,
+      "deaths": 2,
+      "status": "unknown",
+      "skills": [
+        "Constellation power",
+        "Earth Bone Dragon's Box",
+        "Hundred Ghosts Reincarnation",
+        "Infernal Heavens Demonic Art",
+        "Time regression"
+      ]
+    },
+    {
+      "id": "chen-mu-mun",
+      "name": "Chen Mu-mun",
+      "aliases": [],
+      "firstAppearance": 20,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Count's metamorphosis skill"
+      ]
+    },
+    {
+      "id": "chief-holy-knight",
+      "name": "Chief Holy Knight",
+      "aliases": [],
+      "firstAppearance": 52,
+      "appearances": 2,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Command over summoned ghosts",
+        "Hundred Ghosts Reincarnation",
+        "Hundred Ghosts Reincarnation - 4000 skeletons",
+        "Soul Jewel - tests soul nature",
+        "Yoo Soo-ha's memory restoration"
+      ]
+    },
+    {
+      "id": "children-from-hellfire-residence",
+      "name": "Children from Hellfire Residence",
+      "aliases": [],
+      "firstAppearance": 136,
+      "appearances": 2,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": []
+    },
+    {
+      "id": "children-from-burning-mansionapostles-of-lord-of-manseng",
+      "name": "Children from burning mansion/Apostles of Lord of Manseng",
+      "aliases": [],
+      "firstAppearance": 236,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Earth Bone Dragon's Skull",
+        "Hundred Ghosts Reincarnation",
+        "Manseng",
+        "Returner's Clockwork Watch (mentioned)"
+      ]
+    },
+    {
+      "id": "civil-militia",
+      "name": "Civil Militia",
+      "aliases": [],
+      "firstAppearance": 232,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": []
+    },
+    {
+      "id": "civil-militia-guild-hr",
+      "name": "Civil Militia Guild HR",
+      "aliases": [],
+      "firstAppearance": 20,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Count's metamorphosis skill"
+      ]
+    },
+    {
+      "id": "classmates",
+      "name": "Classmates",
+      "aliases": [],
+      "firstAppearance": 149,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": []
+    },
+    {
+      "id": "compassion-sword-fragment-of-guardian-goddess",
+      "name": "Compassion Sword (fragment of Guardian Goddess)",
+      "aliases": [],
+      "firstAppearance": 91,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Compassion Sword (new ability: inflicts pain without physical wounds)",
+        "Holy Sword (absorbs sister blade)"
+      ]
+    },
+    {
+      "id": "conservative-nobles",
+      "name": "Conservative nobles",
+      "aliases": [],
+      "firstAppearance": 216,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "King's Tutor (B+ rank)",
+        "Madness to Insanity (A- rank)",
+        "Political strategy"
+      ]
+    },
+    {
+      "id": "constellation",
+      "name": "Constellation",
+      "aliases": [],
+      "firstAppearance": 243,
+      "appearances": 94,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "    .",
+        "   invites you to faith.",
+        "   is your constellation.",
+        "   uses a skill.",
+        " .... ",
+        " A vibrant field of flowers in full bloom unfolds. ",
+        " All residents from the 81st to 90th floors remember you. ",
+        " Frankly speaking, it's okay even if you fail. ",
+        " How can there be such an idiot? ",
+        " How did I get here? ",
+        " I'm glad. ",
+        " It's about time for you to leave. ",
+        " Lower your head. ",
+        " Our son, all of ours! ",
+        " That guy won't succeed at anything. ",
+        " The 91st floor is cleared. ",
+        " You are entering the 92nd floor. ",
+        " You are entering the 96th floor. ",
+        " You shouldn't become like that. ",
+        " You speak sorrowful words. "
+      ]
+    },
+    {
+      "id": "constellation-killer",
+      "name": "Constellation Killer",
+      "aliases": [
+        "Constellation Killer (flashback)",
+        "Constellation Killer (mentioned)",
+        "Constellation Killer/Kim Yul",
+        "Constellation Killer/Kim Yul (as bullied student)",
+        "Lefanta Aegim/Constellation Killer"
+      ],
+      "firstAppearance": 130,
+      "appearances": 26,
+      "deaths": 3,
+      "status": "dead",
+      "skills": [
+        "A Regressor's Love (EX rank)",
+        "Aura protection",
+        "Diary of Great Puppy (holy relic with infinite pages)",
+        "Earth Bone Dragon's Skull",
+        "Flame Emperor's regression (24 hours)",
+        "Hundred Ghosts Reincarnation",
+        "Infernal Heavens Demonic Art",
+        "Infernal Heavens Demonic Art (all 9 forms)",
+        "Infernal Heavens Demonic Art (planned reform)",
+        "Manseng",
+        "Memory sacrifice techniques (Lefanta)",
+        "Others' Heavenly Song (wizards)",
+        "Puppeteer's Parade (S-rank)",
+        "Puppeteer's Parade (mentioned)",
+        "Returner's Clockwork Watch",
+        "Returner's Clockwork Watch (mentioned)",
+        "Salvation Sword power (flashback)",
+        "Salvation of a Torn Goddess",
+        "Salvation of a Torn Goddess (A+)",
+        "Sound Transmission (Lefanta)"
+      ]
+    },
+    {
+      "id": "continents-army-commanders",
+      "name": "Continent's army commanders",
+      "aliases": [],
+      "firstAppearance": 51,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Deception/acting skills",
+        "Holy Protection Sword authority",
+        "Hundred Ghosts Reincarnation"
+      ]
+    },
+    {
+      "id": "count",
+      "name": "Count",
+      "aliases": [],
+      "firstAppearance": 6,
+      "appearances": 44,
+      "deaths": 1,
+      "status": "dead",
+      "skills": [
+        "A Regressor's Love (EX rank)",
+        "Animal Possession",
+        "Aura Civilization",
+        "Aura javelin throw",
+        "Aura reinforcement",
+        "Battlefield coordination",
+        "Character Window (perk from Librarian)",
+        "Count's metamorphosis skill",
+        "Count's wealth-based techniques",
+        "Count's wealth/snail pouch item",
+        "Crusader's Lie Detection (A-)",
+        "Detective's Insight (B-)",
+        "Detective's Insight (B-) - shows opponent's kill count",
+        "Devil King of Fall Rain reward: skip to 99th floor after killing top 10",
+        "Discernment of the Battlefield (B)",
+        "Facial Recognition Barrier Card",
+        "Giant Mode (Uburka)",
+        "Goblin High Society",
+        "Goblin High Society (F rank)",
+        "Goblin High Society (F)"
+      ]
+    },
+    {
+      "id": "count-sangryun-guild-master-rank-3",
+      "name": "Count (Sangryun Guild Master, Rank 3)",
+      "aliases": [],
+      "firstAppearance": 19,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "None new"
+      ]
+    },
+    {
+      "id": "count-ah-ru-ho",
+      "name": "Count Ah Ru-ho",
+      "aliases": [],
+      "firstAppearance": 221,
+      "appearances": 5,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "2nd Stage Ascension",
+        "Gold Dragon's Eyes (implied)",
+        "Gold Dragon's Eyes (measure emotions/suffering)",
+        "Gold Dragon's Eyes (omniscience)",
+        "Ice River Dragon's Breath (time travel to observed moments)",
+        "Ice River Dragon's Breath (verify past suffering)",
+        "Information examination spells",
+        "Leadership/charisma",
+        "Political debate",
+        "Political mastery",
+        "Psychological manipulation",
+        "Shadow/time travel manipulation"
+      ]
+    },
+    {
+      "id": "crown-prince",
+      "name": "Crown Prince",
+      "aliases": [],
+      "firstAppearance": 94,
+      "appearances": 19,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Ah, I overheard this secret from my parents",
+        "Character Window",
+        "Character Window (Death King can see psychological states)",
+        "Character Window (reveals Heretic Questioner's immersion at 90%)",
+        "Compassion Sword (inflicts pain without wounds)",
+        "Even though it ended unhappily, I cannot overlook the death of a noble who I was once engaged to.",
+        "Facial Recognition Barrier Card (destroyed)",
+        "Flame Emperor's bad attitude (teaching method)",
+        "His Majesty found out.",
+        "His Majesty the Emperor has ordered you to study abroad in another world.",
+        "Holy Sword",
+        "Hundred Ghosts",
+        "Hundred Ghosts Reincarnation",
+        "Hundred Ghosts Reincarnation (revealed to Raviel)",
+        "Hundred Ghosts Reincarnation (summons Flame Emperor)",
+        "I dont know",
+        "I heard this secret from my friend",
+        "I never thought about the future of the empire",
+        "Infernal Heavens Demonic Art",
+        "Oops! I shouldn't have said this! Card (destroyed)"
+      ]
+    },
+    {
+      "id": "crusader",
+      "name": "Crusader",
+      "aliases": [
+        "Crusader (Rank 8, Civil Militia)",
+        "Crusader (as mermaid)",
+        "Crusader (as pink dolphin)",
+        "Crusader (mermaid)"
+      ],
+      "firstAppearance": 12,
+      "appearances": 55,
+      "deaths": 0,
+      "status": "alive",
+      "skills": [
+        "A Regressor's Love (EX rank)",
+        "Animal Possession",
+        "Aura Art",
+        "Aura Art (composite art form)",
+        "Aura Civilization",
+        "Aura flower dyeing (Black Dragon Master)",
+        "Aura javelin throw",
+        "Aura manipulation",
+        "Aura music",
+        "Aura music/dance",
+        "Aura piano music (Crusader)",
+        "Aura reinforcement",
+        "Battlefield coordination",
+        "Blessing of Human God",
+        "Blessing of Merchant God",
+        "Blessing of War God",
+        "Character Window (perk from Librarian)",
+        "Count's wealth-based techniques",
+        "Count's wealth/snail pouch item",
+        "Crusader's Lie Detection"
+      ]
+    },
+    {
+      "id": "daddy",
+      "name": "Daddy",
+      "aliases": [],
+      "firstAppearance": 248,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Constellation",
+        "Silent Swordsman",
+        "The Constellation 'The Musclehead Who Dreams of Sinning Against Heaven' laments!",
+        "picked up",
+        "player",
+        "who is the craziest bastard in the area"
+      ]
+    },
+    {
+      "id": "death",
+      "name": "Death",
+      "aliases": [],
+      "firstAppearance": 290,
+      "appearances": 2,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Assistant Writer",
+        "Constellation",
+        "The Bell that Mourns the Dead cedes the decision over the prisoners to the Death King.",
+        "The Eye Living in the Labyrinth cedes the decision over the prisoners to the Death King.",
+        "The Incarnation of Love and Lust",
+        "The Incarnation of Love and Lust cedes the decision over the prisoners to the Death King.",
+        "The Lone Seeker of Truth cedes the decision over the prisoners to the Death King.",
+        "The Warhorse of the Eternal Plains",
+        "The Warhorse of the Eternal Plains cedes the decision over the prisoners to the Death King.",
+        "just for us"
+      ]
+    },
+    {
+      "id": "demon-lord",
+      "name": "Demon Lord",
+      "aliases": [],
+      "firstAppearance": 243,
+      "appearances": 12,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "1 second.",
+        "2 seconds.",
+        "3 seconds.",
+        "4 seconds.",
+        "5 seconds.",
+        "A Regressors Love",
+        "A Regressors Love (EX) activates.",
+        "A Regressors Love (EX) is activated.",
+        "A follower of The Sky That Gathers Screams is summoned.",
+        "Advisor Estelle",
+        "Aegim Empire",
+        "An apostle of The Sky That Gathers Screams manifests.",
+        "Announcing the results of the majority vote.",
+        "Apostle of the Constellation named Screaming Sky",
+        "Black Dragon Master becomes your follower.",
+        "Burning Mansion",
+        "Coming of Age Ceremony",
+        "Concealment",
+        "Constellation",
+        "Constellation Killer is annihilated."
+      ]
+    },
+    {
+      "id": "demon-lord-wolyeong",
+      "name": "Demon Lord Wolyeong",
+      "aliases": [],
+      "firstAppearance": 121,
+      "appearances": 2,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Hundred Ghosts Reincarnation",
+        "Infernal Heavens Demonic Art",
+        "Lightness Skill",
+        "Sacred Technique: Divine Transmission"
+      ]
+    },
+    {
+      "id": "demonic-buddha",
+      "name": "Demonic Buddha",
+      "aliases": [],
+      "firstAppearance": 75,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Infernal Heavens Demonic Art (training begins)"
+      ]
+    },
+    {
+      "id": "demonic-buddha-old-master",
+      "name": "Demonic Buddha (old master)",
+      "aliases": [],
+      "firstAppearance": 74,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Infernal Heavens Demonic Art (demonstrated by Death King)"
+      ]
+    },
+    {
+      "id": "demonic-buddha-old-master-flashback",
+      "name": "Demonic Buddha (old master, flashback)",
+      "aliases": [],
+      "firstAppearance": 82,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Infernal Heavens Demonic Art (all nine forms concept introduced)"
+      ]
+    },
+    {
+      "id": "demonic-cult-members",
+      "name": "Demonic Cult members",
+      "aliases": [],
+      "firstAppearance": 89,
+      "appearances": 2,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Earth Bone Dragon's Skull",
+        "Hundred Ghosts Reincarnation",
+        "Manseng",
+        "Returner's Clockwork Watch (mentioned)"
+      ]
+    },
+    {
+      "id": "demonic-cult-members-ghosts",
+      "name": "Demonic Cult members (ghosts)",
+      "aliases": [],
+      "firstAppearance": 207,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Hundred Ghosts Reincarnation",
+        "Infernal Heavens Formation"
+      ]
+    },
+    {
+      "id": "devil-king",
+      "name": "Devil King",
+      "aliases": [
+        "Devil King of Fall Rain",
+        "Preta (Devil King of Fall Rain)",
+        "Preta/Devil King of Fall Rain",
+        "Preta/Estel/Devil King of Fall Rain"
+      ],
+      "firstAppearance": 32,
+      "appearances": 42,
+      "deaths": 3,
+      "status": "dead",
+      "skills": [
+        "    .",
+        "   uses a skill.",
+        " My lord. I am one called Myo Hu-seong, and I wish to hold a lantern for you on your path…. ",
+        " You are a strong one. I pay my respects.",
+        "'I decided to climb the tower… just to please you, my fan!'",
+        "'The Sky That Gathers Screams' summons its apostle.",
+        "7 Oni Heroes",
+        "A follower of The Sky That Gathers Screams is summoned.",
+        "A mountain range has appeared in your world.",
+        "A sea has been created in your world.",
+        "Activating skill.",
+        "Advisor Estelle",
+        "Aegim Empire",
+        "Ah, this is hell",
+        "An apostle of The Sky That Gathers Screams manifests.",
+        "Announcement to all, once again.",
+        "Announcement to all.",
+        "Attack Team",
+        "Attention everyone.",
+        "Aura"
+      ]
+    },
+    {
+      "id": "director",
+      "name": "Director",
+      "aliases": [],
+      "firstAppearance": 243,
+      "appearances": 12,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "'I decided to climb the tower… just to please you, my fan!'",
+        "All actions attempting to distort your memories fail!",
+        "An objection has been raised that The Wand Of Ages is unfit as a pillar.",
+        "Authority to Leave the Tower",
+        "Coming of Age Ceremony",
+        "Confirmation impossible.",
+        "Confirmation is requested from Zrakua.",
+        "Constellation",
+        "Delegates are being assigned to your world.",
+        "Doctrine of the White Lion",
+        "Earth Bone Dragon's Box",
+        "Earth Bone Dragon's Box*",
+        "Even if I erase my memories, I won't forget that I was abandoned by the world",
+        "Even though we're family, we don't know anything about each other",
+        "Failed.",
+        "Friend",
+        "From now on, the Garden of Withered Flowers is the Sanctuary of The Sky That Gathers Screams.",
+        "God will always intervene when it's necessary",
+        "He's not? Is he really alive?",
+        "Hundred Ghosts"
+      ]
+    },
+    {
+      "id": "doorkeeper",
+      "name": "Doorkeeper",
+      "aliases": [],
+      "firstAppearance": 19,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "None new"
+      ]
+    },
+    {
+      "id": "dragon-emperor-mentioned",
+      "name": "Dragon Emperor (mentioned)",
+      "aliases": [],
+      "firstAppearance": 215,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Animal Road ( trauma penalty level)",
+        "Blessing of the Lord of Manseng",
+        "Dragon Pressure",
+        "Lord of Manseng's authority",
+        "Manseng (萬生) - original trauma skill"
+      ]
+    },
+    {
+      "id": "dragoon-unit-captain",
+      "name": "Dragoon Unit Captain",
+      "aliases": [],
+      "firstAppearance": 52,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Hundred Ghosts Reincarnation",
+        "Soul Jewel - tests soul nature"
+      ]
+    },
+    {
+      "id": "dream-demon",
+      "name": "Dream Demon",
+      "aliases": [],
+      "firstAppearance": 209,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Item Storage (Black Dragon Master)",
+        "Returner's Clockwork Watch"
+      ]
+    },
+    {
+      "id": "dream-demon-as-young-anastasia",
+      "name": "Dream Demon (as young Anastasia)",
+      "aliases": [],
+      "firstAppearance": 208,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Aura space cutting",
+        "Hundred Ghosts Reincarnation"
+      ]
+    },
+    {
+      "id": "dream-demons",
+      "name": "Dream Demons",
+      "aliases": [],
+      "firstAppearance": 204,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Aura communication (writing on skin)",
+        "Dream Appearance (multiple uses)"
+      ]
+    },
+    {
+      "id": "duke",
+      "name": "Duke",
+      "aliases": [],
+      "firstAppearance": 273,
+      "appearances": 10,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "'Unnamed World -30-1316782' is officially registered.",
+        "A Regressors Love",
+        "A Regressors Love (EX) is activated.",
+        "Alchemist",
+        "All characters belonging to The Tower are granted the right to vote.",
+        "Changing the quests for the 48th and 49th floors.",
+        "Constellation",
+        "Currently.",
+        "Death King(X) Liar King(O)",
+        "Duke Ivansia",
+        "Duke Ivansias wife",
+        "Earth's Traitor – Puppet of Sormwyn",
+        "Editing the conquest videos from the 30th to the 47th floors.",
+        "Everyone, there's no need to rush, the Death King will soon return to your side...",
+        "Golden Newspaper Guild",
+        "His Majesty found out.",
+        "His Majesty the Emperor has ordered you to study abroad in another world.",
+        "Infernal Heavens Formation",
+        "Information on the current stage is revealed to you.",
+        "Instant Transfer"
+      ]
+    },
+    {
+      "id": "earth-bone-dragon-mentioned",
+      "name": "Earth Bone Dragon (mentioned)",
+      "aliases": [],
+      "firstAppearance": 218,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Earth Bone Dragon's Skull (SSS+) - memory archiving box",
+        "Gold Dragon's Gaze (EX) - liberates instinct, reveals essence",
+        "Ice River Dragon's Breath (EX) - time control",
+        "Instinct (Gold Dragon's unique power)"
+      ]
+    },
+    {
+      "id": "elf-ranger-captain",
+      "name": "Elf Ranger Captain",
+      "aliases": [],
+      "firstAppearance": 52,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Hundred Ghosts Reincarnation",
+        "Soul Jewel - tests soul nature"
+      ]
+    },
+    {
+      "id": "elf-fighter",
+      "name": "Elf fighter",
+      "aliases": [],
+      "firstAppearance": 177,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Greatsword throwing technique",
+        "Shibal Aura Training Method"
+      ]
+    },
+    {
+      "id": "emperor",
+      "name": "Emperor",
+      "aliases": [],
+      "firstAppearance": 241,
+      "appearances": 86,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "    .",
+        "   invites you to faith.",
+        "   is your constellation.",
+        " .... ",
+        " A vibrant field of flowers in full bloom unfolds. ",
+        " Activating Unparalleled Under Heaven. ",
+        " Ah, this is called a 'hammer'… It makes it easy to pound metal. ",
+        " All residents from the 81st to 90th floors remember you. ",
+        " An item of immeasurable grade! ",
+        " Can you still not tell me? ",
+        " Cancelling the activation of Unparalleled Under Heaven. ",
+        " Congratulations! ",
+        " Frankly speaking, it's okay even if you fail. ",
+        " Hammer? What is that? ",
+        " Hmm. Well, death…. ",
+        " How can there be such an idiot? ",
+        " How did I get here? ",
+        " Lower your head. ",
+        " My lord. I am one called Myo Hu-seong, and I wish to hold a lantern for you on your path…. ",
+        " No, suddenly, I thought that I could fail around the 99th floor as well. "
+      ]
+    },
+    {
+      "id": "estelle",
+      "name": "Estelle",
+      "aliases": [
+        "Estelle (Devil King's true form)",
+        "Fallen Constellation (Estelle)",
+        "Preta/Estelle/Devil King of Fall Rain"
+      ],
+      "firstAppearance": 41,
+      "appearances": 43,
+      "deaths": 5,
+      "status": "alive",
+      "skills": [
+        " .... ",
+        " All residents from the 81st to 90th floors remember you. ",
+        " Frankly speaking, it's okay even if you fail. ",
+        " How can there be such an idiot? ",
+        " How did I get here? ",
+        " My lord. I am one called Myo Hu-seong, and I wish to hold a lantern for you on your path…. ",
+        " That guy won't succeed at anything. ",
+        " The 91st floor is cleared. ",
+        " You are a strong one. I pay my respects.",
+        " You are entering the 92nd floor. ",
+        " You shouldn't become like that. ",
+        "'I decided to climb the tower… just to please you, my fan!'",
+        "'The Lady Who Walks Through the Mirage' acknowledges the Death King's forfeiture!",
+        "'The Sky That Gathers Screams' summons its apostle.",
+        "1. Would you like to first acquire the skill of the enemy that killed you?",
+        "2. Would you like to first materialize the trauma of the enemy that killed you?",
+        "7 Oni Heroes",
+        "A Music Box Only for You",
+        "A Regressors Love",
+        "A Regressors Love (EX) is activated."
+      ]
+    },
+    {
+      "id": "evangelist-of-everlasting-happiness",
+      "name": "Evangelist of Everlasting Happiness",
+      "aliases": [],
+      "firstAppearance": 126,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Aura reinforcement",
+        "Mirror magic (Black Dragon Master)",
+        "Sacred Technique: Devotion (Heretic Questioner)",
+        "Sacred Technique: Transmission (Heretic Questioner)",
+        "Teleport (Black Dragon Master)"
+      ]
+    },
+    {
+      "id": "evangelist-of-everlasting-happinesssacrifice-sword",
+      "name": "Evangelist of Everlasting Happiness/Sacrifice Sword",
+      "aliases": [],
+      "firstAppearance": 127,
+      "appearances": 2,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Hundred Ghosts Reincarnation",
+        "Hundred Ghosts Reincarnation (proposed as prison system)",
+        "Infernal Heavens Demonic Art First Form: Sword of Starvation",
+        "Mirror reflection amplification (Black Dragon Master)"
+      ]
+    },
+    {
+      "id": "fallen-constellation",
+      "name": "Fallen Constellation",
+      "aliases": [],
+      "firstAppearance": 50,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Hundred Ghosts Reincarnation confirmed to work on NPCs"
+      ]
+    },
+    {
+      "id": "flame-emperor",
+      "name": "Flame Emperor",
+      "aliases": [
+        "Dream Demon (as Flame Emperor)",
+        "Flame Emperor (Yoo Soo-ha)",
+        "Flame Emperor (Yoo Sooha, summoned ghost)",
+        "Flame Emperor (ghost)",
+        "Flame Emperor (mentioned)",
+        "Flame Emperor/Yoo Sooha (as brother)",
+        "Yoo Soo-ha",
+        "Yoo Soo-ha (Flame Emperor, summoned ghost)",
+        "Yoo Soo-ha/Flame Emperor",
+        "Yoo Soo-ha/Flame Emperor (VR flashback)",
+        "Yoo Sooha",
+        "Yoo Sooha/Flame Emperor (as brother)"
+      ],
+      "firstAppearance": 1,
+      "appearances": 64,
+      "deaths": 4,
+      "status": "dead",
+      "skills": [
+        "    .",
+        "   uses a skill.",
+        " .... ",
+        " All the Apostles you recruited have offered their sincere prayers to you. ",
+        " Entering Floor 93. ",
+        " Floor 92 has been cleared! ",
+        " Frankly speaking, it's okay even if you fail. ",
+        " How can there be such an idiot? ",
+        " How did I get here? ",
+        " Key formation complete. ",
+        " That guy won't succeed at anything. ",
+        " You shouldn't become like that. ",
+        "'I decided to climb the tower… just to please you, my fan!'",
+        "'The Lady Who Walks Through the Mirage' acknowledges the Death King's forfeiture!",
+        "A Constellation secretly watching the story is appalled.",
+        "A Music Box Only for You",
+        "A Music Box Only for You manifests its power.",
+        "A Regressors Love",
+        "Advisor Estelle",
+        "Aegim Empire"
+      ]
+    },
+    {
+      "id": "flame-ghost-demon",
+      "name": "Flame Ghost Demon",
+      "aliases": [],
+      "firstAppearance": 121,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Hundred Ghosts Reincarnation",
+        "Infernal Heavens Demonic Art",
+        "Lightness Skill",
+        "Sacred Technique: Divine Transmission"
+      ]
+    },
+    {
+      "id": "flower-of-high-society",
+      "name": "Flower of High Society",
+      "aliases": [],
+      "firstAppearance": 241,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Ah, I overheard this secret from my parents",
+        "I heard this secret from my friend",
+        "I never thought about the future of the empire",
+        "regressor",
+        "secret note",
+        "secret order from an enemy country"
+      ]
+    },
+    {
+      "id": "former-viscount-se-ah-gwi",
+      "name": "Former Viscount Se Ah-gwi",
+      "aliases": [],
+      "firstAppearance": 221,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "2nd Stage Ascension",
+        "Information examination spells"
+      ]
+    },
+    {
+      "id": "four-demon-lords",
+      "name": "Four Demon Lords",
+      "aliases": [],
+      "firstAppearance": 89,
+      "appearances": 12,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "1 second.",
+        "2 seconds.",
+        "3 seconds.",
+        "4 seconds.",
+        "5 seconds.",
+        "A Regressors Love",
+        "A Regressors Love (EX) activates.",
+        "A Regressors Love (EX) is activated.",
+        "A follower of The Sky That Gathers Screams is summoned.",
+        "Advisor Estelle",
+        "Aegim Empire",
+        "An apostle of The Sky That Gathers Screams manifests.",
+        "Announcing the results of the majority vote.",
+        "Apostle of the Constellation named Screaming Sky",
+        "Black Dragon Master becomes your follower.",
+        "Burning Mansion",
+        "Coming of Age Ceremony",
+        "Concealment",
+        "Constellation",
+        "Constellation Killer is annihilated."
+      ]
+    },
+    {
+      "id": "four-demon-lords-as-four-heavenly-kings",
+      "name": "Four Demon Lords (as Four Heavenly Kings)",
+      "aliases": [],
+      "firstAppearance": 136,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": []
+    },
+    {
+      "id": "four-demon-lords-ghosts",
+      "name": "Four Demon Lords (ghosts)",
+      "aliases": [],
+      "firstAppearance": 207,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Hundred Ghosts Reincarnation",
+        "Infernal Heavens Formation"
+      ]
+    },
+    {
+      "id": "general-sarbast",
+      "name": "General Sarbast",
+      "aliases": [],
+      "firstAppearance": 52,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Hundred Ghosts Reincarnation",
+        "Soul Jewel - tests soul nature"
+      ]
+    },
+    {
+      "id": "general-sarbast-aegim",
+      "name": "General Sarbast Aegim",
+      "aliases": [],
+      "firstAppearance": 24,
+      "appearances": 4,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Blessing of Human God",
+        "Blessing of Merchant God",
+        "Blessing of War God",
+        "Deception/acting skills",
+        "Discernment of the Battlefield (B)",
+        "Goblin High Society (F)",
+        "Holy Protection Sword (Legendary)",
+        "Holy Protection Sword authority",
+        "Hundred Ghosts Reincarnation"
+      ]
+    },
+    {
+      "id": "gerkesa-goblin-warrior",
+      "name": "Gerkesa (goblin warrior)",
+      "aliases": [],
+      "firstAppearance": 176,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Race Evolution (hobgoblin form)"
+      ]
+    },
+    {
+      "id": "ghost-flame-demon",
+      "name": "Ghost Flame Demon",
+      "aliases": [],
+      "firstAppearance": 239,
+      "appearances": 2,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Constellation power",
+        "Earth Bone Dragon's Box",
+        "Earth Bone Dragon's Skull",
+        "Hundred Ghosts Reincarnation",
+        "Infernal Heavens Demonic Art",
+        "Time regression"
+      ]
+    },
+    {
+      "id": "girlfriend",
+      "name": "Girlfriend",
+      "aliases": [],
+      "firstAppearance": 148,
+      "appearances": 2,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": []
+    },
+    {
+      "id": "girlfriend-student-council-president",
+      "name": "Girlfriend (student council president)",
+      "aliases": [],
+      "firstAppearance": 147,
+      "appearances": 2,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": []
+    },
+    {
+      "id": "goblin-warriors",
+      "name": "Goblin warriors",
+      "aliases": [],
+      "firstAppearance": 176,
+      "appearances": 4,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Aura Civilization",
+        "Aura javelin throw",
+        "Giant Mode (Uburka)",
+        "Greatsword throwing technique",
+        "Muscle-based hostility detection",
+        "Race Evolution (hobgoblin form)",
+        "River Sitting Technique",
+        "Shibal Aura Training Method"
+      ]
+    },
+    {
+      "id": "goblins",
+      "name": "Goblins",
+      "aliases": [],
+      "firstAppearance": 160,
+      "appearances": 7,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Aura transfer/teaching",
+        "Dream Appearance",
+        "Fire Painting (art form)",
+        "Four Swords Style (snail)",
+        "Guru Doctrine (religion)",
+        "Infernal Heavens Demonic Art - First Form: The Burning Young Sword",
+        "Legacy of Records (E rank)",
+        "Oracle Message",
+        "Primitive Fashionista (E rank)",
+        "Red aura manipulation",
+        "Sacred Transformation Technique (Heretic Questioner)",
+        "Shibal Aura Training Method (origin)"
+      ]
+    },
+    {
+      "id": "goddess-npc",
+      "name": "Goddess NPC",
+      "aliases": [],
+      "firstAppearance": 23,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Heretic Questioner's Holy Technique: Inner God",
+        "Sword Saint's blue Aura sword technique"
+      ]
+    },
+    {
+      "id": "goddess-of-protection-holy-sword",
+      "name": "Goddess of Protection (Holy Sword)",
+      "aliases": [],
+      "firstAppearance": 56,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Detective's Insight (B-) - destroyed by Sword Saint",
+        "Holy Sword reveals she's Goddess of Protection"
+      ]
+    },
+    {
+      "id": "goddess-of-protection-idol",
+      "name": "Goddess of Protection (Idol)",
+      "aliases": [],
+      "firstAppearance": 57,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": []
+    },
+    {
+      "id": "gold-dragon-emperor",
+      "name": "Gold Dragon Emperor",
+      "aliases": [],
+      "firstAppearance": 218,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Earth Bone Dragon's Skull (SSS+) - memory archiving box",
+        "Gold Dragon's Gaze (EX) - liberates instinct, reveals essence",
+        "Ice River Dragon's Breath (EX) - time control",
+        "Instinct (Gold Dragon's unique power)"
+      ]
+    },
+    {
+      "id": "golden-silk",
+      "name": "Golden Silk",
+      "aliases": [],
+      "firstAppearance": 135,
+      "appearances": 2,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": []
+    },
+    {
+      "id": "gong",
+      "name": "Gong",
+      "aliases": [],
+      "firstAppearance": 243,
+      "appearances": 2,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Constellation",
+        "Earth Bone Dragon's Box",
+        "Earth Bone Dragon's Box*",
+        "Even though we're family, we don't know anything about each other",
+        "Hundred Ghosts",
+        "Hundred Ghosts Reincarnation",
+        "If we're family, why can't we do this much?",
+        "Infernal Heavens Demonic Art",
+        "Infernal Heavens Formation",
+        "Shiny announces that it and Venomous Snake have decided to date.",
+        "Shiny declares it will speak.",
+        "Skill activated.",
+        "The Apostle of 'The Ox that Harvests Ruins' has manifested!",
+        "The Constellation 'The Musclehead Who Dreams of Sinning Against Heaven' threatens you.",
+        "The Earth Bone Dragon's Box has been activated.",
+        "The Earth Bone Dragon's Box has been completed.",
+        "family"
+      ]
+    },
+    {
+      "id": "gorke",
+      "name": "Gorke",
+      "aliases": [],
+      "firstAppearance": 167,
+      "appearances": 5,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Animal Possession",
+        "Aura transfer/teaching",
+        "Competitive Spirit trait (new)",
+        "Dream Appearance",
+        "Four Swords Style (snail)",
+        "Four Swords Style analysis",
+        "Infernal Heavens Demonic Art",
+        "Oracle Message",
+        "Oracle Message (purchased 40 times)",
+        "Prey Search",
+        "Shibal Aura Training Method (origin)"
+      ]
+    },
+    {
+      "id": "gray-haired-servant",
+      "name": "Gray-haired servant",
+      "aliases": [],
+      "firstAppearance": 102,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Facial Recognition Barrier Card (destroyed)",
+        "Oops! I shouldn't have said this! Card (destroyed)",
+        "What a coincidence! Overhearing crucial secrets! Card (destroyed)"
+      ]
+    },
+    {
+      "id": "guard-at-bell-tower",
+      "name": "Guard at bell tower",
+      "aliases": [],
+      "firstAppearance": 56,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Detective's Insight (B-) - destroyed by Sword Saint",
+        "Holy Sword reveals she's Goddess of Protection"
+      ]
+    },
+    {
+      "id": "guardian-goddess",
+      "name": "Guardian Goddess",
+      "aliases": [],
+      "firstAppearance": 130,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Aura protection",
+        "Salvation Sword power (flashback)",
+        "Sound Transmission (Lefanta)"
+      ]
+    },
+    {
+      "id": "gyari-deceased-goblin-warrior",
+      "name": "Gyari (deceased goblin warrior)",
+      "aliases": [],
+      "firstAppearance": 166,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Fire Painting (art form)",
+        "Guru Doctrine (religion)",
+        "Red aura manipulation"
+      ]
+    },
+    {
+      "id": "hamustra",
+      "name": "Hamustra",
+      "aliases": [],
+      "firstAppearance": 241,
+      "appearances": 32,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "    .",
+        "   is your constellation.",
+        "'I decided to climb the tower… just to please you, my fan!'",
+        "2-dimensional plane",
+        "A Dog of Flanders",
+        "A Member of the Magic Tower",
+        "A Music Box Only for You",
+        "A Music Box Only for You groans from a deep wound.",
+        "A Music Box Only for You manifests its power.",
+        "A Regressors Love",
+        "A certain skill is affecting you.",
+        "A few constellations feel fear towards an unknown entity.",
+        "A skill has been activated.",
+        "About that summer incident.",
+        "After all, Im not the protagonist of this story",
+        "Ah, I overheard this secret from my parents",
+        "An Honorary Member of the Magic Tower",
+        "Apostle of the Constellation named Screaming Sky",
+        "Approved.",
+        "Assistant Writer"
+      ]
+    },
+    {
+      "id": "heavenly-demon",
+      "name": "Heavenly Demon",
+      "aliases": [
+        "Heavenly Demon (So Baek-hyang)",
+        "Heavenly Demon (dying)",
+        "Heavenly Demon (young So Baek-hyang)",
+        "Heavenly Demon/Director"
+      ],
+      "firstAppearance": 66,
+      "appearances": 24,
+      "deaths": 2,
+      "status": "alive",
+      "skills": [
+        "Alchemist's cure for zombie virus",
+        "Aura",
+        "Chi-based body control (Heavenly Demon and Murim Lord)",
+        "Flame Emperor's regression (24 hours)",
+        "Heavenly Demon's final chi demonstration (mountain-cutting strike)",
+        "Holy Sword light",
+        "Holy Sword light (repels zombies)",
+        "Hundred Ghosts Reincarnation (restores 1998 zombies temporarily)",
+        "I Want To Become Just Like You",
+        "Infernal Heavens Demonic Art",
+        "Infernal Heavens Demonic Art (A+ rank, copied by Death King)",
+        "Infernal Heavens Demonic Art (First through Fourth Forms)",
+        "Infernal Heavens Demonic Art (Heavenly Demon's true power revealed)",
+        "Infernal Heavens Demonic Art (all nine forms concept introduced)",
+        "Infernal Heavens Demonic Art (all nine forms, especially ninth: Sword of Freezing)",
+        "Infernal Heavens Demonic Art (demonstrated by Death King)",
+        "Infernal Heavens Demonic Art (first form - Sword of Starvation)",
+        "Infernal Heavens Demonic Art (mentioned)",
+        "Infernal Heavens Demonic Art (multiple forms)",
+        "Infernal Heavens Demonic Art (training begins)"
+      ]
+    },
+    {
+      "id": "hellfire-maiden-real-dollorigin-story",
+      "name": "Hellfire Maiden (real doll/origin story)",
+      "aliases": [],
+      "firstAppearance": 18,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Night and Day Fire Caution (A) - fire immunity"
+      ]
+    },
+    {
+      "id": "heretic-questioner",
+      "name": "Heretic Questioner",
+      "aliases": [
+        "Heretic Questioner (Rank 4, Ten Thousand Temple)",
+        "Heretic Questioner (as Lady of Golden Silk)",
+        "Heretic Questioner (as golden hound)",
+        "Heretic Questioner (as hound)",
+        "Heretic Questioner (as schoolmate)",
+        "Heretic Questioner/Bambolina",
+        "Heretic Questioner/Ten Thousand Temple Master"
+      ],
+      "firstAppearance": 12,
+      "appearances": 62,
+      "deaths": 1,
+      "status": "alive",
+      "skills": [
+        "A Regressor's Love (EX rank)",
+        "Animal Possession",
+        "Aura reinforcement",
+        "Aura shield",
+        "Battlefield coordination",
+        "Black Dragon Mirror",
+        "Character Window",
+        "Character Window (Death King can see psychological states)",
+        "Character Window (perk from Librarian)",
+        "Character Window (reveals Heretic Questioner's immersion at 90%)",
+        "Character Window (reveals psychological preferences)",
+        "Compassion Sword (inflicts pain without wounds)",
+        "Compassion Sword (pain without wounds)",
+        "Count's wealth-based techniques",
+        "Count's wealth/snail pouch item",
+        "Crusader's Lie Detection (A-)",
+        "Detective's Insight (B-)",
+        "Detective's Insight (B-) - shows opponent's kill count",
+        "Devil King of Fall Rain reward: skip to 99th floor after killing top 10",
+        "Devil King's red rain summoning"
+      ]
+    },
+    {
+      "id": "his-highness-the-crown-prince",
+      "name": "His Highness the Crown Prince",
+      "aliases": [],
+      "firstAppearance": 241,
+      "appearances": 3,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Ah, I overheard this secret from my parents",
+        "His Majesty found out.",
+        "His Majesty the Emperor has ordered you to study abroad in another world.",
+        "Hundred Ghosts",
+        "I heard this secret from my friend",
+        "I never thought about the future of the empire",
+        "Skill activated!",
+        "Student ID",
+        "The Corner Librarian",
+        "You begged the nobles to please hide you.",
+        "regressor",
+        "secret note",
+        "secret order from an enemy country",
+        "secretly hid you here,",
+        "this kind of love"
+      ]
+    },
+    {
+      "id": "his-majesty-the-emperor",
+      "name": "His Majesty the Emperor",
+      "aliases": [],
+      "firstAppearance": 241,
+      "appearances": 2,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Ah, I overheard this secret from my parents",
+        "His Majesty found out.",
+        "His Majesty the Emperor has ordered you to study abroad in another world.",
+        "I heard this secret from my friend",
+        "I never thought about the future of the empire",
+        "Student ID",
+        "The Corner Librarian",
+        "You begged the nobles to please hide you.",
+        "regressor",
+        "secret note",
+        "secret order from an enemy country",
+        "secretly hid you here,"
+      ]
+    },
+    {
+      "id": "hungry-ghost-ghost",
+      "name": "Hungry Ghost (ghost)",
+      "aliases": [],
+      "firstAppearance": 207,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Hundred Ghosts Reincarnation",
+        "Infernal Heavens Formation"
+      ]
+    },
+    {
+      "id": "hunters",
+      "name": "Hunters",
+      "aliases": [],
+      "firstAppearance": 134,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": []
+    },
+    {
+      "id": "ice-river-dragon-mentioned",
+      "name": "Ice River Dragon (mentioned)",
+      "aliases": [],
+      "firstAppearance": 218,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Earth Bone Dragon's Skull (SSS+) - memory archiving box",
+        "Gold Dragon's Gaze (EX) - liberates instinct, reveals essence",
+        "Ice River Dragon's Breath (EX) - time control",
+        "Instinct (Gold Dragon's unique power)"
+      ]
+    },
+    {
+      "id": "if",
+      "name": "If",
+      "aliases": [],
+      "firstAppearance": 373,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "regressor"
+      ]
+    },
+    {
+      "id": "ja-soo-jung",
+      "name": "Ja Soo-jung",
+      "aliases": [
+        "Ja Soo-jung (Side Story version)",
+        "Ja Soo-jung (Tower Master amnesiac form)",
+        "Ja Soo-jung/Baron Amethyst",
+        "Ja Soo-jung/Tower Master",
+        "Ja Soo-jung/Tower Master (as pedestrian)",
+        "Ja Soo-jung/Tower Master (discussed)",
+        "Ja Soo-jung/Tower Master/Viscount Ja Soo-jung",
+        "Ja Soo-jung/Tower Master/Viscount/Manager",
+        "Ja Soo-jung/Tower Master/Viscount/Manager/Advisor",
+        "Ja Soo-jung/Viscount",
+        "Ja Soo-jung/Viscount Amethyst",
+        "Lord of Manseng/Tower Master (Ja Soo-jung awakened form)",
+        "Viscount Ja Soo-jung"
+      ],
+      "firstAppearance": 211,
+      "appearances": 37,
+      "deaths": 3,
+      "status": "alive",
+      "skills": [
+        "'The Lady Who Walks Through the Mirage' acknowledges the Death King's forfeiture!",
+        "'The Lady Who Walks Through the Mirage' is manifesting.",
+        "'The Lady Who Walks Through the Mirage' is shocked.",
+        "'The Lady Who Walks Through the Mirage' praises you.",
+        "'The Lady Who Walks Through the Mirage' shakes her head.",
+        "2nd Stage Ascension",
+        "7 Oni Heroes",
+        "Advisor Estelle",
+        "Aegim Empire",
+        "Ah, I overheard this secret from my parents",
+        "Animal Road ( trauma penalty level)",
+        "Aura",
+        "Aura shield",
+        "Aura-enhanced eyesight",
+        "Black Dragon Mirror",
+        "Blessing of the Lord of Manseng",
+        "Burning Mansion",
+        "Card Summon",
+        "Consciousness-Acceleration (time dilation thinking)",
+        "Consciousness-Acceleration spell"
+      ]
+    },
+    {
+      "id": "karajan-vampire-commander",
+      "name": "Karajan (vampire commander)",
+      "aliases": [],
+      "firstAppearance": 176,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Race Evolution (hobgoblin form)"
+      ]
+    },
+    {
+      "id": "kekerkker",
+      "name": "Kekerkker",
+      "aliases": [],
+      "firstAppearance": 268,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Chain layers in progress.",
+        "Every race has learned the secret of their god!",
+        "Forcibly entering the 40th Floor.",
+        "I have to go there and talk personally",
+        "Quest Complete.",
+        "Stage Clear.",
+        "The 40th Floor Quest will be shown!",
+        "The Icon of the Snail Race",
+        "They're not god",
+        "You have cleared the 39th Floor.",
+        "conversation",
+        "her own failure",
+        "personal communication",
+        "the person who was the best at fighting"
+      ]
+    },
+    {
+      "id": "kim-gongja",
+      "name": "Kim Gongja",
+      "aliases": [
+        "Death King",
+        "Death King (Kim Gongja)",
+        "Gong-ja",
+        "Kim Gong-ja",
+        "Kim Gong-ja/Death King",
+        "Kim Gong-ja/Death King/Mr. Gong-ja",
+        "Kim Gongja/Death King",
+        "Kim Gongja/Death King (as Baron Gu Won-ha)",
+        "Kim Gongja/Death King (as Hwang Eunseo)",
+        "Kim Gongja/Death King (as Ssonia)",
+        "Kim Gongja/Death King (as Ssonia/Flame Emperor)",
+        "Kim Gongja/Death King (as lion)",
+        "Kim Gongja/Death King (as white lion)",
+        "Kim Gongja/Death King (observing)",
+        "Kim Gongja/Death King (possessing Ssonia)"
+      ],
+      "firstAppearance": 1,
+      "appearances": 392,
+      "deaths": 151,
+      "status": "alive",
+      "skills": [
+        "    .",
+        "   invites you to faith.",
+        "   is your constellation.",
+        "   uses a skill.",
+        " .... ",
+        " A vibrant field of flowers in full bloom unfolds. ",
+        " Activating Unparalleled Under Heaven. ",
+        " Ah, this is called a 'hammer'… It makes it easy to pound metal. ",
+        " All residents from the 81st to 90th floors remember you. ",
+        " All the Apostles you recruited have offered their sincere prayers to you. ",
+        " An item of immeasurable grade! ",
+        " Can you still not tell me? ",
+        " Cancelling the activation of Unparalleled Under Heaven. ",
+        " Congratulations! ",
+        " Entering Floor 93. ",
+        " Floor 92 has been cleared! ",
+        " Frankly speaking, it's okay even if you fail. ",
+        " Hammer? What is that? ",
+        " Hmm. Well, death…. ",
+        " How can there be such an idiot? "
+      ]
+    },
+    {
+      "id": "kim-hanbijakim-hanbi-childhood-friend",
+      "name": "Kim Hanbija/Kim Hanbi (childhood friend)",
+      "aliases": [],
+      "firstAppearance": 157,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Aura manipulation",
+        "Infernal Heavens Reformation - First Formula: The Burning Young Sword"
+      ]
+    },
+    {
+      "id": "kim-yul",
+      "name": "Kim Yul",
+      "aliases": [
+        "Yul"
+      ],
+      "firstAppearance": 243,
+      "appearances": 70,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        " All residents from the 81st to 90th floors remember you. ",
+        " Key formation complete. ",
+        " The 91st floor is cleared. ",
+        " You are entering the 92nd floor. ",
+        "'I decided to climb the tower… just to please you, my fan!'",
+        "'The Lady Who Walks Through the Mirage' acknowledges the Death King's forfeiture!",
+        "'The Wand Of Ages' requests an entry ticket to the already ceased sanctuary.",
+        "1. Would you like to first acquire the skill of the enemy that killed you?",
+        "2. Would you like to first materialize the trauma of the enemy that killed you?",
+        "7 Oni Heroes",
+        "A Music Box Only for You",
+        "A Music Box Only for You assigns you a quest.",
+        "A Music Box Only for You breaks its savings account.",
+        "A Music Box Only for You immediately jumps into the auction for the 66th floor stage!",
+        "A Music Box Only for You places a bid!",
+        "A Music Box Only for You places a bid.",
+        "A Music Box Only for You pours in its wealth!",
+        "A Music Box Only for You protests that this cant be happening!",
+        "A Music Box Only for You snorts at using comic writers as a basis for argument.",
+        "A Regressors Love"
+      ]
+    },
+    {
+      "id": "kim--lefantas-past-self",
+      "name": "Kim ■ (Lefanta's past self)",
+      "aliases": [],
+      "firstAppearance": 130,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Aura protection",
+        "Salvation Sword power (flashback)",
+        "Sound Transmission (Lefanta)"
+      ]
+    },
+    {
+      "id": "king-sun-king",
+      "name": "King Sun King",
+      "aliases": [],
+      "firstAppearance": 220,
+      "appearances": 3,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Consciousness-Acceleration (time dilation thinking)",
+        "Gold Dragon's Eyes (implied)",
+        "Gold Dragon's Eyes (measure emotions/suffering)",
+        "Ice River Dragon's Breath (verify past suffering)",
+        "Political debate",
+        "Political mastery",
+        "Tower structure analysis"
+      ]
+    },
+    {
+      "id": "kukla",
+      "name": "Kukla",
+      "aliases": [],
+      "firstAppearance": 271,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Beginning the Elf Race's vote.",
+        "Beginning the Snail Race's vote.",
+        "Option 1 Number of Votes: 77.5 percent",
+        "Option 1 Number of Votes: 88.40 percent",
+        "Option 1. I liked receiving your guidance.",
+        "Option 2 Number of Votes: 11.60 percent",
+        "Option 2 Number of Votes: 22.5 percent",
+        "Option 2. I hated receiving your guidance.",
+        "Please note that Option 1 received more than half of the votes.",
+        "Quest Progress.",
+        "Stage Clear.",
+        "The 40th Floor Stage has been cleared!",
+        "The 41st Floor Stage has been cleared!",
+        "Vote counting completed.",
+        "Vote counting in Progress."
+      ]
+    },
+    {
+      "id": "kwangyeok-messenger",
+      "name": "Kwangyeok Messenger",
+      "aliases": [],
+      "firstAppearance": 12,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": []
+    },
+    {
+      "id": "lady-of-golden-silk",
+      "name": "Lady of Golden Silk",
+      "aliases": [],
+      "firstAppearance": 233,
+      "appearances": 5,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Ah, I overheard this secret from my parents",
+        "Aura? Not bad",
+        "Berserker",
+        "Constellation",
+        "Earth Bone Dragon's Box",
+        "Earth Bone Dragon's Box*",
+        "Even though we're family, we don't know anything about each other",
+        "Flame Emperor's regression (24 hours)",
+        "Hundred Ghosts",
+        "Hundred Ghosts Reincarnation",
+        "I heard this secret from my friend",
+        "I never thought about the future of the empire",
+        "If we're family, why can't we do this much?",
+        "Infernal Heavens Demonic Art",
+        "Infernal Heavens Formation",
+        "Paparazzo",
+        "Skill activated!",
+        "Skill activated.",
+        "The Apostle of 'The Ox that Harvests Ruins' has manifested!",
+        "The Constellation 'The Musclehead Who Dreams of Sinning Against Heaven' threatens you."
+      ]
+    },
+    {
+      "id": "lady-of-golden-silk-ghost",
+      "name": "Lady of Golden Silk (ghost)",
+      "aliases": [],
+      "firstAppearance": 207,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Hundred Ghosts Reincarnation",
+        "Infernal Heavens Formation"
+      ]
+    },
+    {
+      "id": "lady-of-golden-silk-mentioned",
+      "name": "Lady of Golden Silk (mentioned)",
+      "aliases": [],
+      "firstAppearance": 236,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Earth Bone Dragon's Skull",
+        "Hundred Ghosts Reincarnation",
+        "Manseng",
+        "Returner's Clockwork Watch (mentioned)"
+      ]
+    },
+    {
+      "id": "lady-of-silver-lily",
+      "name": "Lady of Silver Lily",
+      "aliases": [],
+      "firstAppearance": 241,
+      "appearances": 1,
+      "deaths": 1,
+      "status": "unknown",
+      "skills": [
+        "Ah, I overheard this secret from my parents",
+        "I heard this secret from my friend",
+        "I never thought about the future of the empire",
+        "regressor",
+        "secret note",
+        "secret order from an enemy country"
+      ]
+    },
+    {
+      "id": "lady-of-the-golden-silk",
+      "name": "Lady of the Golden Silk",
+      "aliases": [],
+      "firstAppearance": 124,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Hundred Ghosts Reincarnation"
+      ]
+    },
+    {
+      "id": "lady-of-the-golden-silk-sylvia-evanail",
+      "name": "Lady of the Golden Silk (Sylvia Evanail)",
+      "aliases": [],
+      "firstAppearance": 117,
+      "appearances": 2,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Compassion Sword (pain without wounds)",
+        "Hundred Ghosts Reincarnation (summons Preta and cult members)",
+        "Infernal Heavens Demonic Art",
+        "Sacred Technique: Divine Transmission (teleportation)"
+      ]
+    },
+    {
+      "id": "lefanta-aegim",
+      "name": "Lefanta Aegim",
+      "aliases": [
+        "Lefanta Aegim (clone/body)"
+      ],
+      "firstAppearance": 134,
+      "appearances": 1,
+      "deaths": 1,
+      "status": "dead",
+      "skills": []
+    },
+    {
+      "id": "librarian",
+      "name": "Librarian",
+      "aliases": [
+        "Corner Librarian",
+        "Corner Librarian/Hamustra",
+        "Hamustra/Corner Librarian",
+        "Librarian (Bang Gu-seok)",
+        "Librarian (Corner Librarian)",
+        "Librarian Bang Gu-seok"
+      ],
+      "firstAppearance": 59,
+      "appearances": 21,
+      "deaths": 1,
+      "status": "alive",
+      "skills": [
+        "A Regressor's Love (EX rank)",
+        "Aura reinforcement",
+        "Blessing of Goddess of Beauty",
+        "Blessing of Goddess of Vitality",
+        "Bookmark maids (sealed hunters)",
+        "Character Window (perk from Librarian)",
+        "Character Window (reveals psychological preferences)",
+        "Character window: shows favorability, preferred genres, psychological state",
+        "Compassion Sword (new ability: inflicts pain without physical wounds)",
+        "Constellation power",
+        "Earth Bone Dragon's Box",
+        "Facial Recognition Barrier Card",
+        "Holy Sword (absorbs sister blade)",
+        "Holy Sword absorption (Sword of Compassion)",
+        "Hundred Ghosts Reincarnation",
+        "Hundred Ghosts Reincarnation still active",
+        "I Want To Become Just Like You (death-based skill copying)",
+        "Infernal Heavens Demonic Art",
+        "Infernal Heavens Demonic Art (planned reform)",
+        "Librarian's book manipulation"
+      ]
+    },
+    {
+      "id": "lizardman-magician",
+      "name": "Lizardman Magician",
+      "aliases": [],
+      "firstAppearance": 52,
+      "appearances": 2,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Command over summoned ghosts",
+        "Hundred Ghosts Reincarnation",
+        "Hundred Ghosts Reincarnation - 4000 skeletons",
+        "Soul Jewel - tests soul nature",
+        "Yoo Soo-ha's memory restoration"
+      ]
+    },
+    {
+      "id": "lord-of-alchemy-castle-pharmacist",
+      "name": "Lord of Alchemy Castle (pharmacist)",
+      "aliases": [],
+      "firstAppearance": 36,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Devil King's origin: Estelle's disease consumption ability",
+        "Hundred Ghosts Summon (SS) - copied from Devil King"
+      ]
+    },
+    {
+      "id": "lord-of-manseng-mentioned",
+      "name": "Lord of Manseng (mentioned)",
+      "aliases": [],
+      "firstAppearance": 155,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": []
+    },
+    {
+      "id": "magic-tower-master",
+      "name": "Magic Tower Master",
+      "aliases": [],
+      "firstAppearance": 132,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Memory sacrifice techniques (Lefanta)",
+        "Others' Heavenly Song (wizards)",
+        "Spider web formation",
+        "Strengthening blows via memory exchange"
+      ]
+    },
+    {
+      "id": "magic-tower-wizards",
+      "name": "Magic Tower wizards",
+      "aliases": [],
+      "firstAppearance": 132,
+      "appearances": 2,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Memory sacrifice techniques (Lefanta)",
+        "Others' Heavenly Song (wizards)",
+        "Spider web formation",
+        "Strengthening blows via memory exchange"
+      ]
+    },
+    {
+      "id": "marcus",
+      "name": "Marcus",
+      "aliases": [],
+      "firstAppearance": 16,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Aura manipulation",
+        "Doll Controller (B)",
+        "Goblin High Society (F)",
+        "Hellfire Trap (S-)",
+        "Labyrinth Plan (A-)",
+        "Night and Day Fire Caution (A) - revealed in next chapter",
+        "Target Attack (B-)",
+        "Trap Installation (C)"
+      ]
+    },
+    {
+      "id": "marcus-calenberry",
+      "name": "Marcus Calenberry",
+      "aliases": [],
+      "firstAppearance": 7,
+      "appearances": 4,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Detective's Insight",
+        "Sword Constellation"
+      ]
+    },
+    {
+      "id": "marquis-baek-seol-to",
+      "name": "Marquis Baek Seol-to",
+      "aliases": [],
+      "firstAppearance": 219,
+      "appearances": 5,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "2nd Stage Ascension",
+        "Consciousness-Acceleration spell",
+        "Dragon Bloodline",
+        "Dragon Emperor power",
+        "Dragon's library creation ability",
+        "Gold Dragon's Eyes (implied)",
+        "Information examination spells",
+        "Information-Restoration spell",
+        "Kaleidoscope world",
+        "Leadership/charisma",
+        "Political debate",
+        "Psychological manipulation",
+        "Stability-Relaxation spell",
+        "Trauma viewing"
+      ]
+    },
+    {
+      "id": "master",
+      "name": "Master",
+      "aliases": [],
+      "firstAppearance": 241,
+      "appearances": 97,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "    .",
+        "   invites you to faith.",
+        "   is your constellation.",
+        " A vibrant field of flowers in full bloom unfolds. ",
+        " Activating Unparalleled Under Heaven. ",
+        " Ah, this is called a 'hammer'… It makes it easy to pound metal. ",
+        " All the Apostles you recruited have offered their sincere prayers to you. ",
+        " An item of immeasurable grade! ",
+        " Can you still not tell me? ",
+        " Cancelling the activation of Unparalleled Under Heaven. ",
+        " Congratulations! ",
+        " Entering Floor 93. ",
+        " Floor 92 has been cleared! ",
+        " Hammer? What is that? ",
+        " Hmm. Well, death…. ",
+        " I'm glad. ",
+        " It's about time for you to leave. ",
+        " Lower your head. ",
+        " No, suddenly, I thought that I could fail around the 99th floor as well. ",
+        " Our son, all of ours! "
+      ]
+    },
+    {
+      "id": "masterdemonic-sect-leader-as-mother",
+      "name": "Master/Demonic Sect Leader (as mother)",
+      "aliases": [],
+      "firstAppearance": 135,
+      "appearances": 4,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": []
+    },
+    {
+      "id": "medicine-king",
+      "name": "Medicine King",
+      "aliases": [],
+      "firstAppearance": 63,
+      "appearances": 18,
+      "deaths": 1,
+      "status": "dead",
+      "skills": [
+        "A Regressor's Love (EX rank)",
+        "Alchemist's cure for zombie virus",
+        "Aura",
+        "Character Window (perk from Librarian)",
+        "Chi-based body control (Heavenly Demon and Murim Lord)",
+        "Heavenly Demon's final chi demonstration (mountain-cutting strike)",
+        "Holy Sword light",
+        "Holy Sword light (repels zombies)",
+        "Hundred Ghosts Reincarnation (restores 1998 zombies temporarily)",
+        "I Want To Become Just Like You",
+        "I Want To Become Just Like You (death-based skill copying)",
+        "Infernal Heavens Demonic Art",
+        "Infernal Heavens Demonic Art (A+ rank, copied by Death King)",
+        "Infernal Heavens Demonic Art (Heavenly Demon's true power revealed)",
+        "Infernal Heavens Demonic Art (demonstrated by Death King)",
+        "Infernal Heavens Demonic Art (mentioned)",
+        "Infernal Heavens Demonic Art (training begins)",
+        "Life Diagnosis",
+        "Life Diagnosis (silver card)",
+        "Moving Hospital"
+      ]
+    },
+    {
+      "id": "meow",
+      "name": "Meow",
+      "aliases": [],
+      "firstAppearance": 238,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Aura",
+        "Card Summon",
+        "Earth Bone Dragon's Skull",
+        "Hundred Ghosts Reincarnation",
+        "Manseng"
+      ]
+    },
+    {
+      "id": "mirror-faction-nobles",
+      "name": "Mirror Faction nobles",
+      "aliases": [],
+      "firstAppearance": 222,
+      "appearances": 2,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Gold Dragon's Eyes (measure emotions/suffering)",
+        "Ice River Dragon's Breath (verify past suffering)",
+        "Leadership/charisma",
+        "Political mastery",
+        "Psychological manipulation"
+      ]
+    },
+    {
+      "id": "moon-shadow-demon-lord",
+      "name": "Moon Shadow Demon Lord",
+      "aliases": [],
+      "firstAppearance": 239,
+      "appearances": 2,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Constellation power",
+        "Earth Bone Dragon's Box",
+        "Earth Bone Dragon's Skull",
+        "Hundred Ghosts Reincarnation",
+        "Infernal Heavens Demonic Art",
+        "Time regression"
+      ]
+    },
+    {
+      "id": "moon-of-ivansia",
+      "name": "Moon of Ivansia",
+      "aliases": [],
+      "firstAppearance": 241,
+      "appearances": 3,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        " You are entering the 100th floor. ",
+        "99th floor is cleared. ",
+        "A Regressors Love",
+        "A Regressors Love (EX) is activated.",
+        "Ah, I overheard this secret from my parents",
+        "Ah. Is this how my master felt when he looked at me?",
+        "Constellation",
+        "I heard this secret from my friend",
+        "I never thought about the future of the empire",
+        "Key Formation Complete.",
+        "Please insert the keys.",
+        "Returners Clockwork Watch",
+        "Skill activated.",
+        "The Ox that Harvests Ruins",
+        "The Wand of Ages",
+        "The first key, by those who breathe in the shadows you have cast",
+        "The second key given by those who chose to follow you.",
+        "The third key given by the gods you faced.",
+        "The timeline has ended.",
+        "You are being transported to the 25th floor."
+      ]
+    },
+    {
+      "id": "murim-lord",
+      "name": "Murim Lord",
+      "aliases": [
+        "Murim Lord (Namgung Un / Bu Wol-sun)",
+        "Murim Lord (mentioned)"
+      ],
+      "firstAppearance": 66,
+      "appearances": 18,
+      "deaths": 2,
+      "status": "dead",
+      "skills": [
+        "Alchemist's cure for zombie virus",
+        "Aura",
+        "Chi-based body control (Heavenly Demon and Murim Lord)",
+        "Heavenly Demon's final chi demonstration (mountain-cutting strike)",
+        "Holy Sword light",
+        "Holy Sword light (repels zombies)",
+        "Hundred Ghosts Reincarnation (restores 1998 zombies temporarily)",
+        "I Want To Become Just Like You",
+        "Infernal Heavens Demonic Art",
+        "Infernal Heavens Demonic Art (A+ rank, copied by Death King)",
+        "Infernal Heavens Demonic Art (First through Fourth Forms)",
+        "Infernal Heavens Demonic Art (Heavenly Demon's true power revealed)",
+        "Infernal Heavens Demonic Art (demonstrated by Death King)",
+        "Infernal Heavens Demonic Art (mentioned)",
+        "Infernal Heavens Demonic Art (multiple forms)",
+        "Infernal Heavens Demonic Art (training begins)",
+        "Infernal Heavens Demonic Art - First Form: Sword of Starvation (mastered)",
+        "Life Diagnosis",
+        "Life Diagnosis (silver card)",
+        "Moving Hospital"
+      ]
+    },
+    {
+      "id": "murk-49th-ranked-warrior",
+      "name": "Murk (49th ranked warrior)",
+      "aliases": [],
+      "firstAppearance": 181,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Aura giant form",
+        "Giant Mode"
+      ]
+    },
+    {
+      "id": "murmu-goblin-warrior",
+      "name": "Murmu (goblin warrior)",
+      "aliases": [],
+      "firstAppearance": 169,
+      "appearances": 2,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Greatsword throwing technique",
+        "Shibal Aura Training Method"
+      ]
+    },
+    {
+      "id": "musclehead-who-dreams-of-sinning-against-heaven",
+      "name": "Musclehead Who Dreams of Sinning Against Heaven",
+      "aliases": [],
+      "firstAppearance": 243,
+      "appearances": 10,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "'Unnamed World -30-1316782' is officially registered.",
+        "2-dimensional plane",
+        "Aegim Empire's Mermaid Falls",
+        "Asura(阿修羅)",
+        "Attack Team",
+        "Babylon",
+        "Bad Friend Doctrine",
+        "Beginning the Mermaid Race's vote.",
+        "Boss monsters he was forced to lose to",
+        "Cave Fire Play",
+        "Chronicles of Heavenly Demon",
+        "Competitive Nature",
+        "Constellation",
+        "Demonic Cult",
+        "Dream Notice",
+        "Duke Ivansia",
+        "Earth Bone Dragon's Box",
+        "Earth Bone Dragon's Box*",
+        "Energy Dragon that Dwells in the Deep Sea",
+        "Even though we're family, we don't know anything about each other"
+      ]
+    },
+    {
+      "id": "mutia",
+      "name": "Mutia",
+      "aliases": [],
+      "firstAppearance": 330,
+      "appearances": 2,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "A Music Box Only for You assigns you a quest.",
+        "An Apostle of the The Ox that Harvests Ruins manifests.",
+        "Annihilate your Enemy",
+        "Compassion Sword receives your command.",
+        "Constellation",
+        "Goddess of Protection manifests the power of five swords.",
+        "Indestructible Body",
+        "Lady of the Golden Silk Case",
+        "Pain without Wounds",
+        "Prayer Sword receives the command of the Death King.",
+        "Returners Clockwork Watch",
+        "Sacrifice Sword receives the command of the Death King.",
+        "Salvation Sword receives the command of the Death King.",
+        "Shiny responds, Yes, hero.",
+        "Sword Constellation",
+        "Target Objective",
+        "The Corner Librarian",
+        "The Golden God",
+        "The Ox that Harvests Ruins",
+        "The Ox that Harvests Ruins issues a quest to its followers."
+      ]
+    },
+    {
+      "id": "namgong-un",
+      "name": "Namgong Un",
+      "aliases": [],
+      "firstAppearance": 240,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Constellation power",
+        "Earth Bone Dragon's Box",
+        "Hundred Ghosts Reincarnation",
+        "Infernal Heavens Demonic Art",
+        "Time regression"
+      ]
+    },
+    {
+      "id": "namgung",
+      "name": "Namgung",
+      "aliases": [],
+      "firstAppearance": 280,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Devil King of Fall Rain",
+        "I obey your command.",
+        "Shiny responds to your call.",
+        "The Compassion Sword obeys your command.",
+        "The Goddess of Protection",
+        "The Goddess of Protection listens to your call.",
+        "The Goddess of Protection manifests.",
+        "The Goddess of Protection responds to you as follows.",
+        "The Prayer Sword obeys your command.",
+        "The Sacrifice Sword obeys your command.",
+        "The Salvation Sword obeys your command.",
+        "Yes, Death King."
+      ]
+    },
+    {
+      "id": "namgung-un-as-security-guard",
+      "name": "Namgung Un (as security guard)",
+      "aliases": [],
+      "firstAppearance": 136,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": []
+    },
+    {
+      "id": "noble-council",
+      "name": "Noble Council",
+      "aliases": [],
+      "firstAppearance": 224,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Gold Dragon's Eyes (omniscience)",
+        "Ice River Dragon's Breath (time travel to observed moments)",
+        "Shadow/time travel manipulation"
+      ]
+    },
+    {
+      "id": "noble-council-members",
+      "name": "Noble Council members",
+      "aliases": [],
+      "firstAppearance": 223,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Gold Dragon's Eyes (implied)",
+        "Political debate"
+      ]
+    },
+    {
+      "id": "nobletorturer",
+      "name": "Noble/torturer",
+      "aliases": [],
+      "firstAppearance": 18,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Night and Day Fire Caution (A) - fire immunity"
+      ]
+    },
+    {
+      "id": "of",
+      "name": "Of",
+      "aliases": [],
+      "firstAppearance": 241,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Ah, I overheard this secret from my parents",
+        "I heard this secret from my friend",
+        "I never thought about the future of the empire",
+        "regressor",
+        "secret note",
+        "secret order from an enemy country"
+      ]
+    },
+    {
+      "id": "old-goblin-priest",
+      "name": "Old goblin priest",
+      "aliases": [],
+      "firstAppearance": 166,
+      "appearances": 2,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Animal Possession",
+        "Fire Painting (art form)",
+        "Guru Doctrine (religion)",
+        "Oracle Message (purchased 40 times)",
+        "Prey Search",
+        "Red aura manipulation"
+      ]
+    },
+    {
+      "id": "oni-commander",
+      "name": "Oni commander",
+      "aliases": [],
+      "firstAppearance": 181,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Aura giant form",
+        "Giant Mode"
+      ]
+    },
+    {
+      "id": "orphan-children",
+      "name": "Orphan children",
+      "aliases": [],
+      "firstAppearance": 18,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Night and Day Fire Caution (A) - fire immunity"
+      ]
+    },
+    {
+      "id": "orphanage-director",
+      "name": "Orphanage Director",
+      "aliases": [],
+      "firstAppearance": 143,
+      "appearances": 5,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "A Regressor's Love (EX rank)",
+        "Hundred Ghosts Reincarnation",
+        "Infernal Heavens Demonic Art (planned reform)",
+        "Returner's Clockwork Watch"
+      ]
+    },
+    {
+      "id": "orphanage-director-as-class-president",
+      "name": "Orphanage Director (as class president)",
+      "aliases": [],
+      "firstAppearance": 147,
+      "appearances": 6,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": []
+    },
+    {
+      "id": "orphanage-director-as-young-class-president",
+      "name": "Orphanage Director (as young class president)",
+      "aliases": [],
+      "firstAppearance": 146,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": []
+    },
+    {
+      "id": "orphanage-director-flashback",
+      "name": "Orphanage Director (flashback)",
+      "aliases": [],
+      "firstAppearance": 138,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": []
+    },
+    {
+      "id": "other-mirror-faction-nobles",
+      "name": "Other Mirror Faction nobles",
+      "aliases": [],
+      "firstAppearance": 221,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "2nd Stage Ascension",
+        "Information examination spells"
+      ]
+    },
+    {
+      "id": "other-hunters",
+      "name": "Other hunters",
+      "aliases": [],
+      "firstAppearance": 89,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": []
+    },
+    {
+      "id": "other-nobles",
+      "name": "Other nobles",
+      "aliases": [],
+      "firstAppearance": 219,
+      "appearances": 2,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Consciousness-Acceleration (time dilation thinking)",
+        "Consciousness-Acceleration spell",
+        "Information-Restoration spell",
+        "Stability-Relaxation spell",
+        "Tower structure analysis"
+      ]
+    },
+    {
+      "id": "pharmacist-future-lord-of-alchemy-castle",
+      "name": "Pharmacist (future Lord of Alchemy Castle)",
+      "aliases": [],
+      "firstAppearance": 37,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Crusader's Lie Detection",
+        "Sword Saint's Detective's Insight"
+      ]
+    },
+    {
+      "id": "preta",
+      "name": "Preta",
+      "aliases": [],
+      "firstAppearance": 50,
+      "appearances": 12,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Command over summoned ghosts",
+        "Deception/acting skills",
+        "Earth Bone Dragon's Skull",
+        "Holy Protection Sword authority",
+        "Hundred Ghosts Reincarnation",
+        "Hundred Ghosts Reincarnation (restores 1998 zombies temporarily)",
+        "Hundred Ghosts Reincarnation - 4000 skeletons",
+        "Hundred Ghosts Reincarnation confirmed to work on NPCs",
+        "I Want To Become Just Like You",
+        "I Want To Become Just Like You (trauma absorption)",
+        "Infernal Heavens Demonic Art (first form - Sword of Starvation)",
+        "Manseng",
+        "Returner's Clockwork Watch (mentioned)",
+        "Soul Jewel - tests soul nature",
+        "Surgery recovery",
+        "Yoo Soo-ha's memory restoration"
+      ]
+    },
+    {
+      "id": "princess-cham-beol-sa-crown-princess",
+      "name": "Princess Cham Beol-sa (Crown Princess)",
+      "aliases": [],
+      "firstAppearance": 217,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Guardian of the Subrace (B)",
+        "King's Tutor (B+)",
+        "Military strategy",
+        "Seduction/manipulation"
+      ]
+    },
+    {
+      "id": "principal",
+      "name": "Principal",
+      "aliases": [],
+      "firstAppearance": 152,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": []
+    },
+    {
+      "id": "raviel",
+      "name": "Raviel",
+      "aliases": [
+        "Lady of the Silver Lily (Raviel Ivansia)",
+        "Raviel (as girlfriend)",
+        "Raviel (mentioned)",
+        "Raviel Ivansia",
+        "Raviel/Duke Ivansia"
+      ],
+      "firstAppearance": 94,
+      "appearances": 102,
+      "deaths": 2,
+      "status": "alive",
+      "skills": [
+        "    .",
+        "   invites you to faith.",
+        "'I decided to climb the tower… just to please you, my fan!'",
+        "'The Lady Who Walks Through the Mirage' is manifesting.",
+        "'The Lady Who Walks Through the Mirage' is shocked.",
+        "'The Lady Who Walks Through the Mirage' praises you.",
+        "'The Lady Who Walks Through the Mirage' shakes her head.",
+        "'The Wand Of Ages' requests an entry ticket to the already ceased sanctuary.",
+        "'Unnamed World -30-1316782' is officially registered.",
+        "1 second.",
+        "2 seconds.",
+        "3 seconds.",
+        "4 seconds.",
+        "5 seconds.",
+        "A Constellation secretly watching the story is appalled.",
+        "A Music Box Only for You",
+        "A Music Box Only for You acknowledges this as a magnificent sight.",
+        "A Music Box Only for You activates its skill.",
+        "A Music Box Only for You answers out of context that it really likes snake liquor.",
+        "A Music Box Only for You assigns you a quest."
+      ]
+    },
+    {
+      "id": "red-nails-members",
+      "name": "Red Nails members",
+      "aliases": [],
+      "firstAppearance": 217,
+      "appearances": 1,
+      "deaths": 1,
+      "status": "unknown",
+      "skills": [
+        "Guardian of the Subrace (B)",
+        "King's Tutor (B+)",
+        "Military strategy",
+        "Seduction/manipulation"
+      ]
+    },
+    {
+      "id": "reporter-john-evans",
+      "name": "Reporter John Evans",
+      "aliases": [],
+      "firstAppearance": 57,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": []
+    },
+    {
+      "id": "representatives-of-seven-races",
+      "name": "Representatives of seven races",
+      "aliases": [],
+      "firstAppearance": 181,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Aura giant form",
+        "Giant Mode"
+      ]
+    },
+    {
+      "id": "saintess",
+      "name": "Saintess",
+      "aliases": [
+        "Saintess Isabelle"
+      ],
+      "firstAppearance": 1,
+      "appearances": 4,
+      "deaths": 1,
+      "status": "dead",
+      "skills": [
+        "Earth Bone Dragon's Skull",
+        "Hundred Ghosts Reincarnation",
+        "I want to become just like you (S+)",
+        "Infernal Heavens Demonic Art",
+        "Puppeteer's Parade (mentioned)",
+        "Returner's Clockwork Watch",
+        "Returner's Clockwork Watch (EX)",
+        "Salvation of a Torn Goddess"
+      ]
+    },
+    {
+      "id": "sakum",
+      "name": "Sakum",
+      "aliases": [],
+      "firstAppearance": 187,
+      "appearances": 7,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Aura communication (writing on skin)",
+        "Aura music creation",
+        "Aura music/dance",
+        "Aura pushup demonstration",
+        "Aura voice blocking",
+        "Crisis management",
+        "Dream Appearance",
+        "Dream Appearance (multiple uses)",
+        "Emotion-through-movement technique",
+        "Flame Emperor character acting",
+        "Marketing manipulation",
+        "Marketing/promotion",
+        "Memory-based aura triggering",
+        "Opera singing (Ssonia)",
+        "Puppy eyes technique",
+        "Silent acting technique",
+        "Swi-Rak-Gur ancient language",
+        "Theater management",
+        "Theater-wide aura manipulation"
+      ]
+    },
+    {
+      "id": "sakum-one-eared-actor",
+      "name": "Sakum (one-eared actor)",
+      "aliases": [],
+      "firstAppearance": 186,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Aura flame projection",
+        "Person Possession (purchased)"
+      ]
+    },
+    {
+      "id": "security-force",
+      "name": "Security force",
+      "aliases": [],
+      "firstAppearance": 190,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Aura voice blocking",
+        "Flame Emperor character acting",
+        "Swi-Rak-Gur ancient language",
+        "Theater-wide aura manipulation"
+      ]
+    },
+    {
+      "id": "security-force-leader",
+      "name": "Security force leader",
+      "aliases": [],
+      "firstAppearance": 191,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Crisis management",
+        "Marketing manipulation",
+        "Puppy eyes technique"
+      ]
+    },
+    {
+      "id": "seimsalam-helix-apostle-heir",
+      "name": "Seimsalam (Helix Apostle heir)",
+      "aliases": [],
+      "firstAppearance": 171,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Four Swords Style (snail)",
+        "Oracle Message"
+      ]
+    },
+    {
+      "id": "seimsalam-snail-noble",
+      "name": "Seimsalam (snail noble)",
+      "aliases": [],
+      "firstAppearance": 172,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Competitive Spirit trait (new)",
+        "Four Swords Style analysis",
+        "Infernal Heavens Demonic Art"
+      ]
+    },
+    {
+      "id": "shaolin-head-monk",
+      "name": "Shaolin Head Monk",
+      "aliases": [],
+      "firstAppearance": 85,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Various martial arts without chi"
+      ]
+    },
+    {
+      "id": "shiny",
+      "name": "Shiny",
+      "aliases": [],
+      "firstAppearance": 90,
+      "appearances": 3,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Constellation power",
+        "Earth Bone Dragon's Box",
+        "Earth Bone Dragon's Skull",
+        "Holy Sword absorption (Sword of Compassion)",
+        "Hundred Ghosts Reincarnation",
+        "Infernal Heavens Demonic Art",
+        "Time regression"
+      ]
+    },
+    {
+      "id": "shiny-guardian-goddess",
+      "name": "Shiny (Guardian Goddess)",
+      "aliases": [],
+      "firstAppearance": 123,
+      "appearances": 3,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Diary of Great Puppy (holy relic with infinite pages)",
+        "Hundred Ghosts Reincarnation"
+      ]
+    },
+    {
+      "id": "shiny-holy-sword",
+      "name": "Shiny (Holy Sword)",
+      "aliases": [],
+      "firstAppearance": 63,
+      "appearances": 8,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Character Window",
+        "Hundred Ghosts Reincarnation",
+        "Hundred Ghosts Reincarnation (revealed to Raviel)",
+        "I Want To Become Just Like You (death-based skill copying)",
+        "Infernal Heavens Demonic Art",
+        "Infernal Heavens Demonic Art - 8th form: Sword of Incineration",
+        "Returner's Clockwork Watch",
+        "Returner's Clockwork Watch (loophole exploitation)",
+        "Returner's Clockwork Watch (mentioned - Flame Emperor's skill)",
+        "Sacred Technique: Divine Transmission (teleportation)",
+        "Sacred Technique: Psyche (creates sanctuaries)",
+        "Sword of Prayer (fragment of Guardian Goddess - 3rd sister)",
+        "Ten Thousand Temple (Heretic Questioner)"
+      ]
+    },
+    {
+      "id": "silent",
+      "name": "Silent",
+      "aliases": [],
+      "firstAppearance": 248,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Constellation",
+        "Silent Swordsman",
+        "The Constellation 'The Musclehead Who Dreams of Sinning Against Heaven' laments!",
+        "picked up",
+        "player",
+        "who is the craziest bastard in the area"
+      ]
+    },
+    {
+      "id": "silver-tyrant",
+      "name": "Silver Tyrant",
+      "aliases": [],
+      "firstAppearance": 242,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Hundred Ghosts",
+        "Skill activated!",
+        "this kind of love"
+      ]
+    },
+    {
+      "id": "six-constellations",
+      "name": "Six Constellations",
+      "aliases": [],
+      "firstAppearance": 50,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Hundred Ghosts Reincarnation confirmed to work on NPCs"
+      ]
+    },
+    {
+      "id": "six-dukes",
+      "name": "Six Dukes",
+      "aliases": [],
+      "firstAppearance": 225,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Gold Dragon's Eyes (measure emotions/suffering)",
+        "Ice River Dragon's Breath (verify past suffering)",
+        "Political mastery"
+      ]
+    },
+    {
+      "id": "six-pillars-of-manseng",
+      "name": "Six Pillars of Manseng",
+      "aliases": [],
+      "firstAppearance": 112,
+      "appearances": 2,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Returner's Clockwork Watch (error state)",
+        "Tower authority (judgment and compensation)",
+        "Tower judgment protocol"
+      ]
+    },
+    {
+      "id": "snail-king",
+      "name": "Snail King",
+      "aliases": [],
+      "firstAppearance": 181,
+      "appearances": 2,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Aura giant form",
+        "Giant Mode",
+        "Sea salt production (mermaid technology)"
+      ]
+    },
+    {
+      "id": "snail-defenders",
+      "name": "Snail defenders",
+      "aliases": [],
+      "firstAppearance": 175,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Space Transfer Technique (Black Dragon Master)"
+      ]
+    },
+    {
+      "id": "snail-general",
+      "name": "Snail general",
+      "aliases": [],
+      "firstAppearance": 171,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Four Swords Style (snail)",
+        "Oracle Message"
+      ]
+    },
+    {
+      "id": "snail-soldiers",
+      "name": "Snail soldiers",
+      "aliases": [],
+      "firstAppearance": 168,
+      "appearances": 2,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Aura giant form",
+        "Infernal Heavens Demonic Art - First Form: The Burning Young Sword",
+        "Sacred Transformation Technique (Heretic Questioner)",
+        "Sea salt production (mermaid technology)"
+      ]
+    },
+    {
+      "id": "soo-ha",
+      "name": "Soo-ha",
+      "aliases": [],
+      "firstAppearance": 241,
+      "appearances": 30,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "    .",
+        "   uses a skill.",
+        " .... ",
+        " All the Apostles you recruited have offered their sincere prayers to you. ",
+        " Entering Floor 93. ",
+        " Floor 92 has been cleared! ",
+        " Frankly speaking, it's okay even if you fail. ",
+        " How can there be such an idiot? ",
+        " How did I get here? ",
+        " Key formation complete. ",
+        " That guy won't succeed at anything. ",
+        " You shouldn't become like that. ",
+        "'I decided to climb the tower… just to please you, my fan!'",
+        "'The Lady Who Walks Through the Mirage' acknowledges the Death King's forfeiture!",
+        "A Constellation secretly watching the story is appalled.",
+        "A Music Box Only for You",
+        "A Music Box Only for You manifests its power.",
+        "A Regressors Love",
+        "Advisor Estelle",
+        "Aegim Empire"
+      ]
+    },
+    {
+      "id": "ssonia",
+      "name": "Ssonia",
+      "aliases": [],
+      "firstAppearance": 194,
+      "appearances": 3,
+      "deaths": 1,
+      "status": "unknown",
+      "skills": [
+        "Aura Art",
+        "Aura manipulation",
+        "Aura music",
+        "Aura music/dance",
+        "Dream Appearance",
+        "Fire Play",
+        "Infernal Heavens Demonic Art",
+        "Lie Detector",
+        "Opera singing (Ssonia)",
+        "Teleportation"
+      ]
+    },
+    {
+      "id": "ssonia-elf-actor",
+      "name": "Ssonia (elf actor)",
+      "aliases": [],
+      "firstAppearance": 185,
+      "appearances": 2,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Aura flame projection",
+        "Person Possession (purchased)"
+      ]
+    },
+    {
+      "id": "ssonia-mental-body",
+      "name": "Ssonia (mental body)",
+      "aliases": [],
+      "firstAppearance": 189,
+      "appearances": 3,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Aura flower dyeing (Black Dragon Master)",
+        "Aura piano music (Crusader)",
+        "Group aura synchronization",
+        "Martial arts choreography",
+        "Memory-based aura triggering",
+        "Silent acting technique",
+        "Teleportation (Black Dragon Master)"
+      ]
+    },
+    {
+      "id": "stone-assembly-mentioned",
+      "name": "Stone Assembly (mentioned)",
+      "aliases": [],
+      "firstAppearance": 216,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "King's Tutor (B+ rank)",
+        "Madness to Insanity (A- rank)",
+        "Political strategy"
+      ]
+    },
+    {
+      "id": "sub-race-rebels",
+      "name": "Sub race rebels",
+      "aliases": [],
+      "firstAppearance": 217,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Guardian of the Subrace (B)",
+        "King's Tutor (B+)",
+        "Military strategy",
+        "Seduction/manipulation"
+      ]
+    },
+    {
+      "id": "sword",
+      "name": "Sword",
+      "aliases": [],
+      "firstAppearance": 259,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Constellation",
+        "From now on, I will play with you like toys",
+        "Infernal Heavens Formation",
+        "Stage Clear!",
+        "The 37th Stage Begins.",
+        "The 37th Stage has been cleared!",
+        "The Lady Who Walks Through The Mirage",
+        "fire that burns forever"
+      ]
+    },
+    {
+      "id": "sword-demon",
+      "name": "Sword Demon",
+      "aliases": [],
+      "firstAppearance": 121,
+      "appearances": 4,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Constellation power",
+        "Earth Bone Dragon's Box",
+        "Earth Bone Dragon's Skull",
+        "Hundred Ghosts Reincarnation",
+        "Infernal Heavens Demonic Art",
+        "Lightness Skill",
+        "Sacred Technique: Divine Transmission",
+        "Time regression"
+      ]
+    },
+    {
+      "id": "sword-saint",
+      "name": "Sword Saint",
+      "aliases": [
+        "Sword Saint (Marcus Calenberry)",
+        "Sword Saint (mentioned)",
+        "Sword Saint/Calenbury"
+      ],
+      "firstAppearance": 4,
+      "appearances": 63,
+      "deaths": 1,
+      "status": "alive",
+      "skills": [
+        "Animal Possession",
+        "Aura Art",
+        "Aura Civilization",
+        "Aura control",
+        "Aura javelin throw",
+        "Aura manipulation",
+        "Aura music",
+        "Bae Hu-ryeong's sword technique teachings",
+        "Battlefield coordination",
+        "Blessing of Goddess of Beauty",
+        "Blessing of Goddess of Vitality",
+        "Bookmark maids (sealed hunters)",
+        "Character Window (perk from Librarian)",
+        "Character window: shows favorability, preferred genres, psychological state",
+        "Count's wealth-based techniques",
+        "Crusader's Lie Detection",
+        "Crusader's Lie Detection (A-)",
+        "Death King nickname/title",
+        "Detective's Insight",
+        "Detective's Insight (B-)"
+      ]
+    },
+    {
+      "id": "sylvia",
+      "name": "Sylvia",
+      "aliases": [],
+      "firstAppearance": 241,
+      "appearances": 34,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        " All residents from the 81st to 90th floors remember you. ",
+        " Can you still not tell me? ",
+        " Hmm. Well, death…. ",
+        " Key formation complete. ",
+        " No, suddenly, I thought that I could fail around the 99th floor as well. ",
+        " Sword Emperor-nim. But even someone like you died at the 99th floor. ",
+        " The 91st floor is cleared. ",
+        " The voices from the tower… they aren't just automatically operated by the system, perhaps…. ",
+        " There was a time when the night sky was much darker than it is now. ",
+        " This star is suffering from a fever. ",
+        " What is on the 99th floor? ",
+        " Yes. It's manual. ",
+        " You are entering the 92nd floor. ",
+        "'I decided to climb the tower… just to please you, my fan!'",
+        "'The Lady Who Walks Through the Mirage' acknowledges the Death King's forfeiture!",
+        "1 second.",
+        "2 seconds.",
+        "3 seconds.",
+        "4 seconds.",
+        "5 seconds."
+      ]
+    },
+    {
+      "id": "sylvia-evanail",
+      "name": "Sylvia Evanail",
+      "aliases": [],
+      "firstAppearance": 122,
+      "appearances": 20,
+      "deaths": 1,
+      "status": "unknown",
+      "skills": [
+        "7 Oni Heroes",
+        "A Music Box Only for You activates its power.",
+        "A Music Box Only for You activates its skill.",
+        "A Music Box Only for You answers out of context that it really likes snake liquor.",
+        "A Music Box Only for You assigns you a quest.",
+        "A Music Box Only for You becomes enraged.",
+        "A Music Box Only for You deeply contemplates the sound of a foxs cry.",
+        "A Music Box Only for You is the Constellation that rules over the 61st floor.",
+        "A Music Box Only for You politely requests other Constellations not to mess with you.",
+        "A Music Box Only for You worries looking at your long face might make its own face elongate.",
+        "A Regressors Love",
+        "A Regressors Love (EX) is activated.",
+        "Advisor Estelle",
+        "Aegim Empire",
+        "Ah, I overheard this secret from my parents",
+        "Ah, this is hell",
+        "An Apostle of the The Ox that Harvests Ruins manifests.",
+        "Annihilate your Enemy",
+        "Announcing the results of the majority vote.",
+        "Burning Mansion"
+      ]
+    },
+    {
+      "id": "sylvia-evanail-golden-silk",
+      "name": "Sylvia Evanail (Golden Silk)",
+      "aliases": [],
+      "firstAppearance": 121,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Hundred Ghosts Reincarnation",
+        "Infernal Heavens Demonic Art",
+        "Lightness Skill",
+        "Sacred Technique: Divine Transmission"
+      ]
+    },
+    {
+      "id": "sylvia-evanailgolden-silk",
+      "name": "Sylvia Evanail/Golden Silk",
+      "aliases": [],
+      "firstAppearance": 240,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Constellation power",
+        "Earth Bone Dragon's Box",
+        "Hundred Ghosts Reincarnation",
+        "Infernal Heavens Demonic Art",
+        "Time regression"
+      ]
+    },
+    {
+      "id": "teachers",
+      "name": "Teachers",
+      "aliases": [],
+      "firstAppearance": 152,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": []
+    },
+    {
+      "id": "ten-thousand-temple",
+      "name": "Ten Thousand Temple",
+      "aliases": [],
+      "firstAppearance": 20,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Count's metamorphosis skill"
+      ]
+    },
+    {
+      "id": "ten-thousand-temple-traitor-priest",
+      "name": "Ten Thousand Temple traitor priest",
+      "aliases": [],
+      "firstAppearance": 231,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Aura shield",
+        "Black Dragon Mirror"
+      ]
+    },
+    {
+      "id": "the",
+      "name": "The",
+      "aliases": [],
+      "firstAppearance": 324,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "I want to protect the beauty just as it is",
+        "You are implementing the trauma of the enemy who killed you."
+      ]
+    },
+    {
+      "id": "the-lady-who-walks-through-the-mirage",
+      "name": "The Lady Who Walks Through the Mirage",
+      "aliases": [],
+      "firstAppearance": 158,
+      "appearances": 8,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Animal Possession",
+        "Goblin High Society",
+        "Goblin High Society (F rank)",
+        "Prey Search",
+        "Race Evolution (purchased)",
+        "Race Points system",
+        "Rejuvenating Body Stage (Uburka)",
+        "Returner's Clockwork Watch (origin story)"
+      ]
+    },
+    {
+      "id": "the-lady-who-walks-through-the-mirage-mentioned",
+      "name": "The Lady Who Walks Through the Mirage (mentioned)",
+      "aliases": [],
+      "firstAppearance": 213,
+      "appearances": 3,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Animal Road ( trauma penalty level)",
+        "Blessing of the Lord of Manseng",
+        "Dragon Pressure",
+        "Information gathering",
+        "Lord of Manseng's authority",
+        "Manseng (mentioned)",
+        "Manseng (萬生) - original trauma skill",
+        "Returner's Clockwork Watch",
+        "The Lady Who Walks Through the Mirage (mentioned)",
+        "Trauma manifestation analysis"
+      ]
+    },
+    {
+      "id": "the-lady-of-golden-silk",
+      "name": "The Lady of Golden Silk",
+      "aliases": [],
+      "firstAppearance": 241,
+      "appearances": 3,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Ah, I overheard this secret from my parents",
+        "Constellation",
+        "Earth Bone Dragon's Box",
+        "Earth Bone Dragon's Box*",
+        "Even though we're family, we don't know anything about each other",
+        "Hundred Ghosts",
+        "Hundred Ghosts Reincarnation",
+        "I heard this secret from my friend",
+        "I never thought about the future of the empire",
+        "If we're family, why can't we do this much?",
+        "Infernal Heavens Demonic Art",
+        "Infernal Heavens Formation",
+        "Skill activated!",
+        "Skill activated.",
+        "The Apostle of 'The Ox that Harvests Ruins' has manifested!",
+        "The Constellation 'The Musclehead Who Dreams of Sinning Against Heaven' threatens you.",
+        "The Earth Bone Dragon's Box has been activated.",
+        "The Earth Bone Dragon's Box has been completed.",
+        "family",
+        "regressor"
+      ]
+    },
+    {
+      "id": "the-lady-of-silver-lily",
+      "name": "The Lady of Silver Lily",
+      "aliases": [],
+      "firstAppearance": 241,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Ah, I overheard this secret from my parents",
+        "I heard this secret from my friend",
+        "I never thought about the future of the empire",
+        "regressor",
+        "secret note",
+        "secret order from an enemy country"
+      ]
+    },
+    {
+      "id": "theater-owner",
+      "name": "Theater owner",
+      "aliases": [],
+      "firstAppearance": 187,
+      "appearances": 3,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Aura music creation",
+        "Aura pushup demonstration",
+        "Emotion-through-movement technique",
+        "Marketing/promotion",
+        "Memory-based aura triggering",
+        "Silent acting technique",
+        "Theater management"
+      ]
+    },
+    {
+      "id": "theater-owner-hobgoblin",
+      "name": "Theater owner (hobgoblin)",
+      "aliases": [],
+      "firstAppearance": 186,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Aura flame projection",
+        "Person Possession (purchased)"
+      ]
+    },
+    {
+      "id": "three-tower-society-vice-religious-leader",
+      "name": "Three Tower Society Vice Religious Leader",
+      "aliases": [],
+      "firstAppearance": 230,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": []
+    },
+    {
+      "id": "tower-master",
+      "name": "Tower Master",
+      "aliases": [],
+      "firstAppearance": 112,
+      "appearances": 2,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Returner's Clockwork Watch (error state)",
+        "Tower authority (judgment and compensation)",
+        "Tower judgment protocol"
+      ]
+    },
+    {
+      "id": "towerconstellations",
+      "name": "Tower/Constellations",
+      "aliases": [],
+      "firstAppearance": 49,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Hundred Ghosts Reincarnation (SSS)",
+        "Preta (former Devil King) as servant"
+      ]
+    },
+    {
+      "id": "uburka",
+      "name": "Uburka",
+      "aliases": [
+        "Uburka (212th Chairman)",
+        "Uburka (dream reflection)"
+      ],
+      "firstAppearance": 178,
+      "appearances": 67,
+      "deaths": 2,
+      "status": "alive",
+      "skills": [
+        "'The Sky That Gathers Screams' summons its apostle.",
+        "'Unnamed World -30-1316782' is officially registered.",
+        "2-dimensional plane",
+        "4th Ranked",
+        "7 Oni Heroes",
+        "A Regressors Love",
+        "A Regressors Love (EX) is activated.",
+        "A follower of The Sky That Gathers Screams is summoned.",
+        "A mountain range has appeared in your world.",
+        "A sea has been created in your world.",
+        "Activating skill.",
+        "Advisor Estelle",
+        "Aegim Empire",
+        "Aegim Empire's Mermaid Falls",
+        "Ah, this is hell",
+        "Alchemist",
+        "All the heavens youve experienced so far blah blah",
+        "An apostle of The Sky That Gathers Screams manifests.",
+        "Apostle of the Constellation named Screaming Sky",
+        "Assistant Writer"
+      ]
+    },
+    {
+      "id": "ultimate-sword-duke",
+      "name": "Ultimate Sword Duke",
+      "aliases": [],
+      "firstAppearance": 218,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Earth Bone Dragon's Skull (SSS+) - memory archiving box",
+        "Gold Dragon's Gaze (EX) - liberates instinct, reveals essence",
+        "Ice River Dragon's Breath (EX) - time control",
+        "Instinct (Gold Dragon's unique power)"
+      ]
+    },
+    {
+      "id": "various-guild-representatives",
+      "name": "Various guild representatives",
+      "aliases": [],
+      "firstAppearance": 19,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "None new"
+      ]
+    },
+    {
+      "id": "various-hunters",
+      "name": "Various hunters",
+      "aliases": [],
+      "firstAppearance": 59,
+      "appearances": 2,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Blessing of Goddess of Beauty",
+        "Blessing of Goddess of Vitality",
+        "Bookmark maids (sealed hunters)",
+        "Character window: shows favorability, preferred genres, psychological state",
+        "Hundred Ghosts Reincarnation still active",
+        "Librarian's book manipulation"
+      ]
+    },
+    {
+      "id": "various-sect-members",
+      "name": "Various sect members",
+      "aliases": [],
+      "firstAppearance": 85,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Various martial arts without chi"
+      ]
+    },
+    {
+      "id": "venomous-snake",
+      "name": "Venomous Snake",
+      "aliases": [
+        "Venomous Snake (Rank 5, Chen Mu-mun)",
+        "Venomous Snake (as teacher)"
+      ],
+      "firstAppearance": 12,
+      "appearances": 60,
+      "deaths": 1,
+      "status": "alive",
+      "skills": [
+        "A Regressor's Love (EX rank)",
+        "Alchemist's cure for zombie virus",
+        "Animal Possession",
+        "Aura",
+        "Aura Civilization",
+        "Aura javelin throw",
+        "Aura reinforcement",
+        "Battlefield coordination",
+        "Character Window (perk from Librarian)",
+        "Character Window (reveals psychological preferences)",
+        "Chi-based body control (Heavenly Demon and Murim Lord)",
+        "Count's wealth-based techniques",
+        "Count's wealth/snail pouch item",
+        "Crusader's Lie Detection (A-)",
+        "Detective's Insight (B-)",
+        "Detective's Insight (B-) - shows opponent's kill count",
+        "Devil King of Fall Rain reward: skip to 99th floor after killing top 10",
+        "Devil King's red rain summoning",
+        "Devil King's skills revealed for copying",
+        "Devil King's sword technique"
+      ]
+    },
+    {
+      "id": "vice-guild-leader-civil-militia",
+      "name": "Vice Guild Leader (Civil Militia)",
+      "aliases": [],
+      "firstAppearance": 232,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": []
+    },
+    {
+      "id": "victimswitnesses",
+      "name": "Victims/witnesses",
+      "aliases": [],
+      "firstAppearance": 225,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Gold Dragon's Eyes (measure emotions/suffering)",
+        "Ice River Dragon's Breath (verify past suffering)",
+        "Political mastery"
+      ]
+    },
+    {
+      "id": "village-people-trauma-vision",
+      "name": "Village people (trauma vision)",
+      "aliases": [],
+      "firstAppearance": 46,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": []
+    },
+    {
+      "id": "viscount-dae-ha-ran",
+      "name": "Viscount Dae Ha-ran",
+      "aliases": [],
+      "firstAppearance": 221,
+      "appearances": 2,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "2nd Stage Ascension",
+        "Dragon Bloodline",
+        "Dragon Emperor power",
+        "Dragon's library creation ability",
+        "Information examination spells",
+        "Kaleidoscope world",
+        "Trauma viewing"
+      ]
+    },
+    {
+      "id": "viscount-sun-heuk-sin",
+      "name": "Viscount Sun Heuk-sin",
+      "aliases": [],
+      "firstAppearance": 219,
+      "appearances": 4,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "2nd Stage Ascension",
+        "Consciousness-Acceleration spell",
+        "Dragon Bloodline",
+        "Dragon Emperor power",
+        "Dragon's library creation ability",
+        "Gold Dragon's Eyes (implied)",
+        "Information examination spells",
+        "Information-Restoration spell",
+        "Kaleidoscope world",
+        "Political debate",
+        "Stability-Relaxation spell",
+        "Trauma viewing"
+      ]
+    },
+    {
+      "id": "viscounts-warriors",
+      "name": "Viscount's warriors",
+      "aliases": [],
+      "firstAppearance": 218,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Earth Bone Dragon's Skull (SSS+) - memory archiving box",
+        "Gold Dragon's Gaze (EX) - liberates instinct, reveals essence",
+        "Ice River Dragon's Breath (EX) - time control",
+        "Instinct (Gold Dragon's unique power)"
+      ]
+    },
+    {
+      "id": "wide-range-communications-officer",
+      "name": "Wide-Range Communications Officer",
+      "aliases": [],
+      "firstAppearance": 142,
+      "appearances": 2,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Hundred Ghosts Reincarnation",
+        "Puppeteer's Parade (S-rank)",
+        "Returner's Clockwork Watch",
+        "Salvation of a Torn Goddess (A+)"
+      ]
+    },
+    {
+      "id": "witch",
+      "name": "Witch",
+      "aliases": [],
+      "firstAppearance": 24,
+      "appearances": 31,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Aura control",
+        "Bae Hu-ryeong's sword technique teachings",
+        "Battlefield coordination",
+        "Blessing of Goddess of Beauty",
+        "Blessing of Goddess of Vitality",
+        "Blessing of Human God",
+        "Blessing of Merchant God",
+        "Blessing of War God",
+        "Bookmark maids (sealed hunters)",
+        "Character window: shows favorability, preferred genres, psychological state",
+        "Count's wealth-based techniques",
+        "Crusader's Lie Detection (A-)",
+        "Death King nickname/title",
+        "Detective's Insight (B-)",
+        "Detective's Insight (B-) - shows opponent's kill count",
+        "Devil King of Fall Rain reward: skip to 99th floor after killing top 10",
+        "Devil King's origin: Estelle's disease consumption ability",
+        "Devil King's red rain summoning",
+        "Devil King's red trajectory sword",
+        "Devil King's skills"
+      ]
+    },
+    {
+      "id": "witch-black-dragon-guild-master",
+      "name": "Witch (Black Dragon Guild Master)",
+      "aliases": [],
+      "firstAppearance": 17,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Goblin High Society (F)",
+        "I Want to be Like You (S+)",
+        "Night and Day Fire Caution (A) - copied from Hellfire Maiden",
+        "Returner's Clockwork Watch (EX)",
+        "Sword Constellation (A+)"
+      ]
+    },
+    {
+      "id": "witnessesvictims",
+      "name": "Witnesses/victims",
+      "aliases": [],
+      "firstAppearance": 224,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Gold Dragon's Eyes (omniscience)",
+        "Ice River Dragon's Breath (time travel to observed moments)",
+        "Shadow/time travel manipulation"
+      ]
+    },
+    {
+      "id": "yumar",
+      "name": "Yumar",
+      "aliases": [],
+      "firstAppearance": 187,
+      "appearances": 7,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Aura communication (writing on skin)",
+        "Aura music creation",
+        "Aura music/dance",
+        "Aura pushup demonstration",
+        "Aura voice blocking",
+        "Crisis management",
+        "Dream Appearance",
+        "Dream Appearance (multiple uses)",
+        "Emotion-through-movement technique",
+        "Flame Emperor character acting",
+        "Marketing manipulation",
+        "Marketing/promotion",
+        "Memory-based aura triggering",
+        "Opera singing (Ssonia)",
+        "Puppy eyes technique",
+        "Silent acting technique",
+        "Swi-Rak-Gur ancient language",
+        "Theater management",
+        "Theater-wide aura manipulation"
+      ]
+    },
+    {
+      "id": "yumar-one-armed-actor",
+      "name": "Yumar (one-armed actor)",
+      "aliases": [],
+      "firstAppearance": 186,
+      "appearances": 1,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "Aura flame projection",
+        "Person Possession (purchased)"
+      ]
+    },
+    {
+      "id": "zombie",
+      "name": "Zombie",
+      "aliases": [],
+      "firstAppearance": 242,
+      "appearances": 32,
+      "deaths": 0,
+      "status": "unknown",
+      "skills": [
+        "    .",
+        "   invites you to faith.",
+        "   is your constellation.",
+        " You are entering the 100th floor. ",
+        "1. Would you like to first acquire the skill of the enemy that killed you?",
+        "2. Would you like to first materialize the trauma of the enemy that killed you?",
+        "99th floor is cleared. ",
+        "A Member of the Magic Tower",
+        "A Music Box Only for You",
+        "A Music Box Only for You acknowledges this as a magnificent sight.",
+        "A Music Box Only for You activates its skill.",
+        "A Music Box Only for You answers out of context that it really likes snake liquor.",
+        "A Music Box Only for You assigns you a quest.",
+        "A Music Box Only for You becomes enraged.",
+        "A Music Box Only for You breaks its savings account.",
+        "A Music Box Only for You deeply contemplates the sound of a foxs cry.",
+        "A Music Box Only for You immediately jumps into the auction for the 66th floor stage!",
+        "A Music Box Only for You is the Constellation that rules over the 61st floor.",
+        "A Music Box Only for You manifests its power.",
+        "A Music Box Only for You places a bid!"
+      ]
+    }
+  ]
+}

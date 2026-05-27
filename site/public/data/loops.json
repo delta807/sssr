@@ -1,0 +1,1524 @@
+{
+  "loops": [
+    {
+      "id": "loop-1",
+      "name": "Kim dies and copies Flame Emperor's regression skill",
+      "startChapter": 3,
+      "endChapter": 3,
+      "description": "Kim dies and copies Flame Emperor's regression skill",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-2",
+      "name": "Kim returns 24 hours prior to his death",
+      "startChapter": 4,
+      "endChapter": 4,
+      "description": "Kim returns 24 hours prior to his death",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-3",
+      "name": "4091 time loops via suicide, each sending Kim 24 hours back",
+      "startChapter": 5,
+      "endChapter": 5,
+      "description": "4091 time loops via suicide, each sending Kim 24 hours back",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-4",
+      "name": "Kim returns 24 hours prior",
+      "startChapter": 9,
+      "endChapter": 9,
+      "description": "Kim returns 24 hours prior",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-5",
+      "name": "Kim Gong-ja reveals he used 6 Coins (6 deaths) to defeat King Goblin",
+      "startChapter": 16,
+      "endChapter": 16,
+      "description": "Kim Gong-ja reveals he used 6 Coins (6 deaths) to defeat King Goblin",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-6",
+      "name": "Bets Bae Hu-ryeong he can clear 10th floor boss in 2 Coins",
+      "startChapter": 16,
+      "endChapter": 16,
+      "description": "Bets Bae Hu-ryeong he can clear 10th floor boss in 2 Coins",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-7",
+      "name": "Kim Gong-ja's first death to Hellfire Maiden triggers skill copy and regression",
+      "startChapter": 16,
+      "endChapter": 16,
+      "description": "Kim Gong-ja's first death to Hellfire Maiden triggers skill copy and regression",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-8",
+      "name": "Kim Gong-ja dies and returns 24 hours before",
+      "startChapter": 17,
+      "endChapter": 17,
+      "description": "Kim Gong-ja dies and returns 24 hours before",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-9",
+      "name": "Used 1 Coin out of 2 bet with Bae Hu-ryeong",
+      "startChapter": 17,
+      "endChapter": 17,
+      "description": "Used 1 Coin out of 2 bet with Bae Hu-ryeong",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-10",
+      "name": "Kim Gong-ja returns 24 hours before after dying and viewing trauma",
+      "startChapter": 18,
+      "endChapter": 18,
+      "description": "Kim Gong-ja returns 24 hours before after dying and viewing trauma",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-11",
+      "name": "Uses fire immunity skill to survive hellfire in next attempt",
+      "startChapter": 18,
+      "endChapter": 18,
+      "description": "Uses fire immunity skill to survive hellfire in next attempt",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-12",
+      "name": "11th floor opens in 24 hours",
+      "startChapter": 19,
+      "endChapter": 19,
+      "description": "11th floor opens in 24 hours",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-13",
+      "name": "Kim Gong-ja's achievement changes timeline from original",
+      "startChapter": 19,
+      "endChapter": 19,
+      "description": "Kim Gong-ja's achievement changes timeline from original",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-14",
+      "name": "Kim Gong-ja dies to copy NPC skill, returns 24 hours before",
+      "startChapter": 24,
+      "endChapter": 24,
+      "description": "Kim Gong-ja dies to copy NPC skill, returns 24 hours before",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-15",
+      "name": "Uses copied skill and minimap to efficiently clear 11th floor",
+      "startChapter": 24,
+      "endChapter": 24,
+      "description": "Uses copied skill and minimap to efficiently clear 11th floor",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-16",
+      "name": "Kim Gong-ja dies and returns 24 hours before",
+      "startChapter": 35,
+      "endChapter": 35,
+      "description": "Kim Gong-ja dies and returns 24 hours before",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-17",
+      "name": "Plans to use copied Devil King skills against him",
+      "startChapter": 35,
+      "endChapter": 35,
+      "description": "Plans to use copied Devil King skills against him",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-18",
+      "name": "Kim Gong-ja returns 24 hours before to prepare",
+      "startChapter": 36,
+      "endChapter": 36,
+      "description": "Kim Gong-ja returns 24 hours before to prepare",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-19",
+      "name": "Uses knowledge of future to change strategy",
+      "startChapter": 36,
+      "endChapter": 36,
+      "description": "Uses knowledge of future to change strategy",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-20",
+      "name": "Plans to prevent guild conflict and Count's death",
+      "startChapter": 36,
+      "endChapter": 36,
+      "description": "Plans to prevent guild conflict and Count's death",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-21",
+      "name": "Kim Gong-ja commits suicide repeatedly to return 24 hours",
+      "startChapter": 37,
+      "endChapter": 37,
+      "description": "Kim Gong-ja commits suicide repeatedly to return 24 hours",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-22",
+      "name": "Uses future knowledge to predict Sword Saint's test",
+      "startChapter": 37,
+      "endChapter": 37,
+      "description": "Uses future knowledge to predict Sword Saint's test",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-23",
+      "name": "Proves prophecy by knowing Sword Saint's finger count test",
+      "startChapter": 37,
+      "endChapter": 37,
+      "description": "Proves prophecy by knowing Sword Saint's finger count test",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-24",
+      "name": "Kim Gong-ja uses future knowledge to optimize 11th floor clear",
+      "startChapter": 38,
+      "endChapter": 38,
+      "description": "Kim Gong-ja uses future knowledge to optimize 11th floor clear",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-25",
+      "name": "Prevents guild conflict by asking them to wait 5 days",
+      "startChapter": 38,
+      "endChapter": 38,
+      "description": "Prevents guild conflict by asking them to wait 5 days",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-26",
+      "name": "Kim Gong-ja returns to past with knowledge of Devil King's patterns",
+      "startChapter": 39,
+      "endChapter": 39,
+      "description": "Kim Gong-ja returns to past with knowledge of Devil King's patterns",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-27",
+      "name": "Plans to kill Devil King in paused world before quest triggers",
+      "startChapter": 39,
+      "endChapter": 39,
+      "description": "Plans to kill Devil King in paused world before quest triggers",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-28",
+      "name": "Kim Gong-ja dies and returns 24 hours before each time",
+      "startChapter": 40,
+      "endChapter": 40,
+      "description": "Kim Gong-ja dies and returns 24 hours before each time",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-29",
+      "name": "Accumulates combat experience across hundreds of deaths",
+      "startChapter": 40,
+      "endChapter": 40,
+      "description": "Accumulates combat experience across hundreds of deaths",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-30",
+      "name": "Uses marker to track days/deaths",
+      "startChapter": 40,
+      "endChapter": 40,
+      "description": "Uses marker to track days/deaths",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-31",
+      "name": "Kim Gong-ja dies and returns 24 hours before",
+      "startChapter": 45,
+      "endChapter": 45,
+      "description": "Kim Gong-ja dies and returns 24 hours before",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-32",
+      "name": "Re-fights each floor with improved tactics",
+      "startChapter": 45,
+      "endChapter": 45,
+      "description": "Re-fights each floor with improved tactics",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-33",
+      "name": "Death King loops back 24 hours after viewing Lefanta Aegim's trauma",
+      "startChapter": 63,
+      "endChapter": 63,
+      "description": "Death King loops back 24 hours after viewing Lefanta Aegim's trauma",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-34",
+      "name": "Death King dies and regresses 24 hours",
+      "startChapter": 72,
+      "endChapter": 72,
+      "description": "Death King dies and regresses 24 hours",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-35",
+      "name": "Death King loops back 24 hours after first death",
+      "startChapter": 73,
+      "endChapter": 73,
+      "description": "Death King loops back 24 hours after first death",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-36",
+      "name": "Death King loops back 8 more days through repeated suicide to reach day 1",
+      "startChapter": 73,
+      "endChapter": 73,
+      "description": "Death King loops back 8 more days through repeated suicide to reach day 1",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-37",
+      "name": "Death King loops back 24 hours after dying in pit",
+      "startChapter": 76,
+      "endChapter": 76,
+      "description": "Death King loops back 24 hours after dying in pit",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-38",
+      "name": "Multiple 24-hour loops to experience all 112 deaths",
+      "startChapter": 78,
+      "endChapter": 78,
+      "description": "Multiple 24-hour loops to experience all 112 deaths",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-39",
+      "name": "Death King loops back after dying to thirst-zombie",
+      "startChapter": 79,
+      "endChapter": 79,
+      "description": "Death King loops back after dying to thirst-zombie",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-40",
+      "name": "Death King regresses to before the attack team decision",
+      "startChapter": 92,
+      "endChapter": 92,
+      "description": "Death King regresses to before the attack team decision",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-41",
+      "name": "Both regress - but Lady of Silver Lily goes back 9 days before Gongja",
+      "startChapter": 107,
+      "endChapter": 107,
+      "description": "Both regress - but Lady of Silver Lily goes back 9 days before Gongja",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-42",
+      "name": "Multiple synchronized regressions: 9 days, 8 days, 7 days... down to Day One",
+      "startChapter": 108,
+      "endChapter": 108,
+      "description": "Multiple synchronized regressions: 9 days, 8 days, 7 days... down to Day One",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-43",
+      "name": "Final regression to Day One in the ballroom",
+      "startChapter": 108,
+      "endChapter": 108,
+      "description": "Final regression to Day One in the ballroom",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-44",
+      "name": "They regress each day to repeat their vacation",
+      "startChapter": 110,
+      "endChapter": 110,
+      "description": "They regress each day to repeat their vacation",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-45",
+      "name": "15 days of vacation through daily regressions",
+      "startChapter": 110,
+      "endChapter": 110,
+      "description": "15 days of vacation through daily regressions",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-46",
+      "name": "Final planned regression from butler's perspective",
+      "startChapter": 111,
+      "endChapter": 111,
+      "description": "Final planned regression from butler's perspective",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-47",
+      "name": "Failed judgment: System cannot determine which timeline to regress to",
+      "startChapter": 112,
+      "endChapter": 112,
+      "description": "Failed judgment: System cannot determine which timeline to regress to",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-48",
+      "name": "Raviel's 14th session of 10-day loops",
+      "startChapter": 114,
+      "endChapter": 114,
+      "description": "Raviel's 14th session of 10-day loops",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-49",
+      "name": "Gongja regresses to 24 hours ago from butler's perspective",
+      "startChapter": 115,
+      "endChapter": 115,
+      "description": "Gongja regresses to 24 hours ago from butler's perspective",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-50",
+      "name": "Raviel retains memories through the [A Regressor's Love] skill",
+      "startChapter": 115,
+      "endChapter": 115,
+      "description": "Raviel retains memories through the [A Regressor's Love] skill",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-51",
+      "name": "Synchronized death and regression back 24 hours",
+      "startChapter": 119,
+      "endChapter": 119,
+      "description": "Synchronized death and regression back 24 hours",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-52",
+      "name": "Second attempt at wedding battle with foreknowledge",
+      "startChapter": 120,
+      "endChapter": 120,
+      "description": "Second attempt at wedding battle with foreknowledge",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-53",
+      "name": "Three regressions revealed: Sylvia's wish to Ox that Harvests Ruins",
+      "startChapter": 122,
+      "endChapter": 122,
+      "description": "Three regressions revealed: Sylvia's wish to Ox that Harvests Ruins",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-54",
+      "name": "Butler's wish to unknown Constellation",
+      "startChapter": 122,
+      "endChapter": 122,
+      "description": "Butler's wish to unknown Constellation",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-55",
+      "name": "Raviel's wish to Guardian Goddess fragment causing 10-day time loop",
+      "startChapter": 122,
+      "endChapter": 122,
+      "description": "Raviel's wish to Guardian Goddess fragment causing 10-day time loop",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-56",
+      "name": "Trauma world repeats",
+      "startChapter": 136,
+      "endChapter": 136,
+      "description": "Trauma world repeats",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-57",
+      "name": "Trauma repeats multiple times - time loops back to dismissal bell",
+      "startChapter": 137,
+      "endChapter": 137,
+      "description": "Trauma repeats multiple times - time loops back to dismissal bell",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-58",
+      "name": "24-hour regression after killing Constellation Killer",
+      "startChapter": 142,
+      "endChapter": 142,
+      "description": "24-hour regression after killing Constellation Killer",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-59",
+      "name": "Death King considers using time regression but decides against it after Bae Hu-ryeong's advice",
+      "startChapter": 165,
+      "endChapter": 165,
+      "description": "Death King considers using time regression but decides against it after Bae Hu-ryeong's advice",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-60",
+      "name": "Death by Ja Soo-jung's hand triggers trauma manifestation",
+      "startChapter": 214,
+      "endChapter": 214,
+      "description": "Death by Ja Soo-jung's hand triggers trauma manifestation",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-61",
+      "name": "Kim Gong-ja has performed 4,000 days of regression",
+      "startChapter": 226,
+      "endChapter": 226,
+      "description": "Kim Gong-ja has performed 4,000 days of regression",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-62",
+      "name": "Ja Soo-jung's entire life consists of trauma/loops",
+      "startChapter": 226,
+      "endChapter": 226,
+      "description": "Ja Soo-jung's entire life consists of trauma/loops",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-63",
+      "name": "Ja Soo-jung has repeated her entire life countless times (billions of iterations)",
+      "startChapter": 227,
+      "endChapter": 227,
+      "description": "Ja Soo-jung has repeated her entire life countless times (billions of iterations)",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-64",
+      "name": "This is not Ja Soo-jung's first life",
+      "startChapter": 227,
+      "endChapter": 227,
+      "description": "This is not Ja Soo-jung's first life",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-65",
+      "name": "Kim Gong-ja opening the lock reveals a traumatic vision/memory of Yoo Soo-ha's past",
+      "startChapter": 228,
+      "endChapter": 228,
+      "description": "Kim Gong-ja opening the lock reveals a traumatic vision/memory of Yoo Soo-ha's past",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-66",
+      "name": "Yoo Soo-ha performs regression by killing himself to return 24 hours",
+      "startChapter": 233,
+      "endChapter": 233,
+      "description": "Yoo Soo-ha performs regression by killing himself to return 24 hours",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-67",
+      "name": "Kim Gong-ja went back 4,000 days in the past",
+      "startChapter": 233,
+      "endChapter": 233,
+      "description": "Kim Gong-ja went back 4,000 days in the past",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-68",
+      "name": "Butler prayed to Hamustra/Corner Librarian -> time was rewound to before Sylvia became Empress and Raviel was ruined",
+      "startChapter": 240,
+      "endChapter": 240,
+      "description": "Butler prayed to Hamustra/Corner Librarian -> time was rewound to before Sylvia became Empress and Raviel was ruined",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-69",
+      "name": "Without an insult, mockery, or farewell, she simply turned her back and went back to the ball.",
+      "startChapter": 241,
+      "endChapter": 241,
+      "description": "Without an insult, mockery, or farewell, she simply turned her back and went back to the ball.",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-70",
+      "name": "A regressor.",
+      "startChapter": 241,
+      "endChapter": 241,
+      "description": "A regressor.",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-71",
+      "name": "Neverendingly repeating the wounds of life.",
+      "startChapter": 241,
+      "endChapter": 241,
+      "description": "Neverendingly repeating the wounds of life.",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-72",
+      "name": "\"  Raviel went back to the chair and sat down.",
+      "startChapter": 241,
+      "endChapter": 241,
+      "description": "\"  Raviel went back to the chair and sat down.",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-73",
+      "name": "The incident Sylvia was talking about was what happened in her first life.",
+      "startChapter": 241,
+      "endChapter": 241,
+      "description": "The incident Sylvia was talking about was what happened in her first life.",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-74",
+      "name": "+  [Multiple Reincarnation Possession*](*: Previously 'Past Life Multiple Possession'.",
+      "startChapter": 252,
+      "endChapter": 252,
+      "description": "+  [Multiple Reincarnation Possession*](*: Previously 'Past Life Multiple Possession'.",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-75",
+      "name": "After all, aren't you the OG King of Foul Play who likes to pick at all the loopholes?",
+      "startChapter": 253,
+      "endChapter": 253,
+      "description": "After all, aren't you the OG King of Foul Play who likes to pick at all the loopholes?",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-76",
+      "name": "Before my regression, I had seen Yoo Soo-ha clear up to the 40th floor.",
+      "startChapter": 257,
+      "endChapter": 257,
+      "description": "Before my regression, I had seen Yoo Soo-ha clear up to the 40th floor.",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-77",
+      "name": "\"  \"This time when I went back to Babylon, I searched for all the heretic forces lurking within the Ten Thousand Temple.",
+      "startChapter": 258,
+      "endChapter": 258,
+      "description": "\"  \"This time when I went back to Babylon, I searched for all the heretic forces lurking within the Ten Thousand Temple.",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-78",
+      "name": "\"  \"Kim Gong-ja, you have a regression skill.",
+      "startChapter": 260,
+      "endChapter": 260,
+      "description": "\"  \"Kim Gong-ja, you have a regression skill.",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-79",
+      "name": "\"  On the day I revealed that I was a regressor, Anastasia had said.",
+      "startChapter": 260,
+      "endChapter": 260,
+      "description": "\"  On the day I revealed that I was a regressor, Anastasia had said.",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-80",
+      "name": "'Compared to before my regression.",
+      "startChapter": 262,
+      "endChapter": 262,
+      "description": "'Compared to before my regression.",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-81",
+      "name": "So even before my regression and after my regression, the last stage humanity had stepped onto was the 40th Floor.",
+      "startChapter": 265,
+      "endChapter": 265,
+      "description": "So even before my regression and after my regression, the last stage humanity had stepped onto was the 40th Floor.",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-82",
+      "name": "\"  -Eh…  \"Nevertheless, sometimes, there is garbage that can be recycled.",
+      "startChapter": 269,
+      "endChapter": 269,
+      "description": "\"  -Eh…  \"Nevertheless, sometimes, there is garbage that can be recycled.",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-83",
+      "name": "\"  -Eh…  \"Nevertheless, sometimes, there is garbage that can be recycled.",
+      "startChapter": 270,
+      "endChapter": 270,
+      "description": "\"  -Eh…  \"Nevertheless, sometimes, there is garbage that can be recycled.",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-84",
+      "name": "If the elves before my regression were fanatics of the Flame Emperor, the elves of this life were fanatics of mammonism.",
+      "startChapter": 271,
+      "endChapter": 271,
+      "description": "If the elves before my regression were fanatics of the Flame Emperor, the elves of this life were fanatics of mammonism.",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-85",
+      "name": "\"  And praise for the undistorted cycle.",
+      "startChapter": 271,
+      "endChapter": 271,
+      "description": "\"  And praise for the undistorted cycle.",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-86",
+      "name": "Even our tower, when the Black Dragon Master was the second in the the tower rankings, before my regression, didnt we consider the tower as some kind of [game]?",
+      "startChapter": 275,
+      "endChapter": 275,
+      "description": "Even our tower, when the Black Dragon Master was the second in the the tower rankings, before my regression, didnt we consider the tower as some kind of [game]?",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-87",
+      "name": "The highest floor reached in the world before the regression the 40th floor had already been surpassed.",
+      "startChapter": 275,
+      "endChapter": 275,
+      "description": "The highest floor reached in the world before the regression the 40th floor had already been surpassed.",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-88",
+      "name": "I remembered the phrase that kept repeating: [You have died].",
+      "startChapter": 276,
+      "endChapter": 276,
+      "description": "I remembered the phrase that kept repeating: [You have died].",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-89",
+      "name": "I had each group alternately check the security, and promised to cut the budget of any group that found a loophole in half.",
+      "startChapter": 289,
+      "endChapter": 289,
+      "description": "I had each group alternately check the security, and promised to cut the budget of any group that found a loophole in half.",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-90",
+      "name": "Disappointed, worst ever, I dont know what sins my ears committed in a past life to deserve a performance like yesterdays  a salad of curses and contempt lay there.",
+      "startChapter": 292,
+      "endChapter": 292,
+      "description": "Disappointed, worst ever, I dont know what sins my ears committed in a past life to deserve a performance like yesterdays  a salad of curses and contempt lay there.",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-91",
+      "name": "Both look delicious, which is a big problem  The Jester, unaware that I had returned to the past, just looked at me blankly.",
+      "startChapter": 304,
+      "endChapter": 304,
+      "description": "Both look delicious, which is a big problem  The Jester, unaware that I had returned to the past, just looked at me blankly.",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-92",
+      "name": "In a timeline devoured by regression, I had exploited this unwritten rule before.",
+      "startChapter": 307,
+      "endChapter": 307,
+      "description": "In a timeline devoured by regression, I had exploited this unwritten rule before.",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-93",
+      "name": "Had it been before the regression, I too would have forgotten the memory of just now.",
+      "startChapter": 327,
+      "endChapter": 327,
+      "description": "Had it been before the regression, I too would have forgotten the memory of just now.",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-94",
+      "name": "Regression.",
+      "startChapter": 331,
+      "endChapter": 331,
+      "description": "Regression.",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-95",
+      "name": "The fact that Raviel escaped from a future where she became the empress, returned to the past, and where Sylvia captured the princes heart while posing as a mere barons daughter, was [already] a life recreated.",
+      "startChapter": 331,
+      "endChapter": 331,
+      "description": "The fact that Raviel escaped from a future where she became the empress, returned to the past, and where Sylvia captured the princes heart while posing as a mere barons daughter, was [already] a life recreated.",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-96",
+      "name": "Mutia, the constellation who governs time and regression, knows everything about what kind of human I was before I entered the 4000 days of nirvana- my entire history.",
+      "startChapter": 332,
+      "endChapter": 332,
+      "description": "Mutia, the constellation who governs time and regression, knows everything about what kind of human I was before I entered the 4000 days of nirvana- my entire history.",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-97",
+      "name": "It read the [story] of me as a human and figured out my regression.",
+      "startChapter": 332,
+      "endChapter": 332,
+      "description": "It read the [story] of me as a human and figured out my regression.",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-98",
+      "name": "Because Mutia himself is a god dealing with time and regression?",
+      "startChapter": 332,
+      "endChapter": 332,
+      "description": "Because Mutia himself is a god dealing with time and regression?",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-99",
+      "name": "But what if your life, from the very beginning, was ruined by another regressor!",
+      "startChapter": 332,
+      "endChapter": 332,
+      "description": "But what if your life, from the very beginning, was ruined by another regressor!",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-100",
+      "name": "Like a grain of sand jamming well-functioning gears, my life gradually changed due to the regressor named the Flame Emperor.",
+      "startChapter": 332,
+      "endChapter": 332,
+      "description": "Like a grain of sand jamming well-functioning gears, my life gradually changed due to the regressor named the Flame Emperor.",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-101",
+      "name": "When the god overseeing regression rules the world, the ending is an inevitable stop.",
+      "startChapter": 333,
+      "endChapter": 333,
+      "description": "When the god overseeing regression rules the world, the ending is an inevitable stop.",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-102",
+      "name": "It has strict conditions, but it does contain the power of regression.",
+      "startChapter": 333,
+      "endChapter": 333,
+      "description": "It has strict conditions, but it does contain the power of regression.",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-103",
+      "name": "For me, who possesses a regression skill, Mutia, [The Constellation of Regression], kneeling is like a general admitting defeat to another general, a musician conceding to another musician, acknowledging my superiority within the same realm.",
+      "startChapter": 334,
+      "endChapter": 334,
+      "description": "For me, who possesses a regression skill, Mutia, [The Constellation of Regression], kneeling is like a general admitting defeat to another general, a musician conceding to another musician, acknowledging my superiority within the same realm.",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-104",
+      "name": "The very skill of regression you possess was created by none other than me and Hishmith Kritz.",
+      "startChapter": 334,
+      "endChapter": 334,
+      "description": "The very skill of regression you possess was created by none other than me and Hishmith Kritz.",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-105",
+      "name": "One day, the Lady came to me and said, she wanted to make a regression skill and asked if it was okay.",
+      "startChapter": 335,
+      "endChapter": 335,
+      "description": "One day, the Lady came to me and said, she wanted to make a regression skill and asked if it was okay.",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-106",
+      "name": "Since regression is my domain, she needed my permission first.",
+      "startChapter": 335,
+      "endChapter": 335,
+      "description": "Since regression is my domain, she needed my permission first.",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-107",
+      "name": "Regression should be exclusive.",
+      "startChapter": 335,
+      "endChapter": 335,
+      "description": "Regression should be exclusive.",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-108",
+      "name": "The value of regression lies in the fact that only I know that I have returned to the past.",
+      "startChapter": 335,
+      "endChapter": 335,
+      "description": "The value of regression lies in the fact that only I know that I have returned to the past.",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-109",
+      "name": "The moment someone else knows that time has been reversed, the value of regression, my power, plummets instantly!",
+      "startChapter": 335,
+      "endChapter": 335,
+      "description": "The moment someone else knows that time has been reversed, the value of regression, my power, plummets instantly!",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-110",
+      "name": "Even if Yoo Soo-ha had a regression skill, it would have been extremely difficult for him alone to overcome the Sword Saint.",
+      "startChapter": 337,
+      "endChapter": 337,
+      "description": "Even if Yoo Soo-ha had a regression skill, it would have been extremely difficult for him alone to overcome the Sword Saint.",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-111",
+      "name": "The regression of Mutia, the information of Hishmith Kritz, and what was it, all sorts of constellations I can hardly remember.",
+      "startChapter": 341,
+      "endChapter": 341,
+      "description": "The regression of Mutia, the information of Hishmith Kritz, and what was it, all sorts of constellations I can hardly remember.",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-112",
+      "name": "The simple cycle that repeats for eternity was the celestial body and object of this world.",
+      "startChapter": 344,
+      "endChapter": 344,
+      "description": "The simple cycle that repeats for eternity was the celestial body and object of this world.",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-113",
+      "name": "You caught the loophole in the spider web spun by the Tower Master.",
+      "startChapter": 344,
+      "endChapter": 344,
+      "description": "You caught the loophole in the spider web spun by the Tower Master.",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-114",
+      "name": "Though a soul that has forgotten its past life would not remember.",
+      "startChapter": 346,
+      "endChapter": 346,
+      "description": "Though a soul that has forgotten its past life would not remember.",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-115",
+      "name": "Your eyes are too bright, not like those of a soul that has forgotten its past life.",
+      "startChapter": 348,
+      "endChapter": 348,
+      "description": "Your eyes are too bright, not like those of a soul that has forgotten its past life.",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-116",
+      "name": "Whether its Musical Heaven or Golden Heaven, everyone who comes here forgets their previous life.",
+      "startChapter": 349,
+      "endChapter": 349,
+      "description": "Whether its Musical Heaven or Golden Heaven, everyone who comes here forgets their previous life.",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-117",
+      "name": "Not even a thing of the past but a secret buried in the cycles of time.",
+      "startChapter": 353,
+      "endChapter": 353,
+      "description": "Not even a thing of the past but a secret buried in the cycles of time.",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-118",
+      "name": "Even if it was my past life, its a life I cant remember.",
+      "startChapter": 356,
+      "endChapter": 356,
+      "description": "Even if it was my past life, its a life I cant remember.",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-119",
+      "name": "I swung my sword vertically up, then down again, repeating the action and layering aura over aura to create a massive wall.",
+      "startChapter": 357,
+      "endChapter": 357,
+      "description": "I swung my sword vertically up, then down again, repeating the action and layering aura over aura to create a massive wall.",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-120",
+      "name": "The warrior, who had been repeating the basic movements, paused.",
+      "startChapter": 358,
+      "endChapter": 358,
+      "description": "The warrior, who had been repeating the basic movements, paused.",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-121",
+      "name": "If you desire regression even more intensely than Mutia, you will be able to freely wield the Heart Sword in Mutias world.",
+      "startChapter": 359,
+      "endChapter": 359,
+      "description": "If you desire regression even more intensely than Mutia, you will be able to freely wield the Heart Sword in Mutias world.",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-122",
+      "name": "Even those who did not meet their fate in their previous life, here, they are bound to meet and be together forever  Theres no end.",
+      "startChapter": 362,
+      "endChapter": 362,
+      "description": "Even those who did not meet their fate in their previous life, here, they are bound to meet and be together forever  Theres no end.",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-123",
+      "name": "[A Regressors Love].",
+      "startChapter": 367,
+      "endChapter": 367,
+      "description": "[A Regressors Love].",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-124",
+      "name": "+  [A Regressors Love]  Rank: EX  Effect: To a regressor, love is like poison.",
+      "startChapter": 367,
+      "endChapter": 367,
+      "description": "+  [A Regressors Love]  Rank: EX  Effect: To a regressor, love is like poison.",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-125",
+      "name": "Thus, a certain regressor wished, Please protect my lovers memory.",
+      "startChapter": 367,
+      "endChapter": 367,
+      "description": "Thus, a certain regressor wished, Please protect my lovers memory.",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-126",
+      "name": "Ive linked the wedding ring with [A Regressors Love].",
+      "startChapter": 367,
+      "endChapter": 367,
+      "description": "Ive linked the wedding ring with [A Regressors Love].",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-127",
+      "name": "A Regressors Love (EX)  2.",
+      "startChapter": 367,
+      "endChapter": 367,
+      "description": "A Regressors Love (EX)  2.",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-128",
+      "name": "Compared to when I had first challenged the 10th floor, or even the future when I had decided on 4000 days of regression, Babylon Square was much more vibrant now.",
+      "startChapter": 368,
+      "endChapter": 368,
+      "description": "Compared to when I had first challenged the 10th floor, or even the future when I had decided on 4000 days of regression, Babylon Square was much more vibrant now.",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-129",
+      "name": "[A Regressors Love (EX) is activated.",
+      "startChapter": 371,
+      "endChapter": 371,
+      "description": "[A Regressors Love (EX) is activated.",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-130",
+      "name": "The message clearly stated that [A Regressors Love] had been activated.",
+      "startChapter": 371,
+      "endChapter": 371,
+      "description": "The message clearly stated that [A Regressors Love] had been activated.",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-131",
+      "name": "[A Regressors Love] is a skill that allows Raviel and me to share the exact same timeline.",
+      "startChapter": 371,
+      "endChapter": 371,
+      "description": "[A Regressors Love] is a skill that allows Raviel and me to share the exact same timeline.",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-132",
+      "name": "In short, as long as the skills [A Regressors Love] and [Returners Clockwork Watch] are functioning, we will never face a complete death.",
+      "startChapter": 371,
+      "endChapter": 371,
+      "description": "In short, as long as the skills [A Regressors Love] and [Returners Clockwork Watch] are functioning, we will never face a complete death.",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-133",
+      "name": "In reality, Raviel and I had been playing around repeating the same day for about two weeks.",
+      "startChapter": 373,
+      "endChapter": 373,
+      "description": "In reality, Raviel and I had been playing around repeating the same day for about two weeks.",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-134",
+      "name": "Sylvia was also a regressor.",
+      "startChapter": 373,
+      "endChapter": 373,
+      "description": "Sylvia was also a regressor.",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-135",
+      "name": "[A Regressors Love (EX) activates.",
+      "startChapter": 378,
+      "endChapter": 378,
+      "description": "[A Regressors Love (EX) activates.",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-136",
+      "name": "My friends looked at me as if I were strange, but eventually went back to their chatter as if it were just another day.",
+      "startChapter": 378,
+      "endChapter": 378,
+      "description": "My friends looked at me as if I were strange, but eventually went back to their chatter as if it were just another day.",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-137",
+      "name": "Count nodded with an Ah-ha, and Black Dragon Master sighed with a Aaaah  Since I had revealed to these colleagues that I was a regressor, they understood quickly.",
+      "startChapter": 379,
+      "endChapter": 379,
+      "description": "Count nodded with an Ah-ha, and Black Dragon Master sighed with a Aaaah  Since I had revealed to these colleagues that I was a regressor, they understood quickly.",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-138",
+      "name": "I am a regressor.",
+      "startChapter": 380,
+      "endChapter": 380,
+      "description": "I am a regressor.",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-139",
+      "name": "A regressor?",
+      "startChapter": 380,
+      "endChapter": 380,
+      "description": "A regressor?",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-140",
+      "name": "\"  I went back and forth between Constellation Killer's sanctuary and the 81st floor, gathering fragments of the sunset.",
+      "startChapter": 382,
+      "endChapter": 382,
+      "description": "\"  I went back and forth between Constellation Killer's sanctuary and the 81st floor, gathering fragments of the sunset.",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-141",
+      "name": "It rose as high as the wave hills allowed before sliding down smoothly, repeating the process.",
+      "startChapter": 383,
+      "endChapter": 383,
+      "description": "It rose as high as the wave hills allowed before sliding down smoothly, repeating the process.",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-142",
+      "name": "This way, floors one to 49 form one cycle.",
+      "startChapter": 387,
+      "endChapter": 387,
+      "description": "This way, floors one to 49 form one cycle.",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-143",
+      "name": "And then, the next step is to repeat this cycle on a deeper level.",
+      "startChapter": 387,
+      "endChapter": 387,
+      "description": "And then, the next step is to repeat this cycle on a deeper level.",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-144",
+      "name": "\"From this cycle onward, a more aggressive meaning is added.",
+      "startChapter": 387,
+      "endChapter": 387,
+      "description": "\"From this cycle onward, a more aggressive meaning is added.",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-145",
+      "name": "]  I remember him repeating that.",
+      "startChapter": 389,
+      "endChapter": 389,
+      "description": "]  I remember him repeating that.",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-146",
+      "name": "Even the Flame Emperor before his regression was undoubtedly a capable person.",
+      "startChapter": 390,
+      "endChapter": 390,
+      "description": "Even the Flame Emperor before his regression was undoubtedly a capable person.",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-147",
+      "name": "+  [Regressors' Harvester]  Rarity: World-class  Creator: The Ox that Harvests Ruins  Description: A sword of obsession forged from her own horns by The Ox that Harvests Ruins.",
+      "startChapter": 393,
+      "endChapter": 393,
+      "description": "+  [Regressors' Harvester]  Rarity: World-class  Creator: The Ox that Harvests Ruins  Description: A sword of obsession forged from her own horns by The Ox that Harvests Ruins.",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-148",
+      "name": "It might as well be called [The Absolute Regressor-Killing Missile]….",
+      "startChapter": 393,
+      "endChapter": 393,
+      "description": "It might as well be called [The Absolute Regressor-Killing Missile]….",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-149",
+      "name": "With a booming sound, the sword [Regressors' Harvester] that Mutia had just forged split into two.",
+      "startChapter": 393,
+      "endChapter": 393,
+      "description": "With a booming sound, the sword [Regressors' Harvester] that Mutia had just forged split into two.",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-150",
+      "name": "<In my past life, I lived for others and was betrayed.",
+      "startChapter": 395,
+      "endChapter": 395,
+      "description": "<In my past life, I lived for others and was betrayed.",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-151",
+      "name": "It's a continuous cycle.",
+      "startChapter": 400,
+      "endChapter": 400,
+      "description": "It's a continuous cycle.",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    },
+    {
+      "id": "loop-152",
+      "name": "To those who can't travel through time, a regressor must seem like a monster.",
+      "startChapter": 400,
+      "endChapter": 400,
+      "description": "To those who can't travel through time, a regressor must seem like a monster.",
+      "type": "regression",
+      "deaths": [],
+      "keyEvents": []
+    }
+  ]
+}
