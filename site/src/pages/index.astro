@@ -92,9 +92,10 @@ import Layout from '../layouts/Layout.astro';
         try {
             // Load all chapter JSON files
             const chapters = [];
-            for (let i = 1; i <= 15; i++) {
+            const basePath = '/sssr';
+            for (let i = 1; i <= 404; i++) {
                 try {
-                    const response = await fetch(`/data/chapter-${String(i).padStart(3, '0')}.json`);
+                    const response = await fetch(`${basePath}/data/chapter-${String(i).padStart(3, '0')}.json`);
                     if (response.ok) {
                         const data = await response.json();
                         chapters.push(data);
